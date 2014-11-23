@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Plante !
+Commentaire: GT-I9300, rom CM11 4.4.4. L'appli plante à l'ouverture et fonctionnait en kitkat 4.4.2. Une mise à jour serait sympa. L'appli CGR fonctionne ;-) Alors je ne devrais pas être inquiet, Gaumont-Pathé devrait vite réagir :-)
+DateCommentaire:18 juillet 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Super mais !!
+Commentaire:Très bien . Le seule défaut du jeux c'est qu'il est est en retard 😆
+DateCommentaire:31 octobre 2014
+NoteCommentaire:5

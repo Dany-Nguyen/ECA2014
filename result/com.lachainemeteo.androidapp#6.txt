@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Petit problème...
+Commentaire: Impossible d'installer sur mon nouveau smartphone modèle téléphone p10 sous Android 4.4.2 kitkat. Il me dit qu'elle est incomparable. Merci d'avance pour votre réponse.
+DateCommentaire:27 août 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Dmg
+Commentaire: Cest en noir et blanc, vs ne connaissez pas des appli pr avoir des Smiley en couleurs sur snap etc.. ?
+DateCommentaire:20 octobre 2014
+NoteCommentaire:3

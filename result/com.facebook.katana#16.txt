@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:our un début pas mal espérons que ça ne bug pas au bout de un moment comme tant d'autres autres
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

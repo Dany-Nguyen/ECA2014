@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:
+Commentaire:pplication merveilleuses on peut revoir les math revoir les essais sous plusieurs angle sur je m ai 9
+DateCommentaire:7 mai 2014
+NoteCommentaire:5

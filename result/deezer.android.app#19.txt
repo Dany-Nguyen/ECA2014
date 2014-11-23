@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Gros gros bug!
+Commentaire: L'application me fait carrement planter mon note 3! Obligé de l'eteindre et de le rallumer a chaque fois..
+DateCommentaire:27 octobre 2014
+NoteCommentaire:2

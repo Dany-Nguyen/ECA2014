@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Bonne appli
+Commentaire: Bonne appli elle est tres utils quand en veut pas allumé son ordi
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

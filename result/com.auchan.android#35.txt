@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:
+Commentaire:Depuis la maj inutilisable. L'application s'arrête constamment. Avant c'était très bien mais malheureusement on ne peux plus l'utiliser.
+DateCommentaire:30 septembre 2014
+NoteCommentaire:2

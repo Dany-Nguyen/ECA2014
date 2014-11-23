@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Cool mais...
+Commentaire:J'aime beaucoup cette application, le seul problème est que quand je veux mettre une vidéo de ma galerie sa marche 1 fois sur 100 ! Donc vite corriger ce problème qui est très ennuyeux.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:3

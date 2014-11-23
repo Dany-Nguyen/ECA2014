@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Le classement prévisionnel est bloqué par ordre alphabétique
+Commentaire:Impossible de le faire bouger
+DateCommentaire:30 août 2014
+NoteCommentaire:3

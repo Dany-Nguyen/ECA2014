@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Des erreurs de conception
+Commentaire: Quand on est dans les résultats de recherche et que l'on sort de l'application (pour lire un sms), l'application redémarre (écran de chargement), c'est super pénible !! D'autant plus pénible que la zone géographique n'est pas conservée, il faut la resaisir à chaque lancement de l'application...
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

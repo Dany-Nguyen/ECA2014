@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Bien
+Commentaire:Dommage que,il faut un copte canal plus pour revoir les match
+DateCommentaire:17 janvier 2014
+NoteCommentaire:4

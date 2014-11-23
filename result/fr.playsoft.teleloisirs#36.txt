@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Cool mais
+Commentaire: En fait l'appli est super mais j'aimerais bien savoir l'heure ou le film se fini (en fin le film , l'émission ect...)
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

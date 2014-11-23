@@ -1,0 +1,9 @@
+NomApplication:Drôle SMS sonneries & Sons
+IdApplication:com.bestringtonesapps.funnysmsringtonesandsounds
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:13 138
+TitreCommentaire:Formidable
+Commentaire: L'essayer c'est l'approuver. Rend complètement ringards les applications par défaut des opérateurs et fabricants
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

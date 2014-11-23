@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:
+Commentaire:uper application toujours au top même si la concurrence gratuite arrive fort ce qui vous obligera sûrement à une politique tarifaire plus agressive. Continuez.
+DateCommentaire:19 septembre 2014
+NoteCommentaire:5

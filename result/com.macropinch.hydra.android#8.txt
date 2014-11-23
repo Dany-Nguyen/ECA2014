@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Nul
+Commentaire: C'est de la pure M**** cette application ne fonctionne même pas elle mérite même pas une étoile je desinstalle
+DateCommentaire:5 novembre 2014
+NoteCommentaire:1

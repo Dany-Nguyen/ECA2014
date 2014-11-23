@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:15 semaines de pur plaisir ;)
+Commentaire: Avis personnel, j'ai adorer, certe il serait encore mieux d'avoir les étirements et échauffement en conseil avant/après mais si on n'est un minimum volontaire on peut faire sa a son initiative !! Je vous le conseil fortement l'application s'adapte a TOUT le monde et si on s'y colle pendent 15 semaine les résulta sont la :) #trèssatisfait #conseiller
+DateCommentaire:17 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:
+Commentaire:Vraiment studio ! :D
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

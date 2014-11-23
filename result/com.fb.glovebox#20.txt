@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Excellent
+Commentaire: C'est peut-être la meilleure dans son genre. C'est joli, ergonomique et très personnalisable. Et j'ai pris la version complète pour profiter de toutes les fonctions. Mais j'ai tout de même trouvé un défaut : on peut appliquer nos packs d'icônes mais le masquage des icônes qui ne sont pas fait dans le pack n'apparaissent pas, on a des croix à la place (j'espère m'être fait comprendre). C'est bien gênant puisque du coup on ne peut pas appliquer nos packs d'icônes :-( , dommage.
+DateCommentaire:3 mai 2014
+NoteCommentaire:4

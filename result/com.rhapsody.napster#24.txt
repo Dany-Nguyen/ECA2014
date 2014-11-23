@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Bug
+Commentaire: Ça plante, ça plante, et ça replante!! Lorsque j'écoute une chanson ou bien que je mets le morceau suivant, l'appli se ferme toute seule... et à chaque fois! Un mode aléatoire qui lit toujours les mêmes chansons voire plusieurs fois... Des morceaux téléchargés qui ne le sont plus ensuite... C'est bien dommage pour une option en illimité :/
+DateCommentaire:27 octobre 2014
+NoteCommentaire:2

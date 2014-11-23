@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Impossible de mettre a jour via mobile
+Commentaire:Impossible de faire des mise à jour via mobile, seulement sur PC. Appli à revoir
+DateCommentaire:30 octobre 2014
+NoteCommentaire:2

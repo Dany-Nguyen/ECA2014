@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Franchement déçu
+Commentaire: Le mois dernier j'avais testé le service et commencé à regarder breaking bad. On est le 15/09/14 je me reabonne et paf, plus de breaking bad. Tant pis je vais tester Netflix
+DateCommentaire:15 septembre 2014
+NoteCommentaire:1

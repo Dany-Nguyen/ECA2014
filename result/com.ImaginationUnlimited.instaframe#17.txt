@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Cool
+Commentaire: J'aime bien y a plein d'options seul bémol c qu'on peut pas mettre notre montage en fond d'écran ni l'enregistrer dans la galerie (sauf capture d'écran). Mais sinon super !!!
+DateCommentaire:19 septembre 2014
+NoteCommentaire:4

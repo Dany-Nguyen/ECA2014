@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:as très pratique a utiliser. Pas complet. Alertes ne fonctionne pas toujours.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

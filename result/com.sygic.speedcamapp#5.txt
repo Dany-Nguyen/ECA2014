@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:
+Commentaire:Juste efficace ! Bravo aux développeurs !!
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

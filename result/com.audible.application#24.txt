@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:
+Commentaire:J'aime "écouter" des livres 😉
+DateCommentaire:1 septembre 2014
+NoteCommentaire:4

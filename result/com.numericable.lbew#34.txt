@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Enervant
+Commentaire: La version d avant n'était déjà pas terrible mais depuis la nouvelle mouture c'est pire , bugue sans arrêt
+DateCommentaire:26 octobre 2014
+NoteCommentaire:2

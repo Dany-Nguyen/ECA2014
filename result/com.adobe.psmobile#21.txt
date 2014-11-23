@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Déçu
+Commentaire: J'avais acheté le version touch pour mon galaxy note 3 et bien 8€ perdu car l'application n'ai pas compatible avec mon galaxy note 4 et cette version express est nul vu qu'elle plante à chaque fois que j'ouvre une photo .j'aimerais pouvoir retrouver mon photoshop touch sur mon note 4 car si je l'ai payé c'est que j'en avais l'utilité
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

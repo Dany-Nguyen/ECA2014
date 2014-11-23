@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Très déçue
+Commentaire: Maj faite à l'instant et impossible d'ouvrir l'appli "showroom s'est arrêté"... je crois que je vais désinstaller ...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

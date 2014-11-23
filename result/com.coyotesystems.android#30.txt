@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Très bien
+Commentaire:Application très bien rentabilisé depuis l'achat... par contre depuis la dernière mise à jour l'application me dit que sa ne trouve pas le gps :-( alors que toutes les autres applications fonctionne très bien... merci de régler ça au plus vite icoyote. Samsung galaxy s3 4g
+DateCommentaire:27 septembre 2014
+NoteCommentaire:3

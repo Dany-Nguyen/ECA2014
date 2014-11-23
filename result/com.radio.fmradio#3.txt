@@ -1,0 +1,9 @@
+NomApplication:Radio FM
+IdApplication:com.radio.fmradio
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:103 554
+TitreCommentaire:Bof
+Commentaire: Tout est lié au net, donc en déplacement le son saccade et se coupe et met à moment avant de revenir, pas terrible
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

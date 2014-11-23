@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:
+Commentaire:uestion ergonomie c'est pas la meilleur applications du monde mais elle fais se qu'on lui demande
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

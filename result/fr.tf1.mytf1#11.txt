@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Buuugggg
+Commentaire: Impossible de regarder un replay ça bug tout le temps. Par contre les pubs aucun soucis pour les voir. Nul !
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Fotor Photo Editor
+IdApplication:com.everimaging.photoeffectstudio
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:103 334
+TitreCommentaire:Exceptionnel
+Commentaire: Il y a tellement de choix que je ne sais pas quoi mettre bien sur il ya des choses payantes mais sans c est tres bien et je ne les aies pas acheté et pourtant j ai peur de ne pas pouvoir tout essayer donc oui pour les 5 étoiles et pour la recommandation de cette application !!!! 😊
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

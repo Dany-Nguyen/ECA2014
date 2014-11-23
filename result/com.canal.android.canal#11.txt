@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Foutage de gueule !!! Mais enfin résolu
+Commentaire: Le 22/09/2014 vous m'avait répondu que la version compatible lollipop serai dispo sur le playstore :"d'ici moins d'un mois" or aujourd'hui le 14/11/2014 ,53jours plus tard, toujours pas de mise a jour !!! Et comme a votre habitude aucune communication !!! Peux t on avoir au moins le lien pour télécharger la beta ??? Edit:Je remet 4 étoilespour la mise a jour lollipop mais a l avenir veillez a anticiper les mises a jours .....
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

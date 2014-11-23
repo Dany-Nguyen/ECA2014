@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Dommage pour les adhérents...
+Commentaire: Erreur lorsque l'on renseigne son numéro de carte adhèrent et donc impossibilité de voir ses chèques cadeaux...
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

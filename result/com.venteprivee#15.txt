@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Ne fonctionne pas
+Commentaire: Je lance et sa ne veut pas quoi faire.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

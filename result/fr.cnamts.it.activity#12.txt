@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Bugs
+Commentaire: Remboursements inaccessibles, attestations en pdf mal encodé, cette application me semble inutile en l'état.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

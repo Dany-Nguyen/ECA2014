@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Moyen
+Commentaire: Mieux qu’auparavant mais de temps à autre : des bugs et lancement de l'application impossible. La dernière maj semble avoir tout simplifié mais j'ai une préférence pour le côté imagé que je trouve plus intuitif. L'application est devenue fade mais on reconnait bien là la patte d’Orange qui se veut le plus neutre possible.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

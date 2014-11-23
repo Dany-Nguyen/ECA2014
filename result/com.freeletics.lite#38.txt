@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Au top
+Commentaire: Appli bien faite. Accès gratuits à tous les workout. J'ai pris le coach en profitant de la promo et c'est dur mais on se sent bien. Comme déjà dit il manque le mode offline, les échauffement et étirements, ainsi que le vocal en français.
+DateCommentaire:16 septembre 2014
+NoteCommentaire:4

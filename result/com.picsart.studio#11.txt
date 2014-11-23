@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:J'adore
+Commentaire: La meilleur appli pour photos ! On peut tout faire ! Tout ! :) Du côté "réseau social" c'est bof mais bon question photo nickel !
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

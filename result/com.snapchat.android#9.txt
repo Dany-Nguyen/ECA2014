@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:ualité de photo sur Galaxy Trend nul ! Mise à jours pour le chargement des story trop lent
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

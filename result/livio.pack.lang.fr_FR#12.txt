@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Mieux que Le Robert!
+Commentaire: Merci, ici au moins pas de plantage hormis le widget qui garde en mémoire un mot pendant plusieurs jours. Et bravo pour les mots régionaux. Attention au pluriel des mots. C'est pas signifié.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

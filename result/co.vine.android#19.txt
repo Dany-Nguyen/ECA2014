@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:
+Commentaire:ine beug je me suis déconnecté afin de vérifier quelque chose et une fois que je veux me reconnecter il dise que l'adresse ou le mots de passe est incorrect j'ai recréé un compte avec la même adresse le même code et cela ne m'informe même pas que l'adresse est déjà utilisé j'ai refait la même opération et sa a refait la même chose résultats j'ai perdu mon compte et je ne peut n'y utiliser mon adresse n'y réinitialisé mon mot de passe vue qu'il ne m'envoi rien quand je clique sur réinitialisé
+DateCommentaire:2 novembre 2014
+NoteCommentaire:2

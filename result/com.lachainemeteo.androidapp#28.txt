@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Problème d'affichage
+Commentaire: Sur le LG G3 les icones du temps apparaissent pas correctement sur la carte de france et du coup l'icône de la corse apparait dans le centre de la France.
+DateCommentaire:14 septembre 2014
+NoteCommentaire:1

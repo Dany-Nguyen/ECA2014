@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Juste un truc
+Commentaire:Je ne peux mettre 5 pour une chose lorsque je quitte la page sous Android et que j'y retourne 30 sec après rien n'est en mémoire je dois me reconnecter et remettre mes matchs à chaque fois... bref je perds tout c bien relou ! Mais jaime bien lappli sinon juste le côté pratique ou j'ai un peu de mal :-/ désolé, une correction à cela nan ???
+DateCommentaire:15 juin 2014
+NoteCommentaire:4

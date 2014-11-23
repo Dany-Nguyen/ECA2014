@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Simple
+Commentaire: App super simple à utiliser.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

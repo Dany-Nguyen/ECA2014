@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Alleluia
+Commentaire:Enfin une MAJ digne de ce nom !!!
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

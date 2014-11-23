@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:
+Commentaire:Avant j'y étais accro, mais depuis que je l'ai réinstallé il me fait des gros bug et des énorme décalages. :(
+DateCommentaire:7 juillet 2011
+NoteCommentaire:3

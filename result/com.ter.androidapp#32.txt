@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Nullissime
+Commentaire:Le service est trés trés trés souvent indisponible.... bref ne sert strictement à rien. Rien de mieux que les horaires papier....
+DateCommentaire:5 septembre 2014
+NoteCommentaire:1

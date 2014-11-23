@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Chapeau
+Commentaire:Vraiment rien a dire parfait et si il y a des veut c peut être parce que y'a trop de choses dans votre carte et pour moi et ma tablette rien a dire chapeau
+DateCommentaire:13 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Bof
+Commentaire: Plante très souvent au niveau du champ de recherche. (" l'application Priceminister s' est arrêtée"). pas de possibilité de faire des offres de prix négociées comme sur le site.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:3

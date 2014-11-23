@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:déception
+Commentaire: depuis la dernière mise à jour, plus possible d'éditer un chèque réduction ni de voir le code barre de ma carte fidélité...
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Super appli de traduction
+Commentaire: L'appli est ergonomique. Fournir le contexte avec est une super idée. En plus y'a même le dictionnaire arabe. Merci Reverso !
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

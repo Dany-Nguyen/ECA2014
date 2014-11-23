@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Mise a jour deplorable
+Commentaire: Instable sous lollipop. L'application ne cesse de planter même quand elle est pas lance. Vite une nouvelle release ;)
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

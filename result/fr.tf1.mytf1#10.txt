@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:De l'info svp, pas que des pubs !
+Commentaire: La pub fait planter l'application, et 2 mn pour chaque reportage, c'est vraiment abusé. Nul et inutile ! Je l'utilise depuis plus de 2 ans, mais là c'est trop ! Je desinstalle !!!
+DateCommentaire:30 octobre 2014
+NoteCommentaire:1

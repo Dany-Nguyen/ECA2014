@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:IMPOSSIBLE DE VOIR UN SEUL FILM SAMSUNG GALAXY TAB S !!!!!!!
+Commentaire: Vous parlez d'une super application ! A 1 mètre de ma box super signal wiki mais aucune image canal play !!! Ça mouliné ça mouline à font mais pas un seul vision âge possible ! Doit faire une allergie à la samsung galaxy Tab S ! !!!!!!!! Bon bin c'est plié pour annulationous direct dommage je l'aurais bien gardé même si vraiment bcp de vieux film dans la bibliothèque. .......
+DateCommentaire:14 septembre 2014
+NoteCommentaire:1

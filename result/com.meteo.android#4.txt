@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:
+Commentaire:Je l'ai sous iphone et sous Samsung ça ne donne pas la même température réelle sur les deux sites seule l'application iphone est correcte et donne les mêmes données que le site internet vous y comprenez quelques choses ?
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

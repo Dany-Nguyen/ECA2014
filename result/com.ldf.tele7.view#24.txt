@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Sgn3
+Commentaire: Super fluide. ....pour l'instant le meilleur. ....pour les pub rooté votre téléphone et mettez adaway ......publicité disparu pour toute les applications (jeux . applications. Outil. .et. ....)....
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

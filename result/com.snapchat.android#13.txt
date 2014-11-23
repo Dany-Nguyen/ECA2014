@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:amsung galaxy S3 4G
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Bugs
+Commentaire: Je sais pas si ça vient de mon téléphone mais l'application bug à peu près chaque fois que j'essaie de l'ouvrir. Dommage...
+DateCommentaire:28 octobre 2014
+NoteCommentaire:2

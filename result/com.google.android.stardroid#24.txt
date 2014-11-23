@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Juste génial
+Commentaire: Le ciel pour les Nuls!! Exactement ce que je cherchais pour élargir ma connaissance astronomique qui se cantonne jusqu'à présent à la Lune et la Grande Ourse^^ En plus gratuit....J'en ai rêvé , Google l'a fait :) Il faut juste bien tenir son tel sinon on a l'étoile cherchée dans l'écran, et la réelle décalée en l’extérieur gauche de l'écran.
+DateCommentaire:15 novembre 2012
+NoteCommentaire:5

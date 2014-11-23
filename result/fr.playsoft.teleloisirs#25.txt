@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:
+Commentaire:Je l'utilisais beaucoup mais depuis un moment elle ne démarre même plus. Dommage!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

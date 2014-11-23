@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Top
+Commentaire: Elle et top il ya plein de themes et tout j adors je conseil fortement
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

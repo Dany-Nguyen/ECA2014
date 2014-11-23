@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Beaucoup de bug
+Commentaire: L appli tout comme le site, buggent enormément et filent des virus... a corriger au plus vite svp... j ai été obligée de desinstaller et nettoyer mon p.c... depuis, j attend que vos pb soient règlés pour pouvoir mater les ch tis et autres...
+DateCommentaire:31 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Idéal pour infos
+Commentaire:Pourquoi depuis la dernière mise à jour la fonction rafraîchissement n'existe plus?
+DateCommentaire:23 septembre 2014
+NoteCommentaire:4

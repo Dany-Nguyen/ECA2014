@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:L'application a été revue mais ...
+Commentaire: L'application est beaucoup plus belle mais elle n'affiche pas le solde de ma carte de fidélité (solde bloqué au 31/10/13). Et elle ne prend pas en compte les halles d'Auchan. Du coup je n'ai pas les infos pour ce commerce qui est le plus proche de chez moi. A revoir donc !!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

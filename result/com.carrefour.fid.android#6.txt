@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:C de la daube!
+Commentaire: Mise a jour nulle. Remettez nous l ancienne appli vite. Vs etes co.... quoi!!!! Je viens de voir le dernier catalogue sur internet mais pas sur lappli -&gt;&gt;&gt; NULLLL
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

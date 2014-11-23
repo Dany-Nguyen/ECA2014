@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Cool! :-)
+Commentaire: J'aime beaucoup cette appli, le seul petit défaut est qu'elle n'est pas hors ligne...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

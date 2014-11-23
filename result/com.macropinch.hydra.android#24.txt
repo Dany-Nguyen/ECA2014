@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Moto g 4g
+Commentaire: Impressionnant. Tout simplement.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

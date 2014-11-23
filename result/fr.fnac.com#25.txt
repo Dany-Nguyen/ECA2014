@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Très bien
+Commentaire: Je n'ai encore rien ' commandé via l'appli.. Mais quel plaisir de naviguer dessus ! Si le site pouvait être aussi intuitif..
+DateCommentaire:29 septembre 2014
+NoteCommentaire:4

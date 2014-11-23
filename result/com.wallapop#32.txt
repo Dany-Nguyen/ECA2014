@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:
+Commentaire:Bonne application, mais quelques petits détails à améliorer. L'acheteur peut chatter avec le vendeur, mais il manque un onglet chat pour que le vendeur puisse revenir à ses conversations
+DateCommentaire:14 juillet 2014
+NoteCommentaire:3

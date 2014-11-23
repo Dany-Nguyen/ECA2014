@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Trop de pub tue l'appli
+Commentaire: Incroyable changement !!! Une application top devient une usine à pub dommage. De pas de pub on passe à 3 sortes de pub différentes. Une qui apparaît en plein écran. L'autre en bas de l'écran en permanence. Et la dernière avant les vidéos qui est parfois plus longue en chargement et longueur que la vidéo que l'on souhaite voir... alors avant les vidéos je veux bien mais qu'on puisse les passer comme sur YouTube. Par contre celle en bas de l'application est à retirer.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

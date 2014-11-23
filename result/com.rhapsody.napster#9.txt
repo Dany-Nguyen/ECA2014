@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Incomplet
+Commentaire: Il manque l'album de beaucoup de rappeurs, Jul par exemple la révélation en ce moment n'est pas là, paraplégique de Niro pareil..... par contre Sexion d'assaut et toute la clique y'a tout :(
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

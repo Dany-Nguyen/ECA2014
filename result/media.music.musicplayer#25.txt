@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Excellent
+Commentaire: Et fonctionne en tache de fond PS: c'est un player pas un fournisseur de musique...
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

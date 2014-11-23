@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:
+Commentaire:C'est un très bon dictionnaire qui marche hors connexion, mais il ne contient pas tous les mots dont on a besoin.
+DateCommentaire:10 juillet 2014
+NoteCommentaire:4

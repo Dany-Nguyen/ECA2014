@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:C'est parfait
+Commentaire: Pour moi 15 ans qui n'a pas envie de payer journal chaque semaine, c'est nickel psk c'est pas payant et ça ne beug pas du tout, je recommande à tout le monde
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

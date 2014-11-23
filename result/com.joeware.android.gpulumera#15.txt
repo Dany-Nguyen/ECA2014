@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:Besoin d'aide !
+Commentaire: Quelqu'un pourrait me dire pourquoi ça marque que je dois vérifier mon espace de stockage et donc la photo ne s'enregistre pas ??
+DateCommentaire:4 novembre 2014
+NoteCommentaire:2

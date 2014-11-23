@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Intérêt de la MAJ du 24 octobre 2014 ?
+Commentaire: Je lis ici et là que l'application serait plus stable. Cependant le simple fait de vouloir toucher à l'égaliseur m'a encore planté l'application (Galaxy Note 3 ver. 4.4.2), pour le reste tout semble un peu plus fluide qu'auparavant. A voir si les bugs de lecture notamment avec les pistes synchronisées sont réglés. Deux semaines que j'utilise les deux services (Deezer et Spotify) et pour le moment le second a un net avantage en terme de stabilité/réactivité. Voyons avec cette MAJ comment se comporte Deezer, car il va falloir faire un choix. :)
+DateCommentaire:24 octobre 2014
+NoteCommentaire:3

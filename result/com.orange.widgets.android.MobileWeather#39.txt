@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:C est moche
+Commentaire: Non seulement c est moche mais ca me met jamais la bonne ville
+DateCommentaire:4 janvier 2014
+NoteCommentaire:1

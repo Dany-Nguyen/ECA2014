@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Pas mal
+Commentaire:Merci pour la maj avec l'équipe 21. Manque plus qu'à améliorer le suivi des commentaires qu'on laisse à la suite de vos articles.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

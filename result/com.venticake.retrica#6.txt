@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:slt je ne sais pas si c'est trop tard pour répondre à ta question mais essaye de desinstallé et réinstallé l'apply si ça ne marche toujours pas regarde si tu as assez de place dans ta carte memoire
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

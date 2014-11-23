@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Vide...
+Commentaire:L'application ne remonte aucune station. Aucune icône vélib visible. Du coup, ce n'est rien d'autre qu'un Google maps mais avec moins de fonctionnalités.
+DateCommentaire:25 juillet 2014
+NoteCommentaire:1

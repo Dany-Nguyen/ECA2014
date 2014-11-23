@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Hors de prix
+Commentaire: Les livres sont chers, à notre époque il vaut mieux trouver des formats papier d'occasion. Même si les lecteurs sont remarquables un R.S.A. ne donne accès à rien de qualité. C'est donc a regret que je désinstalle pour retourner en bibliothèque. En plus lors des présentations les prix ne sont pas affichés.
+DateCommentaire:1 juin 2014
+NoteCommentaire:3

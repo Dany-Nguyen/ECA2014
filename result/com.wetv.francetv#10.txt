@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Peter de pub a l'ouverture comme a la fermeture
+Commentaire: Cerise pourrie sur le gâteau les bandeaux pub empêchent de lire les infos sur les chaines d'infos et les sous titres sur les films...! A fuir en attendant qu'ils séparent l'écran de la pub DOMMAGE...
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

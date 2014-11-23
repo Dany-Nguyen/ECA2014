@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Pratique.
+Commentaire: bah moi jtrouve que cest assez utile, facile a utiliser, et permet d'acceder à des bouquins plus facilement et en un rien de temps
+DateCommentaire:20 octobre 2014
+NoteCommentaire:4

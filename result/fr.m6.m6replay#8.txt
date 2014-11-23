@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Inutile
+Commentaire: Toutes les vidéos sont hyper longues à charger, et si j’ai le malheur de laisser la vidéo charger et que ma tablette se met en veille, la vidéo recommence à zéro. De quoi s'arracher les cheveux !!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Lecture impossible en 3G avec Xperia Z3C
+Commentaire: Impossible de jouer le moindre titre en 3G avec mon Sony Xperia Z3C. Ca indique que la chanson est en "Chargement" puis plus rien ne se passe. Merci de faire quelque chose rapidement et retrouvez vos 5 étoiles
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

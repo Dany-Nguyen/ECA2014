@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Attention les horaires ne sont pas bons
+Commentaire:L'application ne donne pas les bon horaires notamment pour ce qui est des bus STIF le samedi et dimanche
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

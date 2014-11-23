@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Bonne applicaction
+Commentaire: Il manquerait un système de dossier pour ranger des fiches dedans comme le ibook d appel merci pour les explications fourni très bonne application
+DateCommentaire:12 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:
+Commentaire:Best apps. Add option to open sidebar by touch hotspot only. I will give six stars
+DateCommentaire:29 décembre 2013
+NoteCommentaire:5

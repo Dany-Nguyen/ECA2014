@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Super application !
+Commentaire: Une excellente appli complémentaire à la PS4 et à la PS Vita pour toujours suivre ce qui se passe au sein de l'univers PlayStation. La version 2.00 prend en compte le format tablette, c'est nickel ! ;-)
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

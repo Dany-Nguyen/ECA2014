@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Peut mieux faire
+Commentaire:J'ai fait du forcing pour ne pas installer la nouvelle application RATP jusqu'à ce que ce ne soit plus possible, et qu'il me mette tout le temps "une erreur est survenue". Du coup, nouvelle application toute jolie super, mais si elle pouvait être fonctionnelle ce serait mieux. Exemple : je n'ai pas l'arrêt de bus Glacière - A. Blanqui pour le 21. Et on ne peut plus disposer des plans de sortie de métro??? c'était pour moi une des fonctionnalités les plus importante pour mieux se déplacer dans les souterrain du métro. Du coup, 2 étoiles pour l'interface, mais franchement, revoyez votre cahier des charges des spécifications... Si j'avais une demande : rajoutez les plans de sortie de métro!! PS : je n'ai pas encore essayé de chercher un itinéraire. Il manque aussi l'état du trafic pour les bus.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

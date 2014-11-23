@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Fonctionne parfaitement
+Commentaire: J'ai des problèmes de degroupage chez moi et grâce à cette application et au WiFi je reçois les chaînes et en plus c'est gratuit
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

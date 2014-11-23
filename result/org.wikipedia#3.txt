@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Manque juste...
+Commentaire: Manquerais simplement un système d'onglet. Sinon bonne ergonomie et côté performances ça va.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Ralentit tout le téléphone !!!
+Commentaire: Utilise 72% de mon cpu, codée avec les pieds, une honte !!!! à fuir si vous n'avez pas un téléphone très récent
+DateCommentaire:30 août 2014
+NoteCommentaire:1

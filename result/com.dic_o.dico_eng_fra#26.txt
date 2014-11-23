@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Rien à redire !
+Commentaire: Vraiment super quand on recherche la trad d'un mot et qu'on ne peut pas aller sur internet. Le dico est assez complet dans l'ensemble et rempli bien sa fonction, tout y est alors moi je dis qu'il mérite ses 5 étoiles !
+DateCommentaire:27 juin 2014
+NoteCommentaire:5

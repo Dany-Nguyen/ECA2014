@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Publier une annonce
+Commentaire: Je ne vois pas ce qu'il y a de pratique : j'ai essayé 15 fois de publier un meuble que je veux vendre et ça ne fonctionne pas !!! Je n'ai aucune idée si mon annonce est publiée ou pas, je n'ai rien pû valider (cette fonction n'existe pas), quand j'appuie sur la touche "publier", rien ne se passe !!! Il faut avoir fait math sup ??? C'est quoi l'astuce ?????
+DateCommentaire:2 octobre 2014
+NoteCommentaire:1

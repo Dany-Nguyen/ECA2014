@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Bug au moment de publier nos article
+Commentaire: sa bug un moment ou je veux publier Mon article j ai mis un 2 voila :/
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

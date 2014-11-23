@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Bug de Play Store ?
+Commentaire: J'aimerai beaucoup telecharger cette application et bien d'autres mais depuis quelques temps mon play store m'annonce que je ne peux pas en telecharger car je n'ai plus d'espace disponible sur mon portable alors que j'ai encore 200 mo. Help
+DateCommentaire:3 septembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Tres bien
+Commentaire:Super belle application tous est vraiment en direct mais on ne peut pas voir les prix c'est la seul chose a améliorer
+DateCommentaire:29 mai 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:N'arrête pas de bugger !
+Commentaire:La nouvelle version plante avec la mention "pays non supporté" Qu'est ce que cela veut dire ? Qd on tente de dialoguer sur le chat du site il n'y a pas de réponse. Bravo ! Continuez ainsi et je file à la concurrence.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

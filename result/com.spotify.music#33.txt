@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:C est super pasque au collège je peut ecouter de la musique sans connection sans resos c est génial non et vous pouver telecharger vite fait .
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

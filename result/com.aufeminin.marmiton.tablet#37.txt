@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Super
+Commentaire:Il y a toujours une recette quand on est en panne d'idée
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

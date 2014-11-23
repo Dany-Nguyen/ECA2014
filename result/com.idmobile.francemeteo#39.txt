@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Trop bien
+Commentaire: J'adore et y a pas de soucis
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

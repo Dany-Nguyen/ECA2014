@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Bastien s4
+Commentaire: Bien mais la voix aurait pu être en français, j' entrave rien a ce qu elle dit.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:4

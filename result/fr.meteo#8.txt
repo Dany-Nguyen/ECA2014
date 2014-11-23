@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Téléchargé uniquement parce c'est les seuls à prévoir la météo en France...
+Commentaire: Pourquoi la pub n'est pas mise en cache !!! Surtout que c'est souvent la même. 2 min pour télécharger une image de pub en plein écran a chaque ouverture. 5 secondes pour fermer la pub une fois qu'elle s'est enfin affichée.15 seconde pour mettre à jour les prévisions. TOTAL 2 min 20 pour voir le temps. Seul le widget est pratique.
+DateCommentaire:11 septembre 2014
+NoteCommentaire:2

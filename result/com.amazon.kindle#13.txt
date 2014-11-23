@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Déçue...
+Commentaire: ... Ca ne marche pas sur galaxy tab 2... Ne me reconnait pas mon login... Dommage
+DateCommentaire:30 octobre 2014
+NoteCommentaire:2

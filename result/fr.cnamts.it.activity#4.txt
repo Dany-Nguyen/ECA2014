@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Très bonne appli
+Commentaire: J'utilise uniquement l'application pour contact avec la secu. Plus besoin de me déplacer j'envoie un mail et j'ai une réponse dans les 48h
+DateCommentaire:23 septembre 2014
+NoteCommentaire:5

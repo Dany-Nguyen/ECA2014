@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Ça va
+Commentaire:Ça s'est amélioré par rapport a la dernière fois
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

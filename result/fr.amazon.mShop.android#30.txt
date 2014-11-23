@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:
+Commentaire:Pas mal de bugs avec mon LG L9 l'appli se coupe toute seul au l'encement au changement de pays et a l'ouverture de la liste d'envie..... . Problème quand même très gênant a regler svp si il n'y avais pas ce problème j'aurais mis 5 étoiles
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

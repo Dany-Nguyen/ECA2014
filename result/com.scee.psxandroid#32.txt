@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Pas mal
+Commentaire: Très fidèle à sa description, cette application est indispensable quand in possède une PlayStation ! 😄
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

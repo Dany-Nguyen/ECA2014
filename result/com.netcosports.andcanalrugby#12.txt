@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Excellente appli !
+Commentaire:Vidéos de qualité , expérience multi-angles unique, un must pour le fan de rugby ! Merci Canal+ !
+DateCommentaire:8 février 2014
+NoteCommentaire:5

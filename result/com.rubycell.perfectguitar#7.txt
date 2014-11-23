@@ -1,0 +1,9 @@
+NomApplication:Guitare + ( Guitar )
+IdApplication:com.rubycell.perfectguitar
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:51 954
+TitreCommentaire:Perfect guitar
+Commentaire: Comme son nom l'indique "perfect". C'est tout bonnement excellent. Pour moi qui ai une guitare à la maison, en me plongeant dans cette app j'ai pu comprendre certaines choses du language musical type guitare. Bien sûr, je n'ai suis pas encore une pro mais maintenant que c'est moins du jargon pour moi ça donne envie de découvrir plus.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:bon produit
+Commentaire: je l'utilise notamment pour trouver des chansons pour mes petits enfants ou pour moi avec des goûts éclectiques. pas de soucis particuliers.
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

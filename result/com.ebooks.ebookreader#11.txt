@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Programme de merde
+Commentaire: Je l'ai acheté pour lire le bouquin de Busch sur le nikon D4. Je cherchais des informations techniques. Rien dans ce programme ne me permet de trouver des infos rapides dans le livre. Il est linéaire et impossible de retourner à une table des matière. De la grosse merde quoi, mais le livre est bien protégé.
+DateCommentaire:16 octobre 2014
+NoteCommentaire:1

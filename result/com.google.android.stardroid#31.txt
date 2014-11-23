@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Superbe application pour etre guide dans le ciel
+Commentaire: Je voulais installer stellarium, mais je suis tombe sur cette application excellante. Elle montre tous les astres visibles et caches de la nuit, soit en utilisant le compas pour afficher les astres en fonction de la position de ma tablette samsung, soit en mode manuel pour se deplacer dans le ciel par un glissement de doigt. Sur ma tablette 7 pouces samsung, elle fonctionne parfaitement.
+DateCommentaire:21 août 2013
+NoteCommentaire:5

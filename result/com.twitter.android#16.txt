@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Un pti Hic
+Commentaire:Je vois pas tout les tweets sur mon tel mais quand je suis sur mon ipod je les vois tous
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

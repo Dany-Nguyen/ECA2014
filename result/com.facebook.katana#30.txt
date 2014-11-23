@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:mpossible de telecharger Facebook depuis la nouvelle mise à jour de Sony experia E1
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

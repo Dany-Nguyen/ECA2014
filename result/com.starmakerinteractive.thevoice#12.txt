@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Pas beaucoup de chanson francaise
+Commentaire: Il y a 5 chansons maximum en français si on ne paye pas l'option VIP
+DateCommentaire:24 septembre 2014
+NoteCommentaire:2

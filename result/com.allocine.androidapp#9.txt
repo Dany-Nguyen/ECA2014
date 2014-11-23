@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Pas au point !
+Commentaire: Fonctionnait bien avec un Iphone mais c'est une catastrophe maintenant que je sous l'utilise sous Android. Cette appli est incapable de conserver mes salles préférées et plante régulièrement. Et ça fait longtemps que ça dure...
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

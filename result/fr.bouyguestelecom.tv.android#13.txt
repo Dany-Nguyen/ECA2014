@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Très content
+Commentaire: Super image et pleins de chaînes, n'ayant pas la fibre optique, c'est bien pratique pour regarder les chaînes du câble.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

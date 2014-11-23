@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Inutile car non fonctionnelle
+Commentaire:Ne reconnaît plus mes identifiant canal, c'est bien la peine de leur laisser 94€ par mois pour voir les matchs si on ne peut même pas utiliser leurs outils.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

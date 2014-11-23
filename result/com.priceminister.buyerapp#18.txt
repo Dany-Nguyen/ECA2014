@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Invasif
+Commentaire: L'application devient vite pesante. Elle envoie constamment des offres promotionnelles sous la forme de notification sur le mobile. Cela devient vite intrusif et pesant, surtout pour quelqu'un qui ne souhaite rien acheter.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

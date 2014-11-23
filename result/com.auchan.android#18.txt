@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:
+Commentaire:Appli qui beugue et catalogue en retard (je l'ai reçoit chez moi avant l'application, ce qui n'a pas grand intérêt). Cette application reste tout de même utile, mais je préfère tout de même celle de carrefour.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:3

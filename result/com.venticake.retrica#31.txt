@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:retrica perfect
+Commentaire: aplication perfct ! si il y a justebun petit defaut defoit il se mes en miroir mais il suffi de la desinstaler et reinstaler . des effect magnifique
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

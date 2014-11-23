@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Vraiment trop bien 💠
+Commentaire: Je m'en sert tout le temps et c'est vraiment trop bien j'adore c'est pour sa que je met 5 étoiles
+DateCommentaire:29 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Phases de la Lune
+IdApplication:com.universetoday.moon.free
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:24 917
+TitreCommentaire:Très belle application.
+Commentaire: Belle et utile appli. J'apprécie d'avoir l'affichage par mois et le petit widget, également. Si l'on pouvait ajouter les jours de pleine et de nouvelle lune à l'agenda de son smartphone, ce serait le top. Merci beaucoup pour cette application!
+DateCommentaire:1 mai 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Application moyenne
+Commentaire: Ne fonctionne plus avec Android 5.0 final : UnsatisfiedLinkedError. L'application aurait pu au-moins être testée avec la Developper Preview pour préparer Android 5.0 !!! A quand aussi le Material Design ! Quand l'application fonctionne en wifi la qualité est très bonne mais je n'ai jamais réussi a me connecter avec les identifiants. C'est quand même la base ....
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

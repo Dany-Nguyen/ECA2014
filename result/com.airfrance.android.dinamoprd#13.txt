@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Très fonctionnelle
+Commentaire:Les+: Très bonne appli, pratique, fonctionnelle et robuste aux mauvaises comm (3G-). Mise à jour en temps réel de l'horaire, par exemple en cas de retard. Les-: (Un petit peu grosse). Seul bémol: la préférence de siège (allée/hublot...) saisie dans le profil de voyageur sur le site AF semble ne pas être prise en compte. Problème de cette appli ou du système de de résa AF en général? Je ne sais pas. Autre amélioration possible: indiquer si possible la porte d'embarquement dès qu'elle est connue. Ca évitera de traverser des aérogares en courant....
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

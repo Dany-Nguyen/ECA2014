@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Nul!!!
+Commentaire: C'est trop nul! Je préfère la version sur iphone
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

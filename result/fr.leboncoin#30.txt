@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Petites suggestions
+Commentaire: Dommage que ce site soit pollué par des annonceurs (un peu rêveurs) qui proposent leurs biens d'occasions trops chers, parfois on trouve du neuf moins cher en promo dans les magasins. Je pense aussi qu'il serait bon de réduire la durée des annonces à 1 mois 1/2 au lieu de 2 afin d'éliminer les annonces plus vite du site lorsque l'annonceur n'a pas eu la délicatesse de supprimer l'annonce d'un bien vendu et qui occupe l'espace inutilement et puis aussi qui pourrait en profiter pour revoir le prix.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:5

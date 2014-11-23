@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Superbe !
+Commentaire:J'aime beaucoup. cette application me permet de planifier et d'organiser des idées et des événements. Je suis fan.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

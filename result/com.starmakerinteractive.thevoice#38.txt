@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Sava
+Commentaire: Sava 4 étoile car c'est juste si c'est aigu ou grave pour reussir sinon super
+DateCommentaire:22 octobre 2014
+NoteCommentaire:4

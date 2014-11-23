@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Rien ne s'affiche
+Commentaire:Dommage... l'idée était bonne, mais l'affichage des stations ne fonctionne pas !
+DateCommentaire:3 mars 2014
+NoteCommentaire:2

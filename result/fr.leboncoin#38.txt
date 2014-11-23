@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Gros problèmes
+Commentaire: Quand je demande une recherche sa me renvoie directement sur OA page d'accueil. Veuillez arranger sa s'il vous plaît et je mettrais 5 étoiles merci.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:A éviter (faites une recherche des problèmes sur le Web, vous comprendrez... )
+Commentaire: Commande passée le 12 octobre, le 12 novembre ... Aucune livraison, par contre règlement prélevé le jour de ma commande. Et pour joindre quelqu'un... Mail indisponible et numéro SURTAXÉ où l'on nous "promène" sans aucun résultat. Ou j'ai vraiment de la malchance, ou c'est de l'arnaque !!! A mon avis, j'aurais dû faire une recherche de ce site avant de commander. Vu les très nombreuses plaintes qu'ils connaissent, à éviter absolument !!!
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:J'aime
+Commentaire: Cette application est d'une importance capitale
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

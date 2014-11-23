@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Exelent
+Commentaire: Juste parfait merci
+DateCommentaire:1 novembre 2014
+NoteCommentaire:5

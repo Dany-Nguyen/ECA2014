@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug et rebug !
+Commentaire: Des plantages au démarrage de l'application, des bugs dans le mode flow et dernièrement un plantage lors de la recherche de musique/album/artiste ! Sous OnePlus One pourtant !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

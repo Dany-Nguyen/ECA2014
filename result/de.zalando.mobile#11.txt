@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Gros écarts par rapport au site
+Commentaire: Un des plus de Zalando c'est la possibilité de filtrage des articles. Sur l'application mobile c'est assez limité. Dommage
+DateCommentaire:6 octobre 2014
+NoteCommentaire:3

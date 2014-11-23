@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Oups
+Commentaire:Ne reconnait pas les identifiants canal...en production :(
+DateCommentaire:8 novembre 2014
+NoteCommentaire:1

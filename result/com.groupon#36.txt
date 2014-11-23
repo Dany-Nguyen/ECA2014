@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:
+Commentaire:J'adore Groupon depuis que je connais votre site je peux me permettre plein de loisir pour moi et mes enfts vs etes extra
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

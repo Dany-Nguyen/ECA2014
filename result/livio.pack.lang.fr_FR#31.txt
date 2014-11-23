@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Incroyable !!!
+Commentaire: J'est trouver cette aplie pour un devoir et voyant vos commentaire je les pris et sa ma choquer toute les autre ne fonctionner pas et elle pas obliger d'utiliser la connexion internet sa marche a perfection et pas un mot manquant ! Je vous le conseil !!! Ne changer pas !!!!
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

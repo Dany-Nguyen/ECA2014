@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Samsung galaxy Y
+Commentaire: C'est utile pour la telecommande sinon la tele en direct il y a du son mais l'image beugue vraiment beaucoup et il n'y a aucune chaine en replay
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

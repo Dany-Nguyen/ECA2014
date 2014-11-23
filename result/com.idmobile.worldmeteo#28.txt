@@ -1,0 +1,9 @@
+NomApplication:Météo pour le Monde
+IdApplication:com.idmobile.worldmeteo
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:4 283
+TitreCommentaire:Alcatel one touch Idol.
+Commentaire: Pas pour l'instant. Je viens toujours juste de le télécharger. Je verrai d'ici 1 mois s'il est fiable et précis. Là je mettrai mes 5 étoiles.
+DateCommentaire:20 août 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Un bon dico !!!
+Commentaire: Bien conçu, très utile et agréable
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

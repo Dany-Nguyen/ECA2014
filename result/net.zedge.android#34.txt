@@ -1,0 +1,9 @@
+NomApplication:ZEDGE™ Ringtones & Wallpapers
+IdApplication:net.zedge.android
+CategorieApplication:Personnalisation
+NoteApplication:4,5
+NombreVotants:2 028 675
+TitreCommentaire:Moyen
+Commentaire: J'ai réussi a mettre une sonnerie mais lorsque j'ai mis mon tel sur silencieux pendant une réunion, j'ai remis mon tel en mode normal après et je n'avais plus que le vibreur alors que la musique était bien sélectionnée... Donc bof. Mais il y'a du choix.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

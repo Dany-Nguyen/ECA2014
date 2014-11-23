@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Widget
+Commentaire: Depuis la mise à jour , plus de widgets. DOMMAGE
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

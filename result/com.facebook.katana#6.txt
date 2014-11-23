@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Merci pour la mise a jour enfin efficace...
+Commentaire:Beug complet sur tab samsung.mise a jour inutile, plante au bout de quelques seconde sur réseau sociaux...etc
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

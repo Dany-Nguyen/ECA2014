@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Utilisation data
+Commentaire: L'application est vraiment génial, mais j'ai fais 30 minutes pour 50 mo d'utilisation. Travail à faire car des app fond 30 minutes 4 mo
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

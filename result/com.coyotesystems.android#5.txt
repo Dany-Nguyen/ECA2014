@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Problème son et bluetooth
+Commentaire:Si vous avez un kit bluetooth dans la voiture le son passé dans les haut parleur seulement il n'est pas prioritaire au son de la music ou gps du coup aucune alerte n'est audible et je ne compte pas sacrifier mes sms à lecture vocal ou mes appel main libre. A corriger et je me laisserais sûrement tenter.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:3

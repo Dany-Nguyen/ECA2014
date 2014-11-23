@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Problème
+Commentaire: J'ai toujours le même problème Il ne me localisé jamais la ou je suis et le capteur bouge sans arrêts ! Si quelqu'un a une solution... !
+DateCommentaire:29 novembre 2012
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Androir vs iphone..
+Commentaire: J'ai fait une video sur le iphone a ma copine et ca n'avais rien a voir! La qualite de video sur android est de pietre qualité et les voix sont decaler sans oublier que, comparement au iphone, on ne peut pas changer la voix pour celle que l'on veut et aussi moins de deformations de visage. Mise a jour recquise avec impatiente!
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

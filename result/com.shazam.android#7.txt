@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:
+Commentaire:Bonne idée sauf qu'il faut attendre longtemps pour qu'il commence a chercher une musique et souvent c'est déjà trop tard. ... Certainement à cause de la recherche GPS inutile. ...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

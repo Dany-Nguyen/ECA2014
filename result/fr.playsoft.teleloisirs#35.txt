@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Super
+Commentaire: Quelques beug pour l'actualité mais sinon super
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

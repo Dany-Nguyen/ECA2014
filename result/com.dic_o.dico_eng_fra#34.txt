@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:
+Commentaire:C est trop bien j'adore il est trop bie n il a tous les mots qui faut vous marquer soit en français soit.en anglais
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

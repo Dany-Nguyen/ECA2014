@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Bien.
+Commentaire: Tres bonne application. J'ai commender dessus un iphone 5s 32GO or, et je l'ai bien recu !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Tres bien
+Commentaire: Le top pour envoyé des emoticones sans mms (galaxy s4). Je m'en tape d'envoyer des mms, mais si le destinataire n'a pas le 3g ou 4g d'activité? Maintenant c'est bon. Merci
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Parfait
+Commentaire: Pas de bug et offert par SFR. Il ne faut pas cracher dans la soupe...
+DateCommentaire:23 octobre 2014
+NoteCommentaire:5

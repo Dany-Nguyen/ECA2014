@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:'est pratique mais la fiabilité et la précision ne sont pas optimum. Je comprends toutefois que c'est difficile et c'est devenu un automatisme avant de partir.
+DateCommentaire:18 juin 2014
+NoteCommentaire:3

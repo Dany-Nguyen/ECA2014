@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Impossible de s'identifier
+Commentaire: Impossible de s'identifier l'application ne reconnaît pas qu'ont connecter sur le réseau WiFi de la box by Numericable j'espère bientôt une mise à jour pour corriger tout c'est bugs une étoile 🌟 pour l'instant du fait que l'application ne sert quasiment à rien..
+DateCommentaire:18 octobre 2014
+NoteCommentaire:1

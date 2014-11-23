@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Une appli truffée de pub
+Commentaire: Un site drôle et divertissant mais une appli truffée de pub ... Certes il faut manger ... Mais la c'est extrême
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:APUS – Léger, rapide, fluide
+IdApplication:com.apusapps.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:1 194 448
+TitreCommentaire:Au top
+Commentaire: Sa sert beaucoup surtout si on a un tel avec 512mo de RAM comme le mien
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

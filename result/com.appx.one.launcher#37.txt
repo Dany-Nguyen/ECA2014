@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:FUCK
+Commentaire: Impossible a desinstaller c'st d'la merde!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

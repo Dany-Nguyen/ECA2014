@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Du mieux !
+Commentaire: les bugs sont maintenant généralement résolus.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

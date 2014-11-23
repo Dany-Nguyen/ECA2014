@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Incontournable!
+Commentaire:Ergonomie moyenne tout de même... Les boutons ne sont pas idéalement placés...
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

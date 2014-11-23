@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:je conseille.
+Commentaire: je n'ai pas encore tout tester mais pour l'instant sa marche et le decalage entre le son et l'image est faible donc 4 etoiles
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

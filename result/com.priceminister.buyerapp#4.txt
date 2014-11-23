@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:
+Commentaire:Victime d'une fraude suite à un achat....
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

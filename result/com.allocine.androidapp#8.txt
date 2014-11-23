@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Pas mal du tout
+Commentaire: Les vidéos des dossiers ne passent pas mais dans l ensemble l application est bien pensée
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

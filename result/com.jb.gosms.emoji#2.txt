@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:MaJ extra nulle
+Commentaire: Rien de nouveau encore hormis des fonctions bien utiles disparues comme les emmotionnes envoyés les plus souvent.. a quoi a servie cette MaJ ? Pfff vite du changement j'ai pas payé pour cette daube !!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Only music
+Commentaire: C'est si bon d'écouter de la musique quelque soit l'endroit où l'on se trouve et quelques soit la situation. Visiblement pas encore opérationnel à 100% vue qu'au Antilles sa ne passe pas donc faite un geste
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

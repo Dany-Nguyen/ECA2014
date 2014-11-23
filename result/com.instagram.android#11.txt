@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Génial
+Commentaire:Cette application est génial j'ai 2 compte on peut se faire plein d ami et retrouver des anciens c'est génial seul souci les vidéos ne peuvent pas durer plus de 15 secondes c est très dommages mais ds l ensemble c super!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

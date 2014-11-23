@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Utile
+Commentaire: Quand on a la flemme d'allumer son ordi et ben ca depanne puis il ya tt ce quil faut
+DateCommentaire:23 août 2014
+NoteCommentaire:5

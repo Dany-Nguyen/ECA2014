@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:????
+Commentaire: Je l'ai téléchargé mais le raccourci ne s'est pas créé. Quand je vais dans la play stort, à coté du bouton "désinstaller", NORMALEMENT, il ya le bouton "ouvrir l'application". La y a pas! Bon bah je désinstalle... --'
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Oui mais...
+Commentaire: Une usine à gaz. Lent, des tas d'infos inutiles, des effets de fenêtres "in app" mais pourquoi? Tenter de faire de l'interface Playstation sur de l'Android, quelle idée...
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

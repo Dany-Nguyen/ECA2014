@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Programme super
+Commentaire: On peut mettre plusieurs photos sur une seule. Pas mal du tout...
+DateCommentaire:24 août 2014
+NoteCommentaire:5

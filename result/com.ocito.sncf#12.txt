@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Peut mieux faire.
+Commentaire:Gros problèmes dans la rubrique prochains trains, l'application se comporte comme si elle limitait le nombre de réponses AVANT de filtrer sur la destination, résultat : au départ des grosses gares, on a souvent droit à un laconique "pas de trains pour cette destination" au lieu de la réponse attendue...
+DateCommentaire:30 octobre 2014
+NoteCommentaire:3

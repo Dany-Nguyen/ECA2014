@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Clan
+Commentaire: Le clan Critical20 recrute bonne entente !:) am
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

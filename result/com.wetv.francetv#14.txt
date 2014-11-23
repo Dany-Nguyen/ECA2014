@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Yes
+Commentaire: C la seul qui ne beugue pas mais j ai l impression qu'il y a que TF1 qui marche ! C est pas très grave ça mais moi ça me fait des qualité vraiment top nul mais a part ça c est juste trooop bien :-)
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

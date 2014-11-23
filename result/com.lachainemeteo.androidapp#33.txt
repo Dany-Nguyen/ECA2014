@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Pas content !
+Commentaire: Passage du Note 3 au 4 : vilain décalage de la météo par rapport à la carte nationale depuis ... prière de corriger rapidement puisque déja signalé par d'autres utilisateurs àpriori ! Merci.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

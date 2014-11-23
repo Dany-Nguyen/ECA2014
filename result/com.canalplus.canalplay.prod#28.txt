@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:On vire les series comme ça...
+Commentaire: Aucune date de fin de disponibilité des series du coup, moi qui avait commencé breaking bad je peux pas voir la suite... j'etait vraiment tenter par ce service VoD mais non... je vais faire comme avant : piratage. L'offre vod est vraiment trop naze en France faut pas s' étonné que les gens pirates les series.
+DateCommentaire:1 septembre 2014
+NoteCommentaire:1

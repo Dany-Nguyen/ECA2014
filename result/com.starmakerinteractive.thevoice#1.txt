@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Je ne peux pas maitre 0 étoile parce que...
+Commentaire: Je ne peux pas maitre 0 étoile parce que cette aplie est tros naz je ne comprend pas comment on joue mon son decu est tros naz .Moi cette aplie je lui donne 0 étoile. Cete aplie ma tériblement désue :'(
+DateCommentaire:22 octobre 2014
+NoteCommentaire:1

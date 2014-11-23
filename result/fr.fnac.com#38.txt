@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Super expérience !
+Commentaire: Un bon mix d'infos sur l'actualité des magasins (près de moi) et sur les offres produits. Avec une facilité pour retrouver tout le contenu de mon compte, notamment mes crédits. Donc bravo à la Fnac pour cette appli utile et agréable en prime, en terme de navigation.
+DateCommentaire:11 juillet 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:J'ai adoré mais...
+Commentaire: J'ai cette app depuis longtemps et depuis la dernière maj je l'ai pourtant télécharger mais il me dit l'app n'est pas installé WHAT? Donc ai désinstaller puis réinstaller et maintenant il mets 3 plombes a charger(sans succès). De toute façon je t'adore Cyprien! Mais j'espère quand même que vs allez régler ce blème et vite! Je reverrais ma note une fois que ceci sera fait.
+DateCommentaire:7 septembre 2014
+NoteCommentaire:5

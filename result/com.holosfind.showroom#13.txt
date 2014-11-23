@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Bof
+Commentaire: L'appli ne marche pas du tout se charge et se bloque sur l'accueil
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

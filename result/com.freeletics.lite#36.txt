@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Pas mal!
+Commentaire: J'en suis à ma 8e semaine c'est intense comme programme haha. Incluez les échauffements et étirements dans l'appli ce sera plus pratique ;).
+DateCommentaire:5 septembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Bien
+Commentaire: Ont peut enfin envoyé et recevoirs les messages depuis l'application Playstation (htc one x)
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

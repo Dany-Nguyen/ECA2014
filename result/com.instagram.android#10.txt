@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:
+Commentaire:es derniers temps, Instagram fait souvent planter mon téléphone, c'est pénible. Sinon, chez moi il est toujours impossible de poster des vidéos (maudite du U) et je trouve que la qualité photo a légèrement baissé. Autrement ça reste mon app de partage photo favorite.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

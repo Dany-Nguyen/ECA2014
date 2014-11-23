@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Nice
+Commentaire: I like this very useful app, even though its 10% slow
+DateCommentaire:20 octobre 2014
+NoteCommentaire:4

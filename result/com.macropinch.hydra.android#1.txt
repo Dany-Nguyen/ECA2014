@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Trop bien
+Commentaire: Ca marche c est vachement precis pour un téléphone en plus je suis avec un samsung galaxy s3 mini et je suis étonné
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Je vois pas l'intérêt d'avoir accès a nos photos vidéos appel etc..... Même plus d'intimité c pathétique
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

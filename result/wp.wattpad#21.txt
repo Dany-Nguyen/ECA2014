@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Parfait!
+Commentaire: C'est parfait comme apli! Ma fiction "He saved my life" est déjà a presque 2k de lectures 😁 Seule bémol : quand on mets une photo pour un livre, on ne peut pas le recadrer.. :/
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

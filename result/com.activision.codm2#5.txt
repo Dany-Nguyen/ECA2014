@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Bof
+Commentaire: Pour moi l'application charge puis me dit que la connexion au serveur a été perdue
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

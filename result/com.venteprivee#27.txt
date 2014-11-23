@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:
+Commentaire:Efficace en prix mais veillot en terme d'application
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

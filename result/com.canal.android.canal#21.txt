@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Médiocre
+Commentaire: Inutilisable depuis la dernière mise à jour, se plante avec une erreur d'authentification. Ergonomie moyenne, qualité de streaming aléatoire mais vers du mieux, replay limité à 40 secondes (!!!), publicités et permissions suspectes.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

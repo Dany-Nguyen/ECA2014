@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:
+Commentaire:Jaime lapplication mais je peut pas mettre trop de photos sinon lapplication se ferme et je dois tout recommencer.meme quand je met pas tant de photos sa fait sa
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

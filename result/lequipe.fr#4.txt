@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:vidéo
+Commentaire:franchement impossible de lancer une video avec cette appli; obliger de les ouvrir sur youtube c'est vraiment pqd terrible...
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

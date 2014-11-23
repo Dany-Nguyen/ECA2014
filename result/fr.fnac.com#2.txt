@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:C'est dommage elle ne fonctionne plus
+Commentaire: Pour noël en cadeau une appli qui ne fonctionne pas (impossible à lancer sur mon HTC one m8).. ça va pas être pratique!!
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:M a j . Nul
+Commentaire: J ai fait une m a j et tout beug. C est mm arreter je ne peux mm pas ouvrir. Rien de chez rien. Nul
+DateCommentaire:4 octobre 2014
+NoteCommentaire:1

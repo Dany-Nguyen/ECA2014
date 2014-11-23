@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Pub seulement
+Commentaire: On se connecte facilement pour regarder la pub...et ensuite coupure régulière durant l'ėmission. Cqfd
+DateCommentaire:4 novembre 2014
+NoteCommentaire:1

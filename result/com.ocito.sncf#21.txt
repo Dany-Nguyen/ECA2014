@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Pratique.
+Commentaire:Ça fonctionnait très bien mais c'était avant,les horaires ne tiennent pas compte de mes choix. LG G3
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

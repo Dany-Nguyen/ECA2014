@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:
+Commentaire:Franchement nul on n'entend pa la musique et on ne s'entend pas chanter pffff!!
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

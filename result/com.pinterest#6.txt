@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Source d'inspiration infinie
+Commentaire:Le site et le concept sont très bon et l'application Android n'y fait pas exception !
+DateCommentaire:1 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Dommage
+Commentaire: Cette application a l'air bien mais il faut payer bon d'accord c'est 2€ mais comment il font les moins de 16 ans ou tout simplement ce qui n'ont pas de carte de paiement ? Eh bah on pas utilisé l'applie !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Nul
+Commentaire: Je ne peux pas me connecter sur m'as ps4 et le comble c est que j ai un téléphone sony xperia nul application qui ne sert à rien
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

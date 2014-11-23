@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Pas a jour
+Commentaire:Annonce des horaire alors qu'en gare c'est pas du tout pareil. 20mn d'attente par rapport a l'horaire annoncé par l'appli
+DateCommentaire:28 juillet 2014
+NoteCommentaire:1

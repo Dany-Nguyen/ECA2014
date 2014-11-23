@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:Orange Intel inside
+Commentaire: Excellent.!!!
+DateCommentaire:13 juin 2014
+NoteCommentaire:5

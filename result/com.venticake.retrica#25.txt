@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Mise a jour ?
+Commentaire: Besoin d'une mise a jour pour les wiko wax, quand je prend une photo et que je veux la regarder je m'aperçois que l'image est entièrement noire je ne comprend pas, j'ai beau ré-installer l'application ça fait toujours pareil :/
+DateCommentaire:12 novembre 2014
+NoteCommentaire:2

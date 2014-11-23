@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Ce serait mieux si je pouvais l'ouvrir ...
+Commentaire: Impossible d'ouvrir l'application, j'ai un message comme quoi l'application s'est arrêtée ...
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Super
+Commentaire:Ce qui me manqait pour reussir les paris ,coool.
+DateCommentaire:20 septembre 2014
+NoteCommentaire:5

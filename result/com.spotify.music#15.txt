@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Très bonne appli
+Commentaire: Je mettrais 5 étoiles quand on pourra choisir la musique que l'on veux écouter et pas mettre en lecture aléatoire sans compte premium
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

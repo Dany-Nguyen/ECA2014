@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Ne fonctionne plus
+Commentaire:Depuis la dernière mise a jour, l'application ne s'ouvre plus. Le SAV ne semble pas savoir d'où vient le problème.
+DateCommentaire:2 octobre 2014
+NoteCommentaire:2

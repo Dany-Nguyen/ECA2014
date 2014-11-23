@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Dernière mise a jour a revoir
+Commentaire:Je reçois plus de notification !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

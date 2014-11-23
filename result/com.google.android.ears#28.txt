@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Peut mieux faire
+Commentaire: Parfois moins bon que ses concurrents mais il manque surtout un lien direct pour ajouter aux playlist des utilisateurs "all access" de Google music...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

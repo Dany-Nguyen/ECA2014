@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:HTC ONE M8 Très pratique
+Commentaire: Personnellement je m'en sers pour pré-commander des jeux ou autre article + soldes a la une, Tip Top !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

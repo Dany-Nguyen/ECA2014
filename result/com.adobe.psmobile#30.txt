@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:
+Commentaire:Je le vis. C'est ça ma passion. Ahhhhhhh ouais c'est bien super. Je kiffe très bien la nouvelle version
+DateCommentaire:17 septembre 2014
+NoteCommentaire:5

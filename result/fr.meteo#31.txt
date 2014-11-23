@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:De mieux en mieux
+Commentaire: Remarques des utilisateurs prises en compte ce qui a grandement amélioré l'application qui était à mon sens inutilisable avant. La navigation est plus claire mais des ralentissements se font ressentir, l'application n'est pas très fluide mais sur la bonne voie.
+DateCommentaire:18 septembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Excellente
+Commentaire: Très bonne application. Pour contacter la cpam par message ça fonctionne très bien et réponse a chaque fois de leur part. Ce qui serait bien c'est qu'avec l'appareil photo on puisse envoyer les documents demandé par pièces jointe.
+DateCommentaire:24 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Application proche de la perfection
+Commentaire: Parfaite appli malgré le fait qu elle n ai pas su la laisser totalement gratuite rien qu en gardant les pubs audio
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

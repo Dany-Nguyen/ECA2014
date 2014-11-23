@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Bien
+Commentaire: Problème, peu rapide et lorsque qu'on a le titre de la musique entendue j'aimerais bien en savoir plus sur cette musique → date, album, etc..
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

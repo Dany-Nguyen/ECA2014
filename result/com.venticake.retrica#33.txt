@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:On ne peux pas savoir sur quel effet on est. Dommage. Trop de pub et bug des fois
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

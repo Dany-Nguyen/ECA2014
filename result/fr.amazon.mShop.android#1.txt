@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Tortue 🐢
+Commentaire: Pourquoi c'est devenu lent? Je regarde les deals et ça prend un temps fou... Avant ça marchait bien, mais c'était avant.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

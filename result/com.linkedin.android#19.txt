@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Bien portée sur mobile
+Commentaire:L'application reprend l'essentiel de l'application sur pc, réorganisé pour satisfaire les contraintes du mobile.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

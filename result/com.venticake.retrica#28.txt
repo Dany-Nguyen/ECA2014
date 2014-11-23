@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Moyen 😞
+Commentaire: Il lague lorsque je tourne la caméra.. C'est dommage, sinon, très bien 👍♥
+DateCommentaire:21 octobre 2014
+NoteCommentaire:3

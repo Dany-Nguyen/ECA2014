@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Application essentielle mais pas toujours fiable
+Commentaire:Et oui, combien de fois ça m'est arrivé de vouloir consulter les horaires de train, mais le service était indisponible. Très frustrant quand on sait qu'elle peut vite devenir un incontournable pour les personnes prenant le RER quotidiennement. Donc la fiabilité de l'appli est à améliorer, sinon globalement elle fait ce qu'on attend d'elle.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Ras le bol
+Commentaire:Bug tous le temps hier je n'arrivais plus à me connecter et après mise à jour l'actualité ne se met pas à jour ça me gonfle faite quelque chose
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Génial
+Commentaire:J'adore ce réseau social !
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

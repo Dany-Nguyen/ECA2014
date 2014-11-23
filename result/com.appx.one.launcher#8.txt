@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Excelkente application
+Commentaire: Une excellente application sans pub est gratuite. Aucun bug jusqu'à maintenant alors que ça fait environ deux mois que je l'utilise. Énormément de fonctionnalités en plus comme par exemple on peut choisir comment on veut que les pages se tournent. À avoir de toute urgence.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

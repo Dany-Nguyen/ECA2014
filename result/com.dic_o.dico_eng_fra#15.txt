@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Très bien
+Commentaire: Très bien malgré il manque un peu de vocabulaire. Mais dans l ensemble il fait bien son boulot pour un app gratuit, bravo !
+DateCommentaire:20 février 2013
+NoteCommentaire:5

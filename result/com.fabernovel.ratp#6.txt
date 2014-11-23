@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Bien mais les itinéraires ne fonctionnent pas
+Commentaire:La refonte a l'air top mais les itinéraires ne marchent pas, il me dit que la connexion est impossible et que je dois être déconnectée alors que ce n'est pas le cas :(
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

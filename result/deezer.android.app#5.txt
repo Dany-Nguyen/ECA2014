@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Spotify est meilleur
+Commentaire: J'ai testé spotify, Google play music et ça. Sur deezer on se moque carrément de vous par rapport a spotify pour les premium. Service saturé de bug pour une même connexion musique plus lente a charger sur deezer etc
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

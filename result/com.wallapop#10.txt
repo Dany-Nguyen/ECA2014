@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Acheter et vendre
+Commentaire: Bonne appli, bonne idée, mais le moteur de recherche doit me prendre pour un espagnol... A corriger svp.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

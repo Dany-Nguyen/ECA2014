@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bug !
+Commentaire:L'appli n'indique pas les dispos : carte vide ! Me suis rabbatu sur univélo ....excellent !
+DateCommentaire:15 septembre 2014
+NoteCommentaire:2

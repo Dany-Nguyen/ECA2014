@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Fais ce qu'on lui demande
+Commentaire: Très bonne application. Le petit plus est la télécommande. En revanche je regrette toutes ses pub donc moins 1 étoile.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

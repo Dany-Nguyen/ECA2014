@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Très déçue..
+Commentaire: Avant l'appli fonctionnait parfaitement, mais apres la derniere MAJ, il faut attendre une éternité pour que les infos s'affichent. Des tonnes de pubs et ça me prend 35Mo de ma memoire interne.. je desinstalle
+DateCommentaire:2 octobre 2014
+NoteCommentaire:1

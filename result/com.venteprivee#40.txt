@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Pas accès a la rubrique mes commandes
+Commentaire: Autant c'est assez fluide les achats, mais il est impossible d'accéder aux autres ongles. La page mes commande reste blanche impossible donc d'avoir accès a un suivi de nos achat et de l'avancement de nos commandes
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

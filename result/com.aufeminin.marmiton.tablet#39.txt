@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Mauvaise navigation
+Commentaire:On ne peux pas parcourir des recettes sans taper de mots clé. Et si on ne sais simplement pas cuisiner?
+DateCommentaire:12 octobre 2014
+NoteCommentaire:1

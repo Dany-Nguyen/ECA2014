@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Pénibles
+Commentaire:Obligée de l installé car je suis spam pour le mettre. impossible de regarder le site sur firefox car celui si m oblige a l installé. F***
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

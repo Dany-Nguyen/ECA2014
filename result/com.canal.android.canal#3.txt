@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:
+Commentaire:Ne fonctionne pas pour le live depuis dernière mise a jour su nexus 10. A quoi serve les test de non régression? passage sous Android 5 et a nouveau plus rien qui marche 😢 OK avec mise a jour du 20/11/14
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

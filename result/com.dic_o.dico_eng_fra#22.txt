@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Nul
+Commentaire: C de la merde car il ya des pub ça beuge ça mérite même pas une étoile
+DateCommentaire:18 septembre 2014
+NoteCommentaire:1

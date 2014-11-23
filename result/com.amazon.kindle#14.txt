@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Liseuse énergievore
+Commentaire: Très bonne liseuse, mais consomme trop de batterie et impossible à arrêter! Elle se lance au démarrage de l'appareil et consomme un mini de 15% de la batterie en utilisation normale sans l'utiliser....
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

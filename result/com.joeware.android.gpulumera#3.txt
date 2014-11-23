@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:BOF
+Commentaire: ya que 2 efets qui marche boen .. sinn tt les autre ons un problem ya dee traces rouge qui apparèsse ..
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

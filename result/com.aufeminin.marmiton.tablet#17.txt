@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:
+Commentaire:e serait super si l'on pouvait mettre des annotations persos (je ne parle pas de com) comme les annotations que l'on pourrait mettre au crayon sur un livre de cuisine
+DateCommentaire:6 octobre 2014
+NoteCommentaire:4

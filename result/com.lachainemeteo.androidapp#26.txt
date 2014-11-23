@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Bien
+Commentaire: Prévisions assez correctes. Mais problème avec le widget : se désintalle à chaque fois que j'eteinds mon tel Samsung Galaxie Gia.
+DateCommentaire:3 octobre 2014
+NoteCommentaire:1

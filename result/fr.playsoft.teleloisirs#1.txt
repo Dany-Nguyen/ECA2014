@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bof
+Commentaire: Publicités omniprésentes. Par moment, elles occupent pratiquement la moitié de l'écran. Trop c'est trop.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

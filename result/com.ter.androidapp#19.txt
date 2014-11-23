@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Maj : fonctionne à nouveau
+Commentaire:Dernière mise à jours résous les précédents problèmes Application très pratique
+DateCommentaire:28 avril 2014
+NoteCommentaire:5

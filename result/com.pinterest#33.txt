@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Gros coup de coeur
+Commentaire:Une magnifique application... Pleins d'idées, pleins d'astuces. En un mot genialissime
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

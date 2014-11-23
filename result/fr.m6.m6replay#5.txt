@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Aucune réactivité! !!
+Commentaire: C'est bien de rétablir rapidement le son sous Android 5.0 mais cela des semaines qu'un autre problème à été signalé et n'est toujours pas résolu. J'ai un bon (très bon smart phone, le GS5) donc ce n'est pas un souci matériel. .. Malgré de nombreux retours å ce sujet, certains (dont je fais parti) ne peuvent voir que la pub sur le direct ou le replay. Cela sera t il corigė un jour ou vos corrections sont sélectives ?.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

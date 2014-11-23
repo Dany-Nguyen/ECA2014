@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:
+Commentaire:Il manque tout de même les paroles en temps réel...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

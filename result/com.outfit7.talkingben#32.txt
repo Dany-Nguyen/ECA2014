@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:
+Commentaire:Super mon petit fils de 23 mois est ravi ainsi que toute la famille
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

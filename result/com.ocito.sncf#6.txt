@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Visuellement dépassé et lente.
+Commentaire:Visuellement dépassé, changement entre onglet lents et sans transitions (une application qui n'est pas développé avec le sdk natif d'Android et sans le look holo). Manque les gares de la RATP pour la création de trajet favoris. La recherche de trajet n'est q'une page web dans l'appli, nul !!! :-(
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

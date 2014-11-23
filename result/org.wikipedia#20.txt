@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:
+Commentaire:Le meilleur ami des étudiants :)
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

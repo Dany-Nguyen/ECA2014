@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Bug
+Commentaire: Des que le veux lencer l'appli' ca ne marche pas help me pease !!! Sinon moi j'adore cyprien et squeezie il so t trop bien surtut squeezie je vous le comselle fortement il commente des jeux pendant qu'il y joue :) ¡hola!
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:C'est cool.
+Commentaire: Mais dés fois la température ne concorde dans mon pays.
+DateCommentaire:12 janvier 2014
+NoteCommentaire:4

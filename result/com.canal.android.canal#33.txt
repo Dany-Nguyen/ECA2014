@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Maj
+Commentaire: Depuis la maj je n'ai plus accès aux films et aux séries à la demande pourtant tout marchait bien avant! Ça ne sert à rien d'offrir canalplay si c'est pour bloquer les films sur mycanal pourtant ça allait sue mon galaxy s5
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

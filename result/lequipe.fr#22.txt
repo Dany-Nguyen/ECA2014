@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:L'equipe
+Commentaire:Bonne appli mais quand tu veux lire les rubriques du jour payant chiant, il faut améliorer mais autrement pas mal.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

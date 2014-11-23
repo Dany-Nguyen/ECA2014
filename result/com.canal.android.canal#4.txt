@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:probleme
+Commentaire: depuis la mise a jour impossible d ouvrir l application l ecran reste en noir malgre mais desinstallations et reinstallations de l application ...merci de remedier a ce soucis.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

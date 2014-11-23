@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Très bonne application
+Commentaire:Application qui apporte plus que là simple détection des radars.
+DateCommentaire:26 septembre 2014
+NoteCommentaire:4

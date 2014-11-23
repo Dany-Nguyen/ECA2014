@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Plantages sur plantages
+Commentaire: Fonctionne si vous ne faites pas de filtres, mais avec un ou deux filtres plante à tous les coups. Modèle téléphone Note 3.
+DateCommentaire:22 septembre 2014
+NoteCommentaire:2

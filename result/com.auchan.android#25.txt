@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:
+Commentaire:Très déçu de l'application depuis la dernière mise à jours car impossible d'avoir les catalogues ou alors ceux qui apparaissent dates du mois dernier, sans parler des beug à répétition et une mise en page pourri l'ancienne était beaucoup mieux.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

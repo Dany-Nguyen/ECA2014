@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Super
+Commentaire: Tres bonne correction . L appli est redevenue fluide et super. Ça valait le coup de patienter .
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

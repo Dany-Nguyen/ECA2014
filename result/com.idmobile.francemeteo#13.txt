@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Appli très agréable
+Commentaire: Design original selon le sens de la tablette ou du téléphone. Prévisions à 10 j, ce qui permet de se faire une idée. Ensuite question fiabilité, c'est selon les indications de météo France. .. la météorologie n'est pas une science exacte. Je recommande.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

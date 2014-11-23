@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Erreur toujours
+Commentaire: Que des erreurs PS07 et FX10, depuis le lancement de l'application rien de fonctionne. wifi ou 3g pareil. Server_died
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

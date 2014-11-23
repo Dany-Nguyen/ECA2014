@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Au secours
+Commentaire: Impossible de valider mon panier, l appli se ferme tjrs au moment de valider mon tel pr livraison en relais.... Pénible....
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Mauvaise qualité d'image
+Commentaire: Je met deux étoiles pour le côté pratique de l'appli mais image pourrie sur mon galaxy note, pourtant avec un écran hd.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

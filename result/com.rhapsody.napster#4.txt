@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Rempli de beug ...
+Commentaire: Lors d'un appel l'application se coupe la musique reprend pas après l'appel... désagréable en voiture ... après vraiment pas pratique à l'utilisation...
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

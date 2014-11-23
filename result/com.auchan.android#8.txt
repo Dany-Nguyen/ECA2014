@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Toujours pas
+Commentaire: Toujours pas de mise à jour du solde et impossible d'enregistrer une carte
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

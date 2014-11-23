@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Bien sur ma tablette xperia tablette Z
+Commentaire:Très bonne application, pour suivre l'actualité du rugby, seul petit problème sur certaines vidéos il n'y a pas de son.
+DateCommentaire:6 avril 2014
+NoteCommentaire:4

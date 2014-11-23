@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Plus de télécommande
+Commentaire: Notes3. Depuis la dernière maj, je n'ai plus la télécommande. L'application ne me sert que de journal tv... Cette perte de qualité est très dommage.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

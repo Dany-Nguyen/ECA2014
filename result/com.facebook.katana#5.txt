@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:roblème sérieux avec le chargement des commentaires qui beugent ou se dupliquent ! Il faut reessayer plusieurs fois avant que ça ne marche
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Très buggé sur mon Galaxy Mega
+Commentaire:Malgré mes nombreuses réinstallation de l'application, elle persiste à planter au moindre menu sélectionné. Je ne peux littéralement rien faire avec. Dommage, ne pouvant pas afficher les QR Code sur l'application Voyage SNCF, cette appli aurait pu résoudre le problème appartement.
+DateCommentaire:9 juin 2014
+NoteCommentaire:1

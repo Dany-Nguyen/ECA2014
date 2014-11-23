@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Simple et rapide
+Commentaire:On a les infos qu'il nous faut, simplement et rapidement! Bref l'idéal!
+DateCommentaire:22 septembre 2014
+NoteCommentaire:5

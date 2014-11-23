@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:
+Commentaire: quand les paris sur mobile sous android
+DateCommentaire:29 août 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Push Ups Work
+IdApplication:com.northpark.pushups
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:99 605
+TitreCommentaire:Rian a redire
+Commentaire: Excellent en complément de mon entrainement de course a pieds pour le renforcement physique. J utilise aussi la même application pour les pompes et les squats. Parfait :)
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

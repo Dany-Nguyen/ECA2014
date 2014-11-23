@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Free ?
+Commentaire: Version d'essai d'une semaine. Ce n'est pas très honnête de la présenter comme gratuite sans aucune indication du prix final. très lent, inutilisable . Je desinstalle.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Pas mal
+Commentaire: Très bonne appli. Seul défaut elle ne veux pas ce connectez a la console . mais g accès a mon compte sans problèmes
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

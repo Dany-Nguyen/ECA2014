@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Utile
+Commentaire: Je m'en sert pour me tenir informé des sorties ciné et connaître les séances proche de chez moi.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

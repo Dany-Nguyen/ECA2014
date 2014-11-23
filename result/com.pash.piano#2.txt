@@ -1,0 +1,9 @@
+NomApplication:Piano For You
+IdApplication:com.pash.piano
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:15 535
+TitreCommentaire:Toujours aussi étonnant.
+Commentaire: J'ai découvert Piano For You grâce à AppGratis et cette mise à jour apporte un petit plus indéniable. Bravo au développeur.
+DateCommentaire:17 septembre 2014
+NoteCommentaire:5

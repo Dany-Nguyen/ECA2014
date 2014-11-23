@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:n peu lourd (il vaut mieux avoir la 4g ) mais complet
+DateCommentaire:2 juillet 2014
+NoteCommentaire:5

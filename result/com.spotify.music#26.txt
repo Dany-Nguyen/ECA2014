@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:Problème récurrent, on ne peut pas choisir le morceau qu'on veut écouter mais uniquement lecture aléatoire...
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

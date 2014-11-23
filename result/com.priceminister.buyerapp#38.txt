@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Super
+Commentaire: Au moins pour tout mes achats pas de soucis. Pour vendre à voir lorsque je ferai une vente
+DateCommentaire:16 septembre 2014
+NoteCommentaire:4

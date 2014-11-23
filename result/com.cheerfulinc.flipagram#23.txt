@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Flipagram
+Commentaire: C est genial mais on entend pas la musique et c nul
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

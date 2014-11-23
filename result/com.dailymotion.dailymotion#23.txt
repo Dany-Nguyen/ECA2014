@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Pub
+Commentaire: Vous êtes vraiment obligés de rajouter une bannière de pub ? La pub sur les vidéos ne suffisait pas ?
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

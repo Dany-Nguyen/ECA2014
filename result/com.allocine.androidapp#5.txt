@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Super appli
+Commentaire: Super appli, je rencontré rarement des bugs ce qui est agréable. Petit soucis quelque fois sur la salle où je vais où les films ne sont pas répertoriés. Sans cela appli génial et bien riche
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

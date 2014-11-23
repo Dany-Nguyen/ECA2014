@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:
+Commentaire:uper même si on ne peut pas voir la photo de fond
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

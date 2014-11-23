@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Moins de beug mais
+Commentaire: L'application ne se ferme plus toute seule, mais lorsque que j'écoute certains morceaux, la lecture se bloque et passe au morceaux suivant... Et l'esthétique de l'application n'est pas terrible.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Classe
+Commentaire: J'ai un problème avec l'application , je n'arrive pas à trouver Google Store , et lorsque je veux retourner a l'interface , il ne veux pas y aller , j'espère que dans la prochaine mise à jour these bugs seront corrigé
+DateCommentaire:11 novembre 2014
+NoteCommentaire:3

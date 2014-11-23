@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Au top
+Commentaire: Manque juste un tit rappel de temps en temps pour ne pas louper ses entraînements.
+DateCommentaire:5 septembre 2014
+NoteCommentaire:5

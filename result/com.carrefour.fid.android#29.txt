@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:très bien
+Commentaire: plus de e chèque à imprimer ni à mettre sur son portable tout ce fait à la caisse avec le code secret que l.on a bravo carefour
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

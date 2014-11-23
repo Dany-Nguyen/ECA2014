@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Urgent !
+Commentaire: Il serait temps de faire des mise a jour ! Parce que sur iPhone ces pas la même choses ! Et ça fonctionne très bien l'application cinéma Gaumont de iPhone !
+DateCommentaire:2 septembre 2014
+NoteCommentaire:2

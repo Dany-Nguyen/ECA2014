@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:Toujours des beugs..
+Commentaire: j'ai jamais eu une appli qui se fermait aussi souvent avec écrit "picsart a cesser de fonctionner"
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

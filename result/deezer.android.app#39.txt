@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Mise à jour
+Commentaire: Depuis la dernit mise à jour impossible d'écouter de la musique. Ça ne charge pas, ou ça coupe en plein milieu, et les musiques ne passe pas automatiquement aux suivantes. Je paye pour avoir de la musique en illimitée ! Pas pour à peine quelque secondes.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

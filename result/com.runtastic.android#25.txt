@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:mankayenne
+Commentaire: vraiment trop bien.... sa donne de la motivation quand on visualise les km qu'on avale...petit bémol sur les données vocale en en anglais
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

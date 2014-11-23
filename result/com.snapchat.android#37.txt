@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Problème depuis mise a jour android 5
+Commentaire:Problème sur Android 5 tactile bug quand j'ouvre une vidéo ( vraiment que pour snap ) et quand la vidéo s'ouvre elle tourne mais il y'a quand meme un carré "impossible d'ouvrir la video"
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

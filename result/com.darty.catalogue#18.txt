@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Bien mais!!!
+Commentaire: L'option filtrer ne marche toujours pas même avec la nouvelle mise à jour! Pour le reste j'aime les avis clients et aussi le détail sur les articles.
+DateCommentaire:26 septembre 2014
+NoteCommentaire:1

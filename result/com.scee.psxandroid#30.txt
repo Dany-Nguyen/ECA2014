@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Pourquoi? ???
+Commentaire: Chargement impossible quand vais sur profil ou message je peut même pas en envoyé vous êtes sérieux la ??? A remédié illico car cest trop énervant merci
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

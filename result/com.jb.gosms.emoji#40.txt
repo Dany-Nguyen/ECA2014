@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Code d'erreur -24
+Commentaire: Desinstallée puis installée a nouveau et ça passe. Sinon fait son taf nickel.
+DateCommentaire:28 août 2014
+NoteCommentaire:5

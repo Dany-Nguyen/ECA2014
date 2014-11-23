@@ -1,0 +1,9 @@
+NomApplication:Mirror Photo:Editor&Collage
+IdApplication:com.llapps.mirrorphoto
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:162 795
+TitreCommentaire:Aplication génial !
+Commentaire: Cette aplication pour les photos est vraiment TOP !! On comprend vite comment il faut faire , si vous n'aimez pas les photos double , il peut aussi faire en une 😊 !! Une aplication que je vous conseille télécharger grandement ! On peut mettre nos photos de galerie et photo en utilisant l'appareil ! Juste en 1 mot : Super
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

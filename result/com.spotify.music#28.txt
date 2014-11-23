@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Super choix(ou pas)
+Commentaire: On est obligés de faire lecture aléatoire ou de casquer... Allez vous faire spotify
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

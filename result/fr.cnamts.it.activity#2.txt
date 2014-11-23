@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:
+Commentaire:L'application elle est très utile pour accéder a nos informations par exemple les remboursements juste un défaut elle se déconnecté tous seul on a pas le temps de voir nos informations juste ça. Merci
+DateCommentaire:25 septembre 2014
+NoteCommentaire:3

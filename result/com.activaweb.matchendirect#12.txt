@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Gros bug
+Commentaire:A chaque fois que je lance l'aplication elle se ferme et affiche "resultat foot s'est arreter
+DateCommentaire:30 octobre 2014
+NoteCommentaire:1

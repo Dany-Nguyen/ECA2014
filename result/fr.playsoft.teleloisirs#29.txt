@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Pratique
+Commentaire: Très pratique pour tout les flemmard dans mon genre. Exemple: vous êtes dans le canapé et avez pas envie de bouger vous ne savez pas se qu'il y a à la télévision et le Télé-Loisir est sur la table basse dilleme... Et la votre téléphone est juste a côté de vous ! Miracle !! Vous pouvez regarder les programmes de la télé sans vous bougez !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

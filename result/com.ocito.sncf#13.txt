@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Non recommandable
+Commentaire:A l'instant ou chacun en a l'utilité, la connexion devient impossible. Sans doute, comme pour le reste, (infrastructures, materiel roulant, effectifs, formation du personnel, etc.) le dimensionnement est classé au rang des oubliettes. A garder en tant qu'application pour le folklore.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

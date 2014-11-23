@@ -1,0 +1,9 @@
+NomApplication:PlayTube Mp3 Mp4 YouTube
+IdApplication:com.mattia.videos.manager
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:267 315
+TitreCommentaire:Gros bug
+Commentaire: L'application ne sert au final que à regarder les vidéos en ligne, car des que j'essaye de télécharger une vidéo pour pouvoir les regarder hors ligne je reçois "Error 403". Autant utilisé YouTube a ce moment là. Il y a un plus grand choix de vidéo...
+DateCommentaire:7 septembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:
+Commentaire:epuis la dernière maj du22/9/14 le programme se plante d'office a l'ouverture arrangé ça le plus vite possible
+DateCommentaire:25 septembre 2014
+NoteCommentaire:2

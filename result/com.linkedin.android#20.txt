@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Ne pourrais pas vivre sans!
+Commentaire:Les mises à jour fréquentes font de cet outil, un indispensable compagnon.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

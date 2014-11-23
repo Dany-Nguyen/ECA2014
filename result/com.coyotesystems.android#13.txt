@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Très bien mais.....
+Commentaire:Fonctionne très bien, mais les alertes ne passent dans le Bluetooth de la voiture, donc aucun son lors de radar ou autre. Voilà le pourquoi des 4 étoiles.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

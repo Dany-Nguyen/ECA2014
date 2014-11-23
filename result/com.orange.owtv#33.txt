@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Appli Non fonctionnelle sur XperiaT
+Commentaire: -Déformation de l'image en plein écran depuis maj estivale. -"Service indisponible .." message reçu sur OCS où je suis abonnée & tv à la demande. #Veuillez corriger en urgence !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

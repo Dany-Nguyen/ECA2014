@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:En progrès
+Commentaire:Continuer ainsi. Mais je la desinstalle tout de même car le GPS reste activé alors que j'ai quitté l'application :( Univélo Paris reste la meilleure app
+DateCommentaire:24 février 2014
+NoteCommentaire:4

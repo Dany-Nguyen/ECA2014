@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bof bof
+Commentaire:Trop souvent indisponible, très difficile de lire les notifs (je n'ai que les 1er mots) assez inutile comme appli !
+DateCommentaire:5 octobre 2014
+NoteCommentaire:1

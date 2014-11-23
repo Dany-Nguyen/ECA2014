@@ -1,0 +1,9 @@
+NomApplication:Minuteur d'exercice
+IdApplication:com.neurondigital.exercisetimer
+CategorieApplication:Sports
+NoteApplication:4,1
+NombreVotants:1 381
+TitreCommentaire:Sport
+Commentaire:Jaime bcp
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

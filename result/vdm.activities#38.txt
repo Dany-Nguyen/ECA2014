@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Léger retard
+Commentaire: Appli bien penser sauf que je reçois les notifications juste après l'avoir quittée !
+DateCommentaire:11 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Fichtrement sympatoche
+Commentaire: Une application ma foi pas vilaine il faut l'avouer mais pourquoi donc est-ce que quand on passe à une autre application elle redémarre ? C'est fichtrement enquiquinant quand on est sur une annonce intéressante et on veut faire une recherche sur cet objet sur la toile ( aussi prénommé Internet)
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

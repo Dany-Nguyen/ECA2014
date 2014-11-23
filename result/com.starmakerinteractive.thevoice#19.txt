@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:J'adore!!
+Commentaire: Cette appli est vraiment géniale .elle me permet de m'ameliorer en chant . J'ai tester beaucoup d'appli concernant le chant mais aucune n'etais vrement c'elle qui me fallait. Je me suis beaucoup ameliorer et je remercie la personne qui a créé cette appli merci ;)
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

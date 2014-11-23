@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Nombre d'étoiles parle de lui-même!
+Commentaire: Superbe appli, rien à dire. Un grand merci.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

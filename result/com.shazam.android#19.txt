@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Très bien et une suggestion.
+Commentaire: Trop lente à démarrer sur iPhone, ouverture instantanée sur android, que j'utilise maintenant. Petit bémol, la bibliothèque de shazam, qui ne reconnait pas assez de chanson à mon goût. Peut-être qu'une idée à développer serait de pouvoir faire écouter des morceaux à shazam et d'en mettre sa description soit même afin d'en enrichir sa bibliothèque...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

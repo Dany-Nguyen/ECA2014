@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Bonne appli
+Commentaire:Il manque un lien pour les matchs en direct quand on est abonné à Rugby+
+DateCommentaire:30 août 2014
+NoteCommentaire:3

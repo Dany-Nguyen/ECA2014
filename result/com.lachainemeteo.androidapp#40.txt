@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Dommage
+Commentaire: C'était mon application météo depuis le début. Mais la localisation ne fonctionne plus et me vide la batterie.
+DateCommentaire:12 août 2014
+NoteCommentaire:3

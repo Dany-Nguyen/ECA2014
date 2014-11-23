@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Ne fonctionne toujours pas version 20 nov
+Commentaire: Marche super bien sur version 4.4 mais sur ma nexus 9 avec version 5 android ne fonctionne plus. Vite l adaptation svp pour cette option payante de canal. Ne fonctionne toujours pas avec la version du 20 novembre
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

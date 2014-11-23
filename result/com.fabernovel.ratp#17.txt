@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Trop de bugs
+Commentaire:Beaucoup trop de bugs lorsque je cherche une station et voir les temps d'arrivée des bus. Il est possible de mettre une station en favori mais impossible d'avoir un raccourci ou pouvoir y accéder rapidement ensuite. Je dois souvent t fermer l'application pour la relancer.. Vraiment pas optimal. La version sur ios semblait plus soignée... Dans l'attente de mieux! :)
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

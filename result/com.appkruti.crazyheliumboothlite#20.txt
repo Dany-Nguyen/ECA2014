@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:J'adore!!
+Commentaire: Cette application est vraiment bien pour ceux qui aime faire des vidéo comme sa... Mais ce qui est chiant quand on regarde la vidéo les voie son décalé.
+DateCommentaire:9 octobre 2014
+NoteCommentaire:5

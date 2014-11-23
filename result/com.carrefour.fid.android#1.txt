@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Minable...
+Commentaire: C'est vraiment petit, cette politique d'attirer la clientèle avec de pseudo promotions et e-chèques, qui ne sont plus générés par cette appli. On se moque vraiment de nous... La concurrence existe heureusement, et Carrefour va se mordre les doigts à force de prendre ses clients pour des c***.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

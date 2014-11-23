@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Très bien. Ajouter la Voie Lactée.
+Commentaire: A la foi simple et assez complet pour situer les étoiles, aborder les notions de base. Et se poser des questions sur les décalages entre 12h et position du soleil et autres. Avec le réglage capteur lent et un fort amortissement, l'image est assez stable et assez fluide. Sinon elle est trop sautillante en version 1.6.4. Je pense qu'il faudrait décaler les valeurs moyennes de ces deux réglages. J'aimerais aussi situer la voie Lactée. Et améliorer l'usage comme boussole qui n'est représentée que par N S E O et qui pourrait l'être dans 12 ou 16 directions.
+DateCommentaire:17 octobre 2013
+NoteCommentaire:4

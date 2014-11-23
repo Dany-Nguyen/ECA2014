@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Pourrait être amélioré
+Commentaire: Beaucoup de bug d'affichages, après la dernière mise à jour. Appli lente mais pour la saisie. Dommage
+DateCommentaire:24 septembre 2014
+NoteCommentaire:3

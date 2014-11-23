@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Manque 1 info
+Commentaire: Impossille de trouvé mon porte monnaie une lacune importante qu'il faudrait rectifier
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

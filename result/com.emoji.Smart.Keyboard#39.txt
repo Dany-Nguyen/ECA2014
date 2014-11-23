@@ -1,0 +1,9 @@
+NomApplication:Emoji Smart Android Keyboard
+IdApplication:com.emoji.Smart.Keyboard
+CategorieApplication:Social
+NoteApplication:3,6
+NombreVotants:43 618
+TitreCommentaire:je rejoint coline baes sa m marche pas
+Commentaire:Sa vous seulement si vou voulez mettre des jeu ou pas c de laMERDE !!!!!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:C'est l'une des meilleures!
+Commentaire: Malheureusement quelques fichiers, quand on fait zoom, ne veulent pas passer de page en page...
+DateCommentaire:26 octobre 2014
+NoteCommentaire:5

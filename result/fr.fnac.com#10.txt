@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:NE SERT À RIEN
+Commentaire: on ne faire aucune commande depuis 15 jours puisqu'il y a un message nous indiquant de retourner à l'accueil et qu'ils sont désolé. si on arrive à pouvoir passer le cap de la commande, l'opération ne peut se finaliser jusqu'au règlement. Bref, je désinstalle.
+DateCommentaire:1 septembre 2014
+NoteCommentaire:2

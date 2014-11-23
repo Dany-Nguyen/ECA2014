@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Plutôt opérationel
+Commentaire: Très utile pour visualiser des photos même sur smartphone. Par contre, pour importer il vaut mieux utiliser un PC (sauf si les photos sont prises à partir du téléphone)
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

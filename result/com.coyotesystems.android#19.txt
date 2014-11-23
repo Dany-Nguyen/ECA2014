@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Long au démarrage.
+Commentaire:Depuis la dernière mise à jour, très long au démarrage. Reste bloqué sur l'écran vert avec le message préventif. Sinon c'est parfait.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

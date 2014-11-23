@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Superbe mais...
+Commentaire: L'application en elle même est superbe et aurait mérité 5 étoiles mais une seule chose gâche tout ! Il est impossible de réinstaller une application ou un raccourci quand celui-ci ou celle-ci ont été effacés. Vivement qu'une mise à jour corrige ce problème majeur sur Android.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

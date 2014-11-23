@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Problème
+Commentaire:J'ai un gros problème avec Snapchat mon écran est tout noir quand je veut prendre des photos . Avez- vous une solution ??
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

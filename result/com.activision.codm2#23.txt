@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Problème embleme
+Commentaire: Pas moyen de sauvegarder mon embleme. Sinon à part ça sans appartenir à un clan elle ne sert à rien ...
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

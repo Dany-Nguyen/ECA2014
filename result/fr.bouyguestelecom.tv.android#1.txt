@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Devenu pitoyable ...
+Commentaire: On me demande une adresse mail et un mot de passe ... ( nouveauter debile ) et en plus de sa soit disant je ne suis pas client ... Je sais pas réfléchissait 5minute pourquoi utiliser cette application qui ne marche que avec une puce bouygue ? ... bref une etoile car ces le minimum ... decu de cette apli ...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Super partenaire
+Commentaire: Beaucoup de statistiques très intéressantes !
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

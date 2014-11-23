@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:merci
+Commentaire: merci d'avoir fait la mise à jour cela était urgent je ne pouvais plus utiliser cette application sans qu'elle ne s'arrête sans que je ne l'utilise
+DateCommentaire:11 octobre 2014
+NoteCommentaire:5

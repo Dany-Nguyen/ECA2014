@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:excellente
+Commentaire: excellente liseuse. Petit bémol lorsque les livres n'ont pas de couverture, il est difficile de les différencier.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

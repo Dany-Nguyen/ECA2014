@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:De mieux en mieux !
+Commentaire: L'application a bien évolué depuis peu mais il reste encore quelques défauts à mon goût. L'intégration des vidéos dans les articles n'est pas idéale. Le fil des news devrait pouvoir permettre de les trier par catégorie afin de vite trouver ce qu'il nous intéresse. Continuer comme ça on n'est plus très loin de la cinquième étoile 😉
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

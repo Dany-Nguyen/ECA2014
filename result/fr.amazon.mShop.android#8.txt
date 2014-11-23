@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Plus
+Commentaire: long au demarrage depuis la dernière maj
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Appli interessante
+Commentaire:Je ne comprenais pas trop l'intérêt au départ mais finalement c'est une mine d'information quand on s'y habitue! Une étoile en moins tout de même puisqu'il n'est pas possible de gérer les résultats par rapport à la langue, ou alors je n'ai pas encore trouvé! ;) Mais dans l'ensemble ca ne vaut pas le coup de s'en priver!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

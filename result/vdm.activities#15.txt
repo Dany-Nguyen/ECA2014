@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Pun de m****
+Commentaire: Ca va faire a peu pres un mois que le pop up de pub me les brise. C'est très désagréable d'autant que ca fait entrer sur google play systématiquement.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

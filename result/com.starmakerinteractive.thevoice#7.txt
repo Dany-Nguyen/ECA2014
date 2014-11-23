@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:5 etoile c'est super
+Commentaire: Je ne peux pas mettre 4 etoiles car ce jeu est super mais ses chansons que pour les vip ça m'agace
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

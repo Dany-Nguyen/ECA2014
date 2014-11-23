@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Pas mal, mais....
+Commentaire: Et une étoile en moins, le problème des mots de passe n'est toujours pas résolu, et je vois que je suis pas le seul...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

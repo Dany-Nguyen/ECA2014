@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Ne fonctionne pas sur LG G3...
+Commentaire: Quand je lance l'appli, elle me dit : "Désolé, un problème technique à été détecté, veuillez réessayer plus tard..." Je suis sur Android 4.4.2 Edit depuis le 21/11/2014 avec la nouvelle appli : toujours pareil!!!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

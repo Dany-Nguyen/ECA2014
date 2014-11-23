@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:bonne appli
+Commentaire: 4 etoiles car la precision des predictions meteo est en baisse depuis un moment
+DateCommentaire:18 juillet 2014
+NoteCommentaire:4

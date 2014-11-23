@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:What ?!
+Commentaire:What ?! Je ne peux pas prendre des vidéo... J'ai un Samsung galaxy trend lite... Help et les vidéos mettent 3 plombe pour charger...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

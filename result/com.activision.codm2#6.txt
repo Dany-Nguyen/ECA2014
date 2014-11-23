@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Incomplet
+Commentaire: Je trouve que cette application mériterais plus de contenu et de fonctionnalité, comme par exemple pouvoir créer ses classes, ses emblèmes etc...
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

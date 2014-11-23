@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Doesn't support epub format
+Commentaire: App ok, but why epub, if there exist already pdf?
+DateCommentaire:17 août 2014
+NoteCommentaire:2

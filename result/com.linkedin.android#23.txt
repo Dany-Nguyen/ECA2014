@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:L'authent ne passe pas
+Commentaire:Je suis obligé d'utiliser la version mobile du site!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

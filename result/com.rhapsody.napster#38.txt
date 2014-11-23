@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:J'adore
+Commentaire: Moi j'ai des enceinte Bluetooth et sa resonne dans toutes la maison trop bien!!!!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

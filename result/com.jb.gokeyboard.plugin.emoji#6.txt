@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Cool
+Commentaire: Cool mais pour snapchat....😔
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

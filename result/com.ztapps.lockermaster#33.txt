@@ -1,0 +1,9 @@
+NomApplication:DIY Locker - Tattoo Locker
+IdApplication:com.ztapps.lockermaster
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:96 959
+TitreCommentaire:Très bon locker
+Commentaire: Une 5eme étoile si on a la possibilité de modifier l'affichage de la date 😉
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

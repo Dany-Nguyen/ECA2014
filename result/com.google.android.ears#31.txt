@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Excellente !!!
+Commentaire: Très bon widget reconnait tout les styles de musique ( rap, RnB, rock, reggae, disco, funk, techno house trance minimal freestyle hardcore tekstyle hardstyle.....). Prend moins de place que Shazam et plus rapide . Pas besoin d'ouvrir une appli pour y accéder juste appuyer dessus et il reconnait direct la musique . Juste excellent ce qu'il me fallait pas de truc complexe ni de compte rien de rien. Tappuye t'attend et il donne le nom de la musique et l'artiste. C'est tout !!! A télécharger !!!
+DateCommentaire:10 juillet 2014
+NoteCommentaire:5

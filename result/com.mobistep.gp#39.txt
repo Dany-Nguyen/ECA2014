@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Bien sauf que
+Commentaire: Quand on clic sur les films à l'affiche. Il y a les films qui ne sont pas encore sortie. Donc à quoi bon cette touche ???
+DateCommentaire:28 juillet 2014
+NoteCommentaire:2

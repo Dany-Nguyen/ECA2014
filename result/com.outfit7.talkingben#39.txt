@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:Des jeux aussi pour les grands
+Commentaire: Je trouve que ce jeu est meilleur que Tom le chat
+DateCommentaire:5 octobre 2014
+NoteCommentaire:5

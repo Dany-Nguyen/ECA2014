@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Probleme
+Commentaire: Quand je fini de chanter on ne me note pas et c'est bloqué il me demande de cliquer sur sing pour m'évaluer mais rien
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

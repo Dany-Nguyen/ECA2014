@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Très pratique
+Commentaire:Vraiment utile pour avoir des infos sur ses trains ou sa gare préférés.
+DateCommentaire:1 mai 2014
+NoteCommentaire:5

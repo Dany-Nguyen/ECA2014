@@ -1,0 +1,9 @@
+NomApplication:Minuteur d'exercice
+IdApplication:com.neurondigital.exercisetimer
+CategorieApplication:Sports
+NoteApplication:4,1
+NombreVotants:1 381
+TitreCommentaire:Très bien
+Commentaire:Répétition avec cloche et/ou vibration. 2 intervalles.
+DateCommentaire:20 septembre 2014
+NoteCommentaire:5

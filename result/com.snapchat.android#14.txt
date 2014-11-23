@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Impossible d'ouvrir
+Commentaire:Depuis maintenant un moment, je ne peux pu ouvrir des snaps, y restent bloquer. A corriger. Sinon une appli super 👌 sauf lors des problèmes.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Problème
+Commentaire: Je trouve cet appli super et vraiment pratique mais depuis une petite semaine j'ai un gros bug, il m'est impossible d'actualiser mes messages. C'est à dire que je peux plus en envoyer car ça charge sans arrêt et des qu'on m'en envoie je peux plus les lire! Faites quelque chose sur ça s'il vous plaît car sinon cet appli perd tout son intérêt, mis à part l'accueil pour voir ce que les autres font super ça n'en vaut pas la peine...
+DateCommentaire:2 novembre 2014
+NoteCommentaire:3

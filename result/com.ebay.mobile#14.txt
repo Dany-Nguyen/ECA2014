@@ -1,0 +1,9 @@
+NomApplication:eBay
+IdApplication:com.ebay.mobile
+CategorieApplication:Shopping
+NoteApplication:4,3
+NombreVotants:1 084 381
+TitreCommentaire:Blanoli
+Commentaire: Application sympa et très utile pour la vendeuse que je suis. Dommage que je ne puisse pas retrouver toutes mes ventes comme sur le site pour les évaluations.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

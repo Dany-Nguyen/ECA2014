@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Pas mal
+Commentaire: Pourquoi ne pas laisser la possibilité de consulter l'ensemble des articles d'une vente? On est obligé de regarder chaque sous-section de la vente pour tout visualiser. L'onglet "articles consultés" est cependant très pratique.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

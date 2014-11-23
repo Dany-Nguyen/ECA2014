@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Problème MAJ
+Commentaire: Très utile avant la mise à jour, quasi inutilisable depuis celle ci :(
+DateCommentaire:9 septembre 2014
+NoteCommentaire:1

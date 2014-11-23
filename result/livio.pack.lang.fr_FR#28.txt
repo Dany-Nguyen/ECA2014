@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Pas mal
+Commentaire: Je trouve les mots que je cherche pour la cuisine et ça m'aide beaucoup. Merci à vous.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

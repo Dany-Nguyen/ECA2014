@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Tellement de choses à régler...
+Commentaire: La pub en bannière est horrible, déjà que regarder une vidéo sur un smartphone n'est pas le plus agréable, si en plus on ne peut pas avoir un vrai plein ecran. Impossible de s'abonner/désabonner. Impossible de régler la qualité par défaut (il me met en 480 en auto alors que je lis parfaitement sans coupure en 1080). Des fois l'image se fige, mais la vidéo continue avec le son. Je préfère ne plus regarder les vidéos des personnes que je suis que de batailler avec cette appli...
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

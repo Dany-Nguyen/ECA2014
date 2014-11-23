@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Mise à jour !
+Commentaire: Je met 3 étoiles car l'application est top mais décalage entre la voix et l'image en enregistrant et en visionnant la vidéo.. J'espère vite une mise à jour !
+DateCommentaire:5 novembre 2014
+NoteCommentaire:3

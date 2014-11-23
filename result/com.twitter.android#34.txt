@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:LES TRENDS !
+Commentaire:Elle est très bien comme app. Sauf que j'aime bien avoir les trends worldwide et non en France. J'ai beau changer en worldwide, j'ai tjrs les trends français de merde genre "les anges 5" ou "one direction sont beau". Ça me saoule quelque peu. Faut vraiment qu'ils changent ça.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Dictionnaire franvais
+Commentaire: Cool !!! Enfin dans la poche et pret juste en un clic. Il est pratique et facile a l'emploi. Merci
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

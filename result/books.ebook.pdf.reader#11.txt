@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Bien mais ...
+Commentaire: Très bonne application, quelques améliorations peuvent être néanmoins apportées au niveau et ergonomie.
+DateCommentaire:22 juin 2014
+NoteCommentaire:4

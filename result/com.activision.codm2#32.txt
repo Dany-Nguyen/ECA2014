@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Probleme dans operateur
+Commentaire: L'appli en soit est bien mais j'ai modifié mon perso dans le jeu mais sur l'appli je ne vois pas les modifications a corriger please ....
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

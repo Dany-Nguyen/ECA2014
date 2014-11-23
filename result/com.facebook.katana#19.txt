@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:ise à jour toujours inutile car très lent beug avec le wifi c était mieux bien avant mais ça c est c était avant
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

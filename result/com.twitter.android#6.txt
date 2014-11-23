@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Beug notifications(encore)
+Commentaire:Dernière maj bien sauf que gros beug : je ne vois plus mes notification (Samsung Galaxy S3 mini). J'espère que ce beug très gênant sera vite corrigé
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Super appli
+Commentaire: Cette application est excellente pour suivre les activités de ses contacts, groupes etc.
+DateCommentaire:18 octobre 2014
+NoteCommentaire:5

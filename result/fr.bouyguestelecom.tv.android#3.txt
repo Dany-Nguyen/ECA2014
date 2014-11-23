@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Ne fonctionne pas
+Commentaire: Pour la partie programme ca fonctionne bien (2 étoiles pour ça). Mais pour la partie pilotage des enregistrements sur la bbox rien ne va !!! Demande identifiant et mot de passe et puis me dit que je ne suis pas client chez Bouygues !!! Ca fait maintenant plusieurs semaines que c'est comme ça... Faites quelques choses enfin !!!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

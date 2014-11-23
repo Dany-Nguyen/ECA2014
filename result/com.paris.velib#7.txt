@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Problemes
+Commentaire:Lorsque l'appli indique qu'il y a deux vélos de dispos et qu'il n'y en a absolument aucun d'accroché, c'est super rageant ...
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

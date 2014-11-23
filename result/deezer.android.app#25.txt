@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Ergonomie à revoir
+Commentaire: J'aimerais bien classer les artistes de mes playlists par ordre alphabétique. Merci également de rajouter une fonction pour sélectionner tous les albums et playlists en une seule fois plutôt que de cliquer sur chacune une à une, lors de la synchro sur smartphone. Problème de synchro régulier: arrêt de lecture après certains titres.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

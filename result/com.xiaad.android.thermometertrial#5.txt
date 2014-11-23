@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Probleme
+Commentaire: Presision au dixieme de degre pres ses pas a 1km pres plutot sans wifi et avec wifi il trouve pas de conection. Je le desinstal
+DateCommentaire:22 juin 2014
+NoteCommentaire:1

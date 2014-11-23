@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Nul ca ne fonctionne pas
+Commentaire: Samsung s 3 n'arrive pas a localisé ma position
+DateCommentaire:11 octobre 2013
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Très bonne application
+Commentaire: Très bien pour faire des recherches sur le cite..
+DateCommentaire:22 août 2014
+NoteCommentaire:5

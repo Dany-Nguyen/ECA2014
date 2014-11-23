@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Cool
+Commentaire:Très bonne application !! Pour des personnes qui font beaucoup de déplacement comme moi, un bon moyen de garder c'est points :) !! Utilisateur depuis 2009 est toujours 12 pts
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

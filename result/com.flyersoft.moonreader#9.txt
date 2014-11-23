@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:Très apprécié
+Commentaire: Je suis un mordu de livres et l'application est simple d'utilisation. Les livres sont facilement organisés quand elle est utilisée avec le logiciel Calibre
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

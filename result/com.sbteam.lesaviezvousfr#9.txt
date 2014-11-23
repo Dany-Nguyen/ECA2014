@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Innégaler
+Commentaire: Pas trop d'information à lire,des images , pas comme leurs concurrent qui mettent une tonne de truc à lire . Cette appli est parfaite!
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

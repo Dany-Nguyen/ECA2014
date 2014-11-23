@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Arnaque 📎
+Commentaire: J'ai pu arnaquer mes parents au téléphone et ma prof d'EPS grâce à cette ampli mais je me suis pris 2 heures de colle...🙊🙉🙈
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

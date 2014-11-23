@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Galaxy S5
+Commentaire:Bonne apli. Dommage qu'il n'y ait pas tous les resultats des matchs comme le championnat féminin
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

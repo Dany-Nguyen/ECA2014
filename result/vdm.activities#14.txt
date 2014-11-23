@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:SAMSUNG Galaxy Note 3
+Commentaire: L'appli ne fonctionne pas ! J'ai beau être en Wi-Fi ou en 4G l'appli me dis que je n'ai pas de connexion et ne veut pas afficher les VDM (mais affiche les pubs ^^)! MAJ urgente !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

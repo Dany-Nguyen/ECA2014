@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Plantage a gogo
+Commentaire: C pas sérieux pour un abonnement a 10 eur de pas pouvoir regarder 1 dessin animé de 10 minutes sans plantage!!!
+DateCommentaire:17 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Mise à jour
+Commentaire: A quand un catalogue mis à jour. Catalogue se terminant le 28/10 toujours présent
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

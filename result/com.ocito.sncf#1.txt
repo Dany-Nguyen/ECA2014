@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Une appli a l'image des ter, elle marche quand elle veut
+Commentaire:Voies de départ 1 fois sur deux, maj des horaires etc.. On va faire comme pour le reste, on considère dès le départ qu'il va y avoir un prb, ca évite au moins la surprise.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

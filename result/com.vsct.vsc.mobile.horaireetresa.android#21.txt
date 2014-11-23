@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Attention ter et e-billet
+Commentaire:J'ai commandé et payé un billet depuis cette application mais il ne sagissait pas d'un e-billet ce que j'ai compris lors d'un contrôle de billet. Il fallait entrer dans details du billet pour savoir qu'il fallait le retirer à une borne. Ou encore le signifié de façon plus claire.
+DateCommentaire:2 octobre 2014
+NoteCommentaire:4

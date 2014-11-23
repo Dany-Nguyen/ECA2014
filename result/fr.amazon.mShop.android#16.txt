@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:
+Commentaire:Marchait très bien mais j ai malheureusement fait la dernière mise à jour et depuis si je veux voir le détail d un article et retourner a la liste je reviens systematiquement au debut de la recherche (catégories préférences effacées) impossible de me connecter à mon compte, ça tourne et c'est tout, comment récupérer ma vieille version ?
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

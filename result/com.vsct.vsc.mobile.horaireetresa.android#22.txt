@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Trés bien mais
+Commentaire:Excellente application au quotidien, mais pourquoi certains billets ne peuvent être payés en amex ?? En fonction des trajets on a pas les mêmes comportements du logiciel...
+DateCommentaire:12 octobre 2014
+NoteCommentaire:4

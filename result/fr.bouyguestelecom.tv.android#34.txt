@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Ne marche plus (Nexus 4)
+Commentaire: Depuis la mise à jour vers Android 5, appelée LOLLIPOP, sur mon nexus 4, l'application ne veut plus démarrer. Ça me marque ''l'application s'est arrêtée''. A revoir.....
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

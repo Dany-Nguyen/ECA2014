@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:bugged
+Commentaire: "unable to play track" even with LTE and after clearing app cache and data
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Marocaine fan du groupe M6
+Commentaire: Malheureusement comme d'habitude je n'ai pas le droit de revoir l'épisode si je le rate alors merci M6
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

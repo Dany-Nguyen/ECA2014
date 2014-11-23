@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Si seulment
+Commentaire: Bon App musique, juste laisser le numero de carte bleu pour le mois gratuit... je trouve abusé :/
+DateCommentaire:11 novembre 2014
+NoteCommentaire:3

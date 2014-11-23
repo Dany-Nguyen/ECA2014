@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Très pratique
+Commentaire: J'adore cette application elle me permet d'écouter mes chansons préférée en tout temps et d'économiser sur l'achat de Cd!!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

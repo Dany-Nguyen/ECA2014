@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Chromecast
+Commentaire: Le rendu n est pas a la hauteur si cette aplication ne peut pas diffuser le chromecast qu elle ne le propose pas de plus de nombreux bug son toujours présent . Mise a jour urgente. Malgré de nombreux plaint rien n est améliorée soi une prise en main de cette aplication soi son retrait du play store
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

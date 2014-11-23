@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Ne fonctionne pas
+Commentaire: Ne fonctionne pas avec la rom Miui V5 (v3.12.13) sur Note 2
+DateCommentaire:14 décembre 2013
+NoteCommentaire:1

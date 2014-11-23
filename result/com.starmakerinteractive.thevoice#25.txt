@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:
+Commentaire:Je rejoint Margote Binet, dommage pour les chanteurs qui ne chante pas tjrs juste pour ma part ♥
+DateCommentaire:27 octobre 2014
+NoteCommentaire:4

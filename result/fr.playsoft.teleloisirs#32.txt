@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Chromecast
+Commentaire: Dommage que ya pas la possibilité de visualiser son programme TV sur la chromecast ,ça serait top :-)
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

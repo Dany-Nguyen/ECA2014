@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:A améliorer
+Commentaire:Bonjour, l'appli n'est pas mal mais il y a beaucoup d'améliorations à apporter : - Impossible de mettre son équipe en favori sur la page d'accueil - le calendrier et le classement n'est pas à jour pour les équipes qui jouent sur plusieurs phases - les adresses ne sont pas bonnes - les terrains ne sont pas renseignés - ... Cdlt
+DateCommentaire:11 avril 2014
+NoteCommentaire:3

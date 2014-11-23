@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Enfin !!une appli tv fonctionnelle
+Commentaire: La barre de pub en bas de l'écran est trop imposante ( sous titre masqué ,...) Une version payante sans Pub , j'achète !
+DateCommentaire:16 octobre 2014
+NoteCommentaire:4

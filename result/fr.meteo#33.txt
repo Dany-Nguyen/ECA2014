@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Bof
+Commentaire: Ergonomie tres moyenne, pas d'orientation de l'ecran, barre de raccourcis du bas qui masque des options... Bref faut pas etre difficile. Decevant dela part de meteofrance.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

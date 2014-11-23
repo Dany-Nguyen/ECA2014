@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:News
+Commentaire: Les news sont peu mise a jour ,deplus il n'y a plus l'article permis de mater , dommage car cette aplis fait partie de mes seule applis que je tolere sur mon smartphone , jespere que ce n'est qu'un bug et quil sera corriger dans l'avenir
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

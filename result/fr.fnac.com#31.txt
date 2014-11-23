@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Assez moyen.
+Commentaire: L'appli est trop peu précise, on a pas assez de détails sur les articles consultés. De plus, le paiement par PayPal est impossible, ce qui est vraiment dommage. Ceci dit, ça peut dépanner.
+DateCommentaire:25 octobre 2014
+NoteCommentaire:3

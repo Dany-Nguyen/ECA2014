@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Nouvelle autorisation
+Commentaire: A quoi peux bien vous servir cette nouvelle autorisation ? C'est effarant le nombre de programme qui se mette à jour en demandant de nouvelles autorisations sans s'expliquer ! Pas de mise à jour pour l'instant
+DateCommentaire:11 avril 2014
+NoteCommentaire:1

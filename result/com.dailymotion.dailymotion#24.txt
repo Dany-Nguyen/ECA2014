@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Oui super meilleur réception
+Commentaire: mise à jour régulièrement c'est mieux diminutions de problème beaucoup publicité pop pop screen annonce de jeux vidéo depuis le 10 novembre
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

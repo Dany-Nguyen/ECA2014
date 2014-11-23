@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Excellent
+Commentaire: Parfait rien à redire par contre je conseille l'usage avec un casque
+DateCommentaire:30 octobre 2014
+NoteCommentaire:5

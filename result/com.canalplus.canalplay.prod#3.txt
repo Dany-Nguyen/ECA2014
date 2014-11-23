@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Manque encore
+Commentaire: Il manque un historique, lorsqu'on suit une série ce serait bien d'avoir une trace du dernier visionage. Aussi un petit bug sur mon Note 4, si on fait pause ou si on revient en arrière alors il faut remettre le téléphone en vertical sinon l'application crash en horizontale.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Le trafic en un clin d'oeil
+Commentaire:Jusqu'à maintenant très pratique à Paris pour éviter les embouteillages, je recommande.
+DateCommentaire:28 août 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:........-.-
+Commentaire: So bad now. I'm disapointed. Change it please !! The new version is horrible.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

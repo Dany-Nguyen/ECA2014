@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:A revoir
+Commentaire:Des que j'essaye d'aller sur mon compte ou autre part que la carte, l'application se ferme toute seule. Très déçu
+DateCommentaire:17 août 2014
+NoteCommentaire:1

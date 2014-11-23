@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:Super
+Commentaire: Cette application est vraiment top ! Mieux que Retrica, aucun begue ni de ralentissement pour ma par. Vraiment super, je vous la recommande ! ✌👍
+DateCommentaire:27 octobre 2014
+NoteCommentaire:5

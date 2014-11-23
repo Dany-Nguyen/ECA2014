@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Oui mais...
+Commentaire: Impossible de payer ma commande avec l'argent qui est sur ma carte de fidélité. A résoudre, vite
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

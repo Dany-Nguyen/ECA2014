@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Déçu
+Commentaire: Depuis les mises à jour, quand je like une musique ou que j'en place une dans mes playlist elle disparaît, à cause de ça je pers pleins de sons, déçu..
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

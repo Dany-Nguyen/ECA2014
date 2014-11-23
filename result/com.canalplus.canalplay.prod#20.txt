@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Bug bug
+Commentaire: Impossible de regarder une série sans que le applications bugue et ce sur 3 appareils différents. ...heureusement le mois de essai est gratuit
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

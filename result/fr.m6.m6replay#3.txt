@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:
+Commentaire:Quand je veux regarder une émission en replay l'image va trop vite ! En direct l'image ne s'affiche pas mais il y a que le son !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

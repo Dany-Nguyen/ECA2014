@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:BetClic, faites quelque chose!
+Commentaire:Je dis ça pour vous mais c'est valable pour toute les applis de paris. Je trouve ça dingue qu'il n'y ait aucune applis qui permet de parier en ligne sur Android, alors que sur Apple, il y en a minimum 4.. Allez BetClic, faites nous rêver!
+DateCommentaire:19 juin 2014
+NoteCommentaire:3

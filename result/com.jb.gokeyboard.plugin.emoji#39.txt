@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Samsung Galaxy Trend Lite
+Commentaire: Pourquoi tous les emojis sur mon telephone(a part cela:☺✌❤) ne fonctionne pas? Sa donne ceci:😘 Pourriez vous me repondre et rectifier cette appli svp? Merci.❤
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

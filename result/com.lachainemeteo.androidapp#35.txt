@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Meteo erronee dommage
+Commentaire: Appli trop longue a charger a cause des pubs je pense ..! Bref .pas satisfait je desinstalle pour appli moins gourmande en nrj
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

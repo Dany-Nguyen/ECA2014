@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Nickel
+Commentaire: On peut meme balancer youtube direct sur sa tele et continuer a ce servir normalement de notre telephone . J adore . Cependant attention quand vous etes pas a la maison service payant. Sauf si vous êtes client bbox entrer vos identifiants et reste et le service sera gratuit . Telecommande jadore .
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Ça s'améliore
+Commentaire: Un début chaotique pour cette application allociné mais les dernières versions commencent à être respectables. Il reste néanmoins quelques bugs mineurs.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

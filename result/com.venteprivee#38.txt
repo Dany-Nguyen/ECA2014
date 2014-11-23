@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Bonne appli !!
+Commentaire: L'appli ne plante pas sur mon Note 2. Il faudra juste agrandir les boutons '+' des bandeaux qui permettent d'afficher les dates d'ouverture/fermeture. Sinon c'est cool
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

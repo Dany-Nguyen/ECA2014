@@ -1,0 +1,9 @@
+NomApplication:Piano For You
+IdApplication:com.pash.piano
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:15 535
+TitreCommentaire:Simple et efficace
+Commentaire: Un bel outil pour s'amuser, explorer, s'exercer, ou comme dans mon cas, tente de reconstituer les notes d'un air qui me trotte dans la tête.
+DateCommentaire:19 septembre 2013
+NoteCommentaire:4

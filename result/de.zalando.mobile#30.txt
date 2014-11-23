@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Bug
+Commentaire: Belle application mais plante tout le temps... Je retourne sur Amazon...
+DateCommentaire:9 septembre 2014
+NoteCommentaire:2

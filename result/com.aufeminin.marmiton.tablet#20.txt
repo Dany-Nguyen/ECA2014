@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Très sympa
+Commentaire:Recettes rapides, faciles et très bonnes. Cela permet de varier souvent les menus car les idées sont florissantes. Ce site culinaire est le meilleur pour moi.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:4

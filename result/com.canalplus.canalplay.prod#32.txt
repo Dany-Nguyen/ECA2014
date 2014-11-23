@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Galaxy Note 4
+Commentaire: Un gros plantage régulier fait fermer l'application. Pouvez vous réglez ce problème merci.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

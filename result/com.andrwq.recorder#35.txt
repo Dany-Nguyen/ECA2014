@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Carte sd
+Commentaire: Peut-on enregistré sur carte sd ? En tout cas je n'arrive pas !
+DateCommentaire:8 septembre 2014
+NoteCommentaire:3

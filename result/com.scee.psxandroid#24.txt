@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Très utile
+Commentaire: Complémentaire de l'expérience PlayStation mais assez lente malgré tout. Consulter une liste de trophées devient presque pénible. Beaucoup de possibilités à part ça
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

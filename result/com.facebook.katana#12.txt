@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:La base !
+Commentaire:4 étoiles car les notifications c'est pas encore trop ça, et pas moyen de modifier ou supprimer ses commentaires avec cette application ;)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

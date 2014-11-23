@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Adaptation à améliorer
+Commentaire:Les développeurs ont-ils déjà essayé de remplir un formulaire sur leur propre application ? C'est très ennuyeux... Les bons points habituels sont appliquables : app intuitive, ciblée, on retrouve sans mal les contacts interessants.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Connexion messagerie nul
+Commentaire: Très bonne idée cette appli. Dommage que la connexion à la messagerie ne fonctionne qu'une fois sur cinq :(
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Pas mal
+Commentaire:A part le fait que les videos sont courtes. Je ne reçois pas mon code de confirmation par SMS aussi.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:Sympa, seul hic les pub et le fait qu'on ne puisse pas selectionner le morceau de son choix ou alors il faut payer
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

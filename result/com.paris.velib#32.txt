@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bon début
+Commentaire:Pas mal mais il n'est pas possible de se connecter au compte perso pour suivre ses consommations
+DateCommentaire:14 mars 2014
+NoteCommentaire:4

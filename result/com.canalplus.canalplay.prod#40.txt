@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Nul
+Commentaire: Paies tes séries où il n'y a pas toutes les saisons et tes vieux films vu et revu ... De la merde
+DateCommentaire:1 novembre 2014
+NoteCommentaire:1

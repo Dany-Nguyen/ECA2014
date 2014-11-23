@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Pfff
+Commentaire: Pfff on se croirait sur ios. Allez vous acheter un iPhone au lieu d'installer un launcher qui l'imite. Quelle drôle d'idée. Soit dit en passant, pour moi ce launcher est aussi fouillis que ios
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

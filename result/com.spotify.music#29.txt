@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:Bien pour ecouter des chansons mais il y a beaucoup de limites dans la version d'essai.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

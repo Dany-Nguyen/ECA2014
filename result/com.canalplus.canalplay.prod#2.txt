@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:
+Commentaire:Déjà il n'y a pas de films sortis récemment, ensuite même certains sortis il y a quelques années (et assez connus) sont introuvables. Et je ne parle même pas de ces crashs répétés nous obligeant à rouvrir l'application...
+DateCommentaire:6 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Ça marche du tonnerre. Excellente appli.
+Commentaire: Je suis bluffer. Appli a essayer pour tous ce qui n'ont jamais su la position d'une étoile. Il suffit de relever son tel vers le ciel et la comme par magie le tel indique le nom des étoiles positionnées en arrière.
+DateCommentaire:29 juillet 2013
+NoteCommentaire:5

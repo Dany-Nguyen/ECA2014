@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bien sauf
+Commentaire: Ses cool pour savoir les ce qui a a la tele sauf que les pub s afiche quand jouvre l aplication
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

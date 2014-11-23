@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:le top du top.
+Commentaire:posez moi des questions ; @vanessa_nzia
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

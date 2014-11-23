@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:C était Génial
+Commentaire: Fluide , mais les pubs constantes rende l application moins parfaite quelle était!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

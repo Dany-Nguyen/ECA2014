@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Appli en brouillon ?
+Commentaire: Mise à jour en dernière version et premium 2 étoiles dans l'espoir d'une écoute et d'améliorations, mais dans l'état actuel n'en vaut pas une. Je m'explique, inutilisable en tant qu'avertisseur de radars, trop de fausses informations.. En ville, ça bip bip de partout sur de fausses limites à 30, et le décalage énorme entre le GPS et l'affichage le rende inutile. De plus il est impératif de laisser le choix du son d'alerte sonore a l'utilisateur. L'alerte radar prend la place de la vitesse au moment ou l'on a le plus besoin de voir sa vitesse, absurde. En tant que compteur de vitesse, serait il possible de laisser le choix a l'utilisateur de la couleur du fond qui changerais en fonction de plages de vitesses définies par l'utilisateur comme dans Car Dashboard Pro ? Un aficionados de Sygic navigation très déçu de cette application.
+DateCommentaire:5 mai 2014
+NoteCommentaire:2

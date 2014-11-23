@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Autorisations
+Commentaire: Bonne application mais j'ai du mal à comprendre pourquoi vous avez rajouté l'autorisation d'accès aux "appels, coordonnées des contacts du journal d'appels..."
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

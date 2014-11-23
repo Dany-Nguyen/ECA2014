@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Bravo
+Commentaire: Un beau travail, régulièrement actualisé, avec de beaux outils comme la cartographie prévisionnelle des pluies sur les 3 prochaines heures. Pensez aussi à faire un don pour les soutenir !
+DateCommentaire:22 juin 2014
+NoteCommentaire:5

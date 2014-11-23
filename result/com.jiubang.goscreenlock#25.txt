@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Parfait
+Commentaire: Mais l'application ne cesse pas de se désactiver dans les paramètres d'accessibilité que faire? 5eme étoile quand mon problème sera resolu
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

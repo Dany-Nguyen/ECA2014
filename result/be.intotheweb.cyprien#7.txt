@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Probleme d'icone
+Commentaire: Depuis que j'ais installer la nouvelle maj 1.20 l'icone de l'application a disparu mais sinon avant d'avoir installer la maj l'application eteait tres bonne
+DateCommentaire:2 septembre 2014
+NoteCommentaire:2

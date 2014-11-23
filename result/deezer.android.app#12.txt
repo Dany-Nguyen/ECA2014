@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug régulièrement !
+Commentaire: Mes musiques se desyncronisent souvent. C'est insupportable !!
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

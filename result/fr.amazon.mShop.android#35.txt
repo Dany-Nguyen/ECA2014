@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:
+Commentaire:Clair Net deux mots GÉNIAL
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

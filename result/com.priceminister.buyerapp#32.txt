@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Déçus
+Commentaire: J'aime bien cette application habituellement. Mais depuis un moment quand vous cliquer sur la barre de recherche l'application s'arrête une fois sur quatre cet gênant.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

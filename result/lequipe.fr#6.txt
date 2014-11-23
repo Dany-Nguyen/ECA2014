@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Impossible de s'inscrire
+Commentaire:Dans l'ensemble l'application est bien. Cependant, il m'est impossible de m'inscrire pour écrire des commentaires sur les articles. Donc une étoile en moins.Et comme aucune application rien n'est parfaite encore une étoile en moins.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

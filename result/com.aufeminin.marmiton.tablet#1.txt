@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Remplace mes livres de recettes (ou presque)
+Commentaire:Toute la richesse de Marmiton à portée de main dans la cuisine. Je n'ai pas encore tout testé les listes de courses par exemple). Une étoile en moins car sur ma tablette je ne parviens pas à me connecter au compte que j'ai créé sur mon téléphone en utilisant Facebook ou j'ai raté quelque chose
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

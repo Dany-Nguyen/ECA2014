@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Bien
+Commentaire: C'est bien mais je voulais un appli qui donne l'a definition des mots bein dommage :(
+DateCommentaire:15 janvier 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Amusant
+Commentaire: Une petite appli dont les textes font tantôt sourire, tantôt réfléchir
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

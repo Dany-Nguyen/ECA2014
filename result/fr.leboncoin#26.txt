@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:
+Commentaire:Je n'arrive plus à envoyer de mail via l'application, ça marque que le message a bien été envoyé mais il n'arrive pas à destination.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

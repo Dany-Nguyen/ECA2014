@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Heureusement qu'on regarde les titres des films et pas les critiques
+Commentaire: Mais qui note les programmes ..... Sans commentaire .....
+DateCommentaire:20 octobre 2014
+NoteCommentaire:1

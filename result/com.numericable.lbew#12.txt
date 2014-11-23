@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:La télévision en direct ne fonctionne pas
+Commentaire: A chaque fois que j'essaye de regarder la télévision j'obtiens une erreur SERVER_DIED. L'application devient donc totalement inutile. Dans l'attente d'une mise à jour je mets une seule étoile ...
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

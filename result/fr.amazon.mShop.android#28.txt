@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Une application efficace
+Commentaire: Une application simple, performante et efficace pour tout découvrir d'Amazon.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

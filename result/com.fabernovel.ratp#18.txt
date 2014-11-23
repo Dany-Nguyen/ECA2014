@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:
+Commentaire:pplication minable, peu fonctionelle, peu à jour, quant aux horaires et AUX ITINERAIRES. RATP porte bien sa satyre de "Rentre Avec Tes Pieds" puisquelle vient de me conduire à 30 minutes à pieds de chez moi sans aucun bus régulier. Merci bien franchement.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

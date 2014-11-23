@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Tout simplement génial !!
+Commentaire: Cette application nous permet de découvrir des histoires/romans selon nos goûts et critères. C'est très agréable qu'une telle application existe !
+DateCommentaire:30 octobre 2014
+NoteCommentaire:5

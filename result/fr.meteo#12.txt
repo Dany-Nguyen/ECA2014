@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Navrant
+Commentaire: Rien ne change vraiment depuis 1 an... Toujours ce choix impossible du widget et cette lenteur au départ ! SVP une appli au niveaux des prévisions : claire, informative et fonctionnelle !
+DateCommentaire:29 septembre 2014
+NoteCommentaire:1

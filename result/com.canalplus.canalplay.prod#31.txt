@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:A la hauteur des attentes
+Commentaire: On retrouve les series, QQ films mais pas assez (recents) a mon goût
+DateCommentaire:20 septembre 2014
+NoteCommentaire:5

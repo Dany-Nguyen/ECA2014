@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Pratique mais nn disponible
+Commentaire:Ne fonctionne toujours pas sur samsung galaxy mega . Ce fige sur l'ecran d'accueil de l'application .
+DateCommentaire:28 avril 2014
+NoteCommentaire:1

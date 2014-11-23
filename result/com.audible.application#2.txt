@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Arnaque
+Commentaire: C'est quoi cette arnaque ? 10 euros le livre. Vos concurrents Audio Book les font tous gratuits...
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

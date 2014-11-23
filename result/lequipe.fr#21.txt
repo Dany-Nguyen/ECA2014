@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Tres bien
+Commentaire:On recoit toute les actualite et ce qu'il ce passe a propos du sport tres vite mais on m'a demande de paye pour lire la suite d'un article a propos du rugby !!
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Nul
+Commentaire: MAJ sinon rien . C est honteux d obliger les mises a jours sous peine de ne plus avoir accès. Plus ca va pire c est chez le bon coin !
+DateCommentaire:1 novembre 2014
+NoteCommentaire:1

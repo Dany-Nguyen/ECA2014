@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:dysfonctionnement du live en Guadeloupe
+Commentaire: C'est déprimant ! Quand on vit en Guadeloupe ( QUI EST POURTANT UN DEPARTEMENT FRANCAIS), on ne peut pas accéder au live des chaînes du groupe M6. Il faudrait corriger cette injustice au plus vite ...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

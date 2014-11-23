@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Pub pub pub
+Commentaire: Avant cette appli marché tres bien et depuis qlq temps elle met enormement de temps a s'ouvrir et depuis hier impossible de visualiser la meteo, ouverture du navigateur et du play store pour installer des applis rien a faire ca revient tout le temps. Decu je desinstalle
+DateCommentaire:1 octobre 2014
+NoteCommentaire:2

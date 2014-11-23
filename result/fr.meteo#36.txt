@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:NUL
+Commentaire: Nul!! L'application se lance 1 fois sur 10. Faites quelque chose !!!!! Et quand ça fonctionne ça met des plombes à rafraîchir !!!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

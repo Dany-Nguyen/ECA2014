@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:APP2SD
+Commentaire: Encore et toujours le mm problème mais quand vont ils enfin comprendre ces éditeurs ?!!
+DateCommentaire:27 septembre 2014
+NoteCommentaire:2

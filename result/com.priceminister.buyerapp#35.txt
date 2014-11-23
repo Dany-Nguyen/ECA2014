@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Manque des catégories
+Commentaire: Comme par exemple les listes de souhaits et tout ce qui nous permet de retrouver rapidement nous suivis d'articles. Le reste est pas mal.
+DateCommentaire:4 août 2014
+NoteCommentaire:3

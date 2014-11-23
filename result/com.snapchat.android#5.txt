@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Snapchat
+Commentaire:J aime snapchat mais.le.problème. C ke.les gens peuvent fait des.capture.et.nous afficher c chian aussi non laplication elle est parfaite
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Tres bonne appli
+Commentaire: Manques livres en français. Pour l'anglais tres grand choix.
+DateCommentaire:17 août 2014
+NoteCommentaire:5

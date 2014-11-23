@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Super appli
+Commentaire: Je viens de passer une commande en quelques clics avec reprise du matériel et heure du rdv de la livraison.
+DateCommentaire:4 août 2014
+NoteCommentaire:5

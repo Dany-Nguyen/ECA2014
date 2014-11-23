@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:
+Commentaire:Sav inexistant, commande annulée sans explication. Bref je ne commanderai plus jamais sur zalando..
+DateCommentaire:27 septembre 2014
+NoteCommentaire:1

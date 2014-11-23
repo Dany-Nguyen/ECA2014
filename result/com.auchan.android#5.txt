@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Sympa...et il intrusif!
+Commentaire: Design sympa, accès aux catalogues pratique. Par contre le démarrage de l'application au démarrage du téléphone pour récupérer toutes nos habitudes sur ce que l'on fait c'est très moyen. J'apprécie particulièrement les autorisations suivantes: "reconnaissance de l'activité" "démarrer automatiquement au démarrage" "récupérer les applications en cours d'exécution" ainsi que le fait d'avoir vidé ma batterie sans que je lance l'application!!!
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

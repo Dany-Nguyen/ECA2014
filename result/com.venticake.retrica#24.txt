@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Trop bien
+Commentaire: De fois sa beugue et je n'est pas mes photos! 💞
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

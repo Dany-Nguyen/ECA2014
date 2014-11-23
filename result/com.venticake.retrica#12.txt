@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Je kiffe♥♥♥
+Commentaire: J adore seulement est ce que vs pouvez faire des vidéos svp merci et je conseille pr personne qui veulent faire des effets c est super
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

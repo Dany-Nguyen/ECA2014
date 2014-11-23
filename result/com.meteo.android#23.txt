@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Plus de bulletin france
+Commentaire: Votre application est tres bien mais le bulletin pour la france ne fonctionne plus. A la place il y a une page bleue avec mise a jour he 1er janvier. Je pense que l'application est a revoir.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:2

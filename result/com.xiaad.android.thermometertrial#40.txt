@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Nul
+Commentaire: Les températures sont archi fausse
+DateCommentaire:17 août 2013
+NoteCommentaire:1

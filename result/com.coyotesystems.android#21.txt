@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Presque parfaite
+Commentaire:Depuis la dernière MAJ les informations sont clairs, les alertes audios sont parfaites. La communauté est au top ! Et pour tous ce qui disent que Waze est gratuit, oui effectivement, je l'utilise même pour le trafic aux heures de pointes, mais n'oubliez pas que lorsque c'est gratuit c'est vous le produits ;). De plus Coyote est une entreprise française, à l'heure où l'on se plaint qu'il n'y a trop de chômage, votre abonnement sert aussi à paye.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

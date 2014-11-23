@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Problèmes gênants
+Commentaire:Problème sur les indications vocales, qui continuent après les zones de danger(obliger de relancer l'application) , et qui ne sont pas toujours juste sur la vitesse limite de ces zones.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

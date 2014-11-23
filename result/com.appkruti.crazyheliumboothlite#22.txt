@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Son décalé, qualité d'image pas top!
+Commentaire: Le son est décalé. L'image est de qualité médiocre alors que je suis sur un Galaxy S4. La version IOS est au top par contre, l'application méritera 4 étoiles quand elle sera au niveau de celle de IOS.
+DateCommentaire:24 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Wouhou!!
+Commentaire: Pluto bien. Xa, j'achète!! @DALS
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

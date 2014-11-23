@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:tres pratique pour viualiser les tarifs et le es stocks
+Commentaire:
+DateCommentaire:6 octobre 2014
+NoteCommentaire:5

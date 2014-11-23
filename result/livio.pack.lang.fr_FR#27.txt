@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Esicom multiservices international
+Commentaire: L'application est parfaite elle répond aux critères d'un dictionnaire utile...
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

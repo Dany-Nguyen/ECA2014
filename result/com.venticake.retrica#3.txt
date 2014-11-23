@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Problème
+Commentaire: Pourquoi quand je prend une photo sur retrica et que je la poste sur facebook sa me fait une petit image 😃 quellequn peut m'aide svp 😃merci
+DateCommentaire:27 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Mauvais
+Commentaire: Appli ridicule, impossible d'ecouter la musique sans que sa plante toute les 30sec........bref désinstallation.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Plante sans raison
+Commentaire: L'application plante régulièrement (après 20/30 min d'écoute) de manière inexpliquée et redémarre ma tablette... que ce soit en écoutant des musiques pretéléchargées ou en streaming. Pour une application nécessitant un abonnement de 10€/mois c'est inacceptable! Sans correction de votre part je vais très vite vous quitter... (samsung galaxy tab pro 3)
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

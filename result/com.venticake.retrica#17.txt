@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Les pubs !!!
+Commentaire: La qualité de l'application est nickel à part ces pubs auquelles on est obliger d'attendre qu'elles se finissent et qui interviennent à longueur de temps apres avoir pris une photo !!! Ceci est vraiment agaçant !!!
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

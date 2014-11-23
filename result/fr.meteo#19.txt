@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Très déçu
+Commentaire: Cette publicité avant d'afficher les prévisions est insupportable! Si j'ai le malheur de faire pivoter l'écran, elle revient et il faut attendre à nouveau avant de pouvoir continuer à consulter les prévisions. Je désinstalle.
+DateCommentaire:12 octobre 2014
+NoteCommentaire:1

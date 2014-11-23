@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Deçu
+Commentaire:Depuis la mise a jour il y a des smylets mais comment les mettre et aussi pk les image sont moin belle.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

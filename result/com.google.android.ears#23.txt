@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Accessible autrement que par widget !
+Commentaire: Nickel, il faudrait indiquer que l'on peut passer par la barre de recherche google pour reconnaitre la musique et ainsi se passer du widget. En lançant une recherche vocale, a coté de l'icône du micro une note apparait car la recherche détecte une musique. Il suffit alors de taper dessus pour reconnaitre le morceau. Voilà pour ceux qui n'aiment pas le widget ! Il faudrait le montrer sur les screenshots.
+DateCommentaire:3 septembre 2013
+NoteCommentaire:5

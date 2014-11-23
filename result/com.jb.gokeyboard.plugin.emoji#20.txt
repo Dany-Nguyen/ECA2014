@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:7 appli ne marche qu a moitié le 3/4 des icones ajouté ne s affiche pas et son remplacé par des "?" encadré
+DateCommentaire:22 octobre 2014
+NoteCommentaire:2

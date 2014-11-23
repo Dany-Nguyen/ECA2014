@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Décevant
+Commentaire:J'ai un Samsung GS2 et depuis la mise à jour impossible d'ouvrir les Snaps...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

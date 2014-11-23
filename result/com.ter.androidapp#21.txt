@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Application devenue quasiment inutilisable
+Commentaire:Le matin, quand on en a fortement besoin afin de vérifier s'il y a du retard, l'application met plus d'une minute à se charger et pour finalement ne donner aucun résultat !!! Par contre, le reste de la journée, quand on en a le moins besoin, elle fonctionne correctement !
+DateCommentaire:2 septembre 2014
+NoteCommentaire:1

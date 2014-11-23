@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bonne application
+Commentaire: Sur ma tablette samsung galaxy TAB3 fonctionne très bien
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

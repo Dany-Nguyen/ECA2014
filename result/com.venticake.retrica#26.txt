@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:Bonne appli mais qui beug beaucoup elle sarrete a chaque fois que je louvre. Elle marche qu au bout de la 2e fois. Et en plus mtn il y a des pubs de 30 sec ^^
+DateCommentaire:30 octobre 2014
+NoteCommentaire:3

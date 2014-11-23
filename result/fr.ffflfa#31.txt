@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:À revoir sérieusement
+Commentaire:Je suis joueur et dirigeant du club:Haute Combraille foot ce club est né en juin 2013 (115 licenciés) mais il n'apparait pas dans la base de données!alors que l'ancien club où j'etais Président apparait encore alors que le club n'existe plus.... Bref il y a du boulot!
+DateCommentaire:18 avril 2014
+NoteCommentaire:1

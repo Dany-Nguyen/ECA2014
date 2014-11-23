@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Petits bugs récurrents
+Commentaire: Bonjour, pourriez-vous réaliser les corrections suivantes? : - impossible de modifier la ville du widget. Très embêtant car je viens de déménager... - Le widget n'affiche plus qu'un jour sur 2 (en 4X1) tous les jours à partir de minuit. - Le symbole dans le coin supérieur gauche pour accéder au menu et faire retour est affiché en double. - Quelques fermetures inopinées lors d'un retour dans le menu. Merci. Android 2.3.4
+DateCommentaire:19 septembre 2014
+NoteCommentaire:3

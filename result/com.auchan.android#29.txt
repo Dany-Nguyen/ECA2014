@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Mimi
+Commentaire: L'application est très décevante il y a énormément de beug sa marche une fois sur 5
+DateCommentaire:17 octobre 2014
+NoteCommentaire:2

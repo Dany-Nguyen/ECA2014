@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Bien bien
+Commentaire: Magnifique jkiff
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Quel lourdeur au démarrage
+Commentaire: Un peu de pub, c'est bien normal pour être gratuit mais un spot avant chaque vidéo regardée , ça commence à ne plus être supportable.
+DateCommentaire:22 octobre 2014
+NoteCommentaire:3

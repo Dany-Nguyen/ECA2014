@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Rien à dire
+Commentaire: L' appli est stable et rapide, impossible de lui mettre moins de 5 étoiles et pourtant je n'aime pas particulièrement dailymotion sur mon PC.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

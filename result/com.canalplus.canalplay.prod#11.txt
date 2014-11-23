@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Instable pour le moment
+Commentaire: Cette application serait merveilleuve si elle n'était pas si instable. Elle plante souvent au lancement des films, obligé d'insister ou d'abandonner...
+DateCommentaire:24 septembre 2014
+NoteCommentaire:3

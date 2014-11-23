@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:
+Commentaire:2 utilisations dans 2 moments différents, 2qualites de nuits radicalement opposées et le même résultat de 1%... Je des installé ça heureusement que j'ai pas payé cette saleté inutile !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Plante sur huawei ascend mate
+Commentaire:L'appli ne fonctionne pas. Elle se plante dès que je lance une recherche (itinéraire, gare, ...).
+DateCommentaire:11 juin 2014
+NoteCommentaire:1

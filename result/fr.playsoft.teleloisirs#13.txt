@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bien...
+Commentaire: L'application est bien faite, rien à dire que ce point. Elle est jolie, fluide, vraiment bien organisée. Cependant il manque quelque chose de très important. La recherche de programme. En effet au lieu de parcourir toutes ces chaînes, on devrait plutôt pouvoir taper le nom d'un programme qui nous mènerait directement à ce programme souhaité. Merci et bon travail.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

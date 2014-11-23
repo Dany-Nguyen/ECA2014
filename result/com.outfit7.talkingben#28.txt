@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:Anais Klein
+Commentaire: Se jeu est trop bien je le kif trop cool cool cool
+DateCommentaire:26 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:
+Commentaire:coutez instagram c'edt genial mais corrigez les bugs car moi sur certaines photos des bandes noirs apparaissent ce qui gachent la photo
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

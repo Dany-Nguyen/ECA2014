@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Application Intéressante mais incomplète
+Commentaire: Ils manque beaucoup de fonctions de la version pc, à revoir!
+DateCommentaire:13 septembre 2014
+NoteCommentaire:2

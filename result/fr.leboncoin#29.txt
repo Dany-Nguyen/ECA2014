@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:A faire évoluer
+Commentaire: Il serais bien de pouvoir aller directement sur la 10eme page...si ont le désire car devoir tout se retaper a chaque fois c'est chiant. Et de pouvoir aussi avoir comme le disais d'autre un peu plus de précision dans les recherche...style tranche de prix.... Voilà sinon accro au bon coin comme beaucoup Jaime
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Simple et brillant
+Commentaire: Magique. J'ai investi ds mon HTC desire pour être sous Android et avoir cette app. Depuis jai changé de tel. Pas d'application.
+DateCommentaire:25 novembre 2013
+NoteCommentaire:5

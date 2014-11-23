@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Mauvais
+Commentaire: Appli beuguée. Catalogue sans interet. Meme les serie de canal sont pas dispo (mafiosa,braquo. .)sans parler des series ou il y a qu une seule saison (24h) pas de reprise de la lecture pas de suivi des ep vus... je retourne a netflix sans hesiter
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

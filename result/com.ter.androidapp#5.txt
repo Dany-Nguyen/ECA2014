@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Pas à jour !
+Commentaire:17.06.2014 : Problème de concordance avec ce qui est annoncé en gare, notamment en période de grève, dans la région Alsace ! EDIT 1.11.2014 : toujours pas à jour, des horaires non affichés... Pas d'amélioration !
+DateCommentaire:1 novembre 2014
+NoteCommentaire:1

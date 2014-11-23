@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Trop bien
+Commentaire: Cela ma permis de savoir plein de choses intéressante que je ne savais pas. Je le conseil👌👌👍👍👍
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

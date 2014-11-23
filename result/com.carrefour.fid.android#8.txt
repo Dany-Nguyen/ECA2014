@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Très satisfait
+Commentaire: Application qui fonctionne très bien sur LG G2, très utile pour consulté le catalogue promo sur son portable !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

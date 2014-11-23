@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Nul
+Commentaire: On peut tester tout les mots de passe il vont dire que ce n est pas bon
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

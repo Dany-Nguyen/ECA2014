@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Pas pratique
+Commentaire: Il manque beaucoup de choses comme le porte monnaie etc... Surtout impossible d'affiner les recherches, par prix par exemple.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:2

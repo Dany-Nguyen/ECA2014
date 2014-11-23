@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:A nouveau fonctionnelle
+Commentaire:Edit : depuis la MàJ du 11/02/14 l'appli est fonctionnelle, données actualisées rapidement, rien à redire à priori. Une MAJ et hop la disponibilité des vélib sur chaque station disparait et ce bug dure depuis plus d'un mois sans être corrigé, quelle réactivité ! :-0
+DateCommentaire:11 février 2014
+NoteCommentaire:4

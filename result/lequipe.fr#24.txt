@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:L'essentiel y est
+Commentaire:Il y a l'essentiel des résultats. Après pour lire les articles plus intéressants, il faut s'inscrire à la version premium ...
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Sympa mais...
+Commentaire: L'application en elle meme est plus sympa que l'ancienne et le correctif pour les whaouu est passer 5/5 :D
+DateCommentaire:14 octobre 2014
+NoteCommentaire:5

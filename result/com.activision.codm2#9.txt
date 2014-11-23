@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Bug
+Commentaire: J'arrive pas à connecter mon compte,il me dit de jouer au moins une partie multijoueur alors que j'ai du en faire une 100aine
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

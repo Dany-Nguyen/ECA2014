@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Ratp est meilleur
+Commentaire:L'application est très bien faites. Cependant l'application RATP me trouve des trajets plus cours et les temps de marche à pieds ne correspondent pas à la réalité (Je ne marche pas spécialement vite mais un trajet que je fais en 6 minutes m'est affiché à 11 minutes de marches ce qui me permet d'avoir des rer ou des métros plus rapidement que vous ne l'indiqué). Améliorez votre algorithme et je reviendrais sur votre application.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

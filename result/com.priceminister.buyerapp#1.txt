@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Panier vide
+Commentaire: Quan vous mettait vote articles dans le panier se lui ci est marqué comme vide
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

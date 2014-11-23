@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Merci pour cette mise à jour
+Commentaire: L application fonctionne mieux depuis cette mise à jour. Merci
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

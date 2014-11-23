@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Ça va
+Commentaire: Mais il ne recone pas toute les muique
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

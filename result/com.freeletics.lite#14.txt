@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Très bonne application
+Commentaire: Superbe. Je recommande à tous ceux qui veulent : commencer, progresser, découvrir une nouvelle méthode de travail. Convient aux femmes. A faire seul ou entre amis, entre camarades ! Travaille autant le physique que le mental... Surtout le mental.. Devenez des freeathletes !
+DateCommentaire:6 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Pas mal, Design mais...
+Commentaire: Manque quelque petit truc. Alors déjà très beau on sais que c'est la copie de IOS mais on s'en fiche c'est beau ! Par contre manque de fluidité dans le lancement du launcher ce qui serais bien de corrigé ça. Manque d'options de personnalisation pour le lockscreen . Mais sinon relativement bien continuer comme ça J'attend une bonne mise à jour ! Mange pas mal la batterie aussi.... Mais les développeurs ferons sûrement quelque chose
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

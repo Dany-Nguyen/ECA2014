@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Très bien
+Commentaire: Très efficace en tant que expérience mais pas trop professionnelle
+DateCommentaire:31 août 2014
+NoteCommentaire:3

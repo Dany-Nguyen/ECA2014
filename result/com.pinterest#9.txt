@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Accroc
+Commentaire:Application vraiment geniale devenue indispensable. Seul bemol une prise en main un peu delicate pour moi mais maintenant je suis une pro! ;)
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

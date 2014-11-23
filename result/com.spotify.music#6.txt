@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Je viens à peine
+Commentaire: Je viens de telecharger spotify et de m'abonner et sa bug déjà , pu de son et l'application me met une page noir
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

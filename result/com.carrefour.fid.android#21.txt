@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Plus de création e-chèque en direct
+Commentaire: Bonjour depuis la mise à jour. J ai un Samsung galaxy s4 mini. Il n est plus possible de créer des e-chèque directement lors du passage en caisse. Cette application perd de son intérêt. Pouvez régler le problème
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

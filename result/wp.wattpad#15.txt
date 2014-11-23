@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Problème
+Commentaire: J'adore cette application mais depuis quelques jours je ne peut plus publié de parties car il me dit que je dois valider le mail de confirmation mais je ne le reçoit toujours pas pouvez vous m'aider ?
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

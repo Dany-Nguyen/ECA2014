@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Ça craint..
+Commentaire: L'application bug complètement... Sans savoir pourquoi elle s'arrête toute seule, et impossible d'écouter une chanson en entier sans que ça passe à une autre ou que ça s'arrête. Dire que je paye pour ça...
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

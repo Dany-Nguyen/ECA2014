@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Trop peu de format ...
+Commentaire: Ne prend pas en charge les cbr, cbz ...
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

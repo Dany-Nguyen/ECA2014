@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Très beau concept mais des améliorations
+Commentaire: à faire sur l'Appli : la lecture des morceaux ne va pas jusqu'au bout et passe sur le morceau suivant - Il n'est pas possible de gérer le playlist : on peut ajouter un titre mais pas en retirer - Il serait bien de pouvoir "nettoyer" le contenu de ce qui apparait dans le stream - et enfin des régressions depuis le dernière mise à jour (crash).
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

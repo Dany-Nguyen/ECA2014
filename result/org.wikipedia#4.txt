@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Excellent
+Commentaire: Dernière version excellente avec un thème sombre pour la lecture nocturne
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

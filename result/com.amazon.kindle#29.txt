@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Nul
+Commentaire: Nul ley livre sont en anglais
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Guitare + ( Guitar )
+IdApplication:com.rubycell.perfectguitar
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:51 954
+TitreCommentaire:
+Commentaire:C trop cool mes parent m'écoute tout les jour INTALER LE.;-) ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥❇❇❇❇❇
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

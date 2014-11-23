@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Trop
+Commentaire: Cette application est très bien puis c'est simple de s'en servir je trouve que c'est trop bien quand je mennnuis vraiment je fait des film. Personnellement si vous hésitez à telecharger l'application n'hésitez plus telecharger la. Aurevoir
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:
+Commentaire:À quand des mises à jour pour régler tout ces beugs ? L'application ne cesse de se couper toute seule sans raison, plus possible d'écouter une musique entièrement..
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

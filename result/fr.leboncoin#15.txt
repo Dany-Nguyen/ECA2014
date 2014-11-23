@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Galaxy s2
+Commentaire: Très bonne application, sauf que l'on ne peut quitter l'application avec un bouton de sortie! c' est bien dommage,d'ou mes quatre étoiles.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

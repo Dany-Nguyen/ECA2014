@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Bug htc one m8
+Commentaire: J'ai un abonnement mais je peux même pas créé de compte multi écran quand je choisi l'opérateur ya que la moitié de la page qui s'affiche ya le choix de des opérateurs l'autre côté c'est noir et à l'inscription sur ordinateur quand je rentre la référence clients il marque code identifiant invalide pourtant c'est le bon faite quelque chose
+DateCommentaire:4 septembre 2014
+NoteCommentaire:1

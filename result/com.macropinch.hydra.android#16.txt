@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Fonctionne peut-être sur Android wear
+Commentaire: Mais pas sur la smartwatch 3 de Sony Maj :normal il n'y a pas de capteur !
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

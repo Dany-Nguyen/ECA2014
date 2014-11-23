@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:
+Commentaire:Bien mieux que la version windows 8.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

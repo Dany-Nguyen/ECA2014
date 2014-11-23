@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Peut mieux faire
+Commentaire:Les stations vélib refusent de s'afficher sur la carte. L'application Univelo Paris est bien plus réactive...
+DateCommentaire:24 février 2014
+NoteCommentaire:1

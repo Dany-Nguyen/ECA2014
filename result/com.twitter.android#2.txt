@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:J'AI MON TELEPHONE A BUGER
+Commentaire:Il a buger alors il fallait que je refasses un compte alors maintenant l'autre ne m'impartient plus et je n'arrive pas à l'effacer sur l'autre j'en avais 2000 follo et maintenant j'ai n'ai 00000 nada et c'est très PÉNIBLE !!!!!!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

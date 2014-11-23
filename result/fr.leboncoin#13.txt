@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Rectification
+Commentaire: Enfin reussi. Mise à jour au top. Tropboen de pouvoir mettre ou supprimé les favoris direct. Ca deconné trop mais la au top. Moi ke men sers énormément donc vous gérer trop. Merci
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

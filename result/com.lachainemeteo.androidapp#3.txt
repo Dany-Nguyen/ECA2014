@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:La Chaîne Météo
+Commentaire: La Chaîne Météo c'est trop pratique pour avoir le temps et en plus, c'est gratosse...pour ce que c'est... Fin...je ne dis pas que sa dois être payant car c'est mieux quand sa ne l'es pas mais, je dis que c'est trop bien... Je sais...c'est que la météo mais comme même... !
+DateCommentaire:15 octobre 2014
+NoteCommentaire:5

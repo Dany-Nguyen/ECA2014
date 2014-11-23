@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:
+Commentaire:La fonction "Rechercher dans l'article" (ou qqch comme ça) n'est pas au point. En dehors de ça, très bonne appli !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

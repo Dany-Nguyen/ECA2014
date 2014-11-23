@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:
+Commentaire:App qui plante à chaque fois
+DateCommentaire:2 août 2014
+NoteCommentaire:1

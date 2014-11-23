@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Très intéressant
+Commentaire: la nuit sans lumière avec le ciel degagé, on arrive vraiment a voir les memes constellations - impressionnant
+DateCommentaire:3 mai 2011
+NoteCommentaire:4

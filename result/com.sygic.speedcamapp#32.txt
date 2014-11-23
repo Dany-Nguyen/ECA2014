@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Medion p4013
+Commentaire: Ses super comme application merci au développeur.. sa avertit très bien et précis
+DateCommentaire:10 janvier 2014
+NoteCommentaire:4

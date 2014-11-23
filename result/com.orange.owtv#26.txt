@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:
+Commentaire:C'est vraiment pénible, à chaque fois que je touche un peut l'écran même sans faire exprès, ça met sur la télé, ou ça change de chaînes. Et le bouquet auquel j'ai souscrit n'est pas disponible sur le téléphone.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

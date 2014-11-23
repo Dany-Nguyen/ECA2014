@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Point fidélité
+Commentaire: Quand est ce qu'on pourra utiliser les points des cartes fidélité depuis l'application, pas pratique de commander depuis le pc surtout quand on est devant un cinéma...
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

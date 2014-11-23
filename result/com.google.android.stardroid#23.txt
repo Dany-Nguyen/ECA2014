@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Toujours coincé sur le nord
+Commentaire: Où que je me positionne, la carte me montre toujours le nord avec l'étoile polaire. Bug déjà vu sur d'autres commentaires mais non-résolu... Sur galaxy note 8.
+DateCommentaire:11 mai 2013
+NoteCommentaire:1

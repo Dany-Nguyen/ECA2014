@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Decue
+Commentaire: Cette appli fonctionne tred bien sur mon telephone mais sur tablette galaxy tab 3 la rotation droite gauche ne se fait pas et l'orientation n'est pas la bonne!! Comment faire??? Merci
+DateCommentaire:10 juin 2014
+NoteCommentaire:3

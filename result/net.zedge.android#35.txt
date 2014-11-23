@@ -1,0 +1,9 @@
+NomApplication:ZEDGE™ Ringtones & Wallpapers
+IdApplication:net.zedge.android
+CategorieApplication:Personnalisation
+NoteApplication:4,5
+NombreVotants:2 028 675
+TitreCommentaire:Excellente app
+Commentaire: Je m'en sers depuis longtemps maintenant et il y a beaucoup de choix et de catégories. On peut aussi personnaliser les sonneries et les notifications. L'interface est vraiment super en plus de ça.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Problème MAJ
+Commentaire: Là maj à fait disparaître un onglet .. et les emoticons sont plus petit, à remédier vite ou je desinstalle
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Bien pour les chaines gratuites
+Commentaire: Les chaines gratuites peuvent être visualisées correctement, par contre OCS a des images minables, pas nettes... Dommage puisque OCSgo ne marche plus sur les téléphones depuis une mise à jour
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

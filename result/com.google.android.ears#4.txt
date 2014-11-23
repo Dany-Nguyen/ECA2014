@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Mauvaise traduction française
+Commentaire: En bon français, on dit :"Quel est ce titre ?" ... Et non, "c est quoi ce titre ? "Je retire l application. Il y en a d autres qui feront l affaire sans mauvaise traduction.
+DateCommentaire:29 avril 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Indescriptible...
+Commentaire:Limitations de vitesse toujours fausses ! Et le nombre d'éclaireurs est toujours et encore tronqué en mode portrait sur écran 1080p. Autrement dit, 150 éclaireurs en paysage, on tourne le téléphone et la... plus que 15 éclaireurs ! Bravo !
+DateCommentaire:22 septembre 2014
+NoteCommentaire:1

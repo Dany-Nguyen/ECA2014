@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Decus
+Commentaire: Je m attendais a avoir de vrai info '' pas des chiffres inventés et des intox
+DateCommentaire:27 octobre 2014
+NoteCommentaire:3

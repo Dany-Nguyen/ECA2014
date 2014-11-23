@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Appli géniale !!!
+Commentaire:Une fois qu'on y a goûté, on ne peut plus s'en passer ! Et grâce à Gramblr, on peut même charger des photos à partir de son pc !!
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

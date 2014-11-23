@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:De plus en plus de trous dans la raquette
+Commentaire:C'était la référence mais il manque desormais certains "dangers" fixes. Les "dangers" de feu rouge sont mal implémentés. La fiabilité des limites de vitesse dans les zones est aléatoire (sauf devant le "danger", ouf !).
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

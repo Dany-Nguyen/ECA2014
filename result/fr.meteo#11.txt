@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Bien faite.
+Commentaire: Appli de météo plutôt bien foutue, avec la possibilité de mettre nos villes en favoris. Précision impec et justesse des prévisions, nickel. Seul bémol, je peux pas profiter de la fonction alerte pluie, mon département ne figure pas dans la liste des éligibles (74).... Dommage !
+DateCommentaire:19 octobre 2014
+NoteCommentaire:3

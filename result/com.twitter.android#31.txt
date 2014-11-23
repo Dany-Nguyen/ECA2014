@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:
+Commentaire:ug quand il faut reactualiser sur le file d'accueil en mode portrait le doigt ne peut pas descendre jusqu'en bas( sur galaxy trend lite)
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

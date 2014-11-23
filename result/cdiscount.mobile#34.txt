@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Tres perfectible
+Commentaire: c discount c est bcp ameliore mais cette appli plante souvent de plus elle presente pas comme le site internet et malheureusement bcp de fiches techniques erronnees ou d un autre article dommage pour un vendeur de ce niveau a revoir au plus vite
+DateCommentaire:12 novembre 2014
+NoteCommentaire:2

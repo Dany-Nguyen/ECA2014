@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Bientôt sur chromecast?
+Commentaire: Pour l'instant elle fonctionne avec peu de bug il est dommage que l'on ne puisse pas regarder hors de chez soi ce qui est enregistré sur le disque dur. J'espère juste que bientôt on pourra profiter de cette application sur chromecast ça serait vraiment intéressant pour le deuxième téléviseur de la maison et beaucoup moins cher que d'autres solutions et pour une fois Numericable serait en avance sur Free... 3 étoiles en attendant un peu plus de recul
+DateCommentaire:8 octobre 2014
+NoteCommentaire:3

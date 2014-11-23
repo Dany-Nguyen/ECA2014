@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:
+Commentaire:ote pour tous bet clic ( ou l ont peu parier en.live ) peu s intaller il sufit ds bet clic live de telecharger l apli ( il faut cliquer sur la pub pariez en bas et dl l appli et il faut cocher ds reglages autoriser installation source inconnu) ENJOY. Sinon sympa. Pour les live manque plus que du streaming et ca sera top
+DateCommentaire:19 octobre 2014
+NoteCommentaire:5

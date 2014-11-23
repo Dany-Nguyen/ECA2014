@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Un temps de retard plutôt
+Commentaire: Je désinstalle sitôt installé. Ils nous prennent vraiment pour des buses chez météo france. Pas étonnant que les anglais raflent des parts de marché en France....
+DateCommentaire:9 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Obligé de donner une étoile
+Commentaire: Mise à jour ne sert à rien juste pour recevoir plein de pub alors que cette application doit être gratuit
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

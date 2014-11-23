@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Super appli !
+Commentaire: ♧♣♧ Mais qu'arrive t il après les 7 jours d'essai ? ♧♣♧
+DateCommentaire:11 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Beug
+Commentaire: A chaque e-cheque créé il es dispo k le lendemain sur mon samsung s4 alors k sur iphone c est direct
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

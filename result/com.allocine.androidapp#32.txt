@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Samsg Galaxy s5
+Commentaire: Pas mal .. malgre quelques bugs
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

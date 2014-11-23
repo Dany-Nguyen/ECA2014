@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Mieux que le site web
+Commentaire: Très bonne app, permet de consulter la disponibilité des produits.
+DateCommentaire:20 octobre 2014
+NoteCommentaire:5

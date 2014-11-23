@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:pplication qui bug toujours. Vidéos illisibles. Articles de plus en plus payants. Grosse deception
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

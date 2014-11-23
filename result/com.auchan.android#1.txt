@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Les bugs persistent
+Commentaire: Depuis la refonte et malgré de nombreuses mises à jours, les problèmes ne sont toujours pas résolus. En feuilletant le catalogue, il est quasiment impossible de sélectionner des produits pour les mettre dans la liste des courses. Le choix par rayon n'est guère mieux. Les vignettes s'affichent de façon aléatoire. Une fois le produit sélectionné, il n'y a pas de bouton retour. Il faut revenir sur la liste des rayons et repartir depuis le début de la liste. L'ancienne version était bien plus fonctionnelle.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

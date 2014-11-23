@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Décevant, vous perdez des clients
+Commentaire: Avant la mise à jour d'aujourd'hui il fallait relancer l'application plusieurs fois pour qu'elle se connecte enfin. Maintenant il est impossible d'y accéder et un message apparaît "désolé, application indisponible. Essayer plus tard". Inadmissible! (Samsung Note 3)
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

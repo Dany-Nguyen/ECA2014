@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Déçu
+Commentaire: Quand je cherche une musique, ça m'affiche qu'il n'y a pas de réseau Internet disponible , je suis pourtant toujours connecté à mon réseau Wi-Fi quand j'utilise shazam. Et les autres applications utilisent le Wi-Fi sans problèmes. J'espère qu'il y aura résolution du problème.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

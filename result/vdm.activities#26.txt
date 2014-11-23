@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:
+Commentaire:Pas moyen de commenter une VDM sans que l'appli ne plante. Je la désinstalle, la réinstalle, je peux commenter mais dès que je retourne sur l'appli ça replante... Toujours obliger de réinstaller pour ajouter un seul commentaire. A améliorer ! (Samsung Galaxy S Advance)
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

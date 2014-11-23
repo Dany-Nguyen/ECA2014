@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Application s'arrete
+Commentaire:Il m'est impossible d'ouvrir la carte d'embarquement, l'application s'arrete avec un message d'erreur signifant que l'application s'est arretée chaque fois que je tente d'ouvrir une carte d'embarquement. J'ai ce probleme depuis la mise a jour recente.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

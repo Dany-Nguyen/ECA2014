@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Super site
+Commentaire: Un bon passe temps et de bonne affaire parfois dommage que certains (voir beaucoup) crois vendre de l'or et neuf en plus surtout sur les véhicules et trop de message reçu pour nos annonces de personnes qui veulent nous escroqué avec leur adresse Gmail ....... sinon merci leboncoin
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

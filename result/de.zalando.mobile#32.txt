@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:
+Commentaire:Vraiment elle plante non d une pipe &lt;3
+DateCommentaire:19 septembre 2014
+NoteCommentaire:5

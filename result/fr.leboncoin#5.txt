@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Ne s'ouvre pas
+Commentaire: J'adore la mise à jour qui permet d'éviter le crash à l'ouverture de l'application sous Android... Je procède donc à la mise à jour et... Impossible d'ouvrir l'application... Ça bug!
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

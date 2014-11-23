@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Rien à dire...
+Commentaire: Surprise de ne trouver aucun lecteur sur mon Moto G, j'ai téléchargé cette application, pour l'instant, pas de problème !
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

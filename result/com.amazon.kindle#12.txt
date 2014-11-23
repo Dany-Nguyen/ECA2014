@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:SYNCHRONISATION LECTURE
+Commentaire: Je n'arrive toujours pas à synchroniser la dernière page lue. Bien que mon smartphone (Sony Xpéria M2) soit en connexion réseau, quand je veux poursuivre une lecture que j'avais commencé sur le pc ou sur la tablette, et bien sur le phone j'ai des chapitres de retards, car çà reste bloqué sur la dernière page lue sur le phone et je suis obligée d'avancer manuellement. Quand j'ai lue sur phone et reprend sur pc ou tablette çà fonctionnne: J'ai la fenêtre qui dit: vous êtes à l'emplacement X et la page la plus avancée est Z voulez vous avancer? Cette proposition n'apparaît pas sur le phone. Même ayant soumis ce problème au service client, je ne trouve pas la solution.
+DateCommentaire:11 octobre 2014
+NoteCommentaire:3

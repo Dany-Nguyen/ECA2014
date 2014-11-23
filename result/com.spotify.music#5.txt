@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Pour les abrutis....
+Commentaire: A tous ceux qui gueule parce que la musique est aléatoire: lisez la description de l'application! Pour choisir la musique il faut payer des droits d'auteurs... C'est le minimum. Et pour ceux qui dise sur YouTube c'est gratuit, ben profité, cela vas changer l'année prochaine!!! Rien n'est gratuit RIEN.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Photo Collage éditeur
+IdApplication:com.zentertain.photocollage
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:231 243
+TitreCommentaire:Bien
+Commentaire: Je ne mets pas 5 etoiles car la pub est un facteur rédhibitoire
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

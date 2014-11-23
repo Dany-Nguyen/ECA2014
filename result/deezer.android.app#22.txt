@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Pas mal mais...
+Commentaire: Le catalogue de l'application est vraiment intéressant, cependant deux problèmes sont toujours là malgré les mises à jour: la synchronisation qui ne fonctionne pas toujours correctement, ce qui peut être embêtant lorsque l'on souhaite écouter sa musique sans connexion internet. Deuxième problème, lui beaucoup plus agaçant, les musiques qui s'arrêtent ou qui se zappent toute seules. Ce sont vraiment les seuls défauts qui écartent l'application de la perfection. J'espère que cela sera corrigé au plus vite.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

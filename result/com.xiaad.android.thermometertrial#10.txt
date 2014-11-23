@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Abus d'autorisations
+Commentaire: Je désinstalle toutes les applications qui demandent des autorisations injustifiées.
+DateCommentaire:7 septembre 2014
+NoteCommentaire:1

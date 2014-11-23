@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Indispensable
+Commentaire: Lenteur au démarrage de l'application, presque 1min avant de pouvoir l'utiliser. Passage d'un chanson à une autre sans raison en plein milieu...
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

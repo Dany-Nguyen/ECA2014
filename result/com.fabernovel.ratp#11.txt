@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Nouvelle interface améliorée
+Commentaire:La nouvelle interface m'a un peu déstabilisé au départ mais elle est très fonctionnelle. D'un coup d'œil je vois les horaires de mes lignes favorites. Bravo!
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:
+Commentaire:A voir une notation plus tard juste le temps de l'essayer
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

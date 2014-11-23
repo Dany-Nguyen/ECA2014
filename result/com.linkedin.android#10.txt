@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Excellente app
+Commentaire:Cette app est très efficace. Un vrai couteau suisse pour exploiter Linkedin depuis votte poche.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

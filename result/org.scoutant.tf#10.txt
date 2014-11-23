@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:our etre plus performant, il faudrait l'option Gps qui resynchroniserait en permanence le traffic autour de l'endroit actuel, evitant ainsi les mouvements d'ecran constants
+DateCommentaire:30 juin 2014
+NoteCommentaire:3

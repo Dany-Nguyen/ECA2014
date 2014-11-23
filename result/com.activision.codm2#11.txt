@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Sa c bon
+Commentaire: Trop énorme! Pour information je recherche un clan sur ps4 je suis majeur et fini 2 fois le jeu en mode, commando et vétéran
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

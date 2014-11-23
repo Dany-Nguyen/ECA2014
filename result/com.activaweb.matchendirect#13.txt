@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:
+Commentaire:xcellente application!Énorme choix de matchs à travers le monde et pas de décalages notables avec le direct!:-)
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

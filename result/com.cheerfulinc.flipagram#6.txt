@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:J'adore
+Commentaire: Cette application est génial, elle me permet de faire une vidéo avec mes photos. Je n'avais encore jamais trouver d'application comme celle-ci. Je conseil cette application a tout le monde
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

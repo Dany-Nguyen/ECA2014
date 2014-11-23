@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:
+Commentaire:Pourquoi ces blocages??? Impossible d'afficher 2 régions de suite. Je suis passé à l'application d'ID MOBILE bien plus agréable
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

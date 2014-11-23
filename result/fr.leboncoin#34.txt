@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Rien à dire !
+Commentaire: Excellente app surtout depuis les mises à jour. J'espère une évolution : pourquoi pas un tchat intégrer, plusieurs filtres pour affiner ses recherches et une évaluation des vendeurs/acheteurs
+DateCommentaire:29 octobre 2014
+NoteCommentaire:5

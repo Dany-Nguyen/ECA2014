@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Consomme horriblement la batterie
+Commentaire: L'application est bonne mais consomme + de 40 % de ma batterie !! Du coup mon téléphone ne tient même pas la journée !!! (Sony Xperia Z1)
+DateCommentaire:10 septembre 2014
+NoteCommentaire:2

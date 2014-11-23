@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:top application!!
+Commentaire: dommage que c est payant pour en profiter à fond. J hésite à M abonner. 5 étoiles 0 bug
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:
+Commentaire:On ne peut plus changer de chaîne c'est nul . Quand on veut revenir à la page d'accueil le l'application s'est a beaucoup de choses à revoir
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

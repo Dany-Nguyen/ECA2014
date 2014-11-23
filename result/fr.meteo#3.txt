@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Vraiment naze
+Commentaire: Sans déconner pour un site comme météo France cette application est une honte, très lente et des bugs, souvent je ne peux même pas accéder à mes favoris, j'appuie en haut à gauche et il ne se passe rien. Vraiment pénible à utiliser....
+DateCommentaire:10 octobre 2014
+NoteCommentaire:1

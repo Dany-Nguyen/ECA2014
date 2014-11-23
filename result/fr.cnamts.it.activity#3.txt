@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Super Pratique
+Commentaire: Permets d'avoir son dossier sous la main de n'importe où de voir ses remboursement en temps et en heure
+DateCommentaire:21 octobre 2014
+NoteCommentaire:5

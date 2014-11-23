@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bcp mieux avec la derniere version
+Commentaire:Il serait bien que la carte s'ouvre sur la derniere zone vue quand on revient dans l'app avec un bouton pour centrer sur la position gps.
+DateCommentaire:11 février 2014
+NoteCommentaire:4

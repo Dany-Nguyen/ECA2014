@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Appli Truffée de bug
+Commentaire: Je rejoins les autres commentaires. Cette application est inutilisable. Je vais résilier mon abonnement. Dommage, voyons ce que la concurrence propose et comparons !
+DateCommentaire:10 octobre 2014
+NoteCommentaire:2

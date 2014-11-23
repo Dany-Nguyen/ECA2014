@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:
+Commentaire:Cool cool cool j'adore vraiment mis à part qlqs ftes à rectifier tt le rest est nickel!!!
+DateCommentaire:20 octobre 2014
+NoteCommentaire:5

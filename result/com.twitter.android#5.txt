@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Autorisations requises trop nombreuses et inutiles...
+Commentaire:Serieux ? Pfff... Pourquoi avez vous besoin de lire nos SMS ?
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

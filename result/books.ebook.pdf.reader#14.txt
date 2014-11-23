@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:
+Commentaire:Quel plaisir de pouvoir lire ses romans et d'annoter,de commenter ses propres ouvrages et tout cela sans être gène par la pub !! Grand merci !!!
+DateCommentaire:23 octobre 2014
+NoteCommentaire:5

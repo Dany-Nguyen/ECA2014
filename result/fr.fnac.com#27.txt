@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Bug
+Commentaire: Fonctionne plus depuis la nouvelle version de l'application. MAJ rapidement sinon supprimez l'application du playstore... je désinstalle.
+DateCommentaire:20 octobre 2014
+NoteCommentaire:1

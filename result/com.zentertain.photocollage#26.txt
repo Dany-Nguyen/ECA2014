@@ -1,0 +1,9 @@
+NomApplication:Photo Collage éditeur
+IdApplication:com.zentertain.photocollage
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:231 243
+TitreCommentaire:Domage
+Commentaire: On peut pas tourner les photo mais sinon c bien
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

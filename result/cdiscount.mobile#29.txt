@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:beaucoup de chosrs à améliorer
+Commentaire: Impossible de régler un achat par paypal ! Site bordélique !trop de pubs ! Pousse à utiliser la carte cdiscount ! Des options payantes de dernière minute au moment du règlement difficiles à éviter ! Peu de réactivité après l'achat ( attente du mail de confirmation d'achat ) des dépôts en relais inexistants voir douteux
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

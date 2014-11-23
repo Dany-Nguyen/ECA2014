@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:
+Commentaire:Ne fonctionne pas sur tab3. Incroyable !
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:ommage que les infos fermetures nocturnes ne soient pas combinées avec les infos traffic sur cette appli ...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

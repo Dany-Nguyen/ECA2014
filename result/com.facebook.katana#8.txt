@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Cristiano el chantara Ronaldo
+Commentaire:Oui c'est formidable cette nouv mise a jour et je crois avoir entendu qu' la prochaine mise a jour sera avec la 3D c'est genial,non?
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

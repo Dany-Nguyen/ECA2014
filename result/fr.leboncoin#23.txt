@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Connexion impossible
+Commentaire: Impossible de me connecter a mon compte et je ne reçois pas mes emails de mes annonces quand cela va t'il se résoudre merci de répondre
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

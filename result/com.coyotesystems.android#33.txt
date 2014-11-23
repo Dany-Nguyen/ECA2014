@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Parfait
+Commentaire:Fonctionne parfaitement et la liaison bluethooth sur la voiture ne pose aucun problème.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

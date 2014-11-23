@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Tout est bien
+Commentaire: Que du bon!
+DateCommentaire:22 octobre 2014
+NoteCommentaire:5

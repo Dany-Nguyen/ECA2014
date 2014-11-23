@@ -1,0 +1,9 @@
+NomApplication:Minuteur d'exercice
+IdApplication:com.neurondigital.exercisetimer
+CategorieApplication:Sports
+NoteApplication:4,1
+NombreVotants:1 381
+TitreCommentaire:Très bon minuteur
+Commentaire:Excellent timer, modifiable à souhait et maintenant avec un son lors de la fin des différentes séries. Je le recommande.
+DateCommentaire:22 août 2014
+NoteCommentaire:5

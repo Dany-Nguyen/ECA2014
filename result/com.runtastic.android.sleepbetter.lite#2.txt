@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Application merveilleuse!
+Commentaire: Très bien fait! Je doute un peu de la fiabilité puisque les résultats varient sans doute si un environement est plus bruillant. Mais je vais certainement faire d'avantage de test. Je règlerai peut-être mes problèmes de migraine matinal.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

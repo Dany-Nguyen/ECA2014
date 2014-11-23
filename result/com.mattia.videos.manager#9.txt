@@ -1,0 +1,9 @@
+NomApplication:PlayTube Mp3 Mp4 YouTube
+IdApplication:com.mattia.videos.manager
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:267 315
+TitreCommentaire:De la merde.
+Commentaire: J'avais la nvlle version mais sans faire exprès je l'ai supprimée. Je la retelecharge donc et je vois quoi? Ce n'est plus la même version! Avant je pouvais écouter de la musique même sans WIFI c'était vraiment génial! D'ailleurs a ce que j'ai pu voir je ne suis pas la seule! A changer d'urgence!
+DateCommentaire:19 octobre 2014
+NoteCommentaire:2

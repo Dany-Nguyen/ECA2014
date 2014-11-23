@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Pas de hd et trop de Beugue
+Commentaire: Tout est dans le titre Pas de hd dans les lives sur chaque chaîne sons pas terrible qui pourrai être mieux et canal+ ou y a pas d image et de son alors que suis abonné chez eux. Fais que couper depuis la mise à jour d aujourd'hui. A amélioré et réparer d urgence.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

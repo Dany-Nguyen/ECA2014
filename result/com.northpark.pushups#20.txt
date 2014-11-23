@@ -1,0 +1,9 @@
+NomApplication:Push Ups Work
+IdApplication:com.northpark.pushups
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:99 605
+TitreCommentaire:Manque la planification
+Commentaire: Bonne application il faudrait pouvoir configurer la planification selon les jours de la semaine et pas forcément tout les 2 jours...
+DateCommentaire:25 septembre 2014
+NoteCommentaire:4

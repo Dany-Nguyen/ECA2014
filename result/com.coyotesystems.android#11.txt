@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:icoyote top du top
+Commentaire:Je me sert de cette application depuis 5 ans au début avec iphone 4 puis note 3 jamais de problème mais moin cher chez Samsung donc encore mieu
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

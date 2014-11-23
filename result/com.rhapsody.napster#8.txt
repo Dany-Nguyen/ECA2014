@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Presque parfait et déjà excellent
+Commentaire: J'apprécie énormément le choix musical disponible, les recherches thématiques et par artistes similaires. Seule petite ombre au tableau, l'interface est un peu difficile à prendre en main pour ce qui est de la bibliothèque personnelle de l'utilisateur (listes de lecture, dossiers/artistes/albums/genres, file d'attente). On s'en sort, mais il manque ce qui se fait de mieux façon iPod/iTunes et ce serait parfait.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

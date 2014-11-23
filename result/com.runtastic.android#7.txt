@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Parfait, mais ...
+Commentaire: J' ai repris la course a pied en parti grâce a cette appli. J ai maintenant + de 300km.... Cool. Ce qui ne me plait pas : en entrainement par fraction , comment l app défini un rythme élevé d un bas ? En mode défi , l app peut nous parler pendant 10min (devant ,derrière,devant,ect...) pénible ... Sinon il ne serait pas possible d avoir des voix plus fun genre dark vador ou John mc Clain ?
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

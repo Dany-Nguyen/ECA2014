@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Que c'est lent
+Commentaire: Le slogan "toujours un temps d'avance" me fait marrer, chaque fois que j'observe cet incompréhensible délai au démarrage, tout en pleurant à l'idée de devoir en plus subir patiemment la pub qui suit. Sinon c'est très bien
+DateCommentaire:10 septembre 2014
+NoteCommentaire:2

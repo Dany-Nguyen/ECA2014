@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Cool
+Commentaire:Je peux suivre mes matchs en direct dommage que les alertes des buts en direct non pas de sons sur Samsung galaxy S5
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

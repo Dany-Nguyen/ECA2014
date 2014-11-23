@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Très bien mais....
+Commentaire:Moteur de recherche des recettes défaillant sur tablette. Sinon l'application est super
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

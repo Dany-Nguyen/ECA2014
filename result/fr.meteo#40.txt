@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Fonctionne tres bien
+Commentaire: Original je ne suis pas payez pour dire du bien de cette application .
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

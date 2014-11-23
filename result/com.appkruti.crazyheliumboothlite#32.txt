@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Bof
+Commentaire: Qualité de la vidéo pas au top et image en décalé ...
+DateCommentaire:19 octobre 2014
+NoteCommentaire:2

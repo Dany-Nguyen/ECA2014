@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:L'application se ferme quand je recherche un itinéraire
+Commentaire:Au bout de 7 ans il s'était temps de faire une application correcte pour Vélib'
+DateCommentaire:18 juillet 2014
+NoteCommentaire:1

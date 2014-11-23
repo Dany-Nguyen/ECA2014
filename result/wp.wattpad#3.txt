@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Fan
+Commentaire: Manque de supports scientifiques et Bcp de trucs a améliorer..bonne continuation
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

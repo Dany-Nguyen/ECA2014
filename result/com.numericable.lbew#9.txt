@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:
+Commentaire:Désolé de vous dire que c'est de la vrai m**** non c'est pas sérieux ça marche jamais correctement sans coupure c'est impossible... En on paye un abonnement à 60€ et une fois à l'extérieur on peut pas avoir accès à toutes nos chaînes que l'on paye tout de même c'est juste de la m**** après franchement j'étais chez Bouygues (bbox) et il y a pas photo l'application c'est très très très rare qu'elle beugue à la limite je peux le comprendre mais pas systématique bref j'ai changé et je regrette franchement.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Pas mal
+Commentaire:Manque d'information sur le motif des bouchons mais pas mal quand même.
+DateCommentaire:1 septembre 2014
+NoteCommentaire:3

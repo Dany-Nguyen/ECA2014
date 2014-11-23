@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Extraordinaire
+Commentaire:Application génialisime pour connaître l'horaire d'un train qui est déjà passé la veille. Si vous êtes sous android, gros bug de date. Si vous voulez connaître l'heure de passage d'un train la veille d'un jour de grève, il sera indiquer à l'heure alors qu'en fait il est supprimé. Et lorsque vous faites la même recherche le dernier jour de grève pour le lendemain, il sera indiqué supprimé alors qu'en fait il sera là. Décalage d'une journée, faut vraiment le faire exprès ! Gros Zéro Pointé !
+DateCommentaire:16 octobre 2014
+NoteCommentaire:1

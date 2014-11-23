@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Fonctionne mal
+Commentaire: Carte waoouh ne se met pas a jour.oblige de désinstaller et réinstaller l'application.a ameliorer
+DateCommentaire:19 septembre 2014
+NoteCommentaire:2

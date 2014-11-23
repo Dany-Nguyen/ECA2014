@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Impossible de voir la TV sur la tablette
+Commentaire: La version précédente plus opérationnelle, aucun moyen d'envoyer nos requêtes. Vivement déconseillé en attendant une update de résolution des bugs.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:1

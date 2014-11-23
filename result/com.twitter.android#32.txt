@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Excellente application
+Commentaire:Le tout marche bien, aucun problème majeur
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

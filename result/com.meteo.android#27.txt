@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:
+Commentaire:Sobre et excellent tout simplement. Coach et cycliste averti je consulte parfois plusieurs fois par jour cette application claire et très fiable. Merci monsieur Séchet.
+DateCommentaire:8 avril 2014
+NoteCommentaire:5

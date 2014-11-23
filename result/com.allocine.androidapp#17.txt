@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Belle interface, mais...
+Commentaire: Crashs fréquents au démarrage et publicité très envahissante !!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Trooop top
+Commentaire:Gennial cet apli pour savoir les infos duu rugby et ettre toujours a jours sur les claaaassement et leees resultaaaaat
+DateCommentaire:31 mai 2014
+NoteCommentaire:5

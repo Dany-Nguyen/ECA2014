@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Bug réparé !
+Commentaire: Ça y est, c'est réparé ! Il est enfin possible de payer ses vendeurs depuis le smartphone.
+DateCommentaire:9 août 2014
+NoteCommentaire:5

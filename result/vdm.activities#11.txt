@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:
+Commentaire:Je la réinstallerai sur mon portable quand l'erreur de token aura été réglée, c'est lourd de devoir toujours se reconnecter en passant du portable à la tablette et vice-versa.
+DateCommentaire:27 septembre 2014
+NoteCommentaire:4

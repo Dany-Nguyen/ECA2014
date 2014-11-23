@@ -1,0 +1,9 @@
+NomApplication:Runtastic Mountain Bike
+IdApplication:com.runtastic.android.mountainbike.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:30 688
+TitreCommentaire:
+Commentaire:Trop 2 pub, 1 toute les 3 secondes sans exagérer
+DateCommentaire:18 octobre 2014
+NoteCommentaire:3

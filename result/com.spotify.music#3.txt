@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Bug
+Commentaire: Depuis plus d'un moi impossible d'utiliser l'appli sur mon galaxy s4 , quand je lance un message s'affiche: spotify s'est arreté et écran noir , j ai désinstallé puis réinstallé et toujours le meme probleme ... je ne pense pas etre le seul ayant se probleme.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

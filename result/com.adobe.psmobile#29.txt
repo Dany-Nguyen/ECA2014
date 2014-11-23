@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Impossible à ouvrir
+Commentaire: J'ai un Xperia E1 et l'application se ferme automatiquement dès que j'essaye de l'ouvrir. Dommage
+DateCommentaire:11 septembre 2014
+NoteCommentaire:1

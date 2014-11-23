@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Impossible de l'ouvrir!!
+Commentaire: Depuis peu je ne peux plus du tout accéder à l'application. Je suis assaillie de pubs à un tel point que je ne peux même plus rester 2 secondes sur l'application sans être redirigée vers une page de pub!! Bref, je désinstalle elle ne fonctionne plus!
+DateCommentaire:21 septembre 2014
+NoteCommentaire:1

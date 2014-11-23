@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:On ne peut rien faire !
+Commentaire: On ne peux même pas lire la musique que l'on veut ‚ il faut d'abord passer par un mode aléatoire ‚ et en plus ce n'est pas illimité
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

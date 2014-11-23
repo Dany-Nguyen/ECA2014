@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Connection impossible
+Commentaire:Impossible de se connecter sur ma galaxy tab 3 ! Régler se problème au plus vite! Ne mérite pas plus d'une étoile pour le moment!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

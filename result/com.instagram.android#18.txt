@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Franchement super
+Commentaire:Sérieusement cette apli fonctionne très bien aucun bug. Si vous n'avez pas encore installé cette apli vous avez rater votre vie ;)
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Super genial
+Commentaire: Sa fonctionne tres bien jai un s4 et un s5 et sa ft presque comme le s5 super aps
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Cool
+Commentaire: Les mises à jour sont nickels. Pour moi la seule chose qui manque c'est la fonction copier/coller lorsqu'on veut refaire l'annonce
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

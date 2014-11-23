@@ -1,0 +1,9 @@
+NomApplication:Emoji Smart Android Keyboard
+IdApplication:com.emoji.Smart.Keyboard
+CategorieApplication:Social
+NoteApplication:3,6
+NombreVotants:43 618
+TitreCommentaire:
+Commentaire: ai pas compris quand on met des smileys sa ns affiches des 😞c trop bizzare meme si les smileys sont beau je prefere mn clavier samsung mais quand on vq sur ptions il nous disent dsl l application ne rep plus
+DateCommentaire:31 octobre 2014
+NoteCommentaire:2

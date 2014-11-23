@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Genial
+Commentaire: Tres bonne application tres peu de bug sur samsung galaxy trend
+DateCommentaire:1 novembre 2014
+NoteCommentaire:4

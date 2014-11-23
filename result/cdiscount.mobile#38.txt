@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Nul personne s'occupe de l'application
+Commentaire: Cdiscount je voulais achetez galalaxy s5 noir a 450 euro tant pis pour vous je vais les donnez a quelqu'un d'autre......
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

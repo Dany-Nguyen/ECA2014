@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:
+Commentaire:Rien ne marche en plus il y a trop de pub
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

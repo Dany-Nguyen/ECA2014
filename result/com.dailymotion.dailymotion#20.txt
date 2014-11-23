@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Excellent
+Commentaire: Pas autant de contenu que YouTube et pas de fonction "Remote" mais reste excellent !
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Je paye et encore des pubs
+Commentaire: Je rêve, je paye 2€69 pour ne plus avoir de pubs et lorsque je regarde les vidéos, pubs de 30 secondes. Merci pour l'arnaque.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

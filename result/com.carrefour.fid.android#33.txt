@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Pourri
+Commentaire: Sa fait très longtemps que j'utilisais cette application je la trouvai super même si elle bugai assez souvent mais la on peut plus présenter un chèque de fidélité en caisse à quoi sert cette application si le seul truc super ne marche plus
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

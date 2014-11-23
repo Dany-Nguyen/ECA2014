@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:
+Commentaire:Les pubs fonctionne très bien, par contre pour le direct, je n'ai que la bande son avec écran noir, quand au replay, l'image est en accéléré par rapport au son... Donc pas du tout satisfaite... :/
+DateCommentaire:6 octobre 2014
+NoteCommentaire:1

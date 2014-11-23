@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Parfait
+Commentaire: très bonne appli , les pubs en bas de l'écran ne dérange pas , et le commentaire disant trop de pubs s'applique surtout quand on zap , pub apparaissant à chaque fois que l'on change de chaine , on a rien sans rien.
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

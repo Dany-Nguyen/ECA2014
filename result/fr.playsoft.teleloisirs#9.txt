@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:OK pour Lollipop ☺
+Commentaire: Merci pour la mise à jour rapide !
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

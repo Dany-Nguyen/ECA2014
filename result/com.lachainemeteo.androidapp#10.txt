@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Pub agressive
+Commentaire: D'abord 1 page de pub en plein écran, puis ouvre de manière frénétique le playstore, puis 5 pages de sites douteux dans le navigateur, comme les pires pop-up malveillants. Cette appli très sympa au départ est devenue un infect piège à pub !
+DateCommentaire:22 septembre 2014
+NoteCommentaire:1

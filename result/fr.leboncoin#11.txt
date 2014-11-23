@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:
+Commentaire:J'aimerai tellement pouvoir compléter le partage d'une annonce d'un message perso à la personne qui reçoit. C'est pas un luxe. Est-ce que les histoires d'orthographe ont été rectifiés. Parce que trouver un toboggan c'est le bout du monde.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:4

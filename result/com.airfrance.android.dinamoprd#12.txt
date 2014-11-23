@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Absence de cartes d'embarquement, enregistrement peu pratique
+Commentaire:1- C'est extrêmement pénible, les cartes d'embarquement ne sont jamais disponibles sur les vols que je réserve. Soit je n'ai pas de chance, soit cela ne marche pas. De plus, il est maintenant impossible d'obtenir sa carte par SMS ou MMS. Bref, il faut se trainer une page A4...pratique. 2- Pour s'enregistrer, il faut connaitre par cœur son numéro de vol et de réservation et faire le va et viens entre plusieurs écrans de l'application ("Mes vols" et "S'enregistrer").... Finalement c'est une application pratique à condition d'avoir un papier, un crayon, une imprimante.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

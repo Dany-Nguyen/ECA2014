@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:
+Commentaire:rès pratique. On pourait y associer la carte d'embarquement dès disponibilité
+DateCommentaire:19 octobre 2014
+NoteCommentaire:4

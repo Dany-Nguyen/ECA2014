@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Très bien hormis l'habillage
+Commentaire:Excepté une certaine lenteur au démarrage (le système mets 5 bonnes minutes à être opérationnel alors que toutes les connections sont indiquées OK) l'application est très correcte. Critère de position GPS fort restrictive : il faut désormais une précision de 0m pour que le positionnement GPS soit OK sans quoi un message apparait régulièrement (parfois juste 1sec), parfois dérangeant ! Interface vieillotte (sons et graphique), je préférait la précédente mais je reconnais que les interactions sont plus rapides. Par contre, tout fonctionne désormais parfaitement en ce qui concerne la connexion Bluetooth avec le système média de la voiture (Golf 7 ; avant l'alerte sonore était transmis ou pas aux baffles de la voitures selon l'appli en courz d'utilisation pour écouter la musique -> maintenant plus de problème avec l'appli musique de Samsung sur GS4. La durée des bouchons, les indications précises de la nature et du positionnement des perturbations et bien entendu des radars en font une appli indispensable à qui voyage beaucoup en voiture ! Bref, si l'interface graphique et sonore est améliorée, je mets 5 étoiles
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

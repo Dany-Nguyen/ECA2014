@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Sur mon Z3
+Commentaire: Cette application reste un incontournable. Tout de suite installée sur mon nouveau smartphone. Par contre les Widgets ne fonctionnent toujours pas...... Merci de voir ça rapidement
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Gps
+Commentaire:Dommage que notre situation gps ne figure pas sur la carte, ou alors je sais pas m'en servir.
+DateCommentaire:8 juin 2014
+NoteCommentaire:4

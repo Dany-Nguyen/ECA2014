@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:LG G2 - Bon appli, catalogue encore leger
+Commentaire: Après presque 1 an sur Spotify, dont j'étais très satisfait, j'ai essayé Napster (offre SFR). L'application est bonne, envoi des tags sur la radio Bluetooth de ma voiture (ce que ne faisait pas Spotify),... que du bon pour le moment. Sauf pour le catalogue lui même ! Si beaucoup d'artistes sont présents, il n'est pas rare de n'avoir qu'un ou deux albums là où Spotify avait la compilation complète. En espérant que ça s'étoffe rapidement ! Mais pour ce prix (gratuit avec SFR), je me plains pas plus que ça !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

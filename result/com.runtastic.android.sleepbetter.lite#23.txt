@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Pas encore au point
+Commentaire: J'ai dormi 7h36 et il me détecte 1h52 de sommeil profond et me dit que j'ai 96% d'efficacité de sommeil ? Sleep as Android calcule mieux les phases de sommeil...
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

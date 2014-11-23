@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Nul !
+Commentaire: Impossible de scanner ma carte ou de rentrer son numéro manuellement.. Les anciennes versions fonctionnaient très bien, pourquoi toujours vouloir tout changer ????????
+DateCommentaire:7 septembre 2014
+NoteCommentaire:1

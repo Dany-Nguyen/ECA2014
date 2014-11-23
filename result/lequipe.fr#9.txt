@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Bien
+Commentaire:Manque la personnalisation des notifications et le fait de recevoir toutes les actus liées a nos sportifs ou équipes préférées en notifications
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Excellent
+Commentaire: Effet plus qu' acceptable rien à redire! Si ce n'est que l'appli fait chauffer le CPU .
+DateCommentaire:15 octobre 2014
+NoteCommentaire:5

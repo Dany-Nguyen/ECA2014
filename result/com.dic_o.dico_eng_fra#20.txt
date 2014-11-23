@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Cool
+Commentaire: Cool vraiment
+DateCommentaire:11 octobre 2014
+NoteCommentaire:5

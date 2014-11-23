@@ -1,0 +1,9 @@
+NomApplication:Infos Bus, Métro&Train :Moovit
+IdApplication:com.tranzmate
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:149 642
+TitreCommentaire:
+Commentaire:'est dommage lappli était super bien et j'ai du l'effacer il y a quelque temps soucis de mémoire et la je la reprend mais malheureusement elle n'est plus comme avant les horaires ne sont pas bon du tout... a l'arrêt du bus il es inscrit 4min et sur lappli 20 ?!*$/ ... c dommage je l'aimais bien déçu
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

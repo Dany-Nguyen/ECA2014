@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:
+Commentaire:Trés trés nul j'ai recommencé plusieurs fois ma connection identifiant impossible de se connecter abandonner vite cette appli elle nous prend la tête dessus de numèricable je vais voir ailleurs tchao
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Utilisé tous les jours
+Commentaire: Fonctionne très bien sur tel Wiko et tablette Galaxy Tab3. Il manque une ou deux fonctions versus le Web mais l appli est pratique aussi en mode déconnecté
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

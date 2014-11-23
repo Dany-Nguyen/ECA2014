@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Le s.a.v est une jolie façon de se faire de l argent pour eux....on te fait répéter 15fois tes questions...on te vole en fait...sinon sans le s.a.v ça va!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

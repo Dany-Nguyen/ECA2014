@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Bug beaucoup
+Commentaire: C est une super appli :) mais bug au démarrage
+DateCommentaire:24 octobre 2014
+NoteCommentaire:3

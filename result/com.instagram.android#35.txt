@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Très bien...
+Commentaire:...mais le recadrage fait parfois défaut car ne prends pas toute la photo... A améliorer.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

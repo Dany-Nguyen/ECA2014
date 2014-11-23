@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Bof
+Commentaire: VDM reste une bonne application mes il y a de plus en plus de pub! Dommage. Je dé installe et passe à NSF
+DateCommentaire:10 octobre 2014
+NoteCommentaire:3

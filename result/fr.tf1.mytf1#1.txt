@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Horrible !
+Commentaire: Personnellement sa ne mérite même pas un étoile ! Un quart d'heure de pub pour que l'aplis me dit que soi-disant ma connexion n'est pas bonne ! Résulta j'ai supprimer des application pour pouvoir l'installer, je n'aurait pas du ! Très dessus ! 😤😤
+DateCommentaire:1 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:C'était mieux avant
+Commentaire: Je trouve la mise à jour très lente et les recherches n'aboutissent pas toujours. L'ergonomie est moins bien qu'avant. Descendre en bas de page pour sélectionner des sous catégories est pénible.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

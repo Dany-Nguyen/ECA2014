@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Mauvaise surprise
+Commentaire:Je demande de la 1ere classe, on me dit OK. Je prends le retour et l'aller se transforme en 2nde ...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

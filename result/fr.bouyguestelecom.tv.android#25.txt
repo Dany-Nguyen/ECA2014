@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Plus de "luxe tv"
+Commentaire: Pas mal mais plus de "luxe tv" depuis dernière mise à jour. A revoir! En tout cas elle est disponible dans l'appli sfr tv...! Merci de faire le nécessaire.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire: juste la qualité des video qui est dégueulasse et j'ai une question c quoi le nom de l'appli qui permet de mettre des photos de sa galerie sur snap ?? Merci d'avance
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:
+Commentaire:Bien mais il voudrait mettre la géolocalisation de seine est marne ou île de France ... Etc mais sinon très bon concept du moyen de prévenir quand ses vendu ou pas ⭐⭐⭐⭐
+DateCommentaire:7 novembre 2014
+NoteCommentaire:4

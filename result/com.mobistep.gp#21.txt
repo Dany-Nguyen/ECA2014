@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Site web mobile absolument identique, en plus rapide !
+Commentaire: Incompatible avec les tablettes, ergonomie et fiabilité catastrophique ! Sur le temps qu'il faut pour prendre un billet, on passe 80% à valider des infos déjà saisies. A chaque étape on attend une réponse serveur (très lent et inutile). Bref c'est lent quand ça marche bien, et cauchemardesque quand il y a un pb côté connexion ou serveurs. Parce que y a rien d'autre... Quand on arrive à commander un billet, le lecteur de QR Code (qd on rentre en salle) a du mal à lire le billet
+DateCommentaire:30 juillet 2014
+NoteCommentaire:1

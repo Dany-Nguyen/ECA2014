@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:It could be perfect
+Commentaire: Use of color picker by just touching a point from a photo would be perfect
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Wikipedia
+Commentaire: Pour tout savoir sur (presque) tout... Indispensable.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Gn3
+Commentaire: Pas terrible pour un produit playstation, lenteur et bug vraiment fréquents, copie à revoir pour les développeurs.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

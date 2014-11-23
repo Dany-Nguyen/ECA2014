@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Super la nouvelle version !
+Commentaire: J'aime bien l'animation des catalogue mais cela pixellise un peu sur mon téléphone.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

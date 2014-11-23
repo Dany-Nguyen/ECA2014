@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Le "swipe" à disparu
+Commentaire:Une application qui à le mérite de bien retranscrire le site de l'équipe. Mon gros regret reste que depuis la version précédente il est impossible de passer d'un article a l'autre en "swippant" (glissant son doigt sur la gauche ou droite). Suis-je le seul ? J'ai un moto G sous kitkat 4.4.4
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

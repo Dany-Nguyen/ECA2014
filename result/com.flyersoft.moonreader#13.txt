@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:Impect
+Commentaire: Application qui fonctionne bien. On a la possibilité de faire pas mal de réglage.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

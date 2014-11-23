@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Scandaleux!
+Commentaire: Même sur un S5 qui est sensé être un des smartphone les plus puissants l'application passe son temps à planter! Une mise à jour est vraiment indispensable... Heureusement pour eux qu'ils ont des partenariats avec des opérateurs, qui du coup ne laisse pas le choix d'utiliser un concurrent, sinon tout le monde partirai vers Deezer ou Spotify...
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

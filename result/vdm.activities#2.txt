@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Plantage intempestif
+Commentaire: L'appli a la fâcheuse manie de planter, les pop-up de pub ? Je ne sais pas mais cela a merite d'être agaçant.
+DateCommentaire:7 octobre 2014
+NoteCommentaire:2

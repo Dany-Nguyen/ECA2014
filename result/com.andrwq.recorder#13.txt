@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Bien
+Commentaire: Si les boutons pouvaient être plus gros, je n'aurais pas besoin de mes lunettes. Application fonctionnelle sur mon smartphone Logicom.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

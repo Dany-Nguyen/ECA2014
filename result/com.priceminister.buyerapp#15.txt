@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Application non gérée
+Commentaire: Cette appli bug sans cesse depuis des semaines. Auncun administrateur n'a repondu a ma demande et le probleme est toujours là. Ne depensez pas vos sous dessus...c'est risqué
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

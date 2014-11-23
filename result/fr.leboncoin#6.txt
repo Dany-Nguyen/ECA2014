@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Encore plus svp.
+Commentaire: Les filtres de prix ne son pas assez précis. Trop d'écart, 500€ ou plus de 500€
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

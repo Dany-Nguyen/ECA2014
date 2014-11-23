@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:vie privée c'est tjrs pas ca
+Commentaire:Application qui demande bcp trop de permissions. Quid de la version tablette ?
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

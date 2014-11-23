@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Pas mal
+Commentaire: Cette app tous marche sauf les smiley ne fonctionne pas rien ne s'affiche pas !!!! Faires qql choses svp !!!
+DateCommentaire:20 octobre 2014
+NoteCommentaire:4

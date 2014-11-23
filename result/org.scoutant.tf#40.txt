@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:C'est sympa
+Commentaire:Cependant les routes principales sont trop fines et difficile d'avoir une vue globale
+DateCommentaire:24 mai 2014
+NoteCommentaire:4

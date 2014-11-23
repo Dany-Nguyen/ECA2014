@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:
+Commentaire:nstagram m'empèche d'aimer, commenter ou de suivre les personnes. C'est très agaçant. Il me disent de donner mon numéro pour m'envoyer un code que j'aurais à leur remettre mais pour l'instant je n'ai toujours pas reçu de code ! À changer immédiatement.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

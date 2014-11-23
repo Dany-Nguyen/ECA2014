@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Bonne appli assez pratique mais les temps de chargelent sont parfois bien trop long ce qui gache l'utilisation de l'appli et je ne pense pas que se soit du a ma connexion car je n'ai pas ce genre de problèles avec les autres applications
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

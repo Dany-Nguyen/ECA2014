@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Samsung galaxy not
+Commentaire:Application excellente ne beuge jamais et elle est complete car on peut savoir tout sur tout les sports
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Boof
+Commentaire: Pas très interactif ! Et la réduction de 15 euros sur le rayon supermarché et inexistant même en téléchargement l'application
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

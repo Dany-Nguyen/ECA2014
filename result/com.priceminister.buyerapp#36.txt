@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Toujours pas d'évolution
+Commentaire: C'est dommage qu'on ne puisse pas mettre moins d'une étoile ! Non seulement l'application n'est pas complète mais en plus elle plante, elle plante et elle plante encore. A revoir totalement !
+DateCommentaire:20 octobre 2014
+NoteCommentaire:1

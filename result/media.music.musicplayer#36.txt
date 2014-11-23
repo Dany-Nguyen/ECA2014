@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Nul !!
+Commentaire: Sans wifi impossible d écouter de la music !!
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

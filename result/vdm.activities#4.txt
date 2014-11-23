@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Abus de pub
+Commentaire: Quasiment a chaque fois, me redirige vers Google play pour installer une autre application partenaire. Pratique commerciale un peu douteuse...
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Trop de bugs
+Commentaire: L'image se fige tout le temps obligé de redémarrer l'application. C'est pénible
+DateCommentaire:24 octobre 2014
+NoteCommentaire:2

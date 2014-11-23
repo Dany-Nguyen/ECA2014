@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:incomplet
+Commentaire:pas de possibilités d'accéder à l'agenda d'un club, pas d'adresse du lieu du match et pas d'enregistrement d'un match sur l'agenda. La saison dernière une application officieuse était mieux pensée. Dommage de ne pas s'en être inspiré.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:
+Commentaire:Comme d'habitude, beaucoup d'articles à prix abordable et en tout genre pour notre plus grand bonheur
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

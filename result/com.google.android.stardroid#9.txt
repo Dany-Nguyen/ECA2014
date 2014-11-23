@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Bug
+Commentaire: Marchait très bien sur mon précédent tél, mais ne fonctionne plus sur mon galaxy s4 mini. Reste bloqué en longitude...
+DateCommentaire:8 novembre 2013
+NoteCommentaire:1

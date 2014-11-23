@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Cest nul
+Commentaire: Sa marche pa tout le temps et ca a rien a voir avec la version d'apple.👊
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

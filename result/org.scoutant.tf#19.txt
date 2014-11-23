@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Très pratique
+Commentaire:Je l'utilise tous les jours, mais le rafraîchissement des informations est un peu trop espacé à mon goût! (Entre 5 et 10 min)
+DateCommentaire:3 octobre 2014
+NoteCommentaire:4

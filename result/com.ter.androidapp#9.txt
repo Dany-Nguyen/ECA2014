@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:A nous de vous faire preferer un autre moyen...
+Commentaire:Je selectionne ma region, selectionne ma gare de campagne , et POUF! J'ai un train... UN SEUL train... je cherche la grille des horaires.... non inclus dans l'appli... je vais sur le site des TER, le site bug completement, page inexistante ou deplacee..... TANT PIS! Je vais faire du stop!
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

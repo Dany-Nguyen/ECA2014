@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Trop de pub
+Commentaire: Ca aurait pu être bien comme appli, mais beaucoup trop de pub et trop longues. Sans parler d'un bug dès la 2e utilisation. Je retourne sur youtube
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

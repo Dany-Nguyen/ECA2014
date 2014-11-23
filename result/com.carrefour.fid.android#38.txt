@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:E chèque
+Commentaire: Depuis dernière mise a jour impossible de créé un e chèque ! Très agréable au moment de payer ! Application qui pert sa fonction première dommage ...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

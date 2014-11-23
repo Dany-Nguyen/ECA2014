@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Desastreux
+Commentaire: La pire application 120 secondes de pub et un plantage frequent je la deconseille vivement
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

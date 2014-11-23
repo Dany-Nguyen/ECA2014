@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Sympa
+Commentaire:Ne manque que le français. Plus de sites dans notre langue et ce serait parfait.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

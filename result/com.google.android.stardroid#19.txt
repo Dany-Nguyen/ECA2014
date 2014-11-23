@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:attention position
+Commentaire: Pour vraiment indiquer la position correspond correcte l'appareil doit être place face a vous et perpendiculaire au sol
+DateCommentaire:8 septembre 2012
+NoteCommentaire:4

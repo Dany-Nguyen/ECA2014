@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Très bonne apli
+Commentaire: J'avais beaucoup de bug avec mon Sony xperia sp mais aucun soucis depuis mon passage au Samsung galaxy s5
+DateCommentaire:14 septembre 2014
+NoteCommentaire:5

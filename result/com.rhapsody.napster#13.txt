@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Pas mal
+Commentaire: Les titres les plus connus sont presents. La recherche artistes similaires n'est pas au top ainsi que la "biographie" des chanteurs. Mais dans l'ensemble ca reste correct.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

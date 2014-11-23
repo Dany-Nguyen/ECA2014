@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Attention aux arnaques
+Commentaire: Les prix indiqués avant réduction sont totalement farfelus !!!! Vérifiez toujours sur Google sur d'autres sites et vous verrez que l'on est souvent très très loin des 40 à 70% de réduction annoncée
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

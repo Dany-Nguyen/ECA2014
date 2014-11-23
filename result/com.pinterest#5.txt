@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Découverte
+Commentaire:Très bonne découverte que cette application, j y passe beaucoup de temps quand je plonge le nés dedans. Je n'ai cependant pas mis la 5e étoile car je ne sais pas comment épingler à partir d'une page internet que je visite via mon navigateur...??
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:
+Commentaire:L'ancienne mis à jour était parfaite, la on a pas accès aux émoji RÉCENT. Décevant sur ce point
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

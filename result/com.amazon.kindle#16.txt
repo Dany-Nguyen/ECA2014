@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:
+Commentaire:Nickel! Un truc qui serait sympa ce serait une fonction recherche pour trouver de suite le titre du livre sans chercher dans la longue liste de tous les livres que j'ai acheté! Ça, ça serait top!
+DateCommentaire:17 octobre 2014
+NoteCommentaire:5

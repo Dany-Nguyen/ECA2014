@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:
+Commentaire:J adore ......mais pas bcp de personnalisation mais parfait pour les gens fann des smylés
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

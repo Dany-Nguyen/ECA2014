@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:MàJ pour Lollilop ?
+Commentaire: Satisfait globalement. Mais quelques bugs d'affichage du widget sur Nexus 5 depuis le passage à Android lollilop : une MàJ est-elle prévue pour corriger ?
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

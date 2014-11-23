@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Très approximatif...
+Commentaire: Il ne retrouve même pas les commandes de billets spectacles avec les références dont on a besoin pour les retirer dans les bornes en magasin !!
+DateCommentaire:13 août 2014
+NoteCommentaire:1

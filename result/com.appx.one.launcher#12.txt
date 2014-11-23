@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:
+Commentaire:J'ai cru que j'allais trouver un launcher de CM One+One mais c PAS correct! A part ça le launcher marche bien et chaque élément est à sa place un travail de ' Professionnel' très bien fait ; Option que j'aime être ajouter : Un déverrouillage à la ios ou autre ; icône système essentiel dehors du dossier.. For know I keep it and I'll try it more. Good luck Dev
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Pénible!!!!!!! Alors.....
+Commentaire: Si nous ne sommes pas content à cause de toutes ces PUB alors desactivons tous cet application de nos téléphones. L'union fait la force
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

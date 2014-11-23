@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Galaxy nexus 4.1.2
+Commentaire: Simple, précis, "amusant" et surtout d'une réelle précision.
+DateCommentaire:18 septembre 2013
+NoteCommentaire:5

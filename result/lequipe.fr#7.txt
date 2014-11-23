@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Tout
+Commentaire:Trop cette application mais c juste qu il y a des gros beug et en plus quand on veux regarder une vidéo il y a trop de pub
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

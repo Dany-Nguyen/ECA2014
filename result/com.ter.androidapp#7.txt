@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Problème d'affichage
+Commentaire:Tous fonctionne très bien, seulement les horaires sont affichées avec 2 heures de retard lorsque je recherche un itinéraire. Merci de corriger cela au plus vite.
+DateCommentaire:10 octobre 2014
+NoteCommentaire:2

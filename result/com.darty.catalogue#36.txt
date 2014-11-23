@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:J adore mais...
+Commentaire: Un seul hic la liste des magasins pour retrait marchandise n est pas à jour.
+DateCommentaire:25 août 2014
+NoteCommentaire:4

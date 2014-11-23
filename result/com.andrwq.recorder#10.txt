@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Très simple et pratique
+Commentaire: Ergonomie simple, on accède directement à l'essentiel cad enregistrer et lire ces enregistrements. 2 bémols cependant : 1) on ne peut pas écouter ses enregistrements en consultant autre chose sur son tél, la lecture se met en pause immédiatement 2) on ne peut pas lire ses enregistrements sur son lecteur audio (enfin pas trouvé pour l'instant)
+DateCommentaire:26 septembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Bonne application.
+Commentaire: Je dirais la même chose que la personne un peu plus bas, le gps n'ai pas très fiable, une fois il dit 3km8 un fois 4km2 voir 3km5. Et qu'est ce qu'il y a de plus payer à l'année ? Autrement ça reste une bonne application. Merci.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

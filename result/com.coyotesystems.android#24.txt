@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Parfaite
+Commentaire:J'utilise cette application depuis plus de 3 ans et en suis totalement satisfait (sur Balckberry puis sur mon galaxy note 1,2 et 3) ... La meilleure application d'aide à la conduite avec la meilleure communauté !
+DateCommentaire:23 septembre 2014
+NoteCommentaire:5

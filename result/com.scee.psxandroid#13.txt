@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Le design de l'appli est jolie, mais pour ce qu'il y est du fonctionnement c'est a revoir. Les temps de chargement sont très long et apparait un message d'erreur de chargement malgrès mes actualisation frequente. Je changerai ma note en cas de MAJ utile à ce disfonctionnement.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

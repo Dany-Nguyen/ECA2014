@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Pfffff
+Commentaire:J'en peux plus de cette appli ! A chaque fois que je rentre une adresse j'ai l'erreur "oops! La connexion internet semble interrompue". Le défaut est toujours présent à chaque mise a jour.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:J'aime pas le messenger externe.
+Commentaire:Prend trop de jus sur la pile.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

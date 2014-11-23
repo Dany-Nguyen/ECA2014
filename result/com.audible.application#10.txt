@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Manque livres pour bonne appli
+Commentaire: Cherche encore livres audio en français gratuits ou pas trop chers. Le handicap est une vraie vache à lait
+DateCommentaire:2 août 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Trop d' erreurs
+Commentaire: Il faut revoir votre copie... saint plantage priez pour nous... trop de codes erreur, fonctionne 1 fois sur 10 sur tablette Samsung.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

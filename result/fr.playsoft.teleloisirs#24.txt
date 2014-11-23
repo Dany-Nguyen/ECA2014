@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Maj de....
+Commentaire: Ne fonctionne plus depuis la mise à jour...... dommage car super pratique quand ça fonctionne
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Talking Tom Cat 2 Free
+IdApplication:com.outfit7.talkingtom2free
+CategorieApplication:Divertissement
+NoteApplication:4,4
+NombreVotants:1 886 406
+TitreCommentaire:Méga cool
+Commentaire: Mais certaine personne disent que les jeux talking serait surveiller par des pédophiles. Des rumeurs cours disant que dans les yeux de Tom ,Angela et ginger ont vois un ga nous surveiller,ont peut voir un ordinateur ou une chambre. Bref ses histoire me font flipper
+DateCommentaire:10 septembre 2014
+NoteCommentaire:5

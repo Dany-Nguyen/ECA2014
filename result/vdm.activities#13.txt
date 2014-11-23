@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Trop de publicité
+Commentaire: Beaucoup trop de publicités c'est très lassant, je désinstalle et vais voir pour supprimer mon compte
+DateCommentaire:24 octobre 2014
+NoteCommentaire:1

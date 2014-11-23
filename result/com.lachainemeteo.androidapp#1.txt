@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Réinstallation sur mon Z2
+Commentaire: Je vais voir si cette application fonctionne aussi bien que sur mon Sony Xperia S. Car jamais eu de soucis avec lui. Mais là j'ai du la désinstaller puis la réinstaller car elle beugait à tire-larigot.
+DateCommentaire:12 octobre 2014
+NoteCommentaire:5

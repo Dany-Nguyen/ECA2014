@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Pas au point
+Commentaire: Mauvaise application avec un bon look mais une utilisation TV live sur IPad ou smartphone épouvantable, impossible de suivre un match de foot en direct. Abonné très déçu.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

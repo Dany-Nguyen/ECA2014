@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Diabolique...
+Commentaire: Ce widget sympa a reconnu la plupart des morceaux soumis récents ou anciens parfois en une fraction de seconde et sur des bribes sonores. Alors chapeau bas et bien sûr tant pis pour le lien vers le market, faut vivre avec son temps. Donc un grand Bravo !
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

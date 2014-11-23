@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Application devenu complexe
+Commentaire: Application étant devenue beaucoup plus complexe, consomment énormément de batterie et devenue très lente. C'était mieux avant la mise a jour.
+DateCommentaire:29 août 2014
+NoteCommentaire:3

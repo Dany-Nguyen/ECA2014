@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:A quand une vrai application pour le foot amateur
+Commentaire:Choix des clubs, il faut défiler toute la liste pour le trouver niveau ergonomie 0. Quand on le trouve enfin on ne trouve que l équipe 1 du club 0. Quand on suit un club on suit toute les équipes. Est que l on pourrait trouver a minima les fonctionnalites du site internet pour le suivi des championnats.
+DateCommentaire:18 septembre 2014
+NoteCommentaire:1

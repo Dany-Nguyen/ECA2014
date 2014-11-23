@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:
+Commentaire:Moi non plus je ne peux plus voir la météo des villes que j'ai installé très décevant avant ça fonctionnait super bien maintenant c'est dommage j'espère pouvoir à nouveau l'utiliser comme avant , aujourd'hui nous avons un ciel bleu magnifique , indication est : très couvert avec ça on est bien informé
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

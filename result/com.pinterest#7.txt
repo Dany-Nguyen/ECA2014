@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:On épingle comme des petits fous!
+Commentaire:Une application dont on devient vite accro pour classer et se constituer des collections facilement.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Compatibilité
+Commentaire: Appli pas compatible avec Android 5.0, les vdm ne se chargent pas comme si il n'y avait plus de connexion ...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

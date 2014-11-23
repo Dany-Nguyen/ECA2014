@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Trop de pub tue l'appli
+Commentaire:là ça devient trop! je veux bien comprendre que ça rapporte mais c'est un vrai calvaire... Adieu
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

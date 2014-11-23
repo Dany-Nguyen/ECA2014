@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Parfaitement bien
+Commentaire: Je trouve cette application parfaite *.* Je donne 5 étoiles :) Elle est très riche et chaque mot qui me semble difficile , je cherche dans cette app , je le trouve surement
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

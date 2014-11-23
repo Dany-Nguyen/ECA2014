@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:
+Commentaire:Le seul souci de cette application est que pour ma part elle ne fonctionne que quand je suis en wifi sinon ca ne fonctionne pas normal ou pas
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

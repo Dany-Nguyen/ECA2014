@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:N'importe quoi
+Commentaire: C'est n'importe quoi le son ne sort même pas !! A arranger tous de suite
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

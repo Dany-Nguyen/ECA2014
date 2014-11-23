@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Très déçue
+Commentaire: Avant cette appli fonctionnait super bien. Maintenant il faut attendre une éternité pour que ça charge même en wifi, et encore, quand ça fonctionne !
+DateCommentaire:27 septembre 2014
+NoteCommentaire:1

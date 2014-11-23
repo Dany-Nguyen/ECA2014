@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:GT : alexrom51
+Commentaire: Faucon Royal recrute joueur Xbox 360 venez sinon bonne applis
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

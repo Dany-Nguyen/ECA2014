@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Moyenne faudrait la regler
+Commentaire: Connections lentes et difficile s beaucoup d'interruptions et surtout des chaînes importantes sont éléménées..vraiment "dommage"!!!???
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

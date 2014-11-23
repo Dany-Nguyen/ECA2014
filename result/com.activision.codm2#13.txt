@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Prestige ancien call of
+Commentaire: Les prestiges des précédents call of ne s'affichent pas pour tout le monde sur le profil, petit détail mais bon, si c'est là, autant que ça fonctionne.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

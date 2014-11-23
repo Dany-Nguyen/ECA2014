@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Lenteur et coupure
+Commentaire: Premium depuis plus d'un an, je trouve l'application correct mais paz assez optimisé. Par exemple sur mon tel je rencontrer des coupure désagréable aléatoire lors de l'écoute de musique hors ligne alors que synchroniser cela ne devrai pas ce produire. En coupant la data, je n'ai plus de coupure. Pire, accéder aux paramètres me demande 1min d'attente.... Avant les dernière maj je n'avais pas ces problèmes.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

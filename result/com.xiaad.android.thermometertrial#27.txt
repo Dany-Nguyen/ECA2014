@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Sony Xperia e android 4.1.1
+Commentaire: Cest iper bien ça me sert
+DateCommentaire:19 septembre 2013
+NoteCommentaire:4

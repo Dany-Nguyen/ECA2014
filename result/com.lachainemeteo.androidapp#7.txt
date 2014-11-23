@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:
+Commentaire:La météo n'est pas une science exacte certes mais Saint Malo n'est aucunement sous des trombes d'eaux et orages comme annoncé depuis des jours en live... ...actuellement en terrasse et beau et chaud soleil...Actuweather est plus efficace.
+DateCommentaire:19 septembre 2014
+NoteCommentaire:3

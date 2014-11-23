@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Un tres bon résumé de l actu et du monde de la vidéo sur smart
+Commentaire: Très bon pour les vidéos
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

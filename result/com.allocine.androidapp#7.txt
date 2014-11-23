@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Du mieux, mais...
+Commentaire: Pas de mode paysage pour la navigation, Pas de mode portrait en mode vidéo. Ceci rends les transitions article/vidéo désagréables.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

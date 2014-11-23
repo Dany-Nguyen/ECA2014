@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:
+Commentaire:Juste dommage que quand on fait les playlist ont est obligé d'ajouter 1 par un et c'est très agaçant. Et aussi trop de pub. Sinon elle est bien
+DateCommentaire:11 novembre 2014
+NoteCommentaire:3

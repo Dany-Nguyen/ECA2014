@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Très bien jusqu'à la dernière mise à jour
+Commentaire: La mise à jour du 3 octobre (4.2.0.54) ne fonctionne pas sur Xperia mini ... Aïe. Ouf, réussi à installer la version d'avant ! Ouf, ça va mieux.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

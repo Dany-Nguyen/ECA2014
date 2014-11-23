@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Ne sert plus à rien
+Commentaire: Plus possible d'utiliser les chèques que l'on cré... obligé d'avoir un 2eme tel avec l'appli pour utiliser le chèque... super...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

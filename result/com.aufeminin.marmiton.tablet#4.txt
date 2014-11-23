@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Juste ce qu'il me faut
+Commentaire:Des recettes hebdomadaires qui peuvent inspirer des idées, et lorsque je fais une recherche j'ai toujours une réponse.
+DateCommentaire:7 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Nul
+Commentaire: Une application qui marche quand elle veut et pa souvent d ailleur. Passe son temps a essayer de vous geocalise pour trouver une ciné. Les films s affiche quand ils veulent. Je desinstale.
+DateCommentaire:10 octobre 2014
+NoteCommentaire:1

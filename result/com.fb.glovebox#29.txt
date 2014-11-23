@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Indispensable !
+Commentaire: Depuis mon passage sous Android, j'utilise Glovebox qui est certainement l'utilitaire le plus utile de tous !
+DateCommentaire:10 mars 2014
+NoteCommentaire:5

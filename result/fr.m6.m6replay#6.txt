@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:OK sur Android 5.0
+Commentaire: L'application fonctionne parfaitement sous Android 5.0 , le son est de retour !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

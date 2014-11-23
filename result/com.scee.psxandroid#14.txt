@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:POURRIT
+Commentaire: Votre application était je dit bien était parfaite mais depuis votre put@#9#§$ de MAJ plus rien ne marche rien que d'afficher les messages c'est devenue impossible à RECTIFIER ET VITE
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

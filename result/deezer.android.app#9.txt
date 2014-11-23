@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Nul
+Commentaire: Pff l'application se met en mode hors ligne invariablement! Sauf qu'en plus je peux même pas accéder aux musiques synchroniser sans faire planter l'application. Perso je resili mon abonnement pour aller chez la concurrence que je ne connais pas encore
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

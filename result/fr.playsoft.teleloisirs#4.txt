@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Gros beug
+Commentaire: Mon application s'ouvre quelque secondes puis un message d erreur arrive et me dit que l'application s est arrêtée. Plusieurs essais. Désinstallation puis réinstallation, rien n'y fait. Que faire?
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

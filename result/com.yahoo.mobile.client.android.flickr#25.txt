@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Why should I have a Yahoo account?
+Commentaire: First app proposes to log through FACEBOOK, then request a Yahoo account anyway. That is annoying and counterproductive :-(
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

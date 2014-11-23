@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Pourquoi pas de mode paysage ?
+Commentaire: Allez soyons fou à quand une vraie version tablette ?
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

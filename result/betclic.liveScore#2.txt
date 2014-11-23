@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Avec betclic live je suis tous mes resultats en directe sur mon smart.
+Commentaire:Je maintenent heureux car j'ai l'appli betclic et cela me facilite la tache
+DateCommentaire:14 juin 2014
+NoteCommentaire:5

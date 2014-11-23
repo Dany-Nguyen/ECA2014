@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Archi pratique
+Commentaire: Mise à part pb synchro avec play music
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

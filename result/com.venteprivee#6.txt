@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Bug
+Commentaire: Depuis la mise à jour je ne peux plus me connecter l écran reste en chargement , je n ai dc plus accès au site sur galaxy s5
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

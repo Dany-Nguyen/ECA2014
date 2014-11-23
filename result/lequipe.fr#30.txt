@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:L'equipe
+Commentaire:Tout y est...dommage que certains articles soient payant mais toute l'info sportive y est.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

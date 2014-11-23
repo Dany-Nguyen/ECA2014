@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bug sur mon xperia z et xperia z ultra
+Commentaire:Bonjour les applications se lance et se ferme immédiatement si vous souhaitez les logs hésité pas à me contacter xbelond@outlook.fr les développeurs de cette application sont mauvais il n'y a rien de autre à dire...
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

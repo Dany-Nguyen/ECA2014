@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Le bon coin
+Commentaire: Les annonces ne sont pas au complet sur l'application
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

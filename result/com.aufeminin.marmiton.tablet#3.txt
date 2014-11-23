@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Mi figue mi raisin
+Commentaire:Coté contenu il n'a rien à dire. Coté app trop de bug, il y a des liens qui ne s' ouvrent pas dommage. Vendredi03 octobre2014: Nette amélioration coté accès
+DateCommentaire:3 octobre 2014
+NoteCommentaire:4

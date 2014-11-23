@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Prévisions il y a mieux
+Commentaire: Je l'utilise pour le travail car la météo est un facteur important de notre activité. Nul! il est annoncé quil pleut av 80% de probabilité alors qu'il fait un grand ciel bleu. cela assez souvent et pourtant on voit bien que les prévisions viennent detre mis a jour . Faut arrêter! La il pleut a ce quil paraît...
+DateCommentaire:20 septembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Aucune connexion
+Commentaire:Impossible de se connecter
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

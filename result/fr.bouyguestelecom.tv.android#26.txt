@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Pas mal.
+Commentaire: Gros défauts: demande systématiquement les identifiants pour se connecter. Fonction enregistrement programmation à améliorer.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Payant
+Commentaire: Je mettre rais une étoile de plus parce-que il faut payer ! Moi mes parent n'emmène pas qu'on paye des chose et il faut s'abonner moi j'ai pas le droit ! Merci ci vous pouvez faire ça ! :-)
+DateCommentaire:21 septembre 2014
+NoteCommentaire:4

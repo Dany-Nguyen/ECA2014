@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Nul !
+Commentaire: D'après lui mon cardiographe est plus élevé au repos qu'à l'échauffement, aucune logique. De plus, vue le temps où l'on doit rester appuyer avec notre doigt, on a le temps de chopper une crampe.. je ne conseille à personne cette application, vraiment.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:1

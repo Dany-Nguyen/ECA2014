@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Très bien!
+Commentaire: On se croirais limite sur un iPhone, c'est très réaliste, a part le Locker dont je ne suis pas très fan, le tout reste très complet sans bug pour ma part :)
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

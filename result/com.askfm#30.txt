@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Samsung galaxy S3
+Commentaire:Alors on peut plus aime lorsquon a cliquer trop de fois sur j aime dans la meme heure( d'ou le connexion interner requise), les questions on peut les supprimer en fesant glisser sont doigts vers la gauche, oui on ne peut pas voir son fond mais sa c pas bien grave, et comme toute appli normal que defois sa beug sinon tout est TOP
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

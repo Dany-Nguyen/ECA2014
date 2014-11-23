@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:
+Commentaire:Très motivant pour les randonnées vélo
+DateCommentaire:10 septembre 2014
+NoteCommentaire:4

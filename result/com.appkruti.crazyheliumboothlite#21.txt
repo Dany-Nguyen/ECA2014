@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:
+Commentaire:Les voix sont en décalé par rapport à l'image et il y a moins de choix que pour Iphone! J'espère qu'elle sera rapidement mise à niveau car peut être très fun!
+DateCommentaire:14 octobre 2014
+NoteCommentaire:4

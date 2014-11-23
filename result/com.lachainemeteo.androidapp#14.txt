@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Bien mais
+Commentaire: Les notifications meteo ne se suppriment pas correctement. Je viens de déménager et je reçois toujours la meteo de mon ancien logement. 5 étoiles dès réparation
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

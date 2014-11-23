@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Pas mal
+Commentaire: Très bon suivi des achats en ligne ou magasins avec les caractéristiques des produits mais manque une infos primordial, les factures correspondantes à ces achats...
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

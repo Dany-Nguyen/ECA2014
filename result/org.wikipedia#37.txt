@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Formidable
+Commentaire: Wikipedia, l'application quotidienne indispensable... "un outil du quotidien à manier avec esprit critique" Umberto Eco
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

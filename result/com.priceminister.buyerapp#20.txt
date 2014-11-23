@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Bug absolu
+Commentaire: Appli inutilisable. Bug a la moindre recherche. Quel est l'intérêt de garder une appli qui vous fait passer pour des incompétents?
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

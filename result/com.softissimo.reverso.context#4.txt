@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Ottima app (nexus5)
+Commentaire: Non da problemi e contestualizzando la traduzione rende tutto più facile
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

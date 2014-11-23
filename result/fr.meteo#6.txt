@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Yes but...
+Commentaire: L'application est correcte et fait le job. Par contre par pitié corrigez votre widget. 40% de conso batterie et 2h50 de CPU quand dans le meme temps l'os et l'écran sont a 10% et 20 minutes c'est juste inadmissible.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:3

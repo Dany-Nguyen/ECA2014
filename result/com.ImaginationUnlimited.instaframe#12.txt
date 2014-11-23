@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Très bonne application
+Commentaire: Très bien mais les photo ne rentre pas quand on veux les mettre en fond d'écran et c'est embêtant, arrengez ça et je mettrais les 5 etoiles
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

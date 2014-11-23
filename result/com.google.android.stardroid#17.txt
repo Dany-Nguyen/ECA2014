@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Que du bonheur !
+Commentaire: sauf qu'avec ces jours pluvieux ou nuageux ... pas de profit. Fait rêver la tête dans les étoiles...
+DateCommentaire:19 avril 2013
+NoteCommentaire:5

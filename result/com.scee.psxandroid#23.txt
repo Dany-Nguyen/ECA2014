@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Maj nul
+Commentaire: Ne fonctionne plus impossible de me connecter. A je reçois tout de même les notification aller pour cela une étoile.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

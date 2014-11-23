@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Nickel
+Commentaire: Praticité et efficacité. Cette appli tire le maximum des possibilités du téléphone.
+DateCommentaire:12 août 2014
+NoteCommentaire:4

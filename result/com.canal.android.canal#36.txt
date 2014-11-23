@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Impeccable
+Commentaire: Bien content de pouvoir suivre la L1 même quand je ne suis pas chez moi!!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

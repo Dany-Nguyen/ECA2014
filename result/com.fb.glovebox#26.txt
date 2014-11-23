@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Glovebox !
+Commentaire: The best side launcher on the Play Store, very useful, fluid and customisable. Amazing new UI and memory optimisation.
+DateCommentaire:9 avril 2014
+NoteCommentaire:5

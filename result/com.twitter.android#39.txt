@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Ouais okk et ? Rien de nouveau
+Commentaire:Toujours des mises a jour mais jamais de changement alors que chez iOs l'interface a complètement changée
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

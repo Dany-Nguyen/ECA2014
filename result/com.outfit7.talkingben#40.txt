@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:Luna loup
+Commentaire: Se jeu est super drole et en plus tu peux lui parler dans le telephone
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

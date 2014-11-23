@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Chargement rapide, fluide et sobre
+Commentaire: Les pages se chargent rapidement, on n attend pas devant des pages blanches comme avc d autres app. Pas de fioriture, c'est clean, fluide. Je m'en serts majoritairement pour de gros doc PDF et c'est nickel.
+DateCommentaire:21 juillet 2014
+NoteCommentaire:5

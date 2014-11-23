@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Une bonne surprise
+Commentaire: Superbe application pour observer le ciel et s'y retrouver, car sans carte du ciel ce n'est pas facile. Je ne savais pas que ce genre d'application existait, je pensais acheter une carte du ciel sur papier comme j'ai un télescope, finalement je l'ai gratuitement sur mon téléphone. Très interactif et de belles photos dans la galerie. Je conseille à tous ceux qui aiment observer les étoiles. Un seul regret : ne pas l'avoir découverte cet été quand le temps se prêtait mieux à l'observation du ciel nocturne.
+DateCommentaire:11 septembre 2013
+NoteCommentaire:5

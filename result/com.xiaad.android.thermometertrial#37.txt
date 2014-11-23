@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Parfait
+Commentaire: Donne une température correcte . comparais avec un thermomètre a l'extérieure la température étais la bonne , l'application et donc très fiable et utile .
+DateCommentaire:4 février 2014
+NoteCommentaire:5

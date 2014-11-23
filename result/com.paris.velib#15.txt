@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Déçue
+Commentaire:Desinstallation car plantage au bout de 30 sec à la première utilisation. Je retourne à Univelo
+DateCommentaire:8 mars 2014
+NoteCommentaire:1

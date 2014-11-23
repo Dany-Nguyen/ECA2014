@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Samsung.trend lite
+Commentaire: Sa marche.pas comment comment avez fait svp 😁😢😣😂😨😳😞 voila quand je fait des smiley Sa fait des point d'interrogation
+DateCommentaire:15 octobre 2014
+NoteCommentaire:2

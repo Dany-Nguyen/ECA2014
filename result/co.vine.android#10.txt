@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Video making bug Xperia M2
+Commentaire:The video playback does not work (except for the final render) on the video editor. Also my viewers says the sound of my vines are pretty low. I'm on a Xperia M2
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

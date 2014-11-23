@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Vivement Chromecast
+Commentaire: Génial la mise à jour de myCANAL ! Tout fonctionne comme sur des roulettes, interface épuré et fonctionnelle, merci !
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

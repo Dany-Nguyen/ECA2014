@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Très bonne appli
+Commentaire: J'ai toujours trouvé les informations que j'y cherchais. Site très complet.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

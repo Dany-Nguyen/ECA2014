@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Parfaite
+Commentaire: Je l'adore super simple et pratique d'utilisation ! Installer celle-ci si vous avez besoin d'un dictaphone (vous pouvez même vous envoyer par mail ou par réseau sociaux vos enregistrements)
+DateCommentaire:21 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Decevante
+Commentaire: Au demébut c'était bien mais maintenant cette application est énervente, il y a trop de pub, et quand on veut aller voir le programme d'un autre jour la page revient directement à celle du début.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:L'application est intéressante et fonctionne bien MAIS...
+Commentaire: L'application est intéressante et fonctionne bien MAIS ne mérite pas les 4**** car sur les tablettes il est impossible de fonctionner en mode portrait ! un comble ! dommmmage ! REPONSE DE LA CPAM : Caisse Nationale d'Assurance Maladie 10 novembre 2014 Effectivement, le mode paysage est désactivé. Néanmoins, pour votre information, nous travaillons à une prochaine version de l'application spéciale "tablette" avec une ergonomie totalement revue...du coup je remonte ma note a 4****
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

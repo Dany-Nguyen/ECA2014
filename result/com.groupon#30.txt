@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:Commandes jamais reçues..
+Commentaire: J'ai commandé plusieurs articles sur Groupon et il y en a que je n'ai jamais reçu mais pour lesquels j'ai été facturé... Cependant, pour les articles que j'ai eu je suis satisfaite!
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

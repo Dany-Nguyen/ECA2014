@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Better UI...
+Commentaire:...but still a bit slow...
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

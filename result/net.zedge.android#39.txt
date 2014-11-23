@@ -1,0 +1,9 @@
+NomApplication:ZEDGE™ Ringtones & Wallpapers
+IdApplication:net.zedge.android
+CategorieApplication:Personnalisation
+NoteApplication:4,5
+NombreVotants:2 028 675
+TitreCommentaire:Si beaucoup pouvait être comme Zedge...
+Commentaire: Je connais Zedge depuis le début. .. et je n'ai jamais été déçu. J'en parle à tous mes amis et beaucoup ne voit plus que par cette appli pour les musiques principalement.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

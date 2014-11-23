@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Bonne appli
+Commentaire: Elle fait son job. Pas de plantage. Ça m'évite d'avoir à ouvrir le pc pour suivre mes achats.
+DateCommentaire:13 septembre 2014
+NoteCommentaire:4

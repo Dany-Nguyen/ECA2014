@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Probleme de parametre de connexion.
+Commentaire: Quand j'ouvre l'application celle ci me dit que c'est impossible car la connexion a un probleme et que je dois verifier mes parametres de connexions alors que tout est normale. A regler au plus vite.
+DateCommentaire:2 octobre 2014
+NoteCommentaire:1

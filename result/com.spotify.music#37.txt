@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Payant .
+Commentaire: J'ai me beaucoup cette apli le problème et que au bout d'un mois d'essayer elle devient payante je n'y suis pas encore j'ai seulement recus le message d'avertissement .
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

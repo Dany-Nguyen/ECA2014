@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Pratique
+Commentaire: Facile à utiliser, pour commander et pour comparer les prix lorsque on est dans un magasin.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:4

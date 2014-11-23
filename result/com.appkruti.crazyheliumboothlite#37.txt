@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Bug
+Commentaire: Voix en retard, bug, moins de choix de déformation que sur Ios.
+DateCommentaire:14 octobre 2014
+NoteCommentaire:2

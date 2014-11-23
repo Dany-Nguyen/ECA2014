@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:
+Commentaire:l m'est impossible d'accéder a autre chose qua la carte des stations Sinon a pars ca appli pratique quand on est dans Paris
+DateCommentaire:4 juin 2014
+NoteCommentaire:2

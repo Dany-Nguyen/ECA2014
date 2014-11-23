@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:
+Commentaire:rès bien mais le problème c'est que les alertes buts sont très décalées par rapport à Flash Résultat
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

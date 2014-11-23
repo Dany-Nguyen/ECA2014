@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Ca s'empire!!
+Commentaire: On ne peut meme plus personnaliser les themes....franchement de plus en plus déçu...en plus la plupart des themes sont payants.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

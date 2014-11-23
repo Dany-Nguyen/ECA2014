@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:C'est bien
+Commentaire: J'aime bien cette application de photo montage.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

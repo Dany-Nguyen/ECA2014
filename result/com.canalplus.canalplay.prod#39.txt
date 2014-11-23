@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Pas de reprise lecture
+Commentaire: Un comble pour ce genre de service. On ne peut pas stopper la visualisation pour la continuer plus tard. Le film recommence depuis le début. Il faut rajouter cette option comme commencer la lecture sur un mobile et la continuer sur la tablette comme le fait Netflix. Pas d'option pour lire en continu les épisodes d'une série comme Netflix Le catalogue est aussi pauvre que Netflix, les séries ne sont pas complète. Exemple : 5 saisons sur 7 pour Thé Bing Bang Theory
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

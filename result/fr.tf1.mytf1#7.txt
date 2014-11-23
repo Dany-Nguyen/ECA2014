@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Bizarre
+Commentaire: Les pubs passent nickel chrome... Pour le reste on peut se gratter. Appli a but uniquement commercial de la part de tf1. Ne fonctionne pas alors que d'autre application réussissent là ou la chaîne officielle échoue. Ne pas télécharger...
+DateCommentaire:14 octobre 2014
+NoteCommentaire:1

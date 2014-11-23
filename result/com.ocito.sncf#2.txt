@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Merci pour la banlieue
+Commentaire:Ne prends pas en compte les horaires d'hiver à temps et indique des bus qui ne roulent pas le week end dans les itinéraires. GPS fantaisiste et problème pour les itinéraires. Merci pour la perte de temps !
+DateCommentaire:20 septembre 2014
+NoteCommentaire:1

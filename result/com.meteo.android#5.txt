@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:
+Commentaire:Jolie travail. Très peu d erreur de prevision par rapport a tout les autres sites. Ceci est due au fait qu ils sont capables d analyser le modèle américain et européen et d en faire une synthese contrairement a la pluspart des sites qui sont automatiques. Merci pour ces previsions.
+DateCommentaire:9 avril 2014
+NoteCommentaire:5

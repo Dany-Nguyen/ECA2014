@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:problème de caméra
+Commentaire: La caméra n'arrive pas à scanner ma carte de fidélité et les produit. donc application inutile
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

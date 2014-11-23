@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Bug multi tâches
+Commentaire:L'application se ferme à l'appui sur le multi tâche...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

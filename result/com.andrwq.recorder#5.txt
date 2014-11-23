@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Bof
+Commentaire: L'enregistrement en lui même se passe bien s'il est de courte durée, mais des que la durée est un peu longue, l'appli plante souvent, et ne reponds plus au fonctions du style terminer. .donc on perd parfois les enregistrements... Le saut des silence est bien pensé, il permet d'alléger un fichier. Et on peut régler nous même la puissance du micro, afin que lors d'un cours, on entende la voix du prof et pas les bruits parasite autour.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Pédagogique mais...
+Commentaire: Superbe application permettant une exploration de la voûte céleste aussi bien du zénith que du nadir mais il est vrai que la précision n'est pas absolument parfaite y compris en évitant la proximité des aimants de fermeture des étuis de protection du smartphone. Cependant, une belle réussite qui permet tout de même de repérer facilement les planètes, les astres, les galaxies, etc... A conseiller pour les enfants.
+DateCommentaire:2 décembre 2013
+NoteCommentaire:5

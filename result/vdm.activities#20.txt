@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:J'adore MERCI
+Commentaire: Après une journée dur au collège sa fait toujours du bien de se mettre dans son lit et de lire VDM
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

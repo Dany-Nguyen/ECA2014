@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Horreur
+Commentaire:Depuis le 21.11 impossible de me connecter à l'application sur s4 mini. Application vierge sur ipad et iphone. Attends vite une solution.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

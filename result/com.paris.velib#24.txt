@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Si je pouvais mettre zéro étoile...
+Commentaire:Application inutile étant donné qu'elle ne parvient même pas à me localiser. Map lui le fait en moins d'une seconde.
+DateCommentaire:26 juin 2014
+NoteCommentaire:1

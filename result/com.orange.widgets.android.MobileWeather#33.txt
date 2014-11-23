@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:
+Commentaire:Ne fonctionne pas
+DateCommentaire:5 juin 2014
+NoteCommentaire:1

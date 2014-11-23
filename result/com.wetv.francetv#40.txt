@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Super
+Commentaire: Depuis mon tel je peu regatder la télé même si le chargement de connexion au serveur est un peu long
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

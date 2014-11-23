@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Tres bonne appli!
+Commentaire: Tres utile lorsqu'on recherche un titre qui passe à la radio. Rapide d'exécution. Seul bemol : pourquoi je ne peux plus coupler avec Spotify ?
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

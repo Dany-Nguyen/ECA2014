@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Cette mise à jour est nulle !
+Commentaire: Même si la nouvelle interface est très jolie, les choix des paramètres de go SMS se sont largement amoindries ! Quel dommage ! Les pop-up apparaissent directement, on ne peut même plus personnaliser les listes de conversation etc... sans compter sur les emojis ! Longlet "emojis récemment utilisés" n'existe plus ce qui nous oblige à retourner chercher parmi linfinité de Smiley celui qu'on à utilisé au message d'avant ! Vivement une nouvelle mise à jour !
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:Bien mais bof
+Commentaire: Recu plus de 1 mois apres ma commande qui netait pas a mon nom ni a ma taille aucune possibilité de retour classique 15 jr ouvrable nouvel essaie de commande a voir !!!!
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

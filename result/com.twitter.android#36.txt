@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Progressif
+Commentaire:Twitter est adictif au fil du temps. Le premier avis peut être trompeur.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

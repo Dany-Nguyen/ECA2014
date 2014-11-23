@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Succinct ...
+Commentaire: Manque un raccourci "normal" et du coup je ne peux pas mettre ce raccourci sur l'écran d'accueil pour lancer l'application rapidement ... juste ça .
+DateCommentaire:17 août 2013
+NoteCommentaire:3

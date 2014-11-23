@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Ne fonctionne toujours pas
+Commentaire: Orange ne souhaite toujours pas que l on puisse regarder la tele sur des tablettes pas vendues par orange =&gt; limite du vol car d autres fournisseurs proposent un service plus fiable sur le sujet
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

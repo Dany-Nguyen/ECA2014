@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Reponses aberrantes
+Commentaire:Pas tous les trains et des horaires completement errones. A jeter. MAJ du 28/04 alors que horaire ete depuis 6/07/2014. Totalement nul.
+DateCommentaire:18 juillet 2014
+NoteCommentaire:1

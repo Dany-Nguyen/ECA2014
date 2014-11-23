@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:A revoir très vite !!!!
+Commentaire: Plus possible d'éditer un e chèque en caisse !! Pourtant ça fonctionnait très bien auparavant.....A croire que c'est fait exprès !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

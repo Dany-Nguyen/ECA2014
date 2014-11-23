@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:
+Commentaire:Alors ce qu'il serait bien c'est de pouvoir choisir la qualité sinon ça rame bcp trop selon notre débit, ce que youtube à pensé à faire !!!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

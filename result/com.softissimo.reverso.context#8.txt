@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Super
+Commentaire: Très pratique et bien fourni . Ca change de google trad
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

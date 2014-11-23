@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Appli complète
+Commentaire: Ce qui est agreable c'est la dedcription complète des épisodes et leur numéro pour éviter les rediff
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

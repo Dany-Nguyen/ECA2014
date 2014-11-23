@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Problème batterie
+Commentaire: La météo est quelquefois peu exact mais comme tous les sites de météorologues. Mais le principal est que depuis la MAJ l'appli consomme 50% de ma batterie, du coup je ne peux plus l'utiliser et suis obligé de désinstaller provisoirement je j'espère.
+DateCommentaire:22 août 2014
+NoteCommentaire:3

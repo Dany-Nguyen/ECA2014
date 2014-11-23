@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Coach offline
+Commentaire: L'acces au coach hors ligne,sauvegarder les resultats et les uploader une fois en ligne rendrait l'appli tres proche du 5 etoiles. Le parfait compagnon pour faire du sport ou qu'on soit
+DateCommentaire:5 septembre 2014
+NoteCommentaire:4

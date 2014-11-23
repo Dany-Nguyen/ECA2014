@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Ne marche pas pour Android 5.0
+Commentaire: Ne marche plus depuis que je suis passé sous Android 5.0 lolipop. Toutes mes autres applications fonctionnent sauf celle ci. Manque de suivi et de sérieux.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

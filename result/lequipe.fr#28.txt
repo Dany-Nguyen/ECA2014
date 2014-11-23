@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:L'équipe
+Commentaire:Bof l'application perd de son utilité à cause de tout ces articles premium... beaucoup trop de pub
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

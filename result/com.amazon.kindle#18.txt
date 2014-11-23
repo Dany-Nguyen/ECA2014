@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Très bonne appli
+Commentaire: Fonctionne très bien chez moi. Aucun problème.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:5

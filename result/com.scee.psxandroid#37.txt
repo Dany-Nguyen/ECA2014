@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Trop lent...
+Commentaire: Je vois souvent des messages disant que des applications, je teste l'application et je me dis que c'est abusé... Mais là... J'ai juste voulu envoyer un message à un ami ; un chargement très long pour arriver à la page d'envoi du message (3-5 min), puis j'écris le message... je veux l'envoyer ; 3-5 minutes de chargement pour l'envoi... c'est abusé... autant prendre le temps d'allumer sa ps3 puis d'écrire le message, c'est beaucoup plus rapide...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

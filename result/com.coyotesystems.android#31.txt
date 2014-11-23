@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Nouvel version 8 ne s'installe pas.
+Commentaire:Lorsque l'on essaye d'installer la nouvelle version, c'est l'ancienne qui s'installe (7.1.2) ?!?
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

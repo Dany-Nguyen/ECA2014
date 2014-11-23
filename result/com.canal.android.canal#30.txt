@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:L'appli qu'il vous faut
+Commentaire: Fonctionne très trètrès trèssstrès bien sur Samsung tab et note 2 ou 3 !!! On ne peut plis s' en passer.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

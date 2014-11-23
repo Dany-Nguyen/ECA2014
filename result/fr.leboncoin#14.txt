@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:
+Commentaire:Très bien
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Météo pour le Monde
+IdApplication:com.idmobile.worldmeteo
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:4 283
+TitreCommentaire:A découvrir..
+Commentaire: Je l'ai depuis quelques temps et n'utilise que la 1er page (d'où le titre..) . Très agréable pour l'oeil et assez précise.
+DateCommentaire:4 octobre 2014
+NoteCommentaire:4

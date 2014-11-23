@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Plante à tous les coups
+Commentaire:Depuis la dernière MAJ ne fonctionne plus du tout il plante à l'ouverture , je l'ai désinstaller et réinstaller ça marche plus! Vous pouvez faire quelque chose
+DateCommentaire:25 octobre 2014
+NoteCommentaire:2

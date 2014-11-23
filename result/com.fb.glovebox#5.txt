@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Solid sidebar app
+Commentaire: I've tried many sidebar applications and you always need to compromise. Either it is the fluidity or the customization of the look, the number/area of triggers or the memory needed. Glovebox stands out because it doesn't have any of these issues. It is simple to use while having so many options at the same time. It is fluid, offers a few great themes to please most users and offers great versatility. The only downside I can think of so far is translations, there's none as far as I'm aware. Does it make the app unusable? Not at all. Once you're set up with your shortcuts and settings, you'll never really have to "read" anything.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

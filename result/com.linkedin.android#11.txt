@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Nouvelles applications
+Commentaire:Vos nouvelles applications ont amélioré l'utilisation du réseau et me procure du plaisir.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

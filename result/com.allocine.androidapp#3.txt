@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Très bonne appli
+Commentaire: Malheureusement juste quelques bug de lecture de vidéo (genre je n'arrive pas à lire une vidéo intégrée dans un article), d'où l'étoile en moins.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Bugs à corriger d'urgence
+Commentaire: Ça bug, les vidéos se coupent en plein milieu, c'est très ch.... De plus, lors d'un visionnage, il reste en haut de l'écran un bandeau avec le titre et une loupe de recherche. C'est encore plus ch.... C'est quand vous voulez pour les corrections. Samsung Tab 10.1
+DateCommentaire:22 septembre 2014
+NoteCommentaire:1

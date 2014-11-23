@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Sur Nexus 5
+Commentaire:Simplement très bien. Ampli réactive et intuitive en version gratuite. La version payante ajoute quelques fonctionnalités intéressantes mais qui ne me sont pas utiles
+DateCommentaire:11 juillet 2014
+NoteCommentaire:5

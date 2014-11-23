@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Plus que médiocre
+Commentaire:Impossible de se connecter à son compte et ensuite fonctionne qd elle en a envie.
+DateCommentaire:2 juin 2014
+NoteCommentaire:1

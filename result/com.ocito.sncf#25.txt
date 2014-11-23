@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Horaire imprécis
+Commentaire:Annoncé à 9 h 13, le train est parti sous mon nez à 9 h 11:@
+DateCommentaire:22 septembre 2014
+NoteCommentaire:2

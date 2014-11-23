@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Trop de pub
+Commentaire: Pub avant et après la vidéo!!! Bientôt il y aura de la pub au milieu de la vidéo. Domage.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

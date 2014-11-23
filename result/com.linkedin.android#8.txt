@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Impossible de supprimer une relation
+Commentaire:Rajouter un contact, oui, mais pour le supprimer, on fait comment ? Surtout que sur l'application les ajouts non désirés sont fréquents, c'est mal foutu !!
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

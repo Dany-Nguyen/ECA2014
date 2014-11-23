@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:La maj avec Lollipop
+Commentaire:Déçu!Impossible d'envoyer des photos avec les tweets.A régler au plus vite svp!
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

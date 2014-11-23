@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:
+Commentaire:Jai pa encore essayer c la deuxième foix Qu'e je télécharge saa sa craint
+DateCommentaire:31 octobre 2014
+NoteCommentaire:3

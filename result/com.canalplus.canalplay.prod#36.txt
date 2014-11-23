@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Une grosse merde
+Commentaire: J'ai réinstaller mon téléphone pour l occasion car le canalplay se coupait sans raison. Il bug toujours autant. Les dev devraient vraiment s inquiéter car vivement netflix.
+DateCommentaire:20 août 2014
+NoteCommentaire:1

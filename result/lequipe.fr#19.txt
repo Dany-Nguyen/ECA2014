@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Plantage en série
+Commentaire:L'application tablette plante 9 fois sur 10 au démarrage, dommage.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

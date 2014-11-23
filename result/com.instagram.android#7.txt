@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:
+Commentaire:on plus gros soucis est qu'avec mon Samsung galaxy s3 on peut pas poster de photo sur instagram en m'étant la photo toute entière, elle es forcément carrer, chose a changer
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Imprécis
+Commentaire: Ne montre pas correctement le sens du radar. Averti même si le radar est sur la voie opposé e.
+DateCommentaire:23 mars 2014
+NoteCommentaire:3

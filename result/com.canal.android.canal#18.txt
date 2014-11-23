@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:BUG sur Android 5.0
+Commentaire: Merci de remédier à ce bug !!!! Cette appli fonctionnait très bien avant de télécharger Android 5.0 !!! 😤😤😤
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

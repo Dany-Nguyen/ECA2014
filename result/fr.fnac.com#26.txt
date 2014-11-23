@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Bien mais peut mieux faire
+Commentaire: Il manque notamment la possibilité de (le lien pour) retrouver un article dans l'application via l'historique de commande.
+DateCommentaire:22 septembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Assez juste à 2 journées
+Commentaire: Relativement juste à 2 jours, les prévisions plus longues sont quelque peut non fiables mais ça c'est la météo en général. Attention pour cet hiver, je suis dans une zone de montagne et n'annoncez pas de neige à "touristes", vérifiez auprès des sites locaux qui eux sont presque infaillibles.
+DateCommentaire:21 septembre 2014
+NoteCommentaire:4

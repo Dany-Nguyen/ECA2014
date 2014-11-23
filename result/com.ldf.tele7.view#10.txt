@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Pub Intempestives
+Commentaire: Bien dans l'ensemble mais les pubs intempestives gâchent tout... Pourquoi avoir agrandis les colonnes des chaînes TV ? Moins de programmes sur une page du coup, c'était très bien avant... Maintenant, les logos des chaînes mettent plus longtemps à apparaître, à corriger
+DateCommentaire:14 octobre 2014
+NoteCommentaire:3

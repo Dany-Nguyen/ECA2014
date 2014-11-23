@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:C'est vraiment interressant
+Commentaire: Interressant mais il y a des bugs qqfois les images mettent du temps a charger
+DateCommentaire:18 octobre 2014
+NoteCommentaire:4

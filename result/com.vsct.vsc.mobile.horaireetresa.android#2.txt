@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:
+Commentaire:pplication vraiment très pratique. Elle garde nos informations (bancaires, cartes de fidélité, réductions éventuelles) en mémoire donc pas besoin de les remettre tout le temps.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:5

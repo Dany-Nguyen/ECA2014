@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Ou est passé l'application à 4.99 € ?
+Commentaire: Bonjour, avant de prendre le coach j'avais acheté l'application freeletics à 4.99 €. J'ai changé de téléphone et je m'aperçois que l'application n'ai plus disponible. Comment me faire rembourser ? Ou comment récupérer ce que j'ai acheté ? Merci d'avance. Chris athlète freeletics. Serait-ce trop demander d'avoir une réponse ?
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

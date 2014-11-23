@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:
+Commentaire:Depuis la dernière maj, il n'y a que des bugs. L'application se ferme dès le lancement. Jusqu'à présent j'en étais satisfaite mais trop c'est trop
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

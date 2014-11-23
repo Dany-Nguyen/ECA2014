@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Bonne appli mais....qq petites choses à revoir
+Commentaire:On arrive toujours à trouver de bonnes recettes mais des améliorations à y apporter côté appli par exemple impossible de trouver son mot de passe, login, donc impossible de se créer un carnet de recettes. Impossible de supprimer une recette de l historique (donc historique plein de recettes que je n utiliserai jamais après les avoir lu). Une fois ces petits problèmes résolus ce sera parfait.Mais svp remediez y.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

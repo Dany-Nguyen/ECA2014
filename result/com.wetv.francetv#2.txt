@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:La meilleur app de chaînes de TV
+Commentaire: Française, Suisse, Monégasque, Belge, Italienne etc. mais les chaînes suisses déconnes plus que les autres et il manque la rts 1 et 2 pourquoi!?
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

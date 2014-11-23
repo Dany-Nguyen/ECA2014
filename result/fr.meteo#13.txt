@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Réveil forcé
+Commentaire: Impossible de désactiver le réveil après test, j'ai dû réinstaller l'appli. Nombreuses fonctionnalités mais beaucoup de lenteurs, c'est agaçant.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

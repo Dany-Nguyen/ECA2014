@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Super
+Commentaire: Je suis une addict de flickr. J'adore. Il faudrait cependant ajouter quelques fonctionnalités à la version Android qui sont déjà actives sur la version PC comme pouvoir répondre en nommant la personne dans le com, et pouvoir corriger son com si il y a lieu d'être.
+DateCommentaire:23 octobre 2014
+NoteCommentaire:5

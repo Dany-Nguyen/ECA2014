@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Assez bien !
+Commentaire: L'application en elle même est super, de beaux effet! ;) mais malheureusement l'image ne se stabilise pas comme avec un appareil photo ordinaire et l'application ralentit mon téléphone :/
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

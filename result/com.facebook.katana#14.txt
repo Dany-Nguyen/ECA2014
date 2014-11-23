@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Du mieux
+Commentaire:Mais faut pas être pressé sur l'ouverture de l'appli après la mise à jour...
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

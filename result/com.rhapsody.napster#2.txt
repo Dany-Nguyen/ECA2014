@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Ravi
+Commentaire: Extra SFR pour ma part. Étant très éclectique je suis ravi de la grande diversité de musique proposée! Mon application préférée!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

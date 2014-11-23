@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:de loin la pire
+Commentaire:voilà plusieurs fois que je teste l'application en différentes versions sur divers téléphones, celle-ci a toujours était lente et peu pratique lorsqu'elle veut bien fonctionner correctement . j'avais de l'espoir pour cette 2.3 et c'est la pire car elle n'affiche même pas les stations en plus d'être lente. univelo est toujours la mieux
+DateCommentaire:25 février 2014
+NoteCommentaire:1

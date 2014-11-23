@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Mise à jour
+Commentaire:Je viens d'installer la nouvelle mise à jour et quand j'ouvre l'application je me retrouve sur le fil d'actualité vide et ça ne charge pas puis au bout d'un moment mon appareil me dit que Facebook ne répond pas !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Très décevant.
+Commentaire: L'information est bonne, en revanche la mise en page est plutôt laide, peu intuitive et surtout LENTE. Inutilisable. Inspirez vous de la version sur Windows Phone qui elle est excelente. De plus, un widget pour deux jour de previsions est largement suffisant, il est plus intéressant d'avoir un mini details selon matin, midi, soir. A bon entendeur.
+DateCommentaire:16 septembre 2014
+NoteCommentaire:1

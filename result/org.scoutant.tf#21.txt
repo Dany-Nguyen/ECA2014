@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Très bien
+Commentaire:La meilleure appli du genre, un taux de rafraîchissement très court donc c'est presque du temps réel.
+DateCommentaire:20 octobre 2014
+NoteCommentaire:5

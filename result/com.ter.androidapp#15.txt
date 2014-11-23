@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bug
+Commentaire:Application se lance et puis se ferme. Classe. J'ai un ZTE grand s II
+DateCommentaire:6 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:
+Commentaire:uelques beugs de connexion à réglés.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

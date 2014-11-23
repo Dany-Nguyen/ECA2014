@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:MDR
+Commentaire: Ce jeu est tro marant mai le prob se le sa prend l'ont en a mettre
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

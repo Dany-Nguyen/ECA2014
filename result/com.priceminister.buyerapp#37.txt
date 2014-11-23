@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Ce qui me manque le plus:
+Commentaire: Avoir accès à mon compte et voir mes messages. Voir les autres objets en vente du vendeur ainsi que ses notes et lui envoyer des messages.
+DateCommentaire:27 août 2014
+NoteCommentaire:2

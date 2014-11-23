@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Trop approximative
+Commentaire:Ne tient pas compte de l'adresse exacte. Seulement du nom de la rue et vous envoie au milieu de celle-ci et donc ne donne pas la bonne station. Après contact par mail pour indiquer cette approximation, on me répond que je n'avais qu'à indiquer le nom de la station !
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

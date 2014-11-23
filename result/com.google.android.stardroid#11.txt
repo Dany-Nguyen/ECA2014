@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Tsss
+Commentaire: Ca deconne depuis quelque temps il faut noté et ajuster. Sinon avant j étais très satisfaite.
+DateCommentaire:12 octobre 2013
+NoteCommentaire:4

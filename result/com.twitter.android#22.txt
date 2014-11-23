@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:J'aime bien
+Commentaire:A part dans les débuts, où je ne voyais aucun intérêt a Twitter, maintenant J'suis a fond dessus ✌
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

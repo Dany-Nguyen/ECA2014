@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Pratique mais...
+Commentaire:Améliorations après la dernière mise à jour. Malheureusement, reste quelques imprécisions de trajets (le tramway est souvent oublié), ainsi que les tarifs et les zones.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:
+Commentaire:Bonne appli qui propose à la fois plusieurs traductions possibles de l expression recherchée + celles-ci mises dans un contexte. J utilisais déjà leur site. Un point négatif quand on copie colle un texte entier à traduire. L appli ne traduit qu une expression et non tout le texte comme c est possible de le faire sur le site internet.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

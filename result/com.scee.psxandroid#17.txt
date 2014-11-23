@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Bug
+Commentaire: Quand je me connecte sur le PSN Internet il me dise connexion réussie mais dans l'application sa marche pas avant sa marcher corriger sa
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

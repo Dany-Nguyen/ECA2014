@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Idéal
+Commentaire: Après une longue quête, cette application dépasse même mes attentes! Très soignée, agréable, intuitive et du coup, très simple. Ce qui doit expliquer son poids.. A part ca rien à dire.
+DateCommentaire:28 septembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Mise à jour décevante
+Commentaire: L'application Amazon a toujours été excellente. Elle l'est toujours, mais pourquoi cette maj qui semble ne rien apporter plus que... de la lenteur ?
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

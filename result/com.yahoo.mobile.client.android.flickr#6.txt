@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Encore beaucoup à faire
+Commentaire: Si l'application est indispensable sur supports mobiles, bien trop de fonctionnalités sont manquantes. On aimerais pouvoir gérer l'ordre de tri par exemple ou encore la gestion multiple de sécurité...
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

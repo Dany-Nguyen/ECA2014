@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Application simple et rapide
+Commentaire:Fait ce qu'on lui demande et précise bcp de ville dispo donc très pratique pour ceux qui sont pas parisiens
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

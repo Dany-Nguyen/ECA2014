@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Bug pénalisant
+Commentaire: Impossible d'éditer l'e-chèque ni même d'ouvrir mon compte depuis la mise à jour cette semaine. C 1 gros problème lorsqu'à la caisse on compte sur ce chèque !!!
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

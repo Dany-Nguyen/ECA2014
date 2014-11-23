@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Quelle réactivité !
+Commentaire: Je tiens a souligner la réactivité du/des développeurs : rapport de bug envoyé à ce matin 8h, bug corrigé à 9h, mise à jour dans la journée !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

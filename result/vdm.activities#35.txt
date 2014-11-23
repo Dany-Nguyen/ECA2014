@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Pubs très contraignantes
+Commentaire: Ok normal applications gratuites donc pub. Mais c'est bien la seule que je connaisse qui sans aucune action ouvre style le navigateur pour aller sur je ne sais quels sites faut se battre pour revenir sur l'appli bref c'est trop, c'est moche....
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

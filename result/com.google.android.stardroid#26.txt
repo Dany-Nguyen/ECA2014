@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:marche plus
+Commentaire: ça semblait fonctionner avant, depuis que je l'ai reinstalée ça bloque sur une patie du ciel et il faudrait aussi bloquer le gyroscope quand l'appli fonctionne car l'ecran ne cesse de faire des rotations on comprends plus rien. domage je vais chercher une autre appli du genre
+DateCommentaire:30 juillet 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Génial un bel outil
+Commentaire: Je suis fan de wikipedia sur pc et , la sur mon samsung galaxy s4 c'est top seul petite chose, le moteur de recherche demande un peu d'entraînement mais sinon rien a redire parfait
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

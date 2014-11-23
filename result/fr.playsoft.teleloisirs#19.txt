@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Oui mais...
+Commentaire: Il manque les chaînes BE1,BE+1,BE série, BE ciné, BE sport et c'est vraiment dommage. Peut être à venir pour la 5ème étoile ? C'est fait donc 5 étoiles :-)
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

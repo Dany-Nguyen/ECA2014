@@ -1,0 +1,9 @@
+NomApplication:Piano For You
+IdApplication:com.pash.piano
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:15 535
+TitreCommentaire:Bluffant !
+Commentaire: Appli nikel, de plus j'ai obtenu la version pro grâce a appgratis, un grand choix d'instruments, une jouabilité super, je suis content l'app a directement remplacé l'autre app pourris de pianos ...
+DateCommentaire:15 septembre 2013
+NoteCommentaire:5

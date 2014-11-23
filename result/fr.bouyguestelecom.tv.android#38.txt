@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:peut mieux faire
+Commentaire: de bonnes idées mais manque le réglage du volume du son et de la luminosité par glissé du doigt du haut vers le bas de chaque côté de l'écran comme le font grand nombre d'autres applications. impossible de programmer des enregistrements sur la BBOX depuis le smartphone alors que tout fonctionne bien(réseau OK, BBOX OK, boîtier TV OK).
+DateCommentaire:5 novembre 2014
+NoteCommentaire:1

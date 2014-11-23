@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug de m****
+Commentaire: Je paye depuis un moment et je ne peux même pas écouter de la musique via 3g ou wifi! Tu parles d'une écoute en toute mobilité !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

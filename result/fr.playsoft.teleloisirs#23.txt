@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bonne appli
+Commentaire: Très bonne appli je l utile tout les jours a remplacer mon magazine TV papier
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

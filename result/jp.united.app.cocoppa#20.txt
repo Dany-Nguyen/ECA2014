@@ -1,0 +1,9 @@
+NomApplication:icône fond d'écran★CocoPPa
+IdApplication:jp.united.app.cocoppa
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:227 395
+TitreCommentaire:Un 4/5 pour CocoPPa.
+Commentaire: Les fonds d'écran sont superbes, malgré quelques bugs c'est un plaisir pour les yeux !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

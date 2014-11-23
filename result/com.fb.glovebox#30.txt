@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Génial !
+Commentaire: Très bonne application ! Je pense qu'elle va devenir indispensable ! Pour le problème de clavier, il faut régler l'application pour n'activer la barre qu'en haut! Peut être disponible qu'en version Premium?!? Après la mise a jour, les raccourcis ne bug plus. Pour mon utilisation c'est top! Merci ! Peut être est-il possible de faire deux/quatre barres? Une a droite et une a gauche (haut/bas) permettant de mettre nos jeux en haut a droite, le social en bas a droite, nos raccourcis appels/SMS en bas, etc.
+DateCommentaire:10 janvier 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Pourrie
+Commentaire: Les emojis ne se vois pas quand on les envoie !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

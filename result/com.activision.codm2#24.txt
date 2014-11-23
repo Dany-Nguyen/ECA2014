@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Recrute
+Commentaire: La team PSCM recrute sur ps3 s'entretenir avec kevin2995 ou envoyer votre demande sur l'application
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

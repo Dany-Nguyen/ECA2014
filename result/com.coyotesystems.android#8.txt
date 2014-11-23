@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Lg g3
+Commentaire:Tres bonne appli.le service client par contre un peu lent...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Trop lent, pas fluide !!
+Commentaire: Il faudrait rapidement revoir la fluidité qui fait ralentir tout mon Samsung galaxy s4, la navigation dans l'application devient quasiment impossible !! Vous pouvez pas nous faire la même chose que sur IOS ??! Inspirez vous de Spotify vous verrez de quoi tout le monde vous parle !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

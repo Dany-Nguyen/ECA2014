@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Attentiin Très très médiocres!
+Commentaire: Plus capable d'écouter hors connexion alors dite moi pourquoi méritez-vous mon 9.99$ par mois? Il y'a un ans deezer était plus meilleurs qu'aujourd'hui. Je vous déconseille c'est de l'arnaque.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

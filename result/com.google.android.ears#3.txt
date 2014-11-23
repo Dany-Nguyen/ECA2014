@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Appli not response
+Commentaire: -ENG: Hi, This application not response when I click "What's this song?" Is beug and not fonctionnal appli :c -FRA: Bonjour, L'appli ne fonctionne pas chez moi, j'ai beau cliquer sur "C'est quoi ce titre ?" le plugin ne fonctionne pas... il ne répond pas
+DateCommentaire:15 décembre 2013
+NoteCommentaire:2

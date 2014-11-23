@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Awesome
+Commentaire: Would be good if we could also use the power toggle in the lock screen. Beside that I live this app
+DateCommentaire:19 juillet 2014
+NoteCommentaire:3

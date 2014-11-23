@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Problème de masque:les températures sont décalées
+Commentaire: Fonctionnait bien sur mon Note2. Sur le Note4, les températures se trouvent dans l'atlantique! Application et masque de températures à l'ouest....
+DateCommentaire:7 novembre 2014
+NoteCommentaire:2

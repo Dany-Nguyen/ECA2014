@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Pas toutes les options du site
+Commentaire: Un pas en arrière avait été fait lors de la grosse mise à jour précédente, rétabli depuis. Malgré tout, on n'a toujours pas accès à toutes les fonctionnalités du site...
+DateCommentaire:11 novembre 2014
+NoteCommentaire:3

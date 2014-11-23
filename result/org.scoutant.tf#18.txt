@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Excellent
+Commentaire:Je recommande vivement cette appli dommage que l assistant e' conduite consomme la batterie a vitesse grand V
+DateCommentaire:26 mai 2014
+NoteCommentaire:5

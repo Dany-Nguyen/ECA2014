@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:300
+Commentaire:Derniere maj buguée : impossible de mofifier le profil et cela laisse une notification qui ne part pas
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

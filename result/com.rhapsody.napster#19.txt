@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Peu mieux faire
+Commentaire: Manque certains artistes connus..exemple "Jul" et Divers begue sur Samsung Galaxy Grand 2 et Wiko Gateway
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

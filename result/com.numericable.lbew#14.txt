@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Au top
+Commentaire: Utilisateur d'un Galaxy S5 et un Note 8, l'application fonctionne parfaitement en 3G/4G comme en Wifi. Aucun soucis majeur à noter, l'interface est très ergonomique. Les vidéos sont de super qualité. On a là une vraie fracture entre l'ancienne application, que je qualifierai de béta, et celle-ci. On peut enfin profiter pleinement de la puissance de Numéricable et de son multi écran. Je la recommande fortement
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

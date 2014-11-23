@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Bugs
+Commentaire: Plante constamment, l'application demande de forcer l'arrêt toutes les 10 secondes et c'est bien CHIANNNNNT ...
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

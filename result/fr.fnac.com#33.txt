@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:farhdine
+Commentaire: service client top avec l appli aucun bug et tres tres fonctionnelle..rapide simple complete pour les clients ça change tout ..merci la fnac
+DateCommentaire:8 août 2014
+NoteCommentaire:5

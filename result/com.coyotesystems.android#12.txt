@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Juste parfait
+Commentaire:Quelques réglages a faire sur les limites de vitesse . Mais je vous la conseille vivement. ( liège Belgique )
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

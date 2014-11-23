@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Great app
+Commentaire: I can be anywhere I enjoy reading. Even tho I rather feel a book in my hand and manually turn the pages this is as close as it gets :)
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

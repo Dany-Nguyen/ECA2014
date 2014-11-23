@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:J adore cette application
+Commentaire: J adore cette application
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

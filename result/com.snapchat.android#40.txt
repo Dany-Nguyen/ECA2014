@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Cool
+Commentaire:Cool
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

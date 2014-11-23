@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Simplicité efficacité
+Commentaire:Sincèrement pour une réservation et l'achat d'un billet, pour moi c'est top. Je gagne du temps, plus besoin de ressaisir toujours les mêmes informations. Répond à ce que j'attends d'un tel service.
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

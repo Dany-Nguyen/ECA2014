@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Sépia ?!
+Commentaire: Impossible de passer l'écran en sépia ou en noir sur un téléphone alors que cela est possible sur une tablette pourquoi ? Merci pour votre réponse autre problème comment activer la veille après 5 minutes ? How i can activate auto screen off acter 5 minutes thanks
+DateCommentaire:12 octobre 2014
+NoteCommentaire:4

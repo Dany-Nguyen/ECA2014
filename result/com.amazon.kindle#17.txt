@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Vraiment géniale
+Commentaire: Cette application est vraiment géniale car elle permet d'avoir une bonne partie de sa bibliothèque partout avec soi, et aussi, je peux lire des documents autres que des ebooks, comme des pdf, qui restent dans la mémoire!
+DateCommentaire:22 octobre 2014
+NoteCommentaire:5

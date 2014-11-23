@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Très bien.
+Commentaire: Possibilité de marque page. Par contre j'ai pas trouvé comment réouvrir le livre en cours de lecture. Je me suis donc créer à l'intérieur des dossiers pour les En Cours et les Finis.
+DateCommentaire:19 octobre 2014
+NoteCommentaire:4

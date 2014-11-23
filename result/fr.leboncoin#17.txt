@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Peut être optimisée
+Commentaire: A quand une recherche possible par distance? Habitant dans le Sud des Yvelines, les annonces de la Seine st Denis m'intéressent moins que celles du Centre ou de l'Essonne.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

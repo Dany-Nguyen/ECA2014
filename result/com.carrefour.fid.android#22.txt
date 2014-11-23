@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Arrêtez de faire des mises a jour
+Commentaire: Depuis la dernière mise à jour plus moyen d'éditer un chèque fidélité.. L'application me dit que le chèque a déjà été créé ce jour mais rien a été édité. Résultât j'ai payer plein pot à la caisse merci Carrefour
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

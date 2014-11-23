@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Problème toujours pas résolu
+Commentaire:Dernier beug : l'application s'arrête lorsque je veux consulter Mon compte. Help !!!!
+DateCommentaire:29 septembre 2014
+NoteCommentaire:2

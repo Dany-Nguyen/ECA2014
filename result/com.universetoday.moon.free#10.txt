@@ -1,0 +1,9 @@
+NomApplication:Phases de la Lune
+IdApplication:com.universetoday.moon.free
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:24 917
+TitreCommentaire:Très pratique et ludique
+Commentaire: Sur S4, simple à utiliser et pour voir en 1 coup d'oeil les phases et autres (zodiaque, nouvelle lune. ..) idéal pour jardinage ou thème astro. J'apprécie la présentation aussi. 5 étoiles. Bravo aux concepteur.
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

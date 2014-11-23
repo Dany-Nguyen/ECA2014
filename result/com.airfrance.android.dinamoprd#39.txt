@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Déçu
+Commentaire:Une appli qui fonctionne parfaitement. Mais depuis la dernière mise à jour, plus de carte d'embarquement pour les vols HOP, et de la pub...Dommage
+DateCommentaire:3 octobre 2014
+NoteCommentaire:2

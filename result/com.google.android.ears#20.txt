@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Très bien
+Commentaire: A trouvé des titres que ses concurrents ne reconnaissaient pas ! Si le widget était redimensionnable (1x1) ou s'il y avait un raccourci, deviendrait génial
+DateCommentaire:1 janvier 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Inutile et peu fiable
+Commentaire: J'utilise cette application depuis plus d 1 an pour la météo des vacances... cette année les infos fournies sont quasi systématiquement erronées...surtout la météo h par h ...à plusieurs reprises le site annonce ensoleillé toute la journée alors que le temps est nuageux ou pire qu il pleut averse et jamais les infos ne sont réactualisées ...comment une application peut elle être aussi peu fiable alors que sur le site vs avancez 90 % de fiabilité...appli inutile voire trompeuse. ..
+DateCommentaire:30 août 2014
+NoteCommentaire:1

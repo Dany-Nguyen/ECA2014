@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Excellent
+Commentaire:Great job. Mais pas possible de voir ses messages envoyés ou du moins j'arrive pas à les voir
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

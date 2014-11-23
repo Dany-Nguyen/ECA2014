@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Trop indiscrete
+Commentaire: Pourquoi cette appli a besoin d'autant d'autorisation d'accès à mes données ? Pour me vendre des t-shirts ? Ou pour me vendre a d'autres? Trop indiscret!
+DateCommentaire:29 septembre 2014
+NoteCommentaire:1

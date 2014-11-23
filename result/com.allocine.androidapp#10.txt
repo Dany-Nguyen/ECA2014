@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Dès que l'application me met une notification elle me l'envoie une centaine de fois. Je suis obligée de mettre mn portable en mode muet tlmt le bruit est insupportable, jusqu'à ce que l'application cesse de fonctionner
+DateCommentaire:12 novembre 2014
+NoteCommentaire:2

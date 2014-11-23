@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Bug HTC one M8
+Commentaire:Impossible de changer la photo de profil sur Twitter pour le HTC one M8. De plus, cela met une notification "Mise à jour du profil" dans la barre des notifications, impossible à enlever. Obligé de redémarrer le téléphone à chaque fois. Cela fait la même chose pour changer le nom ou la description, enfin tout ce qui concerne la modification du profil. A revoir !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

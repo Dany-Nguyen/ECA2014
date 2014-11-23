@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Numéros de chaînes
+Commentaire: Super application, très stable, descriptions et commentaires des programmes pertinents. juste un détail : ce serait bien d'afficher les numéros de chaînes sur TNT,C+, Bouygues, Orange, etc.
+DateCommentaire:24 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Mise à jour bof
+Commentaire: J'aurais mis 4 étoiles avant la dernière maj mais maintenant que 2. C'est moins clair qu'avant on doit faire trop de gestes pour revenir au menu principal à chaque fois. Et les bandes en haut et en bas qui disparaissent / apparaissent quand on scrolle les articles sont très inconfortables.
+DateCommentaire:5 août 2014
+NoteCommentaire:2

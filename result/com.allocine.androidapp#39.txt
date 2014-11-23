@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Oui à la nouvelle appli social.
+Commentaire: Le potentiel de cette appli est monstrueux mais il y encore trop de beug..
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Très utile...
+Commentaire:... garder son carnet d'adresse à jour, retrouver le nom d'un collègue il y a 10 ans, trouver des informations sur une entreprise, etc. J'adore.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:G enlevé 1 étoile car il y a bcp de effet bloqué pour ma part mais sinon très bonne aplication elle ne beug pas
+DateCommentaire:21 octobre 2014
+NoteCommentaire:4

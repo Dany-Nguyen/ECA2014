@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Enfin du nouveau nette amélioration
+Commentaire:Enfin du nouveau, fini l'application clone de SFR football amateurs. Une nouvelle interface magnifique et très bien pensée avec des fonctionnalités intéressantes. Seul problème l'impossibilité de se connecter à son compte FFF. Message d'erreur systématique malgré bons login et mot de passe.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

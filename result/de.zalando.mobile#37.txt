@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:
+Commentaire:Ne manque plus que la mémorisation du compte
+DateCommentaire:2 septembre 2014
+NoteCommentaire:4

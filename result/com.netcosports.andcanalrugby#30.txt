@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Gros bug aujourd'hui
+Commentaire:Moi aussi l'appli ne reconnaît plus mes identifiants aujourd'hui jour de match bien sûr. Inacceptable.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:1

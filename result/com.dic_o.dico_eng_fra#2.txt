@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Pas mal
+Commentaire: Si non l'application n'est pas mal et je continue pour voir la suite d'étoiles !
+DateCommentaire:25 octobre 2014
+NoteCommentaire:3

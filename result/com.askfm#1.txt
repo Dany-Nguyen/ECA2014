@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Les fautes d'orthographes
+Commentaire:Les personnes s'occupant des questions du jour ont un orthographe déplorable (ex: "Si vous allais sur mars, que feriais vous?"
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

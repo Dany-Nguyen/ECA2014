@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Douce déception!
+Commentaire:Très bonne appli jusqu'à hier... où beugs répétitifs, absences et suppressions totale de trains desservant ma gare m'étaient annoncés. Ce qui était bien sûr faux! Mais angoisse réelle pour ma part =) . Je viens de re-installer l'appli... j'espère que ça va aussi bien fonctionner qu'au début
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Choix "relativement " large
+Commentaire: La qualité du son est correcte dans sa meilleure définition. J'accède à musiques que je n aurais jamais achetées.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

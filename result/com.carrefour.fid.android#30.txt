@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:
+Commentaire:Galaxy s3 4g; nouvelle version deplorable.. on crée le cheque et il napparait pas mais le compte est debité il me manque juste.30€! Comment c poddible de mettre a jours des versions daubés!!! Inadmissible! ! Je vais appeller en direct et ca va chauffer!
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

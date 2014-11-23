@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Trop de pub
+Commentaire: Trop de pubs s'ouvrent tout le temps c'est insupportable. J'ai beau les fermer, elles se rouvrent toute les 10 sec.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

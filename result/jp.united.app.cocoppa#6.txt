@@ -1,0 +1,9 @@
+NomApplication:icône fond d'écran★CocoPPa
+IdApplication:jp.united.app.cocoppa
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:227 395
+TitreCommentaire:J'adore CocoPPa
+Commentaire: J'adore CocoPPa franchement je vous le conseil il est trop bien j'ai réussi à faire des tonnes et des tonnes d'écran d'accueil et j'ai eu plein d'abonnés en plus il y a un jeux c'est CocoPPa Play il trop bien mais des fois quand j'essais de faire des icônes ou des fond d'écran ça marche pas et aussi il faut changer la langue on n'y comprends rien. Merci de faire ces petits réglages CocoPPa et CocoPPa Play ! ^ω^
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

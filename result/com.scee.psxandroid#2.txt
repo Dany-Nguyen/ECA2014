@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Lourd
+Commentaire: L'application n'est pas stable et quand elle fonctionne, c'est d'une lenteur incommensurable... un changement de note est envisageable, si il y a une amélioration.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

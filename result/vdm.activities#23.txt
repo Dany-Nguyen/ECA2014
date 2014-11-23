@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Pubs trop présente
+Commentaire: J'aime bien vdm, l'application en soit est bien. Mais les pubs qui s'ouvrent toutes seules, si ça change pas rapidement je desinstalle.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

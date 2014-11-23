@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Samsung Galaxy S5
+Commentaire:L'application crash quand on l'ouvre, on est constamment obligé de se reconnecter et de rajouter ses amis qui sont mystèrieusement décochés. Avant la mise à jour, l'application allait très bien. Là, ça commence sincèrement à me gonfler, merci de régler ces problèmes.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:En colère
+Commentaire: Vous vous moquez de nous et notamment de moi ! J'AVAIS GO SMS PRO et ça marchait très bien. Depuis la mise à jour vous m'avez demandé de désinstaller et de réinstaller, ce que j'ai fait. Surprise, vous me dites que GO SMS PRO n'est pas disponible dans mon pays ! J'ai donc perdu GO SMS PRO par votre faute ?
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

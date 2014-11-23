@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Problème avec les e chèques
+Commentaire: Les e chèques ne sont plus disponibles aussitôt. Donc impossible de le faire à la caisse et les utiliser directement. Donc cette application perd son intérêt. Grosse régression par rapport à la version précédente.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

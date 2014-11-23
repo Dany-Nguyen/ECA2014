@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:
+Commentaire:Bonjour excellent comme application mais je suis arrivé au bout de mon abonnement et je n'arrive pas à le renouveler comment faire?merci pour vos réponses
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

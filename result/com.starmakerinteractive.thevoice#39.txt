@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Nul
+Commentaire: Impossible je dois chanter une chanson que je connais pas et je comprends rien
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

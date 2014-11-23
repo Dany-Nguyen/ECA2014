@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Incompatible avec une appli GPS
+Commentaire:C'est très inconfortable d'utiliser iCoyote avec une appli GPS sur le téléphone. A chaque alerte, iCoyote se met en premier plan. Lorsque vous êtes dans les bouchons, iCoyote s'affiche en permanence pour signaler un ralentissement, alors que vous êtes en train de chercher une autre route sur google maps. Fonctions manquantes : - désactiver complètement le traffic : un gps s'en sert au moins pour calculer la route, sur iCoyote cela ne sert à rien - autoriser les alertes en arrière plan, sans forcer l'application en premier plan - avoir des limitations de vitesse à jour dans les zones de radar ! - fermer plus facilement l'application Pour coyote, le discours est de mettre le gps en arrière plan, afin d'avoir le maximum d'éclaireurs, mais c'est l'utilisateur qui est privé de gps. L'idéal est un tout en un comme waze (gps, traffic, zones à risque), mais coyote ne semble pas vouloir proposer ce service.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

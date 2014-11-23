@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:bannissement pour rien
+Commentaire: Les devs vous bannissent pour rien ! Si vous mettez un langage sms ils vous bannissent ! Ils ne regardent pas le sens du message ! Ça me dégoûte ! Il faut regarder les Conditions d'Utilisation mais elles sont pas sur l'appli ! NUUUUUUL ! A ne pas tel ! Il y a tout le temps des beugs en plus ! Les devs ne répondent pas à vos messages !
+DateCommentaire:23 septembre 2014
+NoteCommentaire:1

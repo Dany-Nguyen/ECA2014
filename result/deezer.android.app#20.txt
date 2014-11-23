@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug
+Commentaire: Suis premium + et souvent l'appli me met en compte standard me disant de m'abonner ! C est lourd ! Prochaine je résilie l'option et j irai essayer spotify.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

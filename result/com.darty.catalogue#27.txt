@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Plantage intempestifs
+Commentaire: Vaux mieux passer par internet qu'utiliser cette appli qui plante à tout va...
+DateCommentaire:26 juillet 2014
+NoteCommentaire:2

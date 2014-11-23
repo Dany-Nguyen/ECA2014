@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Invivable
+Commentaire: Depuis la mise à jour l'application s' arrête et le message revient toutes les 5 à 10 secondes. Au secours faites le nécessaire très vite s' il vous plait.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

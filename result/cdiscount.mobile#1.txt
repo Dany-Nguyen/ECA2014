@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Pas pratique du tout, impossible de trier correctement ces recherches, nous envoi dans le même rayon quelque soit le choix. A déconseiller, après mettre énerve pendant une heure j'ai passé ma commande sur mon pc.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

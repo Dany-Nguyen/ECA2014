@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:SUPER APPLI !!
+Commentaire: Cest cool car la la plus part des chanson que tu likes marche sans resau et quen plus les chanson son poster quelques jours avant celle de youtube :) et En plus tu peut fermer lappli et la musique continue de jouer pareil contrairement a youtube :) Je conseille a tout les gens Amateur de musique :) ♥
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

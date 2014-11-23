@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:J'aime bien 7 application
+Commentaire: Certaine chaînes marche pas mais pour le reste c vraiment pas mal
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

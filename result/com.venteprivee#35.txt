@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Bug en plus de ne plus avoir de vie privée
+Commentaire: Il faut systématiquement redémarrer l'application une ou deux fois afin de pouvoir l'utiliser. L'appli demande l'accès aux contacts, photos et vidéos, appels, géo-localisation, les comptes présent sur l'appareil.. Pourquoi tant d'infos privée pour acheter divers articles ??
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

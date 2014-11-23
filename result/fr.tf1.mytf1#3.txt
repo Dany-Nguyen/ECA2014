@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Pub
+Commentaire: J'en est marre chiant casse cou*lle de ces pub et juste après sa beug toute les 30segonde pour les directe ou les replay apparemment cela n'arrive pas seulement à moi il est tant de ce bougé le Q
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

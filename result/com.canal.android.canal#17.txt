@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Bug depuis la derniere maj
+Commentaire: Sur galaxy tab2, Impossible de changer de chaine sur le live depuis la derniere MAJ sans que cela ne ferme l'application alors qu avant tout marchait normalement
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

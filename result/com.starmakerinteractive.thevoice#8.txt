@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Rien à voir avec la version ios
+Commentaire: La musique n'est pas du tout synchro. Du grand n'importe quoi cette version android. Nul !
+DateCommentaire:1 novembre 2014
+NoteCommentaire:1

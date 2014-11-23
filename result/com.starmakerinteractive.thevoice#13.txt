@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Genial mais..
+Commentaire: Je trouve qu il y a un peu trop de beug et depuis la mise a jour il a beaucoup plus de pub :/ et aussi ca serais bien des chason française, et que ca soit en francais aussi tout les mots qui son ecrit ect..
+DateCommentaire:24 septembre 2014
+NoteCommentaire:4

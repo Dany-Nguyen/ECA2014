@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Appli compris dans mon forfait
+Commentaire: Très dessus depuis le passage de mon s4 sous android 4.4 l'application plante un max abusé et dire qu'elle est payante honteux!!!! 1 an après ma première évaluation j'enlève encore 1 étoile bugg a mort fige sa soul honteux et appli bien pourri a déconseillé vivement en somme une grosse daube
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

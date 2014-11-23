@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:DD le Wallon
+Commentaire: C'est quoi cette dernière version? La page d'accueil ne se charge pas. Pour accéder aux articles on doit utiliser la recherche dans Google. Sur Galaxy tab 4
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

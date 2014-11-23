@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Utile
+Commentaire: Quand j'ai quelque chose à chercher je vais sur cette apli.
+DateCommentaire:24 juillet 2014
+NoteCommentaire:5

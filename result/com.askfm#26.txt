@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Super
+Commentaire:Cool mais je ne c'est plus aimé les réponse , il me met erreur de communication. Et comment faire pour envoyer des cadeaux je n'y arrive pas.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

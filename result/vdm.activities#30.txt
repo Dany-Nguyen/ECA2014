@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Affreux, horrible... et en plus ça rame à l'ouverture.
+Commentaire: Une impression d'avoir une application Apple, vraiment très loin des codes Android... Vraiment dommage, l'application est moins belle, le widget est nul. Le fond reste heureusement présent parce que la forme est horrible, dommage. Et en plus maintenant ça rame à l'ouverture de l'application. Vraiment une mise à jour inutile et ratée.
+DateCommentaire:24 octobre 2014
+NoteCommentaire:3

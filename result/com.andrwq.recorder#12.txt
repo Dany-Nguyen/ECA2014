@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Sur Sony xperiaE1
+Commentaire: L appli est sympa mais je met 4 étoiles car l écoute après enregistrement n est pas non plus extraordinaire. :)
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

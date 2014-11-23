@@ -1,0 +1,9 @@
+NomApplication:Minuteur d'exercice
+IdApplication:com.neurondigital.exercisetimer
+CategorieApplication:Sports
+NoteApplication:4,1
+NombreVotants:1 381
+TitreCommentaire:Bonne appli
+Commentaire:Elle fait le boulot. Il manque la possibilité de faire des copier/coller et la possibilité de choisir la sonnerie
+DateCommentaire:7 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Cette appli est réussie et vraiment user friendly
+Commentaire:Fidèle au site internet.jamais de bug.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

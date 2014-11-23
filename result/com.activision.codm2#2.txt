@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Problème emblème et historique
+Commentaire: On ne peut pas besoin mettre le même emblème que la team. On ne voit pas non plus son historique des différents call of. Sinon correct comme appli ça rappel black ops sans changement.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

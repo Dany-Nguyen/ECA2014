@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Insupportable. ..
+Commentaire: Je n aime pas du tout... il y a toujours de nouvelles choses mais personne ne répond. Pour ce qui est de la visibilité des articles , c est à revoir. Et pour finir quand il y a des notifications, celles ci sont impossible à lire! Je ne recommande pas du tout.
+DateCommentaire:13 septembre 2014
+NoteCommentaire:2

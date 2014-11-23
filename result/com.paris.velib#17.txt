@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Ne fonctionne pas chez moi
+Commentaire:J'ai bien le plan, mais pas les stations sur le plan,. Aucune station n'apparaît, donc pour moi, zéro utilité.
+DateCommentaire:1 avril 2014
+NoteCommentaire:1

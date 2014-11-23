@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Problème
+Commentaire: Impossible visionner les deals
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

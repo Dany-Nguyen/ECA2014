@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Un grand bravo
+Commentaire: La SEULE application qui donne une météo précise et actualisée régulièrement. Météo France peut aller se rhabiller!
+DateCommentaire:7 juillet 2014
+NoteCommentaire:5

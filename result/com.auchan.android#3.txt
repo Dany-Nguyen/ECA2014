@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Nul, il ne sert à rien
+Commentaire: On veut commander, ou suivre nos commandes, faite le et je vous mets 5 étoiles
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

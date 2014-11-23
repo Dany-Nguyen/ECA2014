@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Lenteur impressionnante
+Commentaire: La météo la plus lente à consulter surtout pour afficher un écran pub qui nous gave. .
+DateCommentaire:6 octobre 2014
+NoteCommentaire:2

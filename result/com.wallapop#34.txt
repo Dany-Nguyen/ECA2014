@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Pas top
+Commentaire: Localisation, à revoir. Les vendeurs se trouvent dans l'océan Pacifique. Et de plus, très peu d'offres trouvées à l'aide de la fonction recherche.....je retourne sur Leboncoin......
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Un peu long a demarrer mais...
+Commentaire: ...mais vision sur la semaine en tournant le portable et nombre d'infos agreable
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Vidéos impossible
+Commentaire:Il faudrait vite faire une mise à jour depuis que snapchat existe je n'ai jamais pu faire de vidéos avec mon WIKO CINK PEAX quand j'appuie sur le bouton sa me dit échec de la vidéo je ne peux jamais en faire les ★ baisses
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

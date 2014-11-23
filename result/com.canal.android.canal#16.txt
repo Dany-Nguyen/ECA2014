@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:
+Commentaire:Marche plus depuis la dernière maj. Plante à chaque changement de chaîne. Dégoûté ça marchait très bien.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

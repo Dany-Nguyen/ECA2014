@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Depuis la dernière MÀJ impossible de charger les messages ou d'en envoyer. Sa me met "connexion expiré" . Sinon sans sa l app serait bien sûr mon galaxy Core Plus
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

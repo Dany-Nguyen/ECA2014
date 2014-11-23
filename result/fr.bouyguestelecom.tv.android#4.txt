@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Trop de bugs...
+Commentaire: Ne fonctionne pas avec Android 5.0... Force close au démarrage. Sous KitKat, impossible d'accéder à la BBox et programmer un enregistrement: mes identifiants ne sont jamais reconnus, alors que j'arrive bien à regarder la télé que ça soit en Wifi ou 3/4G. Application à peaufiner...
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Entraînements Quotidiens FREE
+IdApplication:com.tinymission.dailyworkoutsfree
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:39 823
+TitreCommentaire:Nickel
+Commentaire: Cette appli est parfaite pour l'entraînement musculaire même si la version gratuite manque un tout petit peu d'exercices ^^'
+DateCommentaire:9 mai 2014
+NoteCommentaire:5

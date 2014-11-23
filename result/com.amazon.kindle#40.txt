@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Blague ?
+Commentaire: C'est quoi ce délire de ne pas pouvoir changer la luminosité de son portable des lors qu'on ouvre un livre ? Ca défonce les yeux cette luminosité ! Franchement vous vous foutez de notre g***le !
+DateCommentaire:23 septembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Bof bof
+Commentaire: Ne peux plus passer de commande via l application depuis plusieurs semaines. Les MAJ ne changent rien. Vraiment déçue! !!!!
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

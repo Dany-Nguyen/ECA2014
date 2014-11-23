@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Nul
+Commentaire: Gros beug qui empêche de regarder un film plus d'une minute. Et il faudrait mettre à jour la suite des séries, notamment Pretty little liars et violetta !
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:pas très complète comme appli
+Commentaire:La nouvelle version de cette appli, qui se voulait Complète, il n'en est rien, impossible à s'enregistrer avec la carte de fidélité, il faut taper le numéro de billet ou le dossier de réservation, pas très pratique. Autre menu incomplet, dans la rubrique "nos coordonnées", il manque quelques pays, donc si j'ai un problème, je dois composer le numéro français au lieu du numéro local AF, de plus le numéro de téléphone ne fonctionne pas ( le numéro à 4 chiffres ) hors de la métropole.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Mon avis
+Commentaire: Bien mais quand on télécharge une autre musique, elle s'ajoute pas alors je suis obligé de le désinstaller et de re l'installer ...
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

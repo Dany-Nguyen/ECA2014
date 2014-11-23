@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:HTC désire 816
+Commentaire: L'application ne veut même pas ce lancé depuis la misse à jour vraiment nul je ne peux plus l'utiliser vraiment dommage !!
+DateCommentaire:5 novembre 2014
+NoteCommentaire:1

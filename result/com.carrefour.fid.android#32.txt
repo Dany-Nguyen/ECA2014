@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:
+Commentaire:Dommage que l'on ne puisse voir qu'une carte de fidélité à la fois. On devrait pouvoir basculer de l'une à l'autre sans remplacer la précédente en l'oubliant
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

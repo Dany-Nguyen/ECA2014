@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:ne marche plus
+Commentaire: impossible de se connecter a mon compte ça ne marche toujours plus un un mois plus tard
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

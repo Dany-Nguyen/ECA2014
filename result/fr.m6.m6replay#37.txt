@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:On se moque du monde !
+Commentaire: Subir plusieurs spots de pub (j'ai craqué au 3è) pour accéder à une émission en cours de diffusion...qui contient elle aussi des pubs... C'est du foutage de gueule! Qu'il y en ait sur du replay, passe encore, mais sur du "direct", non!!
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

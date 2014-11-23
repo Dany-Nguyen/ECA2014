@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Enfin des nouvelles fonctionnalités sympas !
+Commentaire:Enfin des nouvelles fonctionnalités sympas ! Encore un petit effort d'ergonomie sur la page d'accueil et c'est bon !
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

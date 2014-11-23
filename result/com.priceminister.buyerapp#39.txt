@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:appli bug
+Commentaire: cela marque sans arrêt l'application s'est arrêtée deçu :(
+DateCommentaire:22 octobre 2014
+NoteCommentaire:1

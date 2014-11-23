@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Me deconnecte de snapchat
+Commentaire:Depuis la dernière mise à jour a chaque fois que je vais sur snapchat il me demande de me reconecter sur ma tablette et mon portable à un moment sa devient soulant
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

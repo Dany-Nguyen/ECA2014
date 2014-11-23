@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Ne fonctionne que sur lignes SNCF
+Commentaire:Pas pratique pour passer dune ligne SNCF a une ligne RATP ! Pourquoi ne pas afficher leurs horaires et leurs gares ?
+DateCommentaire:22 septembre 2014
+NoteCommentaire:2

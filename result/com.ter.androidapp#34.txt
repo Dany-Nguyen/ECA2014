@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bonne appli
+Commentaire:L'appli fait sont travail mais il manque l'info des tarifs par exemple quel trajets sont au tarifs ticketmouv' lors des recherches d'itinéraires ou la consultation des horaires. Ça serait vraiment parfait. Sinon quand on cherche un itinéraire on devrai pouvoir choisir l'horaire du trajet retour. Actuellement il est a la même horaire que l'aller et on ne peut pas le changer. Appli prometteuse mais a améliorer
+DateCommentaire:5 mai 2014
+NoteCommentaire:3

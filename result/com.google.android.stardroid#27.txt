@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:FABULEUX
+Commentaire: Merite au moins 6 étoiles ! Redoutablement précis, orientez votre tablette dans une direction pour connaitre le nom des étoiles ou des constellations que vous regardez! Un must have !!!
+DateCommentaire:28 novembre 2012
+NoteCommentaire:5

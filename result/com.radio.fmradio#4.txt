@@ -1,0 +1,9 @@
+NomApplication:Radio FM
+IdApplication:com.radio.fmradio
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:103 554
+TitreCommentaire:Pas mal mais...
+Commentaire: Une appli qui fonctionne bien, ou l'on trouve toutes les radios fr, pas de bug ni de coupure mais au niveau ergonomie c'est à revoir, ça manque de logos des stations et d'infos sur la station qu'on écoute ex. Type de programme qu'on écoute, titre de la chanson qui passe avec le visuel de l'album ; là-dessus Tunein est bien meilleur.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

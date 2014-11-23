@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Je suis partagée
+Commentaire:Il y a des recettes qui sont sur le site et que je ne retrouve pas dans cette application. Pour moi un peu déçue quand même.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

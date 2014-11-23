@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Honteux
+Commentaire:Nul nul nul ça ne fonctionne plus avec toutes vos mises a jour sauf via 4g . si je veux aller sur FB je dois payer alors que j'ai tout le loisir d'utiliser wifi chez moi c'est n' importe quoi. Ça fait des semaines que ça dure. Faites qqchose svp!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

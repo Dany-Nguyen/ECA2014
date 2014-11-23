@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Application qui vaut le détour.
+Commentaire:depuis quelque temps,impossibilité de me connecter sur ma tablette ,par contre aucun problème sur le PC.Sinon l'application est très sympa.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

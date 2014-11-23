@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:
+Commentaire:J'ai retelecharger l'apli trop top simplicité et jolie puis vraiment TRÈS PRÉCIS ! Je Laisse 5 étoiles . A se jour ma position touts options activer sa m'indique taneron et je suis sur cannes la bocca, correction MVP merci. S3 mini.
+DateCommentaire:8 avril 2014
+NoteCommentaire:5

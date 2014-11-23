@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Crash
+Commentaire: Ne fonctionne plus depuis début octobre. Plusieurs mises à jour n'y ont rien changé (désinstaller puis réinstaller ne change rien).
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

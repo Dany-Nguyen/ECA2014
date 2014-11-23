@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Marchais mieux avant
+Commentaire: J'ai plusieurs problèmes depuis cette patch je suis incapable de voir mes messages
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

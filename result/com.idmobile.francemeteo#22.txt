@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Excellent
+Commentaire: Bonnes previsions assez precises. Animation agreable. RAS. Merci aux concepteurs.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

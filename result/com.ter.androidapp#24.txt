@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:tjrs pas a jour
+Commentaire:Depuis la refonte du site internet l appli n est plus a jour ! certains trains ne sont pas affichés d autres affichés n existent pas ! dur dur aujourdhui 4 nov tjrs pas de correctif , les horaires sont toujours faux depuis la mise a jour d aout et c est ps manque de l avoir signalé a plusieurs reprises ! est ce que qq un lit ces avis et en tient compte ?
+DateCommentaire:4 novembre 2014
+NoteCommentaire:1

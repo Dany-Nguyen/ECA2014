@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:BUG
+Commentaire:Désinstalle,réinstalle,Désinstalle,réinstalle...et toujours des bugs,quel dommage car cette ampli est super sinon...
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

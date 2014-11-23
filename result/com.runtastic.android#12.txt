@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Pbl gps et des bugs le son
+Commentaire: Les commentaires stop la musique et régulièrement, la musique ne reprend pas. L'application ne precise pas quand le gps empêche le calcul de la distance. .. parfois on croit que c'est bon et non...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

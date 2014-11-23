@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Tres bien
+Commentaire:Alors c bien mais la seul chose c que si ta pas damies ba tu tennui sinon rieb a dire
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

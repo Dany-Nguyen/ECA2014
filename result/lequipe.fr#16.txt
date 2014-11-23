@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Super appli pour les amoureux des sports
+Commentaire:Marche nickel sur mon note 2. Bcp d'infos . Même si mise à jour très en retard // à d'autres appli pour directs. Par contre sur tablette, vieille appli demande mise à jour.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

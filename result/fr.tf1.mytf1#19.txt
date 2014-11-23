@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Ça m'énerve
+Commentaire: Kan Jveu regarder danse avec les stars le samedi soir en multi cam ça me met que jai pas de connexion internet alors que je suis a coter de la box et internet marche tres bien il faut corriger ça vite
+DateCommentaire:23 octobre 2014
+NoteCommentaire:2

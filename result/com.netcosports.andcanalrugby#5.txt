@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Question
+Commentaire:Tres bonne appli. Par contre, après chgmt de tel (Sony experia), mon profil ne s'affiche plus, ni lequipe de coeur, ni le classement prévisionnel. Merci de m aider
+DateCommentaire:21 août 2014
+NoteCommentaire:4

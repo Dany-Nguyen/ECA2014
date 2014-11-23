@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Très bien
+Commentaire: Prononciation en allemand impeccable...cela permet de maintenir son niveau de langue...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Bien
+Commentaire:Tres utile. Permet d'epingler tout le contenu pour y revenir plus tard...
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Désinstallation immédiate de cette application aussi curieuse
+Commentaire:dans les autorisations il y a: "appeler directement des numéros de téléphone" comment cette application peut elle demander cela!
+DateCommentaire:25 février 2014
+NoteCommentaire:1

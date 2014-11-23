@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Expression création évasion information
+Commentaire:Super appli,sert à s'informer comme à s'évader, facile à utiliser,elle permet de s'exprimer sur n'importe quel sujet à travers des tableaux d'images qui finissent par créer de véritables univers propres à chaqun. Appli pluriculturelle super créative dont je ne voyais pas l'intérêt au départ et qui s'est rapidement avérée très addictive . Je ne peux plus m'en passer.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

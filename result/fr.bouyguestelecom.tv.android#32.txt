@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Ça fonctionne bien
+Commentaire: Très peu de bugs pour le moment par rapport à d'anciennes versions
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

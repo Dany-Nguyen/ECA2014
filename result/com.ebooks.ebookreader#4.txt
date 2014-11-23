@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Asus Book trio
+Commentaire: Bonjour, Bonne application pour lire les epub et quelques options intéressantes mais : - Pas de lecture en mode portrait - 1 seul type de surbrillance (Couleur bleu uniquement, pas de soulignage - 1 seule bibliothèque. Une par thématique ou répertoire aurait été un plus - Défilement manuel tactile délicat - Pas facile de faire apparaitre le menu - et quelques pages blanches NB : comparez à l'application pour ipad ... Allez, Courage !
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

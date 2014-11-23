@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:A améliorer !
+Commentaire: Bizarrement, sur le même appareil la version smartphone fonctionne très mal (qualité audio et vidéo d'une autre époque) et en réglant les dpi, la résolution d'écran, j'affiche la version tablette, plus aucun problème !!! Gnote 2 4.4.4
+DateCommentaire:10 novembre 2014
+NoteCommentaire:3

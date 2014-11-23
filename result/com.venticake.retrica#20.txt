@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Probleme
+Commentaire: Pourquoi quand je veut télécharger retrica sur ma tablette Versus Mobility il me dit Cette application est compatible avec certains de vos appareils. !
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

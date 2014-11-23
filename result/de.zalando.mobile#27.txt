@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Erreur wifi
+Commentaire: Malgré la màj pour la comptabilité des tablettes android, le problème d'erreur wifi subsiste au démarrage de l'application... (Galaxy Note 8)...et même sous Android 4.4.2....
+DateCommentaire:5 septembre 2014
+NoteCommentaire:1

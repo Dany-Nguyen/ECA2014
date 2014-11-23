@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Applications mauvaises !
+Commentaire: Le service est bon mais les applications (et interface web puisque pas d'appli windows....) sont beaucoup trop lourd ! même sur des bons équipement suffisamment puissant ça rame !! sa saccade ! j'ai pris un forfait orange donc contraint d'utiliser deezer plutôt que spotify ! Très déçu, deezer n'arrive pas à la cheville de spotify et sans parler de l'impossibilité d'associer mon abo orange.... Très déçu
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

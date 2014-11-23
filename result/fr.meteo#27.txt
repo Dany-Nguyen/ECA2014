@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:De moins en moins bien
+Commentaire: Plus les mises à jour s'accumulent, plus l'appli se dégrade : carte de France peu lisible, fond bleu foncé immonde, navigation peu intuitive, appli peu réceptive. Je me rappelle la première fois qu'est sorti cette appli sur Android Market, elle était excellente, je l'utilisais souvent. Maintenant, c'est de plus en plus rare. Et puis toutes ces pubs.... une entreprise comme Météo France en est-elle réduite à ça pour développer ces applis (et vue la qualité..... ) ??????
+DateCommentaire:16 septembre 2014
+NoteCommentaire:1

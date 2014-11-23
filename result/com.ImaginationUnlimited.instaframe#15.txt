@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Assez bien
+Commentaire: C'est tout nouveau pour moi.Mais jm bien deja.juste que la photo devient petite avant modifcation.Si on peut revoir ca.
+DateCommentaire:24 août 2014
+NoteCommentaire:3

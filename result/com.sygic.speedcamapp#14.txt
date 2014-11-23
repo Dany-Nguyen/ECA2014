@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Need to improved
+Commentaire: Bon appli mais dommage que l'on ne puisse pas paramétrer la disposition des informations... Je l'utilise en tant qu'ordinateur de bord pour vélo mais il me manque pas mal d'informations en temps réelle (comme la vitesse moyenne, distance parcourue,...) ça pourrait être intéressant...
+DateCommentaire:17 juillet 2014
+NoteCommentaire:2

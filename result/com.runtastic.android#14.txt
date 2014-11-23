@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:La version gratuite est un désespoir
+Commentaire: Le coach vocal ne donne les indications que les 3 premiers km. L'appi demande constamment de passer à la version gold. En plus, il fait installer une autre appli pour le vélo.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

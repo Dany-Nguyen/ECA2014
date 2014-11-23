@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Enfin!
+Commentaire: Enfin 1 application de ma boutique préférée. Fonctionne bien sur Note 3
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

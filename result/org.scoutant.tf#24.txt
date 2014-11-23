@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Moyen
+Commentaire:Faut payer pour l'info trafic. Donc j'utilise plutôt waze qui est gratuit et très efficace.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:3

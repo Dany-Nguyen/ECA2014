@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Galaxy s4
+Commentaire: Pas mal mais un peut difficile à chercher des produits. ..... il faut trié le tout. .....manque de critères.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

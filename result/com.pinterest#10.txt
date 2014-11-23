@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:
+Commentaire:pplication qui permet de s'exprimer selon ses goûts. Permet en outre de découvrir beaucoup de choses. De plus, excellents graphismes.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

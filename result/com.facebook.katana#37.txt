@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:epuis la mise a jour sur nexus 7 d Android facebook déconne a mort alors vite réparé les bugs svp
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

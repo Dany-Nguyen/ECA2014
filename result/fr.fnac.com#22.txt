@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Bien mais des améliorations
+Commentaire: L'appli fonctionne bien. Mais il faudrait que l'on puisse payer via paypal et choisir un magasin fnac comme adresse de livraison, comme sur le site.
+DateCommentaire:11 octobre 2014
+NoteCommentaire:4

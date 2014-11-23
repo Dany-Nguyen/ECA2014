@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Ancienne bonne appli
+Commentaire: Impossible d'acheter depuis quelques temps, au moment de finaliser l'achat ça dit que le panier est vide, désinstallé et réinstallé mais rien y fait, 2 mobile night de rater...
+DateCommentaire:19 octobre 2014
+NoteCommentaire:2

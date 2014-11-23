@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Du mieux
+Commentaire: Beaucoup de bugs résolus donc je rajoute 2 étoiles ! Si on pouvais voir les notes sans aller dans le détail du film, ça serait un sans faute
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

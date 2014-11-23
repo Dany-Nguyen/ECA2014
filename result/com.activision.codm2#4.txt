@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Petit Problème
+Commentaire: La partie pour les emblèmes ne marche pas. On ne peux pas copie ou créer un emblème. Merci de prendre en compte ce problème.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

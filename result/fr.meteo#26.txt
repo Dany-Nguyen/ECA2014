@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Pitoyable
+Commentaire: Ça ne se lance qu'une fois sur deux, la pub prend trente secondes à charger, et depuis la dernière mise à jour, ça ne se lance même plus.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

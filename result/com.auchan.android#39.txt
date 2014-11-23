@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Nul l ancienne etai mieux!!!
+Commentaire: S arrete sans arret.la cagnotte ne se met pas a jour.
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

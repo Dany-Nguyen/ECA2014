@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Il faut juste un compte canal
+Commentaire: Avec cette appli vous pouvez voir toutes les série avant qu'elle soit diffusé à la télé et d'autres déjà passé que vous voulez revoir mais des fois elle part quand elles ne sont plus diffusés à la télé mais je vous conseille vraiment cette application malgré les petits bugs interrompre nous films et séries
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

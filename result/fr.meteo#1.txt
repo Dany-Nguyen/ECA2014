@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Plus de prévisions de pluie
+Commentaire: Depuis plusieurs jours la prévision de pluie à 1h n'est plus sur mon favori. Et même impossible de la trouver pour n'importe quelle ville... On tape le nom et ensuite rien ne se passe. C'était mieux avant comme on dit.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

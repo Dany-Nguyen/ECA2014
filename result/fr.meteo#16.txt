@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Ou est la pluie dans l'heure ?
+Commentaire: Cette fonction a disparue depuis plusieurs jours... Par ailleurs le bouton favoris marche très mal
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Compte et ses fonctionnalités inaccessibles! Impossible de se déconnecter, de noter, partager ou critiquer un film!
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

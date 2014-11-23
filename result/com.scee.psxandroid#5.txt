@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Problème MAJ
+Commentaire: Depuis la toute dernière mise à jour; qui me paraît super, il m'est impossible de me connecter...
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

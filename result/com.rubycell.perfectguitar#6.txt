@@ -1,0 +1,9 @@
+NomApplication:Guitare + ( Guitar )
+IdApplication:com.rubycell.perfectguitar
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:51 954
+TitreCommentaire:
+Commentaire:Tros bien sa apprends bien la guitare grase a sa je progresse tres vite
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Exellent!!!
+Commentaire: J adore cette appli!!! Je plains les gens.... Pour eux, VDM
+DateCommentaire:10 octobre 2014
+NoteCommentaire:2

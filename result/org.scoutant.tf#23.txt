@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Ça le fait
+Commentaire:Je m'en serre pour juste m'informer de l'État en temps réel du trafic pour après se préparer psychologiquement :) et ça marche (y)
+DateCommentaire:21 octobre 2014
+NoteCommentaire:4

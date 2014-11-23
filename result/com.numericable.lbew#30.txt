@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Catastrophique
+Commentaire: On ne peut pas regarder la TV et les replays. La seule chose qui fonctionne c'est la possibilité de regarder les programmes. Je suis dégoûté de ne plus avoir l'ancienne version. Impossible à télécharger à nouveau. Du foutage de gueule !!!
+DateCommentaire:16 octobre 2014
+NoteCommentaire:1

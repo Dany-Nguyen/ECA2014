@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Un must-have pour briller en société
+Commentaire: -Tu as vu la-haut les deux points ? Et bien c'est Castor et Pollux. - Comment tu sais ça toi ? (Super cultivé le mec :-)
+DateCommentaire:9 mai 2014
+NoteCommentaire:5

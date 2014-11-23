@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Ebook et PDF Reader
+Commentaire: Avec ceci, j'ai desinstallé les autres applications reader, car j'en ai plus besoin. Merci pour cet outil merveilleux.
+DateCommentaire:30 juillet 2014
+NoteCommentaire:5

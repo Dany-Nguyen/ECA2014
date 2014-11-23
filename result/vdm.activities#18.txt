@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:BUG.
+Commentaire: Pu moyen de voir les messages en entier a cause des coeurs "&lt;3" cela bloque absolument tout le reste du message, application de plus en plus mauvaise, dommage !
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

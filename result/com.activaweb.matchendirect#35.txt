@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Oui..mais
+Commentaire:J'aurais(j'eusse) aimé avoir le nom des buteurs dans les divisions inférieures. Sinon, très bonne appli si l'on excepte toutes les fautes de français tant dans les avis que dans les commentaires.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Radio
+Commentaire: Les podcasts ne sont pas à jour!!!! Je souhaite écouter les grosses têtes sur RTL en podcast et le dernier podcast date du 4 novembre! !! C'est nul....
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

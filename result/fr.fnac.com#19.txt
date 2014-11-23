@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Joli mais pas très pratique
+Commentaire: Le tri par prix croissant ne fonctionne pas et la barre de recherche n'arrête pas de disparaître et réapparaître lorsque l'on défile les résultats d'une recherche
+DateCommentaire:22 juillet 2014
+NoteCommentaire:2

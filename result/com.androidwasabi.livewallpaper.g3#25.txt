@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:jolie mais...
+Commentaire: Jolie fonds... certes,mais les publicités gâchent les fonctions dans les paramètres .Dommage ça me donne pas envie de l'utiliser ni de la garder. Trop de publicités gâchent l'application!
+DateCommentaire:23 août 2014
+NoteCommentaire:2

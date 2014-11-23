@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:kilo
+Commentaire: bonne application je l’ai acheter pas cher (1.97 euros)marche très bien température juste ,je vous la recommande! évité de dire n'importe quoi sur la température je donne cinq étoiles c'est mérité
+DateCommentaire:5 octobre 2014
+NoteCommentaire:5

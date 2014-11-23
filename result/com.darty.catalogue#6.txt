@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Parfaite
+Commentaire: Plutôt très bien pensée. On trouve facilement ce que l'on recherche...manque juste la possibilité de partager via sms un produit intéressant: il faut mériter la 5eme étoile 😉
+DateCommentaire:7 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bloqué sans abonnement !
+Commentaire: Après 1 mois d'écoute gratuite sans problème. Tout est de nouveau bloqué..."zapper + de 6 titres/h","musiques a la demande" écoutes gratuites ?? Pas vraiment. Même sa propre playlist est soumise a abonnement ! Seules possibilités les radios...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

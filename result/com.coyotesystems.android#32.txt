@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:
+Commentaire:epuis la mise à jour l'application ne fonctionne plus. Arrêt automatique de l'application sans explication. Il faut absolument résoudre ce problène.
+DateCommentaire:22 septembre 2014
+NoteCommentaire:1

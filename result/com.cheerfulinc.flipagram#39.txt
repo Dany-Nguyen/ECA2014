@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Kiff total
+Commentaire: J ador cette appli elle est utile
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

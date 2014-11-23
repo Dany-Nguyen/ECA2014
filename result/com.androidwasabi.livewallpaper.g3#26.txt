@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:Tres class!!
+Commentaire: J'aime beaucoup ce thème, jolies images, bonne résolution et effet de parallaxe "énorme"... C'est dommage qu'il n y ait pas l'horloge du G3 à part ca tout est nickel ;)
+DateCommentaire:17 septembre 2014
+NoteCommentaire:5

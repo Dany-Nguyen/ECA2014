@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:
+Commentaire:Je suis toujours un fan inconditionnel de cette appli. Le seul petit truc est que en passant sur le note 4, la carte nationale de la page d'accueil ne s'affiche plus... Petit bug qui sera corrigé, j'en suis sûr.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

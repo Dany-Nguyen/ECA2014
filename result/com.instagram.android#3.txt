@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:
+Commentaire: chaque fois je poste des photos avec mon samsung galaxy note 3 chui obligée de couper la photo , je peux pas la partager entière . Je déteste ça .
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

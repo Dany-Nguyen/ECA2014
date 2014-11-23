@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:probleme
+Commentaire: quand je clic sur rechercher, l'aplis s'arrete et redemare. du coup je peux pas l'utiliser. j'attend une mise a jour et si elle marche je maitrait 5. svp metez la mise a jour au plus vite.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

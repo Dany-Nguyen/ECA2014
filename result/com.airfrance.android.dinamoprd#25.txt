@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Ok sauf pour des voyages famille
+Commentaire:Bonne appli mais impassible d'obtenir des cartes d'embarquement quand on voyage en famille... pas de carte telechargée sur l'appli pour plusieurs personnes et il faut un numéro de téléphone différent par personne : comment fait on qd on a des enfants sans téléphone ??!!?? Bref retour au papier...
+DateCommentaire:26 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Interessant
+Commentaire: Je trouve cette application sympathique, utile. Ce que je trouve dommage c'est qu'on nous explique pas bien la difference entre deux mot qu'on traduit de la meme facon. Par exemple pour l'addition, a bill et a addition...
+DateCommentaire:6 mai 2013
+NoteCommentaire:3

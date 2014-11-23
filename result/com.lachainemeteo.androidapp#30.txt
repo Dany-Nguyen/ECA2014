@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Vide la batterie depuis dernière MaJ
+Commentaire: Ma batterie se vidait à vue d'oeil depuis dernière mise à jour. Trop de pub, c'est dommage, c'était mon application préférée dans le domaine...
+DateCommentaire:20 août 2014
+NoteCommentaire:1

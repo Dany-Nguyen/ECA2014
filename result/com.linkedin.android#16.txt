@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Bien mais
+Commentaire:Encore quelques soucis d'ergonomie dans la gestion des contacts
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

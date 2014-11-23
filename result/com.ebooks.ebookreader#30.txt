@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Bof
+Commentaire: Interface en anglais.... Et jarrive pas à changer taille du texte... Je déconseille.
+DateCommentaire:13 septembre 2014
+NoteCommentaire:1

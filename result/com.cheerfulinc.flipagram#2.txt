@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:J'adore
+Commentaire: L'application est parfaite mais quand je regarde la vidéo ca devient tout vers et apres je vois rien mais la musique et les photo continue cest juste l'image qui deviens vert ca se embêtant même sur instagram ca fait vert avec deux photo ca marche mais avec plus ca beug cest embêtant essayer de changer a la maj👌🙊
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

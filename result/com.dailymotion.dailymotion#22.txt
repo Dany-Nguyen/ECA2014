@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Ne faites pas la mise à jour !!
+Commentaire: Dailymotion ne le dit pas dans ces "nouveauté", cette mise à jours vous rajoutera de la publicité Non-Stop, j'ai l'impression d'avoir un jeu bourré de pub
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

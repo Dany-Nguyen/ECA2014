@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:BuG
+Commentaire:Bug photo qui s' ouvre toute seule sans meme les avoir vu ! Chargement long lent !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

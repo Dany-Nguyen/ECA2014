@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:HTC one s
+Commentaire: Quand je rentre une recherche elle s'efface automatiquement ! Une MAJ vite
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

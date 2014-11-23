@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Critiques de cinéma
+Commentaire: Les critiques cinématographiques sont à prendre au second degré. Comment ne pas reconnaître la supériorité du cinéma américain... Être chauvin n'empêche pas d'être objectif. Sinon très bonne application, une pub à l'ouverture... 😉
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Gros bug
+Commentaire: J'etais en train de lire un livre et ça a bugué à cause de ma connexion internet mais c'est bizarre parce que internet fonctionnait bien pour les autres applis. Impossible de passer aux chap suivant. J'ai essayé de désinstaller puis réinstaller mais ils me mettent "Serveur wattpad indisponible"
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

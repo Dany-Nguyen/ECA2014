@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Je suis déçu
+Commentaire:Je n'arrive pas à m'inscrire
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

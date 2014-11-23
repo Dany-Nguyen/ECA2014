@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Android 5
+Commentaire:Fonctionnement ok.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

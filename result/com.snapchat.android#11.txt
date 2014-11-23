@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Bof
+Commentaire:Par période, je ne peux plus prendre de photos sa me met que sa ne détecte pas la caméra et c'est très décevant puisque c'est fait pour envoyer des messages en photo :/
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

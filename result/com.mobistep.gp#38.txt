@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Génial
+Commentaire: Les horaires à porté de main. En 5 min choix du film, BA visionnée si besoin et place réservées.
+DateCommentaire:17 octobre 2014
+NoteCommentaire:4

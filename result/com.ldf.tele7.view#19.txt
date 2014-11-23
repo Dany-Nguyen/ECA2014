@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Bugs
+Commentaire: Relance de l application nécessaire parfois , les étoiles qui aideaint a se faire une idée se sont evanouies
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

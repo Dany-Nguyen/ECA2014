@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:
+Commentaire:Depuis quelques temps vdm rencontré des problèmes de chargement. A régler au plus vite !!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

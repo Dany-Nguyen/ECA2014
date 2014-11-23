@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Très moyen
+Commentaire: Les programmes disponibles en téléchargement sont très limités ( je n'en ai pas encore trouvé...). Hormis ça, l'appli est bien plus stable qu'avant sur mon Xperia Z1. Donc c'est pas mal dans l'ensemble.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

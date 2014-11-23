@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Excellent forum pour les contacts professionnels
+Commentaire:J'ai pu nouer des contacts et même des contrats par l'entremise de LinkedIn
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

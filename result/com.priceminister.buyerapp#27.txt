@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:A améliorer
+Commentaire: Impossible de noter ses achats. Pas assez de renseignements comme sur le site. Plus long de passer commande pour les occasions. Pas de liste de souhaits. Ne donne pas envie de s'éterniser.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Nul nul nul
+Commentaire:Une appli tres mal foutu,qui plante en permanence sur mon S3... encore une fois la fff se fout de la gueule du monde... un developpeur avait fais une appli geniale, clair lisible et qui fonctionnait... vous feriez bien de vous en inspirer.
+DateCommentaire:6 septembre 2014
+NoteCommentaire:1

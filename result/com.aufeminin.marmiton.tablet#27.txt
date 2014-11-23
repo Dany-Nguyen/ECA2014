@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Genial
+Commentaire:C est le top c est pour tous les gouts toutes les bourses qu on soit fin cordon bleu ...ou pas !
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

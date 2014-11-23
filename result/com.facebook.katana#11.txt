@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Rien ne vas sur galaxy s4
+Commentaire:impossible d ouvrire quoi que se sois sur galaxy s4 et sur tablette samsung
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

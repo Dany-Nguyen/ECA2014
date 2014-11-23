@@ -1,0 +1,9 @@
+NomApplication:Emoji Smart Android Keyboard
+IdApplication:com.emoji.Smart.Keyboard
+CategorieApplication:Social
+NoteApplication:3,6
+NombreVotants:43 618
+TitreCommentaire:Samsung galaxy Y
+Commentaire:Je ne vous le conseille pas au lieu de mettre des emojis ca me mets des rectangle. Si jaurais pu mettre aucune etoiles je laurais fait
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

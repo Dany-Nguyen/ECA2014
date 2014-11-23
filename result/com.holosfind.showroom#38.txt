@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Mise a jour instable
+Commentaire: Message demandant de forcer l'arrêt s'ouvrant en continue. Je l'ai eut 7 fois le temps de taper ce commentaire
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

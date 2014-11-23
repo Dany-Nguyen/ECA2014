@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Ajout ami supprimé ?
+Commentaire: Plus d'ajout d'ami via le pseudo PSN dans la nouvelle app ? Dommage c'est vraiment la fonction que j'utilisais le plus...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

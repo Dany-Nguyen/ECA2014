@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Super
+Commentaire: Manque certains artistes comme Cabrel mais très fonctionnel....
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

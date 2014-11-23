@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Spam
+Commentaire: Des pop-up de pub vers le store, plein, sans rien cliquer.. dommage le reste de l'appli est correcte.
+DateCommentaire:14 octobre 2014
+NoteCommentaire:2

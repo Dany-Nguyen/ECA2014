@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug handicapant
+Commentaire: Je suis abonné et tout se que je peut faire avec l'application se résumé à : rien. Cela me rappelle une maj faites juste après la nouvelle interface. Merci de régler ça ...
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

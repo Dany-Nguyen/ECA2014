@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Bonne previ
+Commentaire: les previ sont bien meilleures que chez les concurrents, mais améliorer l'ergonomie!
+DateCommentaire:27 septembre 2014
+NoteCommentaire:5

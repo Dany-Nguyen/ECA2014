@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:
+Commentaire:Ergonomie désastreuse, et mettre une pub plein écran pour météo France au lancement n'est pas l'idée du siècle, mais bon on a la météo.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

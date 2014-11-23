@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Passage avec un androphone
+Commentaire:Cette appli est tout bonnement géniale plus besoin de rien imprimer, vous avez tout dessus. Aucun soucis jusqu'à l'arrivée, c'est magique.
+DateCommentaire:22 octobre 2014
+NoteCommentaire:5

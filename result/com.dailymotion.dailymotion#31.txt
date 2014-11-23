@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Très très bonne applications
+Commentaire: N'hésitez surtout pas à la télécharger
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Impressionnant et utile
+Commentaire: Une application super utile ! Toujours des super musiques que l'on entend (à la radio par exemple) sans en connaître le titre... Le problème est réglé :-)
+DateCommentaire:26 octobre 2014
+NoteCommentaire:5

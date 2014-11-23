@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Situa pas mâle ◇◇◇◇◇
+Commentaire: ◇◇◇◇Vous abusé elle est magnifique d'être aplit 5/5 👍👏💓👣💎💎💎💎✨✨👼🌊🍰💝⛲🏩
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:bertrand
+Commentaire: Horrible sur un wiko wax en réception 4G. Application n est pas faite pour ce téléphone (puce TEGRA 4).image pixelisée.la même carte sim remise dans mon ancien téléphone ( sony xperia X 10 de 2010), l application fonctionne a merveille.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

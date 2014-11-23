@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:Yann06
+Commentaire: Coule mais manque jour et nuit mis ajouter qu'elle jours plis
+DateCommentaire:28 novembre 2013
+NoteCommentaire:5

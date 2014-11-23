@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:C'est nul
+Commentaire: Ça marche pas c'est de la Merde les pubs sont très longue avec une belle image mais par contre le reste beug l'image est horrible nul le son nul à ne surtout pas télécharger
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

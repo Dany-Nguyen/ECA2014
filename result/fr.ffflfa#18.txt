@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Les mises à jour... se font trop attendre.
+Commentaire:Déjà qu"au chargement, les infos du club ne sont pas correctes, quand est-ce que le site proposera une mise à jour régulière ? A revoir... sinon l'appli est intéressante. Dommage donc
+DateCommentaire:7 septembre 2014
+NoteCommentaire:2

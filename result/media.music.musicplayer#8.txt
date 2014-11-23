@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Presque parfait !
+Commentaire: Très bonne applis, interface très réussie. Il faudrait simplement nous donner la possibilité de mettre des mignatures pour les artistes. Pour ceux qui ne le savent pas encore, pour ajouter une musique que l'on vient de télécharger, il faut cliquez sur "scan média" en haut de la colone noire à gauche. :-)
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:App Tv vraiment bas de gamme par rapport à ses concurents.
+Commentaire: En comparant celui de sfr très fluide même en 3G. Et pour orange l'appli est même disponible sur les stores Tv connectée ! Tous ce que B.tv n'a pas !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Hyper pratique !
+Commentaire:Conducteur de cars de tourisme sur Paris/région parisienne, consultée avant chaque départ, elle m'est devenue indispensable, ainsi qu'à tous mes collègues. Fiable à 95% !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

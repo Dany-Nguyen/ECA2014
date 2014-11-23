@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:SNCF TER mobile
+Commentaire:Les horaires données ne correspondent pas, il s'agit même d'horaires farfelues . Application nulle à souhait à l'image de la SNCF.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

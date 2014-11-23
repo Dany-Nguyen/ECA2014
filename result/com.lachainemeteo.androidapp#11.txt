@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Attention batterie
+Commentaire: Depuis la derniere mise a jour le widget n est plus rafraichissable manuellement. Du coup l appli se retrouve dans le top 3 de mes consos batterie. Dommage, je desinstalle.
+DateCommentaire:7 août 2014
+NoteCommentaire:3

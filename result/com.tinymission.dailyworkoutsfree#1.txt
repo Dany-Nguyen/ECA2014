@@ -1,0 +1,9 @@
+NomApplication:Entraînements Quotidiens FREE
+IdApplication:com.tinymission.dailyworkoutsfree
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:39 823
+TitreCommentaire:A ameliorer
+Commentaire: Application qui pourrait vraiment etre bien mais de gros bug au 3\4 dune serie se qui arrete tout . Cinq etoile qauand ce probleme sera resolu. Merci d'y pensser pour la prochaine mise a jours !
+DateCommentaire:18 juillet 2014
+NoteCommentaire:2

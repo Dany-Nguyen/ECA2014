@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Tres bien
+Commentaire:J'ai vu dans les photos ci dessus que l'on pouvais mettre des smiley en couleur maintenant mais je ne comprend il faut les mètres. Quelqu'un pourrais m'expliquer?
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

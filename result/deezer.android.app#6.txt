@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:
+Commentaire:Cette application n'arrête pas de beuguer. Je serais vous j'aurais honte de prendre de l'argent pour un service que vous n'êtes pas capable de donner. Ça reflète tout à fait la nouvelle société française qui n'a pas d'honneur
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

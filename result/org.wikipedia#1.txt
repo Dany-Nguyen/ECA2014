@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Excellent mais problème de recherche
+Commentaire: Tres bonne appli mais un manque de souplesse et d'intuitivité de recherche depuis un moment. Si on tape pas le mot exact c'est compliqué et si ont tape juste un nom de famille (meme bien ortographié) ca marche mal. Exemple avec "marveaux".
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

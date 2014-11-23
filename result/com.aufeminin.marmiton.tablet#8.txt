@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Marmiton
+Commentaire:Encore quelques corrections et ce sera presque parfait : la recherche avancée ne fonctionne pas toujours. Je cherchais une recette de céleri en plat principal et le site répond qu'il n'y en a pas. Quel menteur!
+DateCommentaire:3 octobre 2014
+NoteCommentaire:3

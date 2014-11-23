@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Bug bug bug !!
+Commentaire: L'application est bourrée de bugs, entre autres: des VDM en doublon tout le long du fil, les pub qui nous redirigent de leur propre chef sans qu'on y ait cliqué (celui ci me fait vraiment rager), le petit (1) qui me dit que j'ai un message alors que non...et j'en passe, Bref c'est bien gentil les "nouveautés", mais peut être faudrait-il corriger les bugs qui eux ne datent pas d'hier...
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

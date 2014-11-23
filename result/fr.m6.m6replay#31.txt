@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Un peu trop fermé et des défauts
+Commentaire: M6 refuse que ses chaines soient diffusés autrement que par son application. Mais se permet de mettre de la pub tous le temps même en plein milieu de direct (en plus de la pub normal donc).
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

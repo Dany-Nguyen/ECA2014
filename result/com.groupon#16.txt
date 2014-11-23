@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:J'en suis accro
+Commentaire: ATTENTION PAYEZ VIA PAYPAL ...(conseil après usurpation de ma carte ...) MAIS SINON DE TRÈS BEAUCOUP PRODUITS A PRIX IMBATTABLE !!!!
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

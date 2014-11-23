@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Super mais,
+Commentaire: Je n'arrive pas à utiliser les enregistrements comme sonnerie ou notifications.. J'ai essayé de.changer le répertoire (même dans sons, notifications, musique...), mais rien à faire, je ne les retrouve pas non plus la dedans.. Ha oui et quand j'utilise la fonction définir comme ça me supprime ma sonnerie/notification actuelle, je n'ai plus rien (que le vibreur ou silencieux).
+DateCommentaire:23 octobre 2014
+NoteCommentaire:4

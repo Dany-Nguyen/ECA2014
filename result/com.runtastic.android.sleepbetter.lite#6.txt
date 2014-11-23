@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:
+Commentaire:Totalement inutile er aléatoire je suis rester éveiller 33 min dans mon lit pour. Voir le diagramme !!résultat 4 min de sommeil profond alors que je jouer sur la tablette
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

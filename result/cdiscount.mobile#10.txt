@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:L application est bien faite , je mets 2 étoiles car c est facile de gonfler les prix et de mettre une réduction à côté pour arriver au prix normal, ( il n y a qu'a regarder le prix des jouets avant réduction, pour s en rendre compte)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

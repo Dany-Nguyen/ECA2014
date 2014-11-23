@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Trop cool
+Commentaire:Super appli, elle me permet de suivre en temps réels mes equipes et mes championnats favoris
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

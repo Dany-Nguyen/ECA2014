@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:rès fiable surtout pour les départementales ça sert! Il est un peu lent au démarrage des fois sinon parfait !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

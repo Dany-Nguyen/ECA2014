@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Je comprend pas....
+Commentaire: Les smileys marche tres bien mais le probleme c que c pas en couleur !!!! Et sa me fait pas les meme smiley: 😂
+DateCommentaire:27 octobre 2014
+NoteCommentaire:4

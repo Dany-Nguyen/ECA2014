@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Super mais...
+Commentaire:Je n'arrive pas à activer mon tel. J'ai beau faire une demande de renvoi d'sms, rien n'y fait. Dommage pour les messages. Donc 3☆. 5 si MAJ
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

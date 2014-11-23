@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Je mets que une etoile depuis la mise a jour je ne peu plus le connecté sa fessait que quelque jours que j avais l apli donc impossible pour moi de l evalué correctement
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

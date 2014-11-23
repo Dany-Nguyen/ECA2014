@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Du mieux... Encore un effort...
+Commentaire: L'information météo est excellente certes... Et la présentation s'est nettement améliorée depuis la dernière mise à jour. A priori quelqu'un de chez Météo France a enfin testé l'application Android... Le tout est désormais plus lisible, plus facilement navigable mais il y a encore du boulot... Surtout lorsqu'on voit la concurrence qui sorte des applis très jolies (Yahoo Météo entre autres) mais dont l'information météo est beaucoup moins précise que sur Météo France. A quand un mariage des deux ?...
+DateCommentaire:20 septembre 2014
+NoteCommentaire:3

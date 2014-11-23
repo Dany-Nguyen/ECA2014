@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Très précis, parfait
+Commentaire: Un jour peut être température intérieure. ...
+DateCommentaire:13 février 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Cette application bugge maintenant alors qu avant ça marchait très bien.pourquoi ne la teste t on pas ??
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

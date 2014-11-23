@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Un widget!
+Commentaire:Très belle mise à jour, la prochaine étape sera de faire un widget avec le trafic en temps réel. Ainsi on aurait la possibilité de vérifier l'heure du prochain metro, rer, tramway, bus sans même avoir à ouvrir l'application ! Pas très difficile à coder mais TRÈS utile.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

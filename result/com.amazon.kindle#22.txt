@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Nul
+Commentaire: Vraiment décevant pour un produit amazon! Je n'arrive pas à synchroniser la progression de lecture du kindle et de mon smartphone. Il me propose la page lue la plus élevé, ce qui est nul vu que je relis mes livres. Bref appli inutile et pénible
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

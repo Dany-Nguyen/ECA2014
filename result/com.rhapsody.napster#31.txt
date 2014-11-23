@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Tres bien
+Commentaire: Bonne biblio gratuit par sfr que demander de plus... un peu plus de stabilité.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:4

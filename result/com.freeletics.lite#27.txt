@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Super
+Commentaire: Nouvelle version avec warmup et strech. Enfin !
+DateCommentaire:1 octobre 2014
+NoteCommentaire:5

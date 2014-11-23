@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Bugs
+Commentaire: Parfois lorsque je change de page un peu vite je repart à la page 1 ... super pratique ça simule un livre qui tombe quel réalisme pour un ebook ....
+DateCommentaire:30 août 2014
+NoteCommentaire:1

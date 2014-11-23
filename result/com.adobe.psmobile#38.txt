@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Bug Galaxy Note 4
+Commentaire: L'appli se ferme dès que je sélectionne un filtre sur une photo...
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

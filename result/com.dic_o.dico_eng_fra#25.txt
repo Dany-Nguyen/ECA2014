@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:
+Commentaire:Bonne application mais plusieurs bémols: impossible d'ajouter aux favoris et certains mots introuvables.
+DateCommentaire:1 décembre 2013
+NoteCommentaire:3

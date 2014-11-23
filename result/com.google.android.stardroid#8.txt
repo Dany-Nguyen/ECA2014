@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Carte pas mal
+Commentaire: La précision est....dsl mais nullissime !!! Rien que pour la lune, cela devient plus que flagrant...donc le reste suit forcément se...!!#★☆!! de décalage incohérent (J active tout et j suis o taquet, wi fi blueto..gps....):( Vraiment à revoir. En revanche la carte du ciel est bien faite et très lisible, gros plus :)) Mais revoyez vraiment la precision svp !!!
+DateCommentaire:22 juillet 2013
+NoteCommentaire:1

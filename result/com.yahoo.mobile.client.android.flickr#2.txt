@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Peut mieux faire
+Commentaire: Incomplète et sur ma tablette ne marche quasiment pas. L appli crash tout le temp.
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:
+Commentaire:Je trouve que les photos sont trop petites. Cela m'empêche de voir les détails.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

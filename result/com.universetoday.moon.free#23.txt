@@ -1,0 +1,9 @@
+NomApplication:Phases de la Lune
+IdApplication:com.universetoday.moon.free
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:24 917
+TitreCommentaire:Excellente application
+Commentaire: Cette application est vraiment très bien réalisée. Sobre et esthétique à la fois, j'adore toutes les possibilités de visualisation et particulièrement le mode rotation. Bravo aux concepteurs.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

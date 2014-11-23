@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:
+Commentaire:Très bonne application. Je l'utilise pour toutes mes activités. Il faut juste penser à changer l'activité a chaque fois.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Compte verrouillé
+Commentaire: L'application fonctionne-t-elle ? Aucune idée, car une fois votre compte verrouillé (même après demande de nouveau mot de passe), je vous souhaite bon courage pour y accéder de nouveau... Nous sommes des milliers dans ce cas (faire une recherche web...). Mise à jour du message : l'équipe, très réactive, a pu débloquer la situation et je peux désormais profiter d'une application tout à fait utile et simple d'utilisation. Bravo et merci !
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

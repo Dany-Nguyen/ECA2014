@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Edition de e-cheque impossible depuis la mise à jour
+Commentaire: La seule fonction utilisée (et vraiment utile sur un telephone) sur cette application ne fonctions plus. Comment utiliser l'argent sur mon compte PASS. Notification gênante non désactivable et non paramétrables. Monte en memoire au démarrage du tel. sans sollicitation. Catalogue inutilisable car texte illisible sur smartphone. Pas moyen de faire une liste de course. Une aide pour trouver les articles dans un magasin (surtout les promo) et leur disponibilité serait intéressante.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

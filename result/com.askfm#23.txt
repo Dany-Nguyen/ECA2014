@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Problem with swiping to delete
+Commentaire:Swiping has been "fixed" since older versions but there is still a flaw : to delete a question (and now, even an answer on your profile) you have to swipe UNDERNEATH the question, but the little red cross appear at the top. That's not a problem, unless somebody write a question with a lot of "new lines". Because now, you have to scroll to the bottom of the question to swipe, but you don't see the red cross appearing at the top. But if you scroll up to click on it, it disappears when you scroll... Fix it plz
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

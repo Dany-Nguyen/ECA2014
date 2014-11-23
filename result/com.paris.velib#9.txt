@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Fonctionnelle mais peu ergonomique
+Commentaire:L'appli donne bien les stations autour de soi meme si elle peine à me localiser. Que la fonction itinéraire existe est un bon point. Mais inutilisable en l'état, il faut connaitre le nom (voire le nº !) des stations, tout ça pour un itinéraire dans une appli tierce. (et Google maps par exemple va mettre par défaut le trajet à pied, pas à vélo) Prenez exemple sur CityMapper, qui détaille l'intégralité du trajet (à pied, puis à velib, puis à pied) en tenant compte de la disponibilité des stations. Un vrai + !
+DateCommentaire:14 février 2014
+NoteCommentaire:3

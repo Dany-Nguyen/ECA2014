@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:€€€
+Commentaire:App dont la plupart des articles de fond sont payants. Pour un contenu plus interesssnr et gratuit, il y a beaucoup d'options.Les autres articles relaient seulement des informations déjà parues et mieux étayées dans d'autres sites.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug
+Commentaire: Depuis la nouvelle mise à jour bug : apparemment je ne bénéficie pas de la nouvelle fonctionnalité pour écouter ma musique en vrac et on me demande de m abonner ...ce qui ne fait pas avancer les choses !!! Bug bug bug toujours bug ils font quoi les fabricants ! Franchement j'ai voulu donner une nouvelle chance a cette application je paye chaque mois pour ça donc bravo la fainéantise !
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Ne mérite même pas une étoile
+Commentaire: Plante tout le temps. Passer votre chemin et aller directement sur le site si vous voulez passer commande.
+DateCommentaire:28 juillet 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Passe à côté de son objectif
+Commentaire:Une app Betclic, c'est censé permettre de parier sur les matches! Surtout qu'ils en font la pub à la TV avant les matches! Le site mobile de Betclic est pourrave, j'ai raté de gros gains à cause de son fonctionnement, et aussi en me faisant avoir par l'intérêt inexistant de cette application trompeuse. Bref, ne sert à rien en l'état.
+DateCommentaire:12 juillet 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:
+Commentaire:Et deux musique plus tard shazam démarra enfin.... bonne application mais oh c est quoi ce pb de démarrage ???
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

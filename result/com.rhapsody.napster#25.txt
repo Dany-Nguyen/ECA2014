@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Bien mais...!
+Commentaire: J'aurai bien pris cette application mais elle ne vaut pas le son de l'application Sony Walkman avec des morceaux en flac. Je prenderais cette application quand la qualité audio sera en flac, parce que le manque un peu de netteté et de basse !!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:3

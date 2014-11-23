@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Excellent
+Commentaire: 5 étoiles si c'est plus fluide par contre à quoi sert le fichier "baidu" qui est apparu quand j'ai installé cette application? Impossible de supprimer car il réapparaît aussitôt
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

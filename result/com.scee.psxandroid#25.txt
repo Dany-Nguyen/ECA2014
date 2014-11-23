@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Pas mal
+Commentaire: Bonne appli, plein de fonction qui évite à chaque fois d'allumer la console... Par contre, impossible de changer de foto de profil... Une Maj svp...
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

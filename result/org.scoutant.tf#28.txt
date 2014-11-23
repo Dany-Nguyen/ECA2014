@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Pratique
+Commentaire:Je suis souvent sur la route et de pouvoir consulter en temps réel me fait gagner beaucoup de temps.
+DateCommentaire:16 septembre 2014
+NoteCommentaire:4

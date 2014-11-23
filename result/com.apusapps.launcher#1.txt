@@ -1,0 +1,9 @@
+NomApplication:APUS – Léger, rapide, fluide
+IdApplication:com.apusapps.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:1 194 448
+TitreCommentaire:Super appli
+Commentaire: Fonctionne très bien . A permis a mon téléphone de mieux marcher et être plus performant
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

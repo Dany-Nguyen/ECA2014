@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:
+Commentaire:Depuis la mise à jour impossible de faire un e-chèque en caisse car cela ne marche pas, le chèque s'édite 1h après (littéralement), on ne peut pas savoir combien on va dépenser en avance ! Du gros n'importe quoi !
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

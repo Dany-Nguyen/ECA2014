@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:La description de la nouveauté...
+Commentaire: Belle description de l'add-on...on a envie d'essayer...alors j'y vais et je vous dis après...
+DateCommentaire:8 juillet 2014
+NoteCommentaire:5

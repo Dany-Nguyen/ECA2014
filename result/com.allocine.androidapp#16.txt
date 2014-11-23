@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Pourrait proposer plus rapidement les films sorties dans la semaine, ainsi que dans la liste des sorties afficher les liens pour les critiques.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

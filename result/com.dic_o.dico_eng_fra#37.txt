@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Super
+Commentaire: Impeccable lorsqu'on a besoin d'un mot pour un texte a rédiger, tout les mots y sont sans connexion internet. This is very good!
+DateCommentaire:4 octobre 2013
+NoteCommentaire:5

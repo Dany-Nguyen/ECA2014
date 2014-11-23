@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Galaxy tab 2 et s5
+Commentaire:J'adore l'appli il marche super bien sûr mon Galaxy s5 mais toujours quelques bugs sur ma galaxy tab 2 7.0.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

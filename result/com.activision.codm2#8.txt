@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Excellent
+Commentaire: Cette application fonctionne très bien il y a aucun bug sa vaut un 5 stars
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

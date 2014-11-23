@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Une merveille se site !
+Commentaire: Je remet cinq etoiles pour la richesse de se site merveilleux.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:J'adore
+Commentaire: C'est trop bien aucun bug et on peut partagé les photos avec tous instagram, snapchat...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

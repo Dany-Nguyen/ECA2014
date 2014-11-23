@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Xperia Z1 et bluetooth KO
+Commentaire: Toujours pas de solution du support concernant le Bug du bluetooth sur xperia Z1. Démarrer avec le wifi en fonctionnement et connecter, c'est pas une solution... Impossible en 3g même en mode déconnecter. A quand une solution... Ne prenez pas deezer allez voir ailleurs, vu la qualité du support concernant les Bug.Pourquoi pas le Bug sur spotify ??? Bougez-vous Le support !Bug signalé depuis au moins 6mois!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

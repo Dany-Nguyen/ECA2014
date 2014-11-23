@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:
+Commentaire:Top, même si parfois il ne reconnait pas les musiques, mais c'est rare ! Je mets 5 étoiles car il m'a sauvé la vie maintes fois ! :D
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:inutilisable...
+Commentaire: c est simple, depuis la maj rien ne fonctionne sur mon gs3. je ne peux mm pas faire une simple recherche. ça valait le coup de tout changer...
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

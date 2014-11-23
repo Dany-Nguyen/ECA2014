@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Aussi vite désinstallé qu' installé..
+Commentaire: On ne peut même pas imprimerou télécharger les factures depuis l'appli ni depuis le site mobile, et impossible d'aller sur le site normal avec un mobile ! Comment fait-on quand on a pas d'ordinateur ?
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

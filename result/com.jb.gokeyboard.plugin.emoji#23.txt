@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:Enfin j'ai trouvé la bonne application, je l'ai recommandé à plusieurs de mes potes qui n'ont pas l'Iphone ni un truc sophistiqué et ils adorent tous! Merci c'est parfait à mettre des émoticônes sur Snap, Insta, Facebook etc j'adooooore! 👌
+DateCommentaire:24 septembre 2014
+NoteCommentaire:5

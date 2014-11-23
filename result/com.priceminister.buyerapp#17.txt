@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:L appli n'arrete pas de bugger
+Commentaire: Ca devient insupportable.10 seconde apres une recherche. L appli s arrête et ça me relance et ainsi de suite. Ça me saoûle regler le problème svp.
+DateCommentaire:27 juillet 2014
+NoteCommentaire:1

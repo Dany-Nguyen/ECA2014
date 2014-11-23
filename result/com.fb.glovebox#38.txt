@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Excellent
+Commentaire: Très bonne application reprenant le système ubuntu. Très simple d'utilisation et très fluide.
+DateCommentaire:27 septembre 2013
+NoteCommentaire:5

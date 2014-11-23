@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Bien!! :)
+Commentaire: Absence d'infomations spécifiques lorsque l'on clic sur chaque étoile, planet...etc.. comme (distance, densité, date de découverte...etc)... c'est possible le presque parfait! ;)
+DateCommentaire:29 avril 2014
+NoteCommentaire:4

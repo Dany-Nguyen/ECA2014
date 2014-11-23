@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:A corriger rapidement !
+Commentaire:Application bien mais depuis 3 jours plus possibilité d'envoyer des snaps ni de lire les histoires! Désinstaller, redémarrer...ça ne change rien !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Pas de bug
+Commentaire: Moi en tout cas l'ampli fonctionne à merveille merci la nouvelle MAJ
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

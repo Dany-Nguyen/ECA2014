@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Super appli sur galaxy tab 3 samsung
+Commentaire: L'application est super si vous avez une galaxy tab 3 samsung ca devrait fonctionner merveilleusement bien ne changer rien Spotify.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

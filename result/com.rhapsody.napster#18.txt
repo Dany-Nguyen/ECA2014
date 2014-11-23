@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Nul
+Commentaire: Fonctionne mal avec chromecast, moins de choix que deezer. Et réseau sfr mauvais
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Consomme de la batterie
+Commentaire: Depuis la mise à jour, c'est l'appli qui consomme le plus de batterie sur mon téléphone, même quand je ne m'en sers pas... A corriger
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

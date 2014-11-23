@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:inefficace
+Commentaire:J'utilise cette application depuis peu, et celle - ci est toujours en dérangement. Alerte inefficace car pas communiquée. Bref pas encore au point...
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

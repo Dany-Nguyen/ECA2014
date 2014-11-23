@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Toujours aussi nul
+Commentaire: Me dit toujours que je ne suis pas connecté à la box. 1 étoile parce qu'il n'ai pas possible de mettre 0
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

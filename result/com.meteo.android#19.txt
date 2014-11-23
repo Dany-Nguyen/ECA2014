@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Super application
+Commentaire: Je m'en sers pour prévoir mes sorties en moto. Ne se trompe jamais et la météo est souvent réactualisée.
+DateCommentaire:17 juillet 2014
+NoteCommentaire:5

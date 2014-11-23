@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Mémorisation des cartes 3/5 places !
+Commentaire: Toujours pas de prise en charge des cartes 3/5 places. Obligés de taper à chaque commande les 16 chiffres ! Pour le reste, bon fonctionnement très aléatoire et ergonomie catastrophique. Vive les futures améliorations :-)
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

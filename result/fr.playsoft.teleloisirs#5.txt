@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Dommage je desintalle
+Commentaire: J ai cette apk depuis plus d un an, je viens de l acheter definitivement or ca ne fonctionne plus, je vous laisse imaginer ma colere, j en ai marre de vos arnaques
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

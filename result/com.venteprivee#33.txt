@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Gros bugg
+Commentaire: Plante en permanence il fait la relancer plusieurs fois pour que enfin ça fonctionne. De plus trop invasif trop de droit pour cette application. Va falloir réagir
+DateCommentaire:6 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:J'aime beaucoup sauf les couleurs deviennent flou,sa fait pas pareille que sur les iPhone..et le logo est pas complet, sa serait mieux d'avoir exactement le même retrica que sur Iphone merci
+DateCommentaire:18 octobre 2014
+NoteCommentaire:4

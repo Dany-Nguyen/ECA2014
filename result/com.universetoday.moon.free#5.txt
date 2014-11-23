@@ -1,0 +1,9 @@
+NomApplication:Phases de la Lune
+IdApplication:com.universetoday.moon.free
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:24 917
+TitreCommentaire:Belle appli mais trop lourde
+Commentaire: Dommage on en trouve d'autres, en anglais certes mais à moins de 2mo... Celle ci pèse 28mo...
+DateCommentaire:18 octobre 2014
+NoteCommentaire:3

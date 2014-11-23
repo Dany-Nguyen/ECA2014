@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Impossible de s'inscrire
+Commentaire:Il y a plus d'1 âne qui s'appelle Martin, quand je m'inscris avec mon nom on me répond que le nom existe déjà lol ben oui je ne suis pas unique !!!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

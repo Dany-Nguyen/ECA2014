@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:
+Commentaire:ppli parfaite ! Seul petit détail et pas des moindres je reçois aucune notification même en mettant les matchs en favori. Je suis sur lg g3
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

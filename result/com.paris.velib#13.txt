@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:
+Commentaire:roblèmes pour consulter son compte en cours de location, l'application s'arrête illico. Bugs.
+DateCommentaire:21 avril 2014
+NoteCommentaire:3

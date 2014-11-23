@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Inutilisable sur Galaxy Mega
+Commentaire: Ne démarre plus du tout…
+DateCommentaire:1 novembre 2014
+NoteCommentaire:4

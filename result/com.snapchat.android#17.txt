@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:eug même si c'est une application excellente !! Les vidéos ne marche pas, certains snap ne veulent pas s'afficher, les MAJ ne veulent pas se faire.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:
+Commentaire:Mise a jour... comment dire les cheques fidelités arrivent 3 h apres...... No comment quand ont arrivent en caisse et qu'ont le crée dommage ça allais si bien avant à rectifier!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

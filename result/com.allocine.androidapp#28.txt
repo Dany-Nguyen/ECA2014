@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Tout simplement géniale
+Commentaire: Que demander de plus à cette appli ? Tout est dans son nom allô et hop tout le 7ème art dans son smartphone. La meilleure appli du genre et pour longtemps encore je pense.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

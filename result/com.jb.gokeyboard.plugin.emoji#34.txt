@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Canabiize-59
+Commentaire: I tue sa mere
+DateCommentaire:11 octobre 2014
+NoteCommentaire:5

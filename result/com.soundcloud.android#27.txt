@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:
+Commentaire:Bien mais les chansons beugue souvent et peinent à démarrer , j'aime pas trop
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

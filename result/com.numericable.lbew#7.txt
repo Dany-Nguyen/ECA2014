@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Compliquée. Impossible de s'identifier.
+Commentaire: Cette nouvelle version ne présente aucun intérêt. En outre mes identifiants n'ont jamais été reconnus pour une connexion utile.
+DateCommentaire:17 octobre 2014
+NoteCommentaire:1

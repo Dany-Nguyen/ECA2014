@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:Les prévisions de météo france
+Commentaire: L'application Météo France est un désastre pourtant il faut reconnaître que leurs prévisions sont les plus précises concernant la France ... Du coup cette app simple et sobre est un bon compromis ! Peut être si l'on pouvait avoir des widgets dont la taille serait paramétrable ce serait parfait !
+DateCommentaire:24 février 2014
+NoteCommentaire:4

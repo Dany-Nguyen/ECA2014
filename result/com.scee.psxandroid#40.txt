@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Amazing
+Commentaire: La prise en charge de la tablette est super franchement l'interface est beaucoup plus ergonomique
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Micro coupures incessantes
+Commentaire: Jusqu'à présent j'avais tjs utilisé deezer sur tous supports et j'en étais très satisfait mais depuis un mois, les morceaux écoutés sont ponctués de micro coupures toutes les 10 secondes... Juste insupportable !!!!! Désinstaller lappli et la réinstaller ne resoud pas le problème. Je viens d'essayer spotify et pas de souci d'écoute, c juste ce qu'on demande a une appli d'écoute de musique... A bon entendeur, salut !
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

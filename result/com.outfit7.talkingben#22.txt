@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:Le jeu est genial mais lassant au bout d'un moment
+Commentaire: Cool ....est tres realiste et pour ceux qui dise quil y a un homme qui vous regarde cest n'importe quoi srx sinon cest trop bien allez bisous xxx
+DateCommentaire:27 septembre 2014
+NoteCommentaire:4

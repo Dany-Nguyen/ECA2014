@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Ne fonctionne pas
+Commentaire: Nul
+DateCommentaire:28 septembre 2014
+NoteCommentaire:1

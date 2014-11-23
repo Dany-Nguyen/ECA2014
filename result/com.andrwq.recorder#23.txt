@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:WOW!
+Commentaire: Je n'ai jamais installée une app de voice recorder avec une aussi bonne qualité😊😮 bravo :)
+DateCommentaire:21 octobre 2014
+NoteCommentaire:5

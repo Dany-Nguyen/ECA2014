@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Samsung galaxy Ace : 1p. - !
+Commentaire: J'adore vraiment cette application mais je ne peut pas mettre en mode carré ou plusieurs autre truc, sinon je recommande ! En + sur mon telephone cela ne bueugue pas !
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

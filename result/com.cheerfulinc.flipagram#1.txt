@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Superbe !
+Commentaire: Je suis très content de l'application dommage que quand on met de la musique il y a des musiques indisponibles
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

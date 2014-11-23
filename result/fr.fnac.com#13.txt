@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Tres bonne application
+Commentaire: Comme dit dans le titre, tout vas bien. Mais alors il y a une faute d'orthographe dans votre séction musique, "Métal", on écoute pas des morceaux de métal s'entrechoquer. Le METAL est par contre un style musicale.
+DateCommentaire:4 octobre 2014
+NoteCommentaire:4

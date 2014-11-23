@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Honte a carrefour !!! Trop de notifications
+Commentaire: Impossible de desactiver les notifications ! Le client doit avoir le choix et ne pas subir les pub ! Et en plus les cheques fidelités ne sont plus disponible immediatement ! Dommage je vais devoir allez chez vos concurrents !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

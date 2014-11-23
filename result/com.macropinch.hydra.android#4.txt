@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Douteux
+Commentaire: Un vrai doute quand à la veritée de cette application (galaxy S4). Il faut m'exoliquer comment un appareil photo peut prendre notre frequence cardiaque.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

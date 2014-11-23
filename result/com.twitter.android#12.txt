@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Se concepte est pas mal
+Commentaire:C est un peu du facebook mais version plus precis et plus ordonner alors que facebook c est dans le desordre je conseille se reseaux social
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

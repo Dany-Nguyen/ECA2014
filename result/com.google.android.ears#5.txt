@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Pas terrible
+Commentaire: Ne figure pas dans les installations, donc difficile à trouver. De plus le widget est de 4x1. Pourquoi si gros ? Inutile et prends trop de place : à jeter.
+DateCommentaire:9 mai 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Gestion des mots de passe et pictogrammes
+Commentaire:Je ne peux pas donner de note, vu que je ne peux pas lancer l'appli... Mon mot de passe n'est pas reconnu, il semble qu'il soit trop compliqué pour l'appli mais pas le site, pas top.... Ensuite, mais peut-être que les deux soucis sont liés, le pictogramme d'entrée a retaper ne fonctionne jamais (pourtant au bout de 10 essais je devrais arrêter de mal recopier)... Donc voilà, une seule étoile puisque je ne peux en mettre moins pour le moment. 1 étoile sans avoir pu tester, c'est plutôt pas mal... To be continued
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

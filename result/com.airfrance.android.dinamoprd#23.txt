@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Vraiment une bonne application
+Commentaire:Mais où sont passés les tarifs jeune depuis la dernière mise à jour??? Il y a également un soucis lors de la réservation des billets depuis lundi. J'attends la mise à jour pour voir si ça va mieux.
+DateCommentaire:19 octobre 2014
+NoteCommentaire:5

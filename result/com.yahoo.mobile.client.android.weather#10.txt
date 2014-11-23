@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Devenu de la merde
+Commentaire: Plus rien nr fonctionne ... une belle daube depuis les dernières mises à jour.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

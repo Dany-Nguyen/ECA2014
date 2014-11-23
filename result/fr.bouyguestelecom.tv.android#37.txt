@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:bug incessant depuis maj
+Commentaire: outre le pop-up récurent à chaque utilisation, le zap par glissement est impossible car l appli s'arrête... à corriger urgemment !!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

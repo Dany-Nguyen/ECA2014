@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Amélioration indéniable
+Commentaire:Demarrage plus rapide. Manque la sauvegarde de la feuille de route entre deux appels de l'application pour pouvoir la consulter rapidement dans le métro.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

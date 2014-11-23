@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Nexus 7 2013
+Commentaire: PB de micro saccades intempestives et récurrentes..... qui deviennent pénibles a supporter....en revanche au top avec mon iPhone 4 toujours en wifi.....pourquoi? Je ne sais plus quoi faire!
+DateCommentaire:23 novembre 2014
+NoteCommentaire:3

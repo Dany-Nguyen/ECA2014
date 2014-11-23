@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Rempli de bugs
+Commentaire:L'application est parfois inutilisable, pour la 23 journée les matchs sont marqués pour le dimanche, alors qu'ils ont lieu le samedi.
+DateCommentaire:29 mars 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Pagaille
+Commentaire: Depuis la dernière maj c est le b.... sur la page personnalisée. Les jours se chevauchent ce qui fait que l on ne peut plus rien lire. Corrections please merci
+DateCommentaire:21 septembre 2014
+NoteCommentaire:2

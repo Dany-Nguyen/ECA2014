@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Trop de bug
+Commentaire: Bug toujours autant !! 5 minutes d'utilisation 2 plantages !
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

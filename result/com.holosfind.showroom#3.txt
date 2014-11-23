@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Réduction de l'autonomie du téléphone
+Commentaire: Dès que l'on utilise cette application, l'autonomie de la batterie réduit fortement. C'est dommage
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

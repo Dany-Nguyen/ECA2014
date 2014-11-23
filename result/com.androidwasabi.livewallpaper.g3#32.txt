@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:
+Commentaire:Dommage qu'il n'y ait pas eu une sixième étoile. LOL j'suis d'accord avec toi Walid moi j'ai un Samsung Galaxy S 4 il fonctionne très bien
+DateCommentaire:4 août 2014
+NoteCommentaire:5

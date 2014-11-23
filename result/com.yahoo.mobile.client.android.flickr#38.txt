@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Pratique
+Commentaire: Facile d'utilisation avec un galaxy S4 advance et tablette 2 10, 1"
+DateCommentaire:24 octobre 2014
+NoteCommentaire:5

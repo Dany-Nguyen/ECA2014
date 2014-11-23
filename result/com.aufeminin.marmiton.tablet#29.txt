@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Une aide précieuse
+Commentaire:Que ce soit quand je cherche une recette précise ou quand je consulte les recettes proposées chaque jour, je trouve toujours une bonne idée.
+DateCommentaire:18 octobre 2014
+NoteCommentaire:4

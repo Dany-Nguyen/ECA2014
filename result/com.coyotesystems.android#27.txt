@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Fiabilité !
+Commentaire:La seul communauté assez importante pour etre fiable hors agglomération. Et jai essaye toute les appli du genre, la plus part du temps j etais seul sur la route. Le Top des avertisseurs de tres loin.
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

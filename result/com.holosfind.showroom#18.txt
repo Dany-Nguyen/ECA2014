@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Correction de bugs mais pas tous
+Commentaire: Ne fonctionne toujours pas
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

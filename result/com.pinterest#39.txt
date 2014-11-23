@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:
+Commentaire:'aime beaucoup cette application très pratique pour collecter images et informations. Je regrette juste que l'on ne puisse pas mieux hiérarchiser les signets avec une arborescence par exemple. ..
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

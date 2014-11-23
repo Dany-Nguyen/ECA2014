@@ -1,0 +1,9 @@
+NomApplication:Push Ups Work
+IdApplication:com.northpark.pushups
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:99 605
+TitreCommentaire:Bien réalisé mais..
+Commentaire: L'application est bien faite mais laisse beaucoup trop passer d'informations précieuse comme le temps entre chaque pompes puis ne s'adapte pas vraiment au nombre réalisé selon moi
+DateCommentaire:21 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:
+Commentaire:Pareil que le commentaire précédent je ne peux plus y accéder. . Galaxy S4
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

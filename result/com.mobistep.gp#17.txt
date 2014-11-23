@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Ergonomie lamentable
+Commentaire: Parcours utilisateur passable, ergonomie ratée, pas du tout standardisée Android (ça sent le mauvais portage iOS), l'enregistrement du moyen de paiement qui ne marche pas (cela dit, si la sécurité est comme le reste, c'est pas plus mal). Feedback déroutant, comportements étranges à la limite du bug. J'ai fait trois réservations et basta, désinstallation.
+DateCommentaire:30 juin 2014
+NoteCommentaire:2

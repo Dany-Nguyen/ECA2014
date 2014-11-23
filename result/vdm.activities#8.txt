@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Plantage constant
+Commentaire: Fonctionne bien sauf la section "mettre un commentaire" où l'application plante systématiquement. Sur Galaxy S5
+DateCommentaire:12 octobre 2014
+NoteCommentaire:2

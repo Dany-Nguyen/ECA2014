@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Bug
+Commentaire: C de la merde l'application bug toutes les 5 secondes pendant 3 secondes C de la merde cette application sérieux tf1 Nike ta mère
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Et bien voilà !
+Commentaire:D'abord forcé de constater l'obligation de passer de l'ancienne appli (toute moche) à la nouvelle qui n'offrait rien de nouveau fonctionnellement. Je trouvais juste dommage de rechercher une itinéraire qu'à partir du lieu où l'on se trouve. Depuis cette mise à jour m'épate ! Cependant pourquoi ne reste-t-elle plus en mémoire (arrière plan) ?
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

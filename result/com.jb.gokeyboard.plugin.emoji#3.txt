@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Super!
+Commentaire: Cette appli est superbe pour les emojis... mais j'aurais aimé qu'il y ait tous les emojis pour toutes les autres applis, comme vous l'avez fait pour Facebook Messenger.
+DateCommentaire:19 octobre 2014
+NoteCommentaire:4

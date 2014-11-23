@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:
+Commentaire:tros cool japprend aconnaitre plus mieuc je chante bian on direit vraimant thevvoice je chante le mieux au momde
+DateCommentaire:8 octobre 2014
+NoteCommentaire:5

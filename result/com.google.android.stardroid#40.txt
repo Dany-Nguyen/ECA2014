@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Bug
+Commentaire: L'etoile polaire est inconnue de la recherche que ce soit en tapant ( etoile polaire ,polaire , ou polaris ) c'est tres genant pour une etoile aussi importante pour se reperer
+DateCommentaire:30 avril 2013
+NoteCommentaire:3

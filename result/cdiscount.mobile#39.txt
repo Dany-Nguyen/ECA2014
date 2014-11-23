@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Incompétent
+Commentaire: J'ai commandé une vitre pour protéger mon écran de téléphone et je ne l'ai jamais reçu !! Je ne vous conseil pas se site.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

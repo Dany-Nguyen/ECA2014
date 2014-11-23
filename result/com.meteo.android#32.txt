@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Super
+Commentaire: Météo fiable Mais les vues dynamiques ne sont pas toutes accessibles (pluies).
+DateCommentaire:12 mai 2014
+NoteCommentaire:4

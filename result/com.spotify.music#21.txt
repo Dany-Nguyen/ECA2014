@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:C'est vraiment une belle application mais elle arret pas de bugger et les chansons ne s'enregistre plus dans ma bibliothèque !!! C koi le problèm bordel?
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

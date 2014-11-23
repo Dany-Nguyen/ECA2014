@@ -1,0 +1,9 @@
+NomApplication:Talking Tom Cat 2 Free
+IdApplication:com.outfit7.talkingtom2free
+CategorieApplication:Divertissement
+NoteApplication:4,4
+NombreVotants:1 886 406
+TitreCommentaire:Il y a Vanessa Paradis
+Commentaire: Il y a la la teinture les oiseaux l'envergure qui lutte contre Levant parfois on aime les choses telles qu'elles sont en se demandant pourquoi parfois on les regarde telles qu'elles pourraient peut-être en Seine-et-Marne pourquoi pas
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

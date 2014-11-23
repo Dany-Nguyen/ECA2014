@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:
+Commentaire:L'application est presque à retardement, quand sa me met dans l'interface pour chanter, tout se passe à peu près bien sauf que j'ai pas du tout de musique derrière, elle se déclenche une fois que j'ai fini ! Je suis déçue.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Ça avait l'air bien...
+Commentaire: Peut pas l'instaler. Ça reste bloquer à 95%
+DateCommentaire:3 septembre 2014
+NoteCommentaire:1

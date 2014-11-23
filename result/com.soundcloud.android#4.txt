@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Petits bugs, mais très chiant
+Commentaire: Les musiques qui se coupent avant la fin =&gt; insupportable et frustrant ! L'ajout d'un historique de recherches/écoutes ne serait pas de refus ...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Problème démarrer/quitter
+Commentaire: Il faut bien appuyer 10 fois sur la touche retour pour quitter, et quand je clique sur la ville favorite il m'y met puis retour direct à la carte de France.
+DateCommentaire:29 septembre 2014
+NoteCommentaire:2

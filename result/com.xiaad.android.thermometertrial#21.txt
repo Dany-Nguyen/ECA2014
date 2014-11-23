@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Toujour la même température !!!!
+Commentaire: Ou que j'aille ca m'affiche toujour "13, 6" Même en Turquie il fesait + de 40º et même dans l'hôtel toujour "13.6" !!
+DateCommentaire:18 octobre 2013
+NoteCommentaire:1

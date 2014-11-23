@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Très bien
+Commentaire: Déjà très bien et très complet en version gratuite, des possibilités de personnalisation (pack d'icônes) et des options intéressantes
+DateCommentaire:22 août 2014
+NoteCommentaire:5

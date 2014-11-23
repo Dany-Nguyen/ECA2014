@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Trop de pub
+Commentaire: Trop de pub simplement, pire que la plupart des jeux gratuits, aucune chance de faire une recherche sans avoir une pub
+DateCommentaire:12 novembre 2014
+NoteCommentaire:2

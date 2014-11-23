@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Merci pr la mise a jour
+Commentaire:Beaucoup mieux depuis la MAJ ! Fini le "oups la connexion semble interrompue" dès quon rentre une adresse. Je suis super contente !
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

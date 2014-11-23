@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Vous restez comme vous êtes à quand le progrès
+Commentaire: À quand.la.recherche dans.un rayon de tant de kilomètres pour les recherches immobilier ça serai bien
+DateCommentaire:1 novembre 2014
+NoteCommentaire:3

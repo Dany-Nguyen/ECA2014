@@ -1,0 +1,9 @@
+NomApplication:DIY Locker - Tattoo Locker
+IdApplication:com.ztapps.lockermaster
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:96 959
+TitreCommentaire:Aide !!
+Commentaire: Je sais pas comment faire pour faire en sorte que quand on reçois une notification, qu'elle soit marqué dans le fond de verrouillage, Merci a ce qui me diront comment faire ;)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

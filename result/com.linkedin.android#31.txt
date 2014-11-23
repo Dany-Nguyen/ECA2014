@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:
+Commentaire:ssez lent a charger mais simple d'utilisation mais lent !!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

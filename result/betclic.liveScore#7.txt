@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Plus pourrie, tu meurs!
+Commentaire:Une belle pub et puis plus rien! Virée illico!
+DateCommentaire:29 juin 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Pas mal
+Commentaire: Bonne idée et bien fait mais quelques bug. Quand je tape une recherche de vélo je tombe sur des robes de mariée...
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

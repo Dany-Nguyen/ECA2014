@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:👍👍
+Commentaire: Moi j'ai bien aimée ! Et d'ailleur le pub ne dure jamis 120 secondes ! Il y a marquer 120 mais en realiter il y a que 50 secondes de pub !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

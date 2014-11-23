@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Pratique
+Commentaire: Tres partique pour trouver des mots mqis j ai enlever une etoile car pour les phrases on ne peut pas
+DateCommentaire:19 décembre 2013
+NoteCommentaire:4

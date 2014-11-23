@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Juste parfaite
+Commentaire: Adieu aux salles de sport, quand on a freeletic on a tout ce quil faut pourdevenir un veritable athlete!
+DateCommentaire:5 octobre 2014
+NoteCommentaire:5

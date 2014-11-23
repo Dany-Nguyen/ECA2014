@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Pub pub pub
+Commentaire: La pub au démarrage pendant le chargement, ok. Mais pendant la lecture un renvoi intempestif sur un site internet puis sur le playstore c'est pénible ! Vivement une version sans pub même payante !
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

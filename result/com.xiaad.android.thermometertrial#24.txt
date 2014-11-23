@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Samsung galaxy y young
+Commentaire: L aplis de marche pas je l allume mon ecrant et tout noir
+DateCommentaire:4 avril 2014
+NoteCommentaire:1

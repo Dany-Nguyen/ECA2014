@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:Bien quand il fait beau.....
+Commentaire:
+DateCommentaire:4 mars 2014
+NoteCommentaire:4

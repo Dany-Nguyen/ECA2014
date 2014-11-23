@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Excellent !
+Commentaire: Marche très bien sur mon Galaxy s4. Bien sûr il faut un flash et un appareil photo de bonne qualité. Et pour certains avoir un capteur. Recommandé pour les personnes suivant leur santé !
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

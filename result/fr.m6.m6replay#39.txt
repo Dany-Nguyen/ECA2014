@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Presque parfait
+Commentaire: -Sa fait 1ou 2ans que j'ai l'application et 1 seule fois sa a beuger -Il n'y a pas 1000 et 1pub -par contre il y a toujours 1pub avant que le film, la série...ect commence
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

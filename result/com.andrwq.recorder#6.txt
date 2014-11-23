@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Super pratiquent
+Commentaire: Je m'en sert couramment mais il faut penser a vider les vieux enregistrements wav. Ce n'est pas du mp3 ! 110 MB à l'heure.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

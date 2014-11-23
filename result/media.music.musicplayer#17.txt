@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Bonne appli
+Commentaire: Appli intreressante. L'interface est bonne. La possibilité d'avoir différents fonds d'écran est sympa. L'association des photos liées aux chansons, aux albums où aux artistes est plus efficace que mon appli d'origine. L'équaliseur est un plus.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

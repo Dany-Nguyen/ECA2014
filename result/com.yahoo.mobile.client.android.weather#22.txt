@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Bien
+Commentaire: Mais que de probleme depuis la toute dernière mise à jour ajoutant les notifications !
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

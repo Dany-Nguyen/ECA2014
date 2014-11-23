@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:
+Commentaire:embre coyote depuis 2009, RAS fonctionne très bien et toujours12 points... Pour ceux qui ont des problèmes en Bluetooth en voiture il y a une option " flux audio" dans les paramètres, sélectionnez "notification" et non pas "média" et le son reviendra! Fonctionne sur Bluetooth Vw.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:HE GO SMS !
+Commentaire: NULL, NULL, NULL, EN PLUS, NOUS PARLER EN INGLISHI.Suis allergique a cette langue que nous est imposé et Evaissant !!!!
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

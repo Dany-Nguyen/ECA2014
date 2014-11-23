@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Trop de pub moches en bas de l'application
+Commentaire: Vous lancez l'application et pouf:une pub en pleine page! Puis, un bandeau de pub "annonce google" apparaît en permanence pendant les recherches des vidéos. Je préfère utiliser la version sur ipad ou les pub sont uniquement entre les vidéos. ..
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

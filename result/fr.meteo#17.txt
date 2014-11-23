@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:OK carte France et région. KO page ville
+Commentaire: Affichage prévisions d'une ville illisible, chevauchement de lignes. Moto G, Android 4.4.4.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

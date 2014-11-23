@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Pas mal
+Commentaire: Les chaines marchent mais les pubs sont enervant meme quand on regarde une chaîne on ne voit que le 1/3 de l'ecran
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

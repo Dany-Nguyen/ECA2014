@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:Toutes les notes perdues !
+Commentaire: Plusieurs mois de préparations, de notes, de surlignage… ont disparus d'un coup ! Je n'ai pas déplacé ni renommé les dossiers ou les fichiers, ou quoi que ce soit, juste comme ça. On dirait que l'application à fait un retour en arrière de 3 mois car seules mes notes et surlignages de plus de 3 mois sont encore là. Il faut faire qq chose car ça rend l'application NON FIABLE ! Dommage car je l'utilise tous les jours et je l'aimais beaucoup.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

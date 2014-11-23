@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Très bonne application
+Commentaire: Manque un peu les musique du moment et prenne un peut de temps à venir mais sinon rien à dire bravo
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

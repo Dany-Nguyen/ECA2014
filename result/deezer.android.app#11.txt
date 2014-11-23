@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Des choses à améliorer
+Commentaire: L'application est bien faite mais il y a des points à améliorer: pouvoir transférer les musiques synchronisées entre les différents stockages, pouvoir synchroniser une musique sans avoir à l'associer à une playlist
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

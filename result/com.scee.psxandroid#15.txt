@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Bonne application mais depuis la mise à jour ne fonctionne plus problème de connexion au serveur je met deux étoiles alors qu'elle en valait cinq avant la mise à jour
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

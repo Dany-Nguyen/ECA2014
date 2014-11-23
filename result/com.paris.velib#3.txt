@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bug
+Commentaire:Si je consulte 'mon compte' alors qu'un vélo est en cours de location l'appli se ferme et il n'est plus possible d'aller sur 'mon compte'.
+DateCommentaire:17 août 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Retour du son.
+Commentaire: Le son est de retour sous lollipop. Bien joué, je remonte ma note d'un point. Je vous ajouterai encore une étoile de plus quand l'application sera compatible avec le chromecast. Allez ! Courage ! On ne se relâche pas ! Si France télévision y arrive, vous aussi vous devez en être capable !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Intéressant
+Commentaire:J'aime bien, seulement il faut reconnaître qu'il n'y a pas vraiment d'aide pour certaines manipulation lorsqu'on en a besoin. Sinon c'est sympa !
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

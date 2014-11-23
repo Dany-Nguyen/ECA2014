@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Bug dernière version
+Commentaire:Gros problème depuis la dernière MAJ : l'appli ne passe jamais dans le multi-task, on perd donc toute recherche en cours dés que l'on passe sur une autre app pour X raisons. C'est vraiment problématique ! Peut être un problème de mauvais flag dans les activity... Sinon la nouvelle version est bien mieux mise a part le bouton menu avec le mot menu. On est pas bêtes quand même, toutes les app l'ont ce bouton, pas besoin de précisée "menu" dessus...
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

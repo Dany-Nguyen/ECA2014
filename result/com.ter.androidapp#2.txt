@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bof
+Commentaire:Je viens de m'apercevoir que les horaires étaient à l'heure d'été. Le train est annoncé à 19 h 07 arrivée dans 1 minute alors qu'il était 18 h 06 !!!! Je desinstalle l'application. Pas fiable comme la SNCF
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

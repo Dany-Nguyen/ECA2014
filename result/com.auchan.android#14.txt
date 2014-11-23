@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Pas de mise à jour
+Commentaire: Mon compte est bloqué depuis fin septembre. Pas de mise à jour du compte de la carte, sans parler des catalogues. Seul celui valable jusqu'au 07/10 est disponible. Vraiment pas pratique
+DateCommentaire:27 octobre 2014
+NoteCommentaire:3

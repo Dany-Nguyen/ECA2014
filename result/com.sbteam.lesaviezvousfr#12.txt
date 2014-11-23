@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Super mais quelques répétitions
+Commentaire: Application super intéressante surtout quand on a du temps a perdre! J'ai appris pleins de trucs intéressants et je me sens concernée par certaines publications ceci dit je ne met pas toutes les étoiles pcq je suis tombée sur la même affirmation 3 fois avec des photos différentes en fond en quelques minutes...
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

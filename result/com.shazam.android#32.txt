@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:
+Commentaire:La reconnaissance est très bonne, shazam distingue même les différentes versions d'une même musique ! Avec une ancienne version, le fonctionnement hors-ligne posait de gros problèmes, l'application cherchait à se connecter à tout prix, avec à la clé des ralentissements faramineux au démarrage et après une capture. Heureusement, tout ça c'est terminé, dorénavant l'appli se lance instantanément et stocke le son capturé jusqu'à ce que le réseau soit à nouveau dispo, une notification précise la situation, bien fichu.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

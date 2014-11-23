@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Excellent
+Commentaire: Bientôt 1an que j'utilise cette appli et je n'ai jamais été déçu. Notifications efficaces, avertissement en cas d'erreur, prise des commandes instantanées. Je conseil fortement l'appli
+DateCommentaire:26 octobre 2014
+NoteCommentaire:5

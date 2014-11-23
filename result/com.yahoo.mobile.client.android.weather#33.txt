@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:
+Commentaire:On veut une ville comme Ushuaia. Elle marche la 1ere fois puis c mort. Pareil pour toutes les autres villes
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

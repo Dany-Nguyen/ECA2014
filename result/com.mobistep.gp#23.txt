@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Nul
+Commentaire: Ça bug sans arrêt. L'appli plante des que l'on veut réserver. A quand une mise à jour correcte?
+DateCommentaire:22 juin 2014
+NoteCommentaire:1

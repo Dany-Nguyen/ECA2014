@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Il est où?
+Commentaire: Le store me dit qu'il est installé mais il est ni sur le "bureau" ni dans la liste des apps installée du phone. Je suis sur un galaxy nexus. Pas utilisable donc.
+DateCommentaire:4 juin 2013
+NoteCommentaire:1

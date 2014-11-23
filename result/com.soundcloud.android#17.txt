@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:.
+Commentaire: Trop de beug à amélioré sa coupe avant la fin et puis les vidéo ne sont pas " cached " en gros quand je change de pays et j'ai pas 4G je peux plus les écouter. Déçu.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

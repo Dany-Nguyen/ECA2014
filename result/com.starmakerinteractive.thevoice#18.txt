@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Moi quand j'écoute...
+Commentaire: Ça me met un sons pourris on entend pas ma voix et tout :( aidez moi svppp !!!!!
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

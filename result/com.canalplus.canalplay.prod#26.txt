@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Perfectible
+Commentaire: Application très correcte. Seulement un bug en 2 semaine d'utilisation(application qui se quitte) mais pas en lecture de vidéo donc rien de grave. Abonnement pas cher et made in France donc je resterais ici plutôt qu'aller chez netflix. Un contenu que j'avais trouvé très léger il y a deux ans mais toujours peu d'ajout d'interet à mon goût
+DateCommentaire:1 septembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Peu encore mieux faire !!
+Commentaire: Très bien l'application mais se qui serait top c'est de pouvoir définir un périmètre dans la recherche de location ou de vente de biens immobiliers !!
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

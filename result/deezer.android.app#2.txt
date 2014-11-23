@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:J'ai détesté
+Commentaire: Je ne recommande pas DUTOUT l'application au autre il faut s'aboné pour écouté de la musique mais il faut payée ????!!!! Moi j'ai 13 ans alors mes parents ne veulent pas payer c'est évident mais c'est aussi "de l'arnac"
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

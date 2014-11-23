@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:En temps réel
+Commentaire:L'application est très bien et elle dit le traffic en temps réel par contre faudra faudrait changer le design de l'appli
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:bien sur mon LG G2, Iphone 5C, Samsung galaxy s4, Galaxy note 2...
+Commentaire: bien, tourne bien sur mes téléphone, seul blème c'est que tout est en anglais sinon j'aime bien. PS : désolé pout les fotes de frappe j'aime pas écrire sur mon mac portable. cordialement Clément Durand.
+DateCommentaire:5 décembre 2013
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Beug
+Commentaire: Ne fonctionne pas sur galaxy S4
+DateCommentaire:21 août 2014
+NoteCommentaire:1

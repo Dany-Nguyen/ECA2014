@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Connexion au compte ?
+Commentaire:Sérieusement, les gars vous testez les applis avant de les mettre en ligne ? Impossible de se connecter au compte...
+DateCommentaire:11 juin 2014
+NoteCommentaire:1

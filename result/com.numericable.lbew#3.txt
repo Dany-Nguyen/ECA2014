@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:entrée des code clients impossible
+Commentaire: sur tablette Samsung le clavier pour saisie ne s'ouvre pas, ou tres exceptionnellement de façon furtive, dans ces conditions comment se servir de cette appli ?
+DateCommentaire:8 octobre 2014
+NoteCommentaire:1

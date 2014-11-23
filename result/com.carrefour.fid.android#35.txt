@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Où est mon chèque??????
+Commentaire: Je n'ai plus d'imprimante, je demande mon code pour aller à la borne , on m'envoie 5 chiffre alors que la borne en veut 4. J'ai besoin de mon chèque de 28 euros. Je téléchargé l'appli. Je veux créer un chèque , chèque créé ... Oui???? Où ça????? Je re tente. Non pas plus d'un chèque par jour. Je cherche le numéro de carrefour fidélité, 0.15 + surcout, au bout de qques minutes , oups rappelez. C'est quoi ce bazar?????? Où trouver mon chèque???
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

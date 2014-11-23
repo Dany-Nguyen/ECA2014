@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Good Stuff!
+Commentaire: I love Audible, it's great to listen motivational AudioBooks even offline!
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

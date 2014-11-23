@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Intuitif, simple et efficace
+Commentaire: Cela faisait longtemps que je recherchais un outil "tout en un", combinant à la fois traduction et mise en contexte. Une mention spéciale pour la saisie prédictive particulièrement efficace et la simplicité de l'interface. Bravo !
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

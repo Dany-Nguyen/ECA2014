@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:1 to gratuit qui dit mieux?
+Commentaire: Dommage que le contrôle d'accès aux photos soit un peu basique..
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

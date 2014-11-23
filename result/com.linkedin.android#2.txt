@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Installation abusive
+Commentaire:J ai rien demande s est installe tout seul je ne suis pas inscrit sur ce reseau est pourtant mon parcourt pro est decrit!! Plus qu abusif carrement limite je comte porter plainte je veux etre dereference!
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

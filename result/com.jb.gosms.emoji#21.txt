@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Thl.
+Commentaire: J'avais cette appli il y a deux ans, puis entre tant j'ai changer de téléphone, mais la j'avais envie de changer de style de boite réception j'ai essayer tout a l'heure, même en lisant les comm' puis moi je trouve sa cool, j'arrive a faire tout se que je veut donc pour moi se sera ★★★★ car on a jamais la perfection... continuer. 👍
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

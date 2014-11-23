@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Plantages à répétition
+Commentaire: En offre avec la Samsung tab S. Plantages réguliers sur films et series. Un peu à la ramasse sur le délai de disponibilité des saisons. Interface sympa. A ameliorer
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

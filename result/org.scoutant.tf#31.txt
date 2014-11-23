@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Geo
+Commentaire:La géo-localisation est payante ! C'est abusé vivement sytadin sur Android
+DateCommentaire:15 septembre 2014
+NoteCommentaire:2

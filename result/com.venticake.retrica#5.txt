@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Déçus !
+Commentaire: Sa c'est améliorer sa marcher bien et tout... Et puis depuis les dernières mises à jour... Marche plus :(
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

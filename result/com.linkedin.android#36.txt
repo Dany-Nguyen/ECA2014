@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Le réseau pro ou il faut être
+Commentaire:Indispensable dans la vie professionnelle.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

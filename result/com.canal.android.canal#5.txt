@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Version du 20/11
+Commentaire: J'ai testé la nouvelle version hier soir : j'ai telechargé des épisodes (très bien) ensuite j'ai voulu en regarder un, au bout d'une dizaine de minutes de gros lags sont apparus, de plus en plus fréquents et longs. J'ai donc arrêté l'épisode pour le relancer, impossible de naviguer avec la barre pour reprendre la ou je m'étais arrêté. Je passe donc à l'épisode suivant, même punition, l'épisode à fini par s'arrêter tout seul. J'ai voulu faire un autre test ce matin, mes épisodes telechargés on disparu...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

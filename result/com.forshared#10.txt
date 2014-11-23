@@ -1,0 +1,9 @@
+NomApplication:4shared
+IdApplication:com.forshared
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:1 776 504
+TitreCommentaire:Telecharge bien et vite
+Commentaire: dommage qu'il n'y est pas de parametres pour indiquer la destination(chemin de fichier),qu 'on puisse envoyer sur la carte sd ext.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

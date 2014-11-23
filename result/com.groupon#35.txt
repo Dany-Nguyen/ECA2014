@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:Probleme payement
+Commentaire: j essaye de payer par maestro mais il demande le cvc cvv sachant qu il y en a pas sur les cartes maestro. Donc impossible d acheter quoi que se sois
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

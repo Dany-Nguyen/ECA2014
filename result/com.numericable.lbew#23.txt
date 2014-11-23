@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:La box Tv by Numericable
+Commentaire: Je suis stupéfait par la nouvelle mouture de l'application de Numericable, j'ai juste un mot à dire génialissime... Pour les abonnés Numéricable je vous recommande vivement de la télécharger...
+DateCommentaire:31 octobre 2014
+NoteCommentaire:5

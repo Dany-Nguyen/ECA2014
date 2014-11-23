@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Vine
+Commentaire:Vous avez 5 sec. pour Délirer...
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

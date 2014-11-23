@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Solution pb photo
+Commentaire:Quand votre ecran est noir et qu il n y a plus les icones, appuyez sur la touche "moins" ou "plus" du son de votre tel. Ca va prendre une photo et faire réapparaître les icones ;)
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

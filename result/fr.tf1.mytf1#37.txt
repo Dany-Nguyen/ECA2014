@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:De la daube
+Commentaire: Une méga daube, tout autant que la chaine. Avec le pognon qu'ils engrange ils pourraient faire l'effort de se payer une appli qui fonctionne...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

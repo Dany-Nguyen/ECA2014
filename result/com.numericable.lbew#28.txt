@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Une catastrophe
+Commentaire: Une honte que cette application. Ne reconnait pas le réseau de sa propre box, erreur en tous genre..... Comment peut on oser mettre en ligne ça ?????
+DateCommentaire:24 octobre 2014
+NoteCommentaire:1

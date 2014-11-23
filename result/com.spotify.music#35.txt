@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Bug lollipop
+Commentaire: Il faudrait adapter l'écran verrouillage a Android 5.0 car impossible de changer de musique si on a choisit de masquer le contenu des notifs.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

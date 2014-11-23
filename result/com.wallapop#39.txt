@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Pas mal;)
+Commentaire: Marci a app gratis... c est la 2eme fois qu il met l annonce
+DateCommentaire:5 octobre 2014
+NoteCommentaire:4

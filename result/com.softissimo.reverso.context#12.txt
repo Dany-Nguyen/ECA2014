@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Déjà une référence sur PC...
+Commentaire: Et là c'est une référence sur Android. Bravo
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

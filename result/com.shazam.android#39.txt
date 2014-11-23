@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Efficace mais
+Commentaire: ça va mettre ce "Bienvenue sur Shazam à chaque mise à jour ou quoi ?? Il faudrait d'ailleurs essayer de penser à un système genre SoundHound pour que le tag continue même si on change d'application
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

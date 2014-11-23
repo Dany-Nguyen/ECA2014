@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:J adooorree
+Commentaire: Marrant,on apprend des choses,des belles phrase à piquer un peu de pub mais bon pas gênant sinon trop biennn trop Dar J adore
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

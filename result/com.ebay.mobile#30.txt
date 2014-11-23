@@ -1,0 +1,9 @@
+NomApplication:eBay
+IdApplication:com.ebay.mobile
+CategorieApplication:Shopping
+NoteApplication:4,3
+NombreVotants:1 084 381
+TitreCommentaire:
+Commentaire:App très pratique !
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:
+Commentaire:Je suis très content les images on peut les voire en grand j'ai quitter montanot qui est plus pour les débutants peut-être vous devrais simplement simplifiée là bibliothèques si non prés bien garder vos 5 étoile mérité est bonne continuation.
+DateCommentaire:22 octobre 2014
+NoteCommentaire:5

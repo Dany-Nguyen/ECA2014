@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Bugs
+Commentaire: L'application ne s'ouvre pas quand on veut l'ouvrir. La page reste blanche puis se ferme.
+DateCommentaire:12 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:
+Commentaire:onne appli mais Je sens que je vais désinstaller cette apllication depuis la mise à jour jarrive plus à me connecter sur mon propre compte
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

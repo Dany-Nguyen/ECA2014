@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Good app with a couple of bugs
+Commentaire: Keep telling me that i m not connected but i am on LTE network. It freezes a sevral times, sometimes i have to uninstall it and reinstall to get it work back! I m really disappointed cuz i liked the concept. Used it in my lg g3 in my car, i got the premium acces, now i ll cancel it. Maybe after few months they'll fixe these issues, i'll try it again.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Pas mal comme appli
+Commentaire:Tout n'est pas parfait mais ça permet d'avoir rapidement les info. Des efforts dans la base de données et mises à jours des calendriers seront nécessaires.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:3

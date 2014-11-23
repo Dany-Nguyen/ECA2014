@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Bravo
+Commentaire: Les paroles qui défilent en simultané avec la chanson qu'on vient de taguer... . Rien que pour ça 5 étoiles. CONTINUEZ COMME CA C'EST UNE SUPER APPLI !!!!
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

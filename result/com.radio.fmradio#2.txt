@@ -1,0 +1,9 @@
+NomApplication:Radio FM
+IdApplication:com.radio.fmradio
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:103 554
+TitreCommentaire:Attention possible virus
+Commentaire: Je viens d'installer cette appli. 2 icones de Radiofm sont apparues. L'une lance bien l'appli et l'autre tente d'effectuer un appel téléphonique ...
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

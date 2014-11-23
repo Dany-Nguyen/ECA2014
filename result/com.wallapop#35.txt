@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Impossible de supprimer
+Commentaire: Bonjour votre application est magnifique mais j'aimerais supprimer un compte à moi car j'en ai plusieurs et je n'arrive pas,merci de repondre à ce message. CORDIALEMENT
+DateCommentaire:26 juillet 2014
+NoteCommentaire:5

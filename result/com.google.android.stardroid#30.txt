@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Génial
+Commentaire: Génial dommage la lluminosité pourrait baisser automatiquement au max pour ne pas être gêner en même temps que l'on regarde les étoiles dommage aussi que le projet ai été abandonné donc plus de maj
+DateCommentaire:8 septembre 2012
+NoteCommentaire:5

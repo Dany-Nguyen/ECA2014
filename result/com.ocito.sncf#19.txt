@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Bien mais ne sert à rien.. Les trains sont annoncés jusqu'à 3 minutes du passage... Puis supprimés !!!
+Commentaire:Comment s'organiser ? Les trains sont annoncés a l'heure jusqu'à 3 minutes puis... Supprimés. Comment s'organiser ? Résultat attente sur le quai au lieu d'attendre à la maison, justement son utilité première ! Sinon l'application en elle même est bien et fonctionne correctement. (RER B).
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

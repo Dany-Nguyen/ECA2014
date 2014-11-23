@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Plante au démarrage
+Commentaire: Bloque sans cesse sur la page d'accueil au démarrage.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

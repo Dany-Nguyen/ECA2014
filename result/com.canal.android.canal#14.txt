@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:
+Commentaire:Ça marche très bien ! Les mises à jour se font sur le store et non automatiquement donc lorsque vous n arrivez pas à vous connecter il faut aller chercher les MAJ sur my canal sur play store et ça roule !
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

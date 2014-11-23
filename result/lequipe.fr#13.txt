@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:L'équipe...de rigolos
+Commentaire:J'en ai essayé des applis en 4 ans d'Android. Mais la trop c'est trop. Articles pas tellement objectifs, les gros titres renvoient au premium qui coûte une blinde. Pub pour clash of clan et autres joyeusetés sans cesse .Moi je déconseille et je dégage cette app de mon phone. Bye.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

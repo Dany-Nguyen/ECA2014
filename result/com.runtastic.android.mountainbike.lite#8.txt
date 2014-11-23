@@ -1,0 +1,9 @@
+NomApplication:Runtastic Mountain Bike
+IdApplication:com.runtastic.android.mountainbike.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:30 688
+TitreCommentaire:Essai à demi concluant
+Commentaire: N'ai pas eu le décompte de départ? ??? Donc pas enregistré !!! A voir sur prochaine sortie.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

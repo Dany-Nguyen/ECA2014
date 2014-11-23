@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Décevant
+Commentaire: L'application ne veut pas s'ouvrir prétextant une mauvaise connection internet. Ce qui n'est absolument pas le cas. Les pub sont très longues, et la qualité médiocre !
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

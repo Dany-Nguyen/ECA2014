@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Obsolète
+Commentaire: Dommage que cette application ne soit plus mise à jour... Je vais essayer avec "Carte du ciel".
+DateCommentaire:27 septembre 2013
+NoteCommentaire:2

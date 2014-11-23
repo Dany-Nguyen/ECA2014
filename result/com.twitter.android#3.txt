@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:On évolue.
+Commentaire:Les chargements sont toujours un peu longs. Tout s'actualise correctement. Malheureusement, on ne peut pas voir tous les tweets d'une personne (problème d'actualisation?) qui ne se mettent pas à jour apparemment quand on va dans "Tous les tweets". Il y a des photos qui n'apparaissent pas. Impossible de faire une recherche filtrée, plus rien ne s'affiche.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

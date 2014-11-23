@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Trop de bugs
+Commentaire:J'aime cette application le seul problème c'est que la plupart du temps les videos bug et je n'arrive pas a les voir ou bien elles sont longues a charger mais dans ce cas c'est vraiment vraiment vraiment super lent donc ça serait bien de régler ça sinon super app
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

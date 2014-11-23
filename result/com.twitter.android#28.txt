@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Superbe
+Commentaire:Depuis la nouvelle mise à jour aucun bug fonctionne correctement je vous la recommande
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

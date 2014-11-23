@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:J adore
+Commentaire: C est trop cool on ses maitre la musique que l on veux on peux aussi choisir les photo ses encore plus cool que retrica (pour moi)
+DateCommentaire:31 octobre 2014
+NoteCommentaire:5

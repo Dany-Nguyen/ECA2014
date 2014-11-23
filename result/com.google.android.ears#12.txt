@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:TB alternative a shasam
+Commentaire: C'est pas très beau mais c'est leger et efficace, je recommande Par contre les liens vers YouTube ça serait cool
+DateCommentaire:14 septembre 2013
+NoteCommentaire:4

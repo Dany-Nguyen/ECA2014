@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:CES NUL !!!!!!
+Commentaire: CES DE LA MERDE DESOLER MAIS J'AI MIT PLEIN DE CHOSE DANS LE PANIER ET SA MA TOUS SUPPRIMER PTN!!! 40 et je les retrouve plus vraiment ne telecharger pas !!!!
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

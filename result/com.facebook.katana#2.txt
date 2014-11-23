@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Samsung galaxy note 10 et S3
+Commentaire:Ca fait plus d'1 mois que ca marche plus via le wifi sur ma tablette et mon telephone... par le reseau 3g ca fonctionne... une mise a jour tant attendue mais qui ne resout toujours pas le probleme... du coup mes jeux et appli qui demandent une connexion facebook ne fonctionnent plus aussi... virez ces incompetents d informaticiens... du coup j'utilise l'appli "rapid facebook" mais ca resout pas le pb des jeux.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

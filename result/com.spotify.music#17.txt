@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Bof
+Commentaire: Après 1 moins d'essais il nous font acheter cette application et nous n'est pub à chaque chanson et ensuite il faut beugè Les chansons 😕c'est vraiment enbetent .
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

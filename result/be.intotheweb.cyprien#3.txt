@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Bug De Lancement
+Commentaire: Il Faudrait Faire Une MAJ Car Beaucoup De Personnes On Des Bug Comme Moi (Quand On Lance L'applications L'écran Est Blanc Avec Noté "Cyprien", Donc Faut Une Nouvelle MAJ ♥
+DateCommentaire:3 novembre 2014
+NoteCommentaire:5

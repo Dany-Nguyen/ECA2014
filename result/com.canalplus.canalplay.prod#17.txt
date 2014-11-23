@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Blindé de bugs
+Commentaire: L'application s'arrête 1 fois sur 3 au bout de 10 ou 15 mn whaou et en plus on paye pour un choix bien plus varié niveau séries que films !!!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

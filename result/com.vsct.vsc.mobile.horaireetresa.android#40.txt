@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Retrouvez.. et encore Retrouvez..
+Commentaire:Vu dans la présentation de l'App : "Retrouvez l'itinéraire complet de..". Mettez plutôt "DECOUVREZ l'itinéraire complet de.." RETROUVEZ serait-il mot à la mode ? Encore un mot qui glisse 'ptitapti' de sens, surtout pr tout ceux qui n'ont jamais su l'itinéraire, ils ne peuvent le RETROUVER ! Et ces Pub de vacances où on lit : "Retrouvez la plage de.." alors qu'on a jamais mis les pieds sur cette plage ! !! Fallait mettre "DECOUVREZ la plage de.." nb : pas bien d'utiliser trop les tech psy de médias !
+DateCommentaire:4 octobre 2014
+NoteCommentaire:4

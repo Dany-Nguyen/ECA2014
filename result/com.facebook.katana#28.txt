@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:ouffe la batterie même quand on ne l utilise pas
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

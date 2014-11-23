@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Chromecast
+Commentaire: Ça serait simpa d'avoir une compatibilité Chromecast pour regarder les BA et les émissions du style Faux raccord et tout ça
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Bien, intéressant mais...
+Commentaire: Application qui a du potentiel face au "bon coin"mais je mets 4⭐pour vs encourager et vs faire connaître... Une idée aussi rajouté une rubrique service a la personne a proximité (emplois).voir aussi vos conditions d'utilisation et politique de confidentialité qui sont en anglais.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Perte des données
+Commentaire: Je viens de mettre à jour Android L, et malgré la connexion via mon compte Google et donc après réinstallation de l'appli, sleep better a oublié toutes les statistiques ! A quoi sert le compte !?
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

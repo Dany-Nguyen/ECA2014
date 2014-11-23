@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Pas au point
+Commentaire:Les billets achetés sur le site Web ne sont pas automatiquement synchronisés sur l'application, la carte voyageur n'est pas prise en compte, et je ne comprends pas pourquoi les fonctionnalités de SNCF direct ne sont pas présents directement dans cette application. Gros manque d'ergonomie.
+DateCommentaire:12 septembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Facile à utiliser
+Commentaire: Avec une portable, une tablette ou un PC, avec Kindle c'est facile de se remettre a lire...
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

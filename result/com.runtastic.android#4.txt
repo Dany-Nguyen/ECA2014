@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:
+Commentaire:Belle application, belle interface, récap de l'activité faite très complète, mais il manque la vitesse en km/h. pour moi c'est éliminatoire dommage
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

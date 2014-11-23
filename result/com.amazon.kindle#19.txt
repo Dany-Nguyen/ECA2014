@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:J'adore
+Commentaire: Parfait pour lire partout. Aucun problème de synchronisation.
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

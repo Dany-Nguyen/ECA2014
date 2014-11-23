@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Tjr un beug!
+Commentaire: Appli simpa. Mais j'ai toujours un beug a l'ouverture sur un nexus 4. Je suis obligé de l'ouvrir 2 fois de suite.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

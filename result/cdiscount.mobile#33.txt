@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:HELLo
+Commentaire: Édit : appel passé au SC 3979 réponse 1m d'attente, procédure de remboursement renouvelée + geste commercial 15€ bon achat cumulable. Merci enfin. ([[Bon l'App est correcte mais ça fais 3 mois que j'attends mon remboursement de 29€ j'ai déjà appelé une fois le S-C pour quelques € j'ai l'impression qu'ils attendent qu'on dépensent l'équivalent dans la hotline avant de nous rembourser... Au moins 10 rappels depuis mon compte en ligne (gratuit) et RiEN !]])
+DateCommentaire:6 novembre 2014
+NoteCommentaire:2

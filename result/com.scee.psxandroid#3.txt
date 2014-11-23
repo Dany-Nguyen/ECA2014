@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Depuis la maj cette appli ne fonctionne plus sur mon portable. On me demande sans cesse de me connecter chose que je fais et rebelote on me redemande une identification etc... Les applications sont elles testées avant d'être déployé ???
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

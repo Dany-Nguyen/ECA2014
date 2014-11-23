@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Bug 1 fois sur 2
+Commentaire: Bug, l'application s'ouvre 1 fois sur 2 même en WiFi, vite mise à jour.... Les ventes sont de pire en pire.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

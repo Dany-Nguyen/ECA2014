@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Parfait
+Commentaire: Depuis qu'on peut mettre la musique synchronisée sur la carte sd, je n'ai plus rien à lui reprocher.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

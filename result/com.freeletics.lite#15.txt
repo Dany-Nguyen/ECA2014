@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Sportif
+Commentaire: Super application, à ne pas se passer si vous êtes en plein coaching !
+DateCommentaire:10 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Trop cool
+Commentaire: J'adore maintenant je peux regarder violetta quand je veux ou je veux et quand je peux. Elle est trop cool l'appli. Vraiment trop bien
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

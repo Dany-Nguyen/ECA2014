@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:
+Commentaire:Premier contact avec l appli je lui donne la ville ou j'habite et il dit introuvable. C juste a 23 km de Nantes. ..petite ville. .. Nul
+DateCommentaire:22 décembre 2013
+NoteCommentaire:1

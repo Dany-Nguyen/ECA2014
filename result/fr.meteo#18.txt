@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Apllication correcte
+Commentaire: Apres une réinstallation. Plus de bug. Pas toujours très ergonomique mais fonctionne bien et ce sont les prévisions de météo france.
+DateCommentaire:23 octobre 2014
+NoteCommentaire:4

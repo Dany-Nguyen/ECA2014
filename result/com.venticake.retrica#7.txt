@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Mise à jour
+Commentaire: En se moment retrica bug beaucoup surtout quand je prend une photo elle mais du temps à charger et après pour en faiRe d'autre c'est pareil ..:/
+DateCommentaire:6 novembre 2014
+NoteCommentaire:3

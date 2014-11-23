@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Allô ,ya quelqu'un ??
+Commentaire: Vous ne prenez pas en compte les commentaires des utilisateurs, tout le monde vous dit que les vidéos ne fonctionne pas mais vous vous en fouter royalement . Mais pour vos pubs, ça marche nickel ce qui vous arrange. Corriger cela au plus vite
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Pas mal
+Commentaire: Sound hound et Shazam le surclassent de ouf... Mais il va s'améliorer j'en suis sûre ;)
+DateCommentaire:27 juin 2013
+NoteCommentaire:3

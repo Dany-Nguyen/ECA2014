@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Intéressante
+Commentaire: J'aime bien le principe, mais il faudrait faire des catégories, qu'on puisse retrouver facilement une anecdote qu'on a vu plutôt que de la rechercher pendant une heure.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

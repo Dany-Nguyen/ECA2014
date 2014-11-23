@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:
+Commentaire:rès pratique et une bonne qualité.
+DateCommentaire:29 juin 2014
+NoteCommentaire:5

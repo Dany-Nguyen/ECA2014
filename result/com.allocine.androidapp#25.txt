@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Cette nouvelle version nous prive des news, Dommage! Sinon grâce à la fanzone (quand elle est diffusé! ) on est bien informé des nouveautés.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

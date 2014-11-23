@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Nul.
+Commentaire: Application instable. Des musiques s'effacent sans raison. A revoir complètement
+DateCommentaire:23 octobre 2014
+NoteCommentaire:2

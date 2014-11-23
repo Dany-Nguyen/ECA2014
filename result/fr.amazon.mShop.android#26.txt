@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Marche bien
+Commentaire: Très pratique pour lancer une commande à tout moment
+DateCommentaire:26 octobre 2014
+NoteCommentaire:5

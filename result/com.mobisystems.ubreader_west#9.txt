@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:
+Commentaire:Le meilleur parmis ce genre d'app
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

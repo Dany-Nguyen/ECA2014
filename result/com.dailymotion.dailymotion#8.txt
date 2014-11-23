@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Attention a la pub
+Commentaire: Moins convivial que YouTube, mais made in France ... ;)
+DateCommentaire:10 novembre 2014
+NoteCommentaire:3

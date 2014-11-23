@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Bonne appli pour autoroutes
+Commentaire:Ne montre pas le trafic sur les routes nationales.
+DateCommentaire:1 août 2014
+NoteCommentaire:4

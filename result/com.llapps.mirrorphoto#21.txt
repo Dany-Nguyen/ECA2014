@@ -1,0 +1,9 @@
+NomApplication:Mirror Photo:Editor&Collage
+IdApplication:com.llapps.mirrorphoto
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:162 795
+TitreCommentaire:
+Commentaire:Très bonne application. Seul problème lorsque lon veut ecrire un texte ce n'est pas pratique!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Nul
+Commentaire: Impossible de charger le moindre catalogue ou la moindre promo par rayon
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

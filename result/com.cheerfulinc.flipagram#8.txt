@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Très bien
+Commentaire: Cette application est superbe ; des montages pour faire avec vos amies ? Alors cette superbe application est recommander
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

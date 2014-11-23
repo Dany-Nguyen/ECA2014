@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:
+Commentaire:Cette appli est une vraie merveille, utilisant le GPS et les accéléromètres ! Une vue détaillée du ciel avec légendes...Et c'est gratuit !
+DateCommentaire:6 août 2014
+NoteCommentaire:5

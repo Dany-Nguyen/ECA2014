@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Avocate j'ai Détesté
+Commentaire:Avocate Je Demande à "TWITTER DE RESPECTER "NOS VALEURS REPUBLICAINES..." L'ÉTAT FRANÇAIS & TWITTER "DOIVENT INTERDIRE L'ACCÈS À INTERNET" à des Sites d'un ISLAM RADICAL Ou À #DAECH Ainsi Qu'à: "L'ENSEMBLE des SITES PRÔNANT Ou FAISANT L'APOLOGIE DU TERRORISME...SANS Y OUBLIER LES SITES SUR LES STUPÉFIANTS...!!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

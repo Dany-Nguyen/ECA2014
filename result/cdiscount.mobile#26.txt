@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Site escroc. A signaler a la DGCRF.
+Commentaire: Ne respecte pas ses propres conditions générales de vente. Bafoue le droit de rétractation. Le sav se moque du monde. Si vous retournez votre achat, il vous reviendra car personne pour le recevoir et pas de boite pour l'avis de passage. Et le comble vous devrez repayer les frais de port pour le récupérer.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:copie a revoir, bugée au niveau du login !
+Commentaire: Autant rester sur la version précédente. Avec cette version, le mail de login enregistré apparait systématiquement avec certains caractères erroné ! il faut systématiquement tout ressaisir à chaque utilisation malgré les mises à jour le problème n'est pas traité !
+DateCommentaire:14 octobre 2014
+NoteCommentaire:1

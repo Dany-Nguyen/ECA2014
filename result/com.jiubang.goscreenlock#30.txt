@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Utile
+Commentaire: Bonne app. C'est vraiment bien ! Mais, parfois ça tendance à ne pas s'afficher quand on entre dans les paramètres.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

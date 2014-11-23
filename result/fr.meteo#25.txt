@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Toujours un pb et une leeeeenteur !....
+Commentaire: Toujours un bug, toujours un blocage exagérément long sur page de pub, très laborieuse....
+DateCommentaire:21 octobre 2014
+NoteCommentaire:2

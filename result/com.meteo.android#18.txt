@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:La meilleure
+Commentaire: Une application gratuite qui vaut son pesant d'or. Precis, et personnalisée pour les besoins des franciliens.
+DateCommentaire:15 avril 2014
+NoteCommentaire:5

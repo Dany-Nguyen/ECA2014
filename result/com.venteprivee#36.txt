@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:BUG
+Commentaire: Depuis la mise a jour, impossible de se connecter, beaucoup trop d'autorisation non utile pour ce type d'application je désinstalle en attendant une nouvelle mise a jour
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

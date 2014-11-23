@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:Amatrice d'écrits
+Commentaire: Dans mon cas, c'est à dire en général, lire est l'une de mes passions. Je lis toutes sortes de bouquins et vraiment Wattpad est un petit bijoux. Découvrir les écrits de personnes est très intéressent, on a le choix entre tant de bouquins, que s'en est impressionnant. J'adore cette application, quand je n'ai plus de livres je me rabats sur Wattpad :-) L'application est vraiment bien et très apte pour un smartphone !
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

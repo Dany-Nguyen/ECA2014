@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Utile pour entretenir son réseau
+Commentaire:Dommage que les fonctionnalités de base soient payantes...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

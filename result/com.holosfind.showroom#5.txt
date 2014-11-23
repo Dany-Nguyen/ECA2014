@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Genial
+Commentaire: Je n ai pas le temps de faire les magasins je commande a des prix géniaux et il y a des sites avec des jeux anciens etc etc je n ai plus qu a aller chercher dans le point relais et plus les frais de livraison ne sont pas execif
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

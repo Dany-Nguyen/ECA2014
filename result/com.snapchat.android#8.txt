@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Impossible de voir ce snap...
+Commentaire:J'ai fais cette mise à jour.Mais pour voir mes snap récents... Impossible !!! Sinon ce problème de pub dans chaque applications y en a pas c'est super.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

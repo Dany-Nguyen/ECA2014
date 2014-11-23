@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Découvertes sympa
+Commentaire: L'application fonctionne bien mis à part que lorsque je l'installe sur la carte SD, elle n'est pas retrouvée au redémarrage.
+DateCommentaire:10 juin 2012
+NoteCommentaire:4

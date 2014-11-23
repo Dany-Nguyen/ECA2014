@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Almost perfect.
+Commentaire: I really like my audible books. I only wish the player would support playback speeds higher than x3.
+DateCommentaire:7 septembre 2014
+NoteCommentaire:4

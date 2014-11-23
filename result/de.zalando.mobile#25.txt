@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Parfait
+Commentaire: Lappli est super et reflète le site. Pour les gros rageux (christophe messu par ex) qui disent que cest des fringues de merde vendu un fric fou c'est pas la peine de rager psk vous avez pas d'argent et que vous êtes jaloux cest pas de la faute a zalando si vous avez rate votre life et que vous avez des gouts de merdes :-)
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

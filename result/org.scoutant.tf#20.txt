@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Pierre 33
+Commentaire:Application fiable et utile. Peut aussi servir pour circuler en ville (sens interdits).
+DateCommentaire:21 octobre 2014
+NoteCommentaire:5

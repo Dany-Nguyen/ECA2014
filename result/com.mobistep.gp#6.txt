@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Pas mal !
+Commentaire: Quelques bugs : impossible de modifier l'adresse postale de son compte après l'avoir insérée sur le web. Le type de séance (2D) ne s'affiche pas lorsque c'est en 2D au contraire de la 3D et de l'IMAX.
+DateCommentaire:23 juillet 2014
+NoteCommentaire:3

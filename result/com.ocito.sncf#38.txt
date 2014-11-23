@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:
+Commentaire:es horaires , notamment ceux des bus, ne correspondent pas tout le temps à la réalité, ce qui m'a causé multitudes de retards à des rdv... Cette appli n'est donc ABSOLUMENT PAS FIABLE, je la déconseille sauf si c'est pour organiser un trajet, voir à quel arrêt faut-il descendre etc ( c'est le seul avantage...)
+DateCommentaire:8 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Petit soucis
+Commentaire: Super mais depuis la dernière mise à jour, un rond de chargement reste en haut de la page de commande, et en plus celle ci fait beuger le téléphone.... Solution? Merci le problème vient d'être corrigé
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

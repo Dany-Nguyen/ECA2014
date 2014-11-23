@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Probleme
+Commentaire: Bonjour on ne gagne aucun xp de clan depuis hier sa c'est aretter de monter et on et lvl 9 et on a aucun jeton que l on devai gagner merci de resoudre se soucis
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:Émulation
+Commentaire:Un excellent moyen d'échanger des idées, des techniques, sans aucune place pour le "je me fait mousser pour me faire plaisir sans fondement".
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

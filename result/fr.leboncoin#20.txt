@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Pratique
+Commentaire: Plus besoin de chercher sur internet. l application est rapide meme si on doit mettre a chaque fois son departement.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

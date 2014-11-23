@@ -1,0 +1,9 @@
+NomApplication:eBay
+IdApplication:com.ebay.mobile
+CategorieApplication:Shopping
+NoteApplication:4,3
+NombreVotants:1 084 381
+TitreCommentaire:Buona
+Commentaire: Un pó limitata rispetto alla versione on line su pc,comunque e utile per seguire su smartphone eventuali acquisti o vendite
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

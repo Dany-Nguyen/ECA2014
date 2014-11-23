@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Cheval de Troie dans l'appli (UPDATE)
+Commentaire: Une nouvelle version de l'appli est sortie. Plus de message de sécurité concernant la présence d'une appli malicieuse. Merci.
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

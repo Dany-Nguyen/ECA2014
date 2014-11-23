@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Cool
+Commentaire: J'espère qu'il sera plus rapide sous android lollipop, mais bien pour l'instant 😌
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

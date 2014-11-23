@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:TV Orange
+Commentaire: Suite à la dernière Màj (la 5.2.4), un message apparaît maintenant à chaque fois que je lance l'appli "Le service est momentanément indisponible... Code erreur (A01)" Avant cette application fonctionnait assez bien, mais ça c'était avant 😩 Ancien abonné de Free adsl toutes les applications maison fonctionnaient donc j'ai beaucoup de mal à croire qu'une entreprise comme Orange n'y arrive pas. Google nexus 10 sous KitKat (4.4.4)
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

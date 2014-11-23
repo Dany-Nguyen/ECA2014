@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Nouvelles Grosse Mise à jours d'urgences merci nouvelles améliorations très très gros bug horaires svp nouvelles versions et des grandes nouveautés merci
+Commentaire:Nouvelles Grosse Mise à jour d'urgences obligatoire nouvelles amélioration de l'application transillien il n'est pas à jours des très très gros bug svp nouvelles versions 3.0 ou 4.0 merci amélioration de toutes urgences merci et des grandes nouveautés merci sans bug svp mettre en place un système informations quand les trains arrive et part dans les gares et mettre en place un système à l'approche des trains, et départ des trains merci de prendre en compte les demandes.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

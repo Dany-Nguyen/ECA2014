@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Photos superbes
+Commentaire: Cela me fait prendre de magnifique photos mais je l'utilise pas souvent
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

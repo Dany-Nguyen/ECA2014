@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Code de confirmation
+Commentaire:J'ai mis mon numéro pour qu'il m'envoie un code de confirmation mais il ne m'ont rien envoyer
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

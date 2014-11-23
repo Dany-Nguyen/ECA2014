@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Edit: RAS LE BOL! Depuis les mise à jours
+Commentaire:Un bug qui remplace un autre bug! Impossible d'entrer une adresse = "Oops connexion semble interrompue"! Google Plus" est obligatoire et bouffe la mémoire! Et mes horaires de bus à l'arrêt dont j'ai besoin ne fonctionne pas (ex: mairie de Saint-Ouen = point d'exclamation rouge constant a chaque fois "informations non disponible" ) Obliger d'utiliser d'autre applications pour compléter vos "lacunes" donc ça me bouffe encore de la mémoire!
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

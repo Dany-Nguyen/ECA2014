@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Nexus 5 lollipop
+Commentaire: Fonctionne parfaitement: accès au direct fluide, les programmes a la demande sont très facilement accessibles et la navigation très simple, super! Fonctionne aussi maintenant parfaitement sous lolipop.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

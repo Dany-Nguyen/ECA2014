@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:De plus en plus nulle
+Commentaire: Ça pourrait être une super appli si elle ne plantait pas tout le temps. Marchait bien cet après midi et depuis la MAJ service indisponible. Mais même quand ça fonctionne les images sont saccadées.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

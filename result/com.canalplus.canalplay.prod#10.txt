@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Pas de sous titres ! Vivement netflix.
+Commentaire: L'application indique VOST, mais quand on regarde un film ou série sur chromecast, c'est de la VO, mais sans sous-titres ! Donc pas de la VOST... Limite pub mensongère. Rajoutez a ça les plantages toutes les 30 minutes sur les films et la qualité d'image très moyenne... On attend netflix avec impatience pour secouer un peu Canalsat.
+DateCommentaire:15 août 2014
+NoteCommentaire:1

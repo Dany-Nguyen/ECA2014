@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bugue
+Commentaire:Changez de serveur . Service TER indisponible quand je veut consulter un horaire de train. Appli de ce fait inutilisable.
+DateCommentaire:9 juin 2014
+NoteCommentaire:2

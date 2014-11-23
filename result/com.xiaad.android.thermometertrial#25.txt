@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Pas de beug
+Commentaire: Mais indiqué de mauvaise température ex il y a 25'c et il m indique 15'c l écart et grand...erreur restante car l année dernière sa marché très bien
+DateCommentaire:13 avril 2014
+NoteCommentaire:1

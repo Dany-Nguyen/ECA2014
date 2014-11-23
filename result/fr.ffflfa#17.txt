@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Nouvelle saison
+Commentaire:Bloquée dans une faille spatio-temporelle, cette application n'est toujours pas passée à la nouvelle saison.
+DateCommentaire:28 août 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:C'est une application d'espionnage......
+Commentaire: Cette appli demande l'acces a l'appareil photo, l'historique, l'identite du telephone, les autres applis installé, le micro, etc... Vous voulez pas mesurer la longueur des poils de ma b**e non plus?
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

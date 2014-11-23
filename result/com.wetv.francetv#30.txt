@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Bonne application, mais...
+Commentaire: Bonne application, fonctionne sur Alcatel one touch, mais il y a toujours une pub en bas de l'écran
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

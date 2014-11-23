@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Problème sur la carte
+Commentaire: Avec mon lg g3 tout est décalé sur la carte. C'est nul ? Faites quelque chose car ça dure depuis plus d'un mois
+DateCommentaire:13 octobre 2014
+NoteCommentaire:1

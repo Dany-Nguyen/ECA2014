@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Vraiment nul
+Commentaire: Je choisis mes articles impossible d'aller jusqu'au paiement sa beug pendant 1h n'importe quoi nul comme appli le site Internet et vraiment mieux et encore ... je recommande pas
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

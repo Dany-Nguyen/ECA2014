@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Plante beaucoup trop régulièrement
+Commentaire: Le design est bien, beau, ergonomique... Mais on ne peut pas écouter plus de 10 minutes de musique sans que l'application ne s'arrête !! C'est inadmissible, nous payons des abonnements pour profiter de cette application, il faut résoudre ces problèmes ou les clients vont s'enfuir.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

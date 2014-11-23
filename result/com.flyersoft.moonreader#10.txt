@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:Super
+Commentaire: On n'avait qu'un Kindle avec madame, du coup on devait se le partager. Plus de soucis avec cette appli, que du bonheur !!!!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

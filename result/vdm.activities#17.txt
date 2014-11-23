@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:J'aime...
+Commentaire: J'adore mais dommage que l'ont ne puisse pas regarde, sans internet, les VDM chargé lors de la dernier connection, avec internet. Bouygues télécom BS 351.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

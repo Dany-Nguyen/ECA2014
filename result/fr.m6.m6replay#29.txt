@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:
+Commentaire:Je m'en sert que pour Rising Star et elle est juste au top! Aucune pub, aucun beug. Par contre je ne lui met pas 5étoiles parce que la dernière fois j'ai voulu regarder en direct et ça n'a pas marché donc l'appli n'est pas parfaite.
+DateCommentaire:23 octobre 2014
+NoteCommentaire:4

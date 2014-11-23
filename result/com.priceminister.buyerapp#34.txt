@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Pas mal
+Commentaire: 1 etoile en moins pour les bugs a chaque utilisation de l outil de recherche
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

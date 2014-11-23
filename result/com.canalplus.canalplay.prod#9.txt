@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:
+Commentaire:Trop de bug. Impossible de regarder un episode de serie en entier. L'appli se ferme sans cesse. Payer un abonement pour ne pas avoir 23 minutes d'episode sans coupure c'est un scandal
+DateCommentaire:20 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Très bien
+Commentaire: Un stockage impressionnant, une qualité d'image préserver, malgré cela une petite chose me gêne je n'ai pas moyen de partager sur Facebook bien que les comptes avec Yahoo soit lier. Problème signalé en attente de réponse
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

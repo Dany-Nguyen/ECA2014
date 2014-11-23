@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:s'allume automatiquement
+Commentaire: C'est cool. Sauf qu'il se montre automatiquement , sans demande . Et il fait comme s'il y avait de problème . Bizarre !! En plus depuis , encore plus nul! Les € de la carte ne change plus. Il est rester bloqué depuis le 07/08. Même en mise à jour. Je vais l'enlever! J'ai remis cet application. Toujours la même chose!! Bref... sert à rien! ! Nul!!
+DateCommentaire:3 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Manque quelque chose
+Commentaire: Manque le fait de pouvoir mémoriser plusieurs comptes de la famille.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:3

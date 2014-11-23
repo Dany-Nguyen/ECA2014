@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:L'applis en elle même est bien
+Commentaire: Mais elle bug et n'arrête pas de se fermer. Elle mes longtemps a synchroniser les chansons.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:1

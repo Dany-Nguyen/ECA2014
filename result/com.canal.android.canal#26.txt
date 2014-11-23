@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Nexus 5/5.0
+Commentaire: Au top maintenant.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

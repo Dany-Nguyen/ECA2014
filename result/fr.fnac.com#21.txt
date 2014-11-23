@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Ergonomie nulle. Combien de millimètres la TV?
+Commentaire: Pour sélectionner une TV, elle demande à choisir UNE diagonale dans une liste non triée de valeurs 127,5 98,5 104,2 etc. Existe-il quelqu'un qui achète ainsi?
+DateCommentaire:17 octobre 2014
+NoteCommentaire:1

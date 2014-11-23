@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Decue
+Commentaire: Je suis vraiment decue de cette appli. A chaque fois ca plante au niveau de chargement des catalogues. Je ne peux plus utiliser pour faire la liste des courses :(. Merci de votre correction.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

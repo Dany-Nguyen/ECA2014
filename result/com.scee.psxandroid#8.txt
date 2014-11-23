@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:C'est une blague ?
+Commentaire: Avant de changer le désigne faite une application qui fonctionne correctement sans beugue ! Elle marche aussi bien que le psn pour envoyer des message ou les recevoir !!! Et ou son passer les trophée sur l'application ? Lol bande de naze à supprimer !!!
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

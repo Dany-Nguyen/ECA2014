@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:En allemand
+Commentaire: Inutilisable, on met une adresse mail et sous prétexte qu'elle est domiciliée en Suisse, tout est proposé en allemand, pas moyen de choisir le français ou même l'italien(que je maîtrise aussi).
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

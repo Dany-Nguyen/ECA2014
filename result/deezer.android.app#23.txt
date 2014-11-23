@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Excellente application !
+Commentaire: TOP !!!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

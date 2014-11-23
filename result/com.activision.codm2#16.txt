@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Pas mal mais
+Commentaire: l'opérateur n'est pas du tout le bon, j'ai un full skin zombie et sur l'application ça me met un black naked
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:
+Commentaire:'est énorme regardez catégorie humour Jerome jarre c'est énorme ^^
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

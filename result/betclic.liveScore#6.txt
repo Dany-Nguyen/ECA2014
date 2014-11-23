@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:Nul
+Commentaire:On ne peut pas parier avec l' appli aucune utilité
+DateCommentaire:14 juillet 2014
+NoteCommentaire:1

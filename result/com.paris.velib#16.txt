@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Grande amélioration a prévoir....
+Commentaire:A quand la carte avec un trait vert pour indiquer les rues qui ont un passage protégé pour vélo...
+DateCommentaire:13 octobre 2014
+NoteCommentaire:1

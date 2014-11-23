@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:Des pubs tres souvent et des que la pub se finit alors la film recommence a zero , de petits beug parfois,sans les pubs je mettrai 4 etoiles tres dommage
+DateCommentaire:20 octobre 2014
+NoteCommentaire:2

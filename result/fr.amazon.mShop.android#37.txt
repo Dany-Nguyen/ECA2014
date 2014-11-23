@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Parfait
+Commentaire: Application nickel fonctionne parfaitement dommage que l on puisse pas gérer son compte vendeur
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

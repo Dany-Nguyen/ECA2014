@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Arnaque
+Commentaire: Une fois inscrit on peut pas ce désinscrire tout fonctionne sauf cette fonction qui marque service indisponible pour nous obliger à payer une honte
+DateCommentaire:9 octobre 2014
+NoteCommentaire:1

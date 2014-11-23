@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:
+Commentaire:L'édition d'embleme marche pas...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

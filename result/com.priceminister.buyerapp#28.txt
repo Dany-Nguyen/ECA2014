@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Sa bug trooooop
+Commentaire: Lorsquon recherche un produit, lappli plante.... Merci de remedier a sa le plus vite possible. Merci
+DateCommentaire:5 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Yeah
+Commentaire: Not bad at all. As good as the great Windfinder.
+DateCommentaire:4 octobre 2014
+NoteCommentaire:4

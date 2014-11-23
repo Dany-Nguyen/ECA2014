@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:URGENT DEPUIS LA MAJ
+Commentaire:Impossible de se connecter depuis la mise a jour, j'ai desinstallé et reinstallé l'application et sur la page où l'ont rentre son nom et son mdp, je les rentre correctement et la il y a un chargement qui n'aboutit pas. Peu importe que je sois en 4G ou en Wifi, ma connexion n'est pas le soucis. Je mettrais plus d'étoiles si on changeait ça.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

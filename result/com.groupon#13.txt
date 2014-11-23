@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:Très en colère
+Commentaire: Certe le principe est bien par contre , tps de livraison SUPER LONG!Ya même des fois où vous ne recevez pas le colis et le plus beau c qu'il faut que vous les appeliez pour savoir se qu'il se passe sinon vous pouvez attendre des mois comme ça! De plus, service client incompétent ou qui s en fout tout simplement.. j attend depuis juillet que l on me recontacte pour un article manquant dans une de mes commandes... Et pour finir, on peut trouver certain de leurs articles en magasin et MOINS CHER ...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

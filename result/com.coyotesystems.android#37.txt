@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Fait son taf mais cher.
+Commentaire:Je ne prendrais pas l'abo donc. Car iCoyotte revendique une communauté de 2,6 millions mais seulement 10% sont abonnés. Le DG lui même le dit. Donc il est plus utile de prendre un gratuit comme CamSam car étant gratuit il peut réellement revendiquer ses 5 millions d'utilisateurs. Ou encore Waze. Car quand tous le monde aura testé le Coyotte, ils iront sur des gratuits.
+DateCommentaire:8 octobre 2014
+NoteCommentaire:3

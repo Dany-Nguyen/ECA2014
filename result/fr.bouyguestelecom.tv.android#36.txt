@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Bande de nuls
+Commentaire: Lamentable l'appli ne reconnaît même pas ses clients "vous n'êtes pas client bbox" alors que j'ai tous mes forfait chez Bouygues y compris l'adsl donc impossible d'enregistrer l'identifiant et le mot de passe fonctionnent sur le site..... Vous êtes nuls !! Après mise à jour de l'appli et l'annonce pompeuse de bein sport enfin disponible ça ne fonctionne toujours pas je ne suis toujours pas client bbox !! Vous persistez dans la médiocrité !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

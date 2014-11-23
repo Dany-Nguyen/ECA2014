@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Super appli
+Commentaire: Depuis peu mon app ne peu plus m'identifier. ...je ne peux plus commander! !!!! Merci la mise à jour! !!!! :((((( j'attends de voir...Chaque jour je la desinstalle et la Re- installe......! :( mais cependant j'adore cette app'.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

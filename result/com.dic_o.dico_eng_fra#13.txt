@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Dico Anglo/franco
+Commentaire: it'a cool/c'est cool
+DateCommentaire:26 mars 2013
+NoteCommentaire:5

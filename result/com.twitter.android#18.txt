@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:
+Commentaire:witter c'est se connecter à un monde ouvert et partager ce que l'on aime avec les autres. L'App est vraiment simple, pratique, fonctionnelle. Bravo Twitter
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

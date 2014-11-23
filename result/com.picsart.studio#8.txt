@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:
+Commentaire:Très bien , cette application est magnifique . Je conseille de telecharger
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

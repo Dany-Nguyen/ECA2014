@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Pourquoi ?
+Commentaire: Où est passé Breaking Bad ? Vous poussez au telechargement illegal c'est pas bien. Appli qui bug en permanence avec des films et series plus useless les unes que les autres gros GG a ceux qui ce sont abonné, z'etes des pigeons.
+DateCommentaire:1 septembre 2014
+NoteCommentaire:1

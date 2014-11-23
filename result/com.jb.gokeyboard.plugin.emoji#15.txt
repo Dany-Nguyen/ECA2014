@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:Sa n'est sert a rien, j'ai un samsung galaxy tre'd et sa fait des carre blanc
+DateCommentaire:19 octobre 2014
+NoteCommentaire:1

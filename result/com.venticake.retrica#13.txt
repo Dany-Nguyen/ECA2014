@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Bug incroyablement
+Commentaire: Seul problème sur Samsung K Zoom on peut pas utiliser le zoom natif ;)
+DateCommentaire:17 octobre 2014
+NoteCommentaire:5

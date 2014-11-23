@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Problème
+Commentaire: J'ai un problème sur l'application j'ai la vidéo met pas le son comment on fait ?
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

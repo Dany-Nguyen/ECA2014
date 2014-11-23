@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Gros bug
+Commentaire: L'application dans l'ensemble est bonne mais je n'arrive pas a avoir acces a mon clan, donc sans acces au clan l'appli me sert a rien et de temps en temps plus acces a mon compte. Vite une mise a jour !!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

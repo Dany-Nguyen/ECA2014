@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Non fiable
+Commentaire:Les donnees a jour sur les velos disponibles ne sont jamais exactes. Appli tres lente
+DateCommentaire:9 septembre 2014
+NoteCommentaire:1

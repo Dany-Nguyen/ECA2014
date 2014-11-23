@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Pas mal mais
+Commentaire: Beaucoup d'anecdotes en "Il paraît que..." ou "certains pensent que..."... Du coup on est pas toujours sûr si ce qu'on lit est vrai.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

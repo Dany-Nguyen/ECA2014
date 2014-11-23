@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Widget figés sur LG G3 !!!
+Commentaire:Pas de mise à jour des données dans le widget ce qui rend l application inutile sur un OS de type Android.
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

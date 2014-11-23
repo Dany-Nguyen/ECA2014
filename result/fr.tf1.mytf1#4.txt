@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Merde
+Commentaire: C vraiment une sacrée merde cette application surtout ne la télécharger pas sa beugue juste pour voir une émission en replat il fau 4 heure de pub 4 heure pour que sa charge et ensuite sa beugue
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

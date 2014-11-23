@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:bof
+Commentaire: de la pub, me trouve mes pdf mais pas mes epub l autre ebook reader est 100 fois mieux
+DateCommentaire:18 août 2014
+NoteCommentaire:1

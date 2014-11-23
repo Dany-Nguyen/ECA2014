@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Culture portable.
+Commentaire: Lire quand on a pas le temps, quand le soir on a les yeux fatigués après une journée de travail. Juste dommage que toutes les nouveautés ne sortent pas comme à la librairie.
+DateCommentaire:5 septembre 2014
+NoteCommentaire:5

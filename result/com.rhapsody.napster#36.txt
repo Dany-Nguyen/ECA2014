@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Bof compris dans mon forfait mais...
+Commentaire: Ça Bug, ça trouve rien... Bof bof quoi, à voir si les futures maj corrigeront tout ça!
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

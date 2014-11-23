@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:A amélioré
+Commentaire: Les pubs de 120 secondes, les beug et les déconnections à tire larigot. Obliger mette 1 ☆ mais mérite pas.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

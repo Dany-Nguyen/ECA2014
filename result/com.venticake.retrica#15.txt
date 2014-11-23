@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Gros bug
+Commentaire: Je ne peut pas me servir de l appli a chaque fois mon appli se ferme tout seule et je ne peut rien faire
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

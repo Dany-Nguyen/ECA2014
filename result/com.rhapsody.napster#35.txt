@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Super bien
+Commentaire: J'étais abonné chez le concurent, je suis passé napster par ce qu'il est compris dans mon forfait de telephonne. Contrairement a d'autre ca marche super bien l'interface est plus sympa les titres bien dispo j'ecoute envirron 2 a 3 heures par jour sans probleme.... samsung galaxy s5 et galaxy tab 2
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

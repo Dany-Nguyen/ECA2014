@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Ne marche pas sur moto360
+Commentaire: Ne marche pas pour moi avec le firmware 4.4W2
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

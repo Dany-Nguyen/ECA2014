@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Pub, pub, pub...
+Commentaire: Il y a beaucoup trop de publicités impossibles a passer. Trop envahissant. Dommage.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

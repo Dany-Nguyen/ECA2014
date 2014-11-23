@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Fiable
+Commentaire:Content d'avoir cette appli. Elle me sert tous les jours et je peux m'y fier les yeux fermés! ... enfin la plupart du temps, je prends le volant les yeux ouverts évidemment ;p
+DateCommentaire:12 août 2014
+NoteCommentaire:4

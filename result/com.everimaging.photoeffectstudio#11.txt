@@ -1,0 +1,9 @@
+NomApplication:Fotor Photo Editor
+IdApplication:com.everimaging.photoeffectstudio
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:103 334
+TitreCommentaire:Bof
+Commentaire: Pas assez de choix emicone ou cadre trop de choses payante
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

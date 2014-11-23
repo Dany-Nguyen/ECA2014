@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Ceci est vrai !!
+Commentaire: Je l aie essayer sous tout les angles et comparer à un vrai appareil les mêmes stars rien à dire !!
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

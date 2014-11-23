@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:mpossible d'ouvrir facebook sur s4 depuis le mise a jour
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

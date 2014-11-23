@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Très bonne appli
+Commentaire: Vive la concurrence ! Très bonne appli qui permets de bien profiter de canal plus 5 étoiles. L'arrivée de la concurrence a eu un effet bénéfique sur le développement de cette appli.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

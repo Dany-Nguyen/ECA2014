@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Bug après la dernière mise à jour
+Commentaire: Je n'arrive plus à accéder au menu. Sur LG Optimus 7
+DateCommentaire:1 novembre 2014
+NoteCommentaire:3

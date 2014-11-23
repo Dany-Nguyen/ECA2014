@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Tres bonne applis
+Commentaire: Super applis qui trouve rapidement mais il manque quelque chose : on ne peut pas en se connectant a un reseau social avoir sur un autre appareil ses tags
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

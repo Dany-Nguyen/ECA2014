@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:
+Commentaire:Bjr,.. Je pense que ça le fait, c la bonne température.. Mais pourquoi pas celle intérieure !?
+DateCommentaire:29 décembre 2013
+NoteCommentaire:4

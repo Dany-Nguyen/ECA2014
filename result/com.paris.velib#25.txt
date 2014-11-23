@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Marche, marche plus ... et pourquoi ? Mystère...
+Commentaire:Seul intérêt par rapport aux autres applis : la consultation de son compte... Encore du boulot avant de devenir incontournable !
+DateCommentaire:8 octobre 2014
+NoteCommentaire:1

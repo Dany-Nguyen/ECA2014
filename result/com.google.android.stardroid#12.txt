@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:
+Commentaire:Dams. Tres bonne appli mais j ai encore des doutes sur l exactitude des positionnement des planetes et des etoiles....sinon manque un peu d infos
+DateCommentaire:19 février 2012
+NoteCommentaire:4

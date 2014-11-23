@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Ne fonctionne pas sur mon S3
+Commentaire: Et dans la liste des chaînes proposées il n'y a même pas sport + alors que je suis abonné via Numericable. Prenez exemple de MyCanal qui sait faire correctement les choses
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

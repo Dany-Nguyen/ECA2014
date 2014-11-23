@@ -1,0 +1,9 @@
+NomApplication:Mirror Photo:Editor&Collage
+IdApplication:com.llapps.mirrorphoto
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:162 795
+TitreCommentaire:Perfect appli.
+Commentaire: Omg mais cette application est parfaite !!!! Encore mieux que Retrica :)💖
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

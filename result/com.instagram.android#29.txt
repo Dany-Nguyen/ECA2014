@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Lent
+Commentaire:Depuis mon téléphone. Lent meme tres lent si il etait beaucoup moin lent il aurais les 5 étoiles
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

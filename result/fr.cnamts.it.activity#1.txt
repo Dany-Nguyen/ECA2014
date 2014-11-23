@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:installation d'amely
+Commentaire: Bonjour, je n'ai pas eu de problème pour installer amely. merci,c'est ma première utilisation, j'espère avoir toutes les informations me concernant, cordialement,
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

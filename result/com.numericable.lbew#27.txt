@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Presque parfait...
+Commentaire: Sur mon smartphone, c'est parfait, tout fonctionne à merveille...sur la tablette j'ai parfois erreur f10 (je crois) mais ça ne dure pas...la qualité d'image est superbe...je préférai le guide de l'ancienne appli...je suis très satisfait d'autant que le nombre de chaine a -enfin!!!- augmenté:-) ...bravo pour cette nouvelle appli bien pensée et nettement plus léchée...merci aux développeurs et bravo Numericable...
+DateCommentaire:10 octobre 2014
+NoteCommentaire:5

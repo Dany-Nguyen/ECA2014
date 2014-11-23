@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Excellent
+Commentaire: Parfait lol Grace à l'appl je traduit mes texte sans difficultés majeure
+DateCommentaire:15 avril 2014
+NoteCommentaire:5

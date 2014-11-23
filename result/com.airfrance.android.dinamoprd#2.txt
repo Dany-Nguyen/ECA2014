@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:OK sauf agenda.
+Commentaire:Pourquoi diable inscrire les vols dans PC Sync et pas dans l'agenda Google de son choix.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

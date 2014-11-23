@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:Jolie la grenouille
+Commentaire: Mais pas fiable, Marseille 35ºC à l'ombre avec un vrai thermomètre, pour l'application 30º .... pas la peine d'afficher au 1/10 ème ! Jolie mais un peu à la rue, la grenouille.
+DateCommentaire:27 juillet 2014
+NoteCommentaire:2

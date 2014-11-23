@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Maj frequentes
+Commentaire: Encore une mise à jour nécessaire. . Mais le service client s'occupe directement de vous personnellement. .Appréciable ! Et charmante....
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

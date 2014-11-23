@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Rien à redire
+Commentaire: Suggestion d'amélioration : la même chose en réalité augmentée... On voit à travers l'objectif de son appareil photo... Mais c'est vraiment pour pinailler :)
+DateCommentaire:9 août 2013
+NoteCommentaire:5

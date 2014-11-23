@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Notification
+Commentaire:Est ce qu un jour il serait possible que la désactivation des notifications des applications fonctionne ... Plus d un an que j'essaie ... Est ce si compliqué messieurs mesdames les développeurs. Sinon il existe des formations.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Trop cool
+Commentaire: On apprend de nouvelle chose grâce à cette application, elle est juste trop cool !! ♥❤❤💙
+DateCommentaire:20 octobre 2014
+NoteCommentaire:5

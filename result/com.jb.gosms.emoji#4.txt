@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:
+Commentaire:Depuis la dernière mise à jour les emoticones sont en format très petit. NUL !!!Ça marchait très bien avant cette mise à jour pourrie 😠
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:
+Commentaire:Le bloc tv est pas a la hauteur de ses prétentions l'image est souvent pas tres nette de plus le programme se coupe au bout de 5mnet faut réinitialiser (pub mensongère).tres mecontant.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

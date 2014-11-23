@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Très bonne application
+Commentaire: Avec un document PDF que j‘avais créé je n‘arrivais pas à l‘ouvrir avec my librairy lite et la pas de problème, je le recommande vivement
+DateCommentaire:29 juillet 2014
+NoteCommentaire:5

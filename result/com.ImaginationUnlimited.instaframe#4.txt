@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:
+Commentaire:Bonne application en générale, seul hic... Je dirais que c'est au niveau de la calibration des photos.
+DateCommentaire:1 octobre 2014
+NoteCommentaire:4

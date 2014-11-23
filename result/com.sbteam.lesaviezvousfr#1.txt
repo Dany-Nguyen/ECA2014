@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Rien de bien
+Commentaire: Ce ne sont pas vraiment des anecdotes, il n'y a que des dictons faits maison pour les petits cœurs de jeunes adolescents...
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

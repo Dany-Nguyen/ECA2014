@@ -1,0 +1,9 @@
+NomApplication:Électrique écran, fond d'écran
+IdApplication:pl.infinzmedia.electricscreenfree
+CategorieApplication:Personnalisation
+NoteApplication:3,5
+NombreVotants:76 603
+TitreCommentaire:Horrible
+Commentaire: Nul je deconseille fortement j'ai dus desinstaler toute mes aplis a cause de cette aplis en plus trop de bug c'est la pire aplis que g jamais vu
+DateCommentaire:14 septembre 2014
+NoteCommentaire:1

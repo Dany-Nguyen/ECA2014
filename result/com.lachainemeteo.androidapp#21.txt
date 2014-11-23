@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Quel lourdeur
+Commentaire: Outre les données météo qui sont dans la moyenne, l'application elle même est très lourde et peut réactive
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

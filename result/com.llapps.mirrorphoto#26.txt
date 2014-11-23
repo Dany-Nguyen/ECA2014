@@ -1,0 +1,9 @@
+NomApplication:Mirror Photo:Editor&Collage
+IdApplication:com.llapps.mirrorphoto
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:162 795
+TitreCommentaire:Géniale
+Commentaire: Juste géniale enfin une appli qui fait miroir et qui a en plus pleins d'effets cadre etc bref qui fait tous se que j'attendais je recommande grave !!!!!!!
+DateCommentaire:23 octobre 2014
+NoteCommentaire:5

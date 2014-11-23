@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Brillant :)
+Commentaire: Ergonomique et utilisable en réalité augmentée ou comme une carte traditionnelle, Sky Map offre un moyen ludique de découvrir le ciel. Ce ne sont ni les quelques degrés d'écart avec la réalité, ni les quelques saccades de l'animation qui lui feront de l'ombre... même si l'appli serait mieux sans ces petits défauts :)
+DateCommentaire:24 août 2012
+NoteCommentaire:5

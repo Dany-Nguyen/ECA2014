@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Complètement dépassée !
+Commentaire:Je mets 2 étoiles et encore je suis gentil car Abonné canal plus, j'ai pu en profiter un moment et il faut reconnaître qu'il n'y avait aucune autre appli valable. Bref, installez l'appli "ULTIMATE RUGBY" vous comprendrez pourquoi celle de canal est dépassée. Je crois qu'ils ont tout mis dans les 30 ans de canal et ils ont complètement laissé tombé le reste. Depuis quelques semaines cette appli bugue je suis obligé de me reconnecter à chaque fous que je l'ouvre, je ne reçois plus aucune notifications....
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Parfait
+Commentaire: Depuis la nouvelle mise a jour ( 2.0 ) l app est beacoup plus fluide, sa s affiche quasi en instantané, en plus j ai la fibre donc c est niquel !
+DateCommentaire:28 octobre 2014
+NoteCommentaire:5

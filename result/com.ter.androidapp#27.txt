@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Nul depuis peu
+Commentaire:Manque la moitié des trains et bus sur la line Nîmes le grau du roi. Obligé d'avoir le papier des horaires
+DateCommentaire:13 juin 2014
+NoteCommentaire:1

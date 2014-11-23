@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:
+Commentaire:Cherche clan mon psn:dont_you_kild(je suis prestige 1 lvl25)
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Très bonne apli.
+Commentaire:Je l'utilise pour la région parisienne, très précise. J'utilise sytadin pour les fermetures nocturnes.
+DateCommentaire:5 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Vraiment nul
+Commentaire:Je n'ai jamais les bonnes horaires. Je suis arrivé beaucoup de fois en retard à cause de cette application. Vraiment pas pratique. L'application est super mais il n'y a pas les bonnes horaires.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

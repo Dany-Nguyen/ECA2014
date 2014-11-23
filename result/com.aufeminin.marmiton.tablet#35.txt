@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Un peu déçu
+Commentaire:L'application pour tablette est plutôt belle à regarder mais elle est moins bien que l'application mobile ou le site: il manque le menu avec les grands classiques' les photos de recettes, on ne peut pas regarder en grand les photos... Bref à revoir
+DateCommentaire:28 octobre 2014
+NoteCommentaire:2

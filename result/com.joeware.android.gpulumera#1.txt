@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:
+Commentaire:Je n'ai même pas le temps de prendre la photo que sa beuge dejâ !! Nul.
+DateCommentaire:22 octobre 2014
+NoteCommentaire:2

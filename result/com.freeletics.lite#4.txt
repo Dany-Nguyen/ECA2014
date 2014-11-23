@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Tres bonne appli
+Commentaire: Vraiment genial, des progres important tres rapidement, les exercices sont tres sympa, seul bemol: le GPS est tres loin d'etre precis... il m'a compter 9 km sur un parcour de 5km...
+DateCommentaire:31 octobre 2014
+NoteCommentaire:5

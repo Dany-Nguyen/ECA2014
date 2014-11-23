@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Beug depuis la maj
+Commentaire: Cette appli etait parfaite, mais depuis la maj elle plante dès que l on souhaite changer de chaine dans le live. Desinstallé reinstallé rien n y fait, suppression du dossier egalement. Galaxy tab 10.1
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

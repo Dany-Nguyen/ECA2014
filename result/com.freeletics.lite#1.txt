@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Très bien
+Commentaire: Mais les vidéo se coupe et du coup, pour un novice comme moi, je suis obligé d'aller voir sur une autre plateforme pour voir comment faire. A corrigé svp
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

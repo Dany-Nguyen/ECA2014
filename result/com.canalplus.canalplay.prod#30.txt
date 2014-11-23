@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:MAJ D'URGENCE !!!!
+Commentaire: arrête pas de cracher , des que je met un film l'application se ferme on peut même pas regarder quelque chose !!! a régler assez vite parce que j'ai pas envie de payer 8 euros par mois pour rien sinon y a pas mal de choix tout est bien même le prix n'est pas trop cher j'ai mis deux étoiles car tout est parfait sauf les beugue et si on arrive pas à regarder un film via cette application bah ... sa sert a rien ... à régler vite sinon je changerai d'appli !!! ps : à quand le mode hors connections ? :)
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

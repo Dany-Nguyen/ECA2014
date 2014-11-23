@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Musiques
+Commentaire: Plus besoins d'acheter des albums très cher, avec Spotify prémium tout les albums sont à volonté à tous moments et même avec une qualité HD
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

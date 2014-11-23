@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Fonctionne bien
+Commentaire: Malheureusement après reconnaissance ne propose que l achat de la chanson sur le play store alors que shazam propose également le visionnage sur YouTube ( service google) un comble !
+DateCommentaire:20 juin 2013
+NoteCommentaire:3

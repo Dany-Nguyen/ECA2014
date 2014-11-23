@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Trop
+Commentaire:Trop cool je trouve que ses bien car j adore le foot et sa me saire beaucoup ....
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

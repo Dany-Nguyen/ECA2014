@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Mode nuit.
+Commentaire: Bonjour,Je suis peut-être un chèvre mais, y a pas un mode nuit?car même avec la luminosité de l écran au minimum il faut un temps pour revoir bien le ciel...
+DateCommentaire:8 septembre 2014
+NoteCommentaire:3

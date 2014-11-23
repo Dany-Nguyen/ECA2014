@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:Fond ecran animé G3
+Commentaire: Sa ma beaucoup plus cest couleur sur lecran sauf le probleme cest que sa prend bcp de place mais un conseil si vous le voulez sans prendre de place installer le , mettez le en fond decran et désinstalle r le voud laurez tjr !
+DateCommentaire:23 octobre 2014
+NoteCommentaire:4

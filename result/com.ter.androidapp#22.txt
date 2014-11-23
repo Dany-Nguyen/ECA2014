@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Nul nul nul
+Commentaire:Après de nombreux essais, l'application ne s'ouvre pas!!!!
+DateCommentaire:25 août 2014
+NoteCommentaire:1

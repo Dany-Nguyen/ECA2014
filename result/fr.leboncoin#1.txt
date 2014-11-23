@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Pas beaucoup d'évolution
+Commentaire: Des filtres de recherche plus poussées serais pas du luxe... genre type de vehicule : monospace, suv... selectionner nous même les departements de recherche serais un plus... merci d'y penser leboncoin
+DateCommentaire:28 octobre 2014
+NoteCommentaire:3

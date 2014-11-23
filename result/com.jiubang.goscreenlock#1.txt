@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:
+Commentaire:Les notifications devraient pouvoir être visibles sur tous les thèmes ! Cependant c'est une bonne application qui fait son job.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

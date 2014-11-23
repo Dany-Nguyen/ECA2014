@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Pluie a une heure
+Commentaire: La pluie à une heure fonctionné très bien chez moi !!! Elle a été supprimé !!! Va comprendre.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:3

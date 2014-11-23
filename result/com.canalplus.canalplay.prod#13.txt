@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Stéphane P.
+Commentaire: A quand la compatibilité avec le Nexus 5 et la version 5.0 d'Android Lollipop ?? C'est frustrant d'être abonné et de ne pas pouvoir l'utiliser convenablement...
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

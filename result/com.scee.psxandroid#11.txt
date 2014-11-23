@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Longue très longue
+Commentaire: L application est très longue a réagir même en wifi. Elle met un temps considérable a agir sur les messages et fini souvent par le renvoie d une erreur
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

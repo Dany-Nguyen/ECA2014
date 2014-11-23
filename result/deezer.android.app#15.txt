@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Ca me saoule
+Commentaire: Je paye mais ca beug je n ai plus les paroles des musique alors svp réparé ca au plus vite ou je vais devoir me désabonner merci
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

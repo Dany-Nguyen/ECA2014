@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Lourd. Pas ergonomique.
+Commentaire: C'est toute une histoire pour trouver où cliquer pour avoir des prévisions locales. Wheather pro fonctionne beaucoup mieux.
+DateCommentaire:11 octobre 2014
+NoteCommentaire:1

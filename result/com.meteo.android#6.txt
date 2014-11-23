@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Application très pratique
+Commentaire: Une météo précise et des animations de suivi des pluies et des nuages qui permettent de savoir quand sortir sans être mouillé ou si on peut poursuivre sur l'option barbecue...
+DateCommentaire:23 octobre 2014
+NoteCommentaire:5

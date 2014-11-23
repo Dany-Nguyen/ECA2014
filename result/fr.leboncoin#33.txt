@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Bien
+Commentaire: Cependant il manque la synchronisation entre les appareils (téléphone et tablette) des recherches sauvegardées.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

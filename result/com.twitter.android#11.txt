@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Near perfection...
+Commentaire:Very good app ! Just waiting for a true Material Design for Android Lollipop, with a little blue circle to tweet for example :)
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Merci pour la maj
+Commentaire: Fonctionne de nouveau, très pratique
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

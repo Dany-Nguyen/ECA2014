@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Galaxie snote 8
+Commentaire: Suite à la défaillance de Reader Hub j'ai installé cette appli et récupérer sans problème mes documents et livres
+DateCommentaire:20 juillet 2014
+NoteCommentaire:5

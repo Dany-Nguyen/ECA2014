@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Lol
+Commentaire:Recherche pour un confirmation d'horaire donnée sur le pc. L'appli me dit qu'il n'y a rien à cette heure là !!!! Mdr elle sert à rien. Pas de changement tjr inutile. Bravo c'est à l'image des trains ...... pourri
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

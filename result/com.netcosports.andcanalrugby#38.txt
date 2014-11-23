@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Rugby
+Commentaire:Et ben c'est assez bien pour le rugby
+DateCommentaire:8 février 2014
+NoteCommentaire:5

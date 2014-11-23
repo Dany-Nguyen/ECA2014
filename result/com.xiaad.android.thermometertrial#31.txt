@@ -1,0 +1,9 @@
+NomApplication:Thermomètre (+ Barre d'Etat)
+IdApplication:com.xiaad.android.thermometertrial
+CategorieApplication:Météo
+NoteApplication:3,7
+NombreVotants:20 379
+TitreCommentaire:La température extérieur est selon d
+Commentaire: Lui de 79 ! Completment nul !
+DateCommentaire:11 octobre 2013
+NoteCommentaire:1

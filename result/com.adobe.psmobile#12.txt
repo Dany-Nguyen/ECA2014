@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Utilisation impossible
+Commentaire: Je suis sur une tablette samsung et l appli telechargee n a rien avoir avec le descriptif. On peut juste choisir une photo et lui mettre un effet.... je ne comprend pas
+DateCommentaire:30 juillet 2014
+NoteCommentaire:1

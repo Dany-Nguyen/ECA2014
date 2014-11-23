@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Meteo
+Commentaire: Super appli. Prévision fiables et précises. Analyses disponibles et statistiques. Super!
+DateCommentaire:13 juillet 2014
+NoteCommentaire:5

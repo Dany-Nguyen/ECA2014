@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:News désordonnées, confuses ou manquantes et vidéos buggées
+Commentaire: Les vidéos ne se lancent pas en plein écran. De plus, les anciennes vidéos d'AlloCiné ont disparu (Nanarland...).
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Genial
+Commentaire: Plusieurs te le chargements où j'étais déçu et cette application est la meilleure qui soit... elle lit la plupart des formats qu'on peut trouver ainsi que toutes les images pour les couvertures de livres. LA MEILLEURE !!!
+DateCommentaire:30 septembre 2014
+NoteCommentaire:5

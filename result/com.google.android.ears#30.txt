@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Simple, efficace, mais...
+Commentaire: Malgré certaines critiques, je trouve que l'idée de widget n'est pas mal. (Même si elle prend pas mal de place.) J'ai essayé de lui faire écouter des musiques diverses (Vieilleries, nouveautés, styles différents...) Elle ne s'est trompée qu'une fois ! Soudhound s'est pratiquement planté à chaque fois sur ce qui était trop ancien ou trop nouveau. Shazam s'en est plutôt bien sorti, mais il a fallut relancer l'écoute plusieurs fois. Je note *deux* demandes récurrentes dans les commentaires : 1) Pas de lien vers YouTube ou un site de zique en ligne. 2) Pas de possibilité de relancer la recherche des tags sur le serveur quand on était hors connexion lors de l'écoute. A part cela, cette appli est intelligemment conçue, comme tous les développements de Google. BRAVO !!!
+DateCommentaire:6 août 2013
+NoteCommentaire:4

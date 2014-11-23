@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Beug
+Commentaire: Depuis la mise a jour gros beugg je désinstalle c soulant !!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

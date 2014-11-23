@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:ty smoky
+Commentaire: salut la teams Ty smoky recrute ps3 ps4
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

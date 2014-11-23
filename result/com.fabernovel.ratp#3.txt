@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Application très utile mais pb de maj.
+Commentaire:Les Maj rendent l'application inutilisable (crash avant l'ouverture). Comment revenir aux versions précédentes ?
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

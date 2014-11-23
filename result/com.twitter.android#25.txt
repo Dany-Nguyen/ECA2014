@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Impossible de publié
+Commentaire:Depuis la mise a jours impossible de publié texte ou photos avec mon Galaxy nexus Dommage
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

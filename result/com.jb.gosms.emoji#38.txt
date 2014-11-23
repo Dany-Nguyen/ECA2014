@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:MMS
+Commentaire: Belle appli mais j'ai juste un problème depuis que je l'ai installer j'arrive pas à recevoir les MMS aidez moi svp
+DateCommentaire:1 septembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:FOUTAGE DE GUEULE
+Commentaire: On peut dire à TF1 que les pub marche pas de problèmes par contre la vidéo c'est autre chose. Je le déconseille, si j'avais pût mettre moins d'étoiles :@ :@
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

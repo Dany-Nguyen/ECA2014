@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Génial
+Commentaire: Un application parfaite. Seul petit défaut, la taille des applications sont un peu trop grosse et c'est un tout petit peu lent. Mais sinon parfait, un lockscreen parfait aussi. Rien a redire c'est le meilleur.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

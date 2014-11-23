@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Problèmes ...
+Commentaire: L'appli marchait bien jusqu'à hier et maintenant impossible de la remettre en marche !
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

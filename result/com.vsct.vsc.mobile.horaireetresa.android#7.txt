@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:A valider
+Commentaire:Juste installé et bombardé de pop ups pour noter... Si les trains allaient à la même vitesse (oui, je sais, c'est petit)
+DateCommentaire:23 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Très utile
+Commentaire: Bon application, Néanmoins pour les e-books en anglais le traducteur présent sur la version pour tablette kindle fait défaut sur Android
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Géniale mais
+Commentaire:Géniale mais gros bug, on ne peux plus chercher les gens ou alors on les trouve mais ça ne marche pas.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

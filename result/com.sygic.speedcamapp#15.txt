@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Ne fonctionne pas sous ART qui est le futur de DALVIK
+Commentaire: Now works great under ART - KitKat
+DateCommentaire:30 mai 2014
+NoteCommentaire:5

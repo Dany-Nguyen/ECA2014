@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:
+Commentaire:Detecte le gps 1 fois sur 3 sur mon s4. Hyper enervant
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

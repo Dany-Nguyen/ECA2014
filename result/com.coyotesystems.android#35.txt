@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Indispensable !!!
+Commentaire:Le meilleur assistant d'aide à la conduite que j'ai testé. Simple et efficace. Et ceux qui disent que les concurrents gratuits sont aussi pratiques voire encore mieux, n'ont jamais testé iCoyote car c'est faux !
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

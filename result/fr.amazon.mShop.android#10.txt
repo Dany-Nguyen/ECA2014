@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Dalai livraison trop long !
+Commentaire: Le delai livraison est trop long ! Pour une commande passée le 15, nous sommes aujourd'hui le 22 et je ne l'ai toujours pas reçu. En plus, a fallu que je contacte le vendeur via Amazon pour obtenir ce qu'il considère comme numéro de suivis. Or ce dernier n'a jamais marché, et dans son message, il n'a même pas dédaigné me donner le nom du transporteur. Je pète les plomns.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Toujours sous la main
+Commentaire:Dès qu'une envie de cuisiner me prend plus de stresse. Sur marmiton je trouve toujours une recette qui me convient, la famille et mes convives me remercient, alors aujourd'hui c'est à moi de vous remercier. Juste retour des choses!
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

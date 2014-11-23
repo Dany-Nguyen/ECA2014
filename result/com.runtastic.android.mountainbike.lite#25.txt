@@ -1,0 +1,9 @@
+NomApplication:Runtastic Mountain Bike
+IdApplication:com.runtastic.android.mountainbike.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:30 688
+TitreCommentaire:Ca commence mal
+Commentaire: Deuxième ouverture de l'application, premier plantage.
+DateCommentaire:30 septembre 2014
+NoteCommentaire:2

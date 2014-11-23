@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:
+Commentaire:Nul pour pas utiliser les E chèques
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

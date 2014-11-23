@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Notifs
+Commentaire:Bon salut pour commencer; veuillez corriger ce bémole du "J'reçois aucune notifications svp aidez moi j'veux m'tranchez l'anus". Merci Twitter ♡♡♡
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

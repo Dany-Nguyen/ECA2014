@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:J'adore
+Commentaire:À part les notifications qui ne s'affichent plus. Vite une maj.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

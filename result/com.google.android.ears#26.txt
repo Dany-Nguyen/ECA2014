@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Génial, très rapide !
+Commentaire: Seulement pour les abonné AllPlayMusique le titre renvoie vers un lien vers le store et non l'app Google musique. Et aucun lien pour le rajouter à sa bibliothèque. Solution retaper le titre dans l'app.
+DateCommentaire:2 mars 2014
+NoteCommentaire:2

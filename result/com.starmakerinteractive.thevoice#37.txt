@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Trop trop bien
+Commentaire: Franchement ce jeu est trop bien on peut s'améliorer en chant et s'amuser.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

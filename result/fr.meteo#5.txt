@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Lente
+Commentaire: Quelle lenteur... Chargements ultra longs, et omniprésents. 30 secondes au démarrage et au moindre clic 5 secondes d'attente, pourtant sur un téléphone milieu de gamme. Nouveau slogan : toujours un temps d'avance si vous attendez assez...
+DateCommentaire:15 septembre 2014
+NoteCommentaire:1

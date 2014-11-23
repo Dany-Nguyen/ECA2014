@@ -1,0 +1,9 @@
+NomApplication:Photo Collage éditeur
+IdApplication:com.zentertain.photocollage
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:231 243
+TitreCommentaire:
+Commentaire:Trop de bug sur tout le portable meme quang je ne suis plus sur l apli
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Application bâclée et non finie !!!
+Commentaire: Ça plante toutes les minutes, impossible de chercher un produit convenablement. Ça devient vraiment lassant et ne me donne pas envie de commander chez Darty. Vous n'êtes pas seul sur le marché. Vos concurrents semblent plus serieux en ayant une application qui fonctionne !!!
+DateCommentaire:25 septembre 2014
+NoteCommentaire:1

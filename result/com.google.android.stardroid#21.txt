@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:
+Commentaire:Exelente appli. Petit probleme par rapport aux points cardinaux, mais je ne sais pas si c'est l'appli ou le sgs.
+DateCommentaire:11 septembre 2011
+NoteCommentaire:4

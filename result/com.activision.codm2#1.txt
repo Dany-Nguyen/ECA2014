@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Probleme
+Commentaire: Bonjour je fais parti de l'équipe de choc EDC, nous sommes au niveau 7 pour notre clan et les points de banque que l'on aurait dû gagner n'apparaisse pas du tout. Pourquoi? Et comment justement gagne t'on les xp de clans? Nous ne savons pas du tout rien n'est expliquer. J'attend votre reponse.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

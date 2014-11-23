@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Runtastic
+Commentaire: Génial pour suite son jogging quotidien. Dommage, il buggs quand on veut avoir l historique. C est tout noir
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

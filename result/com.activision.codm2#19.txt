@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Marche pas :(
+Commentaire: Il me reconnait pas mon compte et quand j en créé un nouveau sa se connecte pas 😕
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

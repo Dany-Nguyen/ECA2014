@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:
+Commentaire:e ne reçois plus de notifications et impossible de changer ma photo de profil et mon header, faite qlq chose svp !!
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

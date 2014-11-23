@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Bonne appli
+Commentaire: Catalogue fourni, je peux télécharger les albums que je veux avec l'offre SFR. Bonne appli quoi. Mais ce serait encore mieux si les musiques étaient enchaînées, au lieu d'être coupées grossièrement.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:Pour le replay des pub c'est top mais pour le reste on s'assoit dessus...... déçu....
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

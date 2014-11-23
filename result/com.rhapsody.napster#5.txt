@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Pourrie
+Commentaire: Arrets intempestifs + baisse du niveau sonore intempestifs + egaliseur a regler pour chaque morceau + arrete tout seul d'enchainer les morceaux + efface des morceaux toute seule,.....et j'en passe. C'est l'app la plus pourrie que j'ai eu a utiliser depuis longtemps. Heureusement qu'elle est offerte avec mon forfait SFR !
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Entraînements Quotidiens FREE
+IdApplication:com.tinymission.dailyworkoutsfree
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:39 823
+TitreCommentaire:Pratique
+Commentaire: Appli assez bien, les exercices sont variés et c'est cool de pouvoir choisir la durée des entraînements. Le seul petit truc c'est que ce ne sont pas de vraies vidéos mais des sortes de GIF du coup ça démotive un petit peu.
+DateCommentaire:8 avril 2014
+NoteCommentaire:3

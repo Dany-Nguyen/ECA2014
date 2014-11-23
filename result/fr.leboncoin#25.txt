@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:
+Commentaire:il serait judicieux,de pouvoir "supprimer" visuellement les annonces deja vu et qui ne nous interesse pas lorsque l ont recherche quelque chose de spécifique
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

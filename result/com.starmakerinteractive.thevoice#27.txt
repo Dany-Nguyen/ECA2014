@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:J aâdore
+Commentaire: ♥♥♥♡♡♡♡♡♡☆☆☆☆★★★★★★•●:] j adore c trop cool jai fais 22 music et jai fai retournee au moin 2 juge
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

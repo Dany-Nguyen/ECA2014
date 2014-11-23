@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:
+Commentaire:Heu pourquoi identifiant de l'appareil lors des communications? Ou alors pourquoi l'appareil photo ou micro aussi ???
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

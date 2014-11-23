@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:indigent
+Commentaire: déjà 30mn pour le téléchargement ; ensuite en voyage, là où c'est vraiment utile, en montagne par exemple, il ne faut pas y compter s'il n'y a que de l'edge. Même aeroweb marche mieux !!
+DateCommentaire:30 septembre 2014
+NoteCommentaire:2

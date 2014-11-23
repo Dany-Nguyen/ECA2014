@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Maj 6.0 nul!
+Commentaire: Pas content du tout de cet maj on a plus les smileys les plus utilisés direct il faut retrouver le smiley a chaque fois! Et on n'a plus les smileys dans le petite fenêtre. On ne peut plus vraiment personaliser !! Vite un maj pour corriger svp!
+DateCommentaire:7 novembre 2014
+NoteCommentaire:1

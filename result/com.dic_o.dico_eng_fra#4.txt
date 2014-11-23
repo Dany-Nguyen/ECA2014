@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Presque parfait
+Commentaire: Cette appli est vraiment super! Deja il y a pas besoin du wifi donc on peut l'utiliser partout, et il connait beaucoup de mots! Il faut bien reconnaitre qu'il manque quelques mots.. (jamais reussi a trouver "good morning" par exemple..) Mais il reste très pratique et simple d'utilisation. Si vous partez en voyage c'est l'ideal! ;) Ps: petit bemol l'appli est volumineuse (~32Mo)
+DateCommentaire:13 octobre 2013
+NoteCommentaire:4

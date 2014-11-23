@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Indispensable !
+Commentaire: Prévoir une sortie vtt, quad, equestre ? Pas de souci ! Le suivi des pluies et les prévisions sont très fiables. .. évidemment cela reste une science avec ses imprévus. Merci !
+DateCommentaire:15 juin 2014
+NoteCommentaire:5

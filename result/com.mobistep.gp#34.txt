@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Bien mais...
+Commentaire: Accès aux horaires du films ne marche pas très souvent...et c'est quoi se délire de pas pouvoir voir les horaires entre 22h et 4h...c'est très embêtant quand on veut voir les horaires d'un film.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bug
+Commentaire: Ne fonctionne plus depuis plusieurs semaine sur mon téléphone. Wiko rainbow. Dommage car c'était une application que j'utilisez tous les jour.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

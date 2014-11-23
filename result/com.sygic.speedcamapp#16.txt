@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Médiocre, en bêta et trop cher
+Commentaire: - Les alertes radar cachent totalement l'afficheur de vitesse - le premium pour afficher la vitesse limite est bien trop cher. Paiement 2€ mensuel pour ça ?! Hors de prix comparé à l'application gps sygic.
+DateCommentaire:14 mai 2014
+NoteCommentaire:1

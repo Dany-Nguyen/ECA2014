@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:ATTENTION ARNAQUE DESABONNEMENT IMPOSSIBLE !!!
+Commentaire: Fou de rage!je veux supendre mon abonnement (1 mois essai gratuit) rubrique mon compte service indisponible depuis plusieurs jours resultat il mon facturer et reconduit un mois de plus et le comble je n'est pas vu un seul film belle arnaque merci canal. J'ai contacté le service client par chat ils me disent qu'il faut aller sur Google wallet pour se désabonner alors que le service est indisponible en France donc il est impossible de se désabonner je vous conseille fortement de réfléchir avant de prendre la période d'essai gratuit vu que les mois suivant vous allez être automatiquement facturer.et en plus même ils repondent pas.bande de sale arnaqueur.
+DateCommentaire:6 septembre 2014
+NoteCommentaire:1

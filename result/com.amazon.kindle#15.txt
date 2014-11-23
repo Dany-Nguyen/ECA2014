@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:LG Optimus x2
+Commentaire: Sérieusement, vous devriez revoir votre copie vu qu'il m'est impossible de se connecter ni même d'ouvrir le p**** menu qui ne fonctionne pas... Du coup, j'ai donné la note la plus bas tant vous n'auriez pas corriger ce très sérieux problème.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

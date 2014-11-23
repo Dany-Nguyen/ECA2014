@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Cool
+Commentaire: Vraiment très très cool
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

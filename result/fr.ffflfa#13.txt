@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Une fois de plus, pas assez travaillée
+Commentaire:Une appli venant de la FFF surement lancée à la hâte. Notre club n'y apparaît même pas. Les recherches sont fastidieuses. L'application non officielle de l'année passée était très bien, pourquoi l'avoir changée....
+DateCommentaire:25 août 2014
+NoteCommentaire:1

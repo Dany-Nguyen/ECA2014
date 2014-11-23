@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Internet
+Commentaire: VDM est super, mise à part quand le wifi beug ou si tu n'as pas de réseau tu ne peux voir que tes favoris. Dommage. Marina
+DateCommentaire:21 octobre 2014
+NoteCommentaire:5

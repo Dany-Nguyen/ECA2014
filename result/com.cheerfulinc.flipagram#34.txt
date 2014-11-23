@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Super sur wiko
+Commentaire: C'est juste super je vous dit de l'instaler 😃
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

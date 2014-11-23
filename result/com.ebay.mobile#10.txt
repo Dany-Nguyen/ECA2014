@@ -1,0 +1,9 @@
+NomApplication:eBay
+IdApplication:com.ebay.mobile
+CategorieApplication:Shopping
+NoteApplication:4,3
+NombreVotants:1 084 381
+TitreCommentaire:Navigation longue
+Commentaire: Lorsque je veux voir la description d'un article et que je clique dessus, je suis obligée ensuite, lorsque je reviens à la liste, de faire défiler tous les articles déjà vu depuis le début de la liste. C'est soûlant!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

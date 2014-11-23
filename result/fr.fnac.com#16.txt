@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Ça va
+Commentaire: Je m'en sers surtout pour mettre des articles dans le panier et l'avoir à disposition quand je sors. Assez pratique même si elle est un peu lente parfois.
+DateCommentaire:22 août 2014
+NoteCommentaire:4

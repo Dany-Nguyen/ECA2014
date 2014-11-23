@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:mise a jour
+Commentaire: Deja bien mieux suite a cette nouvelle maj, plus de problème d'icone! reste a pofiner les temps de chargement qui reste parfois long!
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

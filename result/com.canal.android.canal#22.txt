@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Mise a jour pour Android 5.0
+Commentaire: Merci aux développeurs pour leur réactivité ! L'appli est désormais compatible avec Lollipop !
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

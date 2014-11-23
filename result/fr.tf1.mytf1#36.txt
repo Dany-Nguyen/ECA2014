@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:De la grosse arnaque
+Commentaire: Quand tu attends 72s sa charge un moment et encore 72s ... décevant
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

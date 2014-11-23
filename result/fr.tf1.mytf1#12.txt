@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Application de merde
+Commentaire: Je peux même pas avoir excès à l'application, à peine je l'ouvre il me dise que ma connexion n'est pas bonne. Application uniquement à usage commercial bravo TF1 👏👏
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

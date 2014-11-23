@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Lol
+Commentaire: A quoi ça sert de faire une mise à jour si c'est pour finalement donne l'inaccessibilité à l'application, puis la mise à jour pour corriger ça arrive 3ans plus tard, comme d'habitude...
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

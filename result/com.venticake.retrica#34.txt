@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Gros bug mais c bien
+Commentaire: Quand on prend des photos d un coup sa s'arrête e on peut plus prendre de photos! On doit redémarrer notre appareil et c long! Sinon les filtres sont biens
+DateCommentaire:10 novembre 2014
+NoteCommentaire:3

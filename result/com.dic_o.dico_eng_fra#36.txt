@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Plus qu' excellent
+Commentaire: Mercii grâce à cette appli je m'en sort mieux en anglais mon vocabulaire à été améliorer...merciii... :-D #Plus_que_satisfait :-)
+DateCommentaire:28 mai 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Bof
+Commentaire: Il m'est impossible d'accéder a mon panier une fois sur deux. Et lorsque j'y ai accès il manque la moitié des objets. C'est quand même dommage pour un site marchand de ne pouvoir effectuer de commande.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:2

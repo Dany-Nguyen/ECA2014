@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Motivante
+Commentaire: Cette application est motivante, elle remplace facilement un partenaire de course par sa precision et son effet challenge constant
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Il y a un manque...
+Commentaire:Possesseur d' un S5 , il n y a pas la touche pour acceder au menu de l" appli et par consequent impossible d aller directement sur les classements... dommage !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:3

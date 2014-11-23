@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Réclamation
+Commentaire: Tf1 réinstallé l'application pour smartphone franchement sa ne vaut pas être une chaine aussi populaire.Trop de pub pour rien voir et pourtant sur télévision 20\20 alors réinitialiser cette applications pour que les 5 cinq étoiles deviennent régulière. Merci d'avance
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

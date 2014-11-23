@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Assez Bien mais
+Commentaire:Ca prend trop de batterie en plus jai plus de notifications quand je reçois un snap, l'ecran s'allume et c'est tout.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

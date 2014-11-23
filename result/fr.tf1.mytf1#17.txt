@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Nul
+Commentaire: Que des pubs et les contenus ne marche pas ou alors sont d'une qualité de merde ... Honteux d'avoir une application aussi nulle de la part d'une chaîne comme TF1 ..
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

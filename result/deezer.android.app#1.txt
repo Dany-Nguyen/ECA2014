@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bug
+Commentaire: Peu pas écouter ma musique sans que sa plante ou que les chansons passe 10 seconde et passe sans aucune raison à une autre. N arrive pas a synchroniser puis musique qui s arrête et ne reprend plus enfin c super d écouter de la musique
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:oi je mets mes smileys comme quand j écris les sms. Ils sônt enregistrés dans mon tel.. Pour l applicatiôn je l aime bien maid beaucoup de bug: par un moment je ne pouvais plus ouvrir les snap des autres. Et en ce moment je ne peux plus prendre de photo c est tout noir... Quelques détails à revoir...
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

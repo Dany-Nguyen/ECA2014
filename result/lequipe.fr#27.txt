@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:ul de pouvoir commencer un article et de ne pouvoir le finir car faut acheter 90% du reste de l'article sinon beaucoup de sujet intéressant
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:Presque parfait
+Commentaire: Il manque juste de pouvoir couper l'enregistrement à un moment que ce soit au debut au milieu ou a la fin mais sinon très utile! :)
+DateCommentaire:30 septembre 2014
+NoteCommentaire:4

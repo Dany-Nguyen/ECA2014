@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Beau et fluide.
+Commentaire: Parfois un peu lente. Complète, peut-être même trop. Mais çà je ne peux le reprocher aux concepteurs. "On adhère ... ou pas".
+DateCommentaire:24 août 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Infos Bus, Métro&Train :Moovit
+IdApplication:com.tranzmate
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:149 642
+TitreCommentaire:Pour Strasbourg
+Commentaire:Il faut maitre les deux cartes à jour... Car le tram A fait Parc des Sports à Illkirch Lixenbul et D fait Poteries à Aristide Briand et on 2016 il y ras à Kehl...
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

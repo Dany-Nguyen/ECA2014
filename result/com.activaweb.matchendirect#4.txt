@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Impec !!!
+Commentaire:Il faudrait pouvoir régler le son des alertes car ma femme fait des bons toutes les 2 min. ;-) et pouvoir choisir les côtes des différents "bookmakers"
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

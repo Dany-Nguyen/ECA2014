@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Lose login and time progression
+Commentaire: I need to log in every time I launch the app, and during à workout, if I quit the app, to watch an exercice's video for exemple, the workout just start over and lose the timer.
+DateCommentaire:20 septembre 2014
+NoteCommentaire:2

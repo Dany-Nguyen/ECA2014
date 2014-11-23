@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bugue énormément
+Commentaire:Depuis quelques jours impossible de consulter par exemple le matin ,les trains affichés sont ceux de la veille au soir.A corriger rapidement sinon cette appli n'a plus d'utilité
+DateCommentaire:22 octobre 2014
+NoteCommentaire:1

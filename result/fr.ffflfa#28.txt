@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Bonne idée
+Commentaire:L'idée est excellente. La geolocation des stades devrait rendre service à beaucoup de monde. L'appli est à peaufiner par contre: organiser les clubs par ordre alphabétique, journée de championnat à remettre dans l'ordre et compléter les clubs (ligue nord pas de calais district d'artois il en manque beaucoup dont le mien)
+DateCommentaire:11 avril 2014
+NoteCommentaire:3

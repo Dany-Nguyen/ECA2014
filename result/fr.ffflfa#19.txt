@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Bugs à tout va!
+Commentaire:Impossible de faire quoi que ce soit avec l'application, des bugs à tout va. AGAÇANT! J'attends quelques semaines pour voir si cela s'améliore mais je finirais probablement par perdre patience. Plutôt que de perdre votre temps à interdire des particuliers à faire de belles applications sur la FFF avec TOUS les championnats etc (je cite: "FFF" l'ancienne appli) inspirez vous plutôt, pour des professionnels, votre appli est minable à côté de celle que vous avez fait interdire. Bande de nazes!
+DateCommentaire:12 septembre 2014
+NoteCommentaire:1

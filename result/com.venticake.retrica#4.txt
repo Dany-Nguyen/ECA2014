@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Problème de comprehension
+Commentaire: Je ne comprends que la moitié du menu ,pas bien classé .Aviary est mieux et plus comprehensible .
+DateCommentaire:30 octobre 2014
+NoteCommentaire:2

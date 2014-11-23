@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:
+Commentaire:J'aime bien le fait qu'on me propose des deals proche de chez moi ou de ma position, cependant je trouve que la navigation n'est pas très intuitive
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

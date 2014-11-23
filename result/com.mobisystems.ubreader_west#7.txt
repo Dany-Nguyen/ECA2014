@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Très bien
+Commentaire: Bon lecteur Epub et Pdf
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Nikel
+Commentaire:Appli qui marche bien sans tonnes de pub. Et le trafic reel correspond en tout cas sur oa région bordelaise
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

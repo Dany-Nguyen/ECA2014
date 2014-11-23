@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Wiko Rainbow
+Commentaire: Tout marchait bien avant puis en ce moment l'appli se ferme, rien ne se charge ça me dit de vérifier ma connexion qui pourtant est bonne. Ça me dit aussi que mon vote n'a pas pu être pris en compte, les commentaires s'affichent au bout de longtemps ou ne s'affichent pas bref... J'attends une maj ! Il n'y a des pubs qu'au lancement donc ça passe.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

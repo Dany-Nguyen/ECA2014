@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Refuse de fonctionner et se bloque qd la localisation est désactivée meme avec wifi. Ça a du etre codépar un stagiaire
+Commentaire: Toujours pas de maj. Qd la geoloc est désactivée la seule solution est de killer l'appli. #windows3.11 pathe devrait prendre exemple sur la derniere version de ugc direct
+DateCommentaire:24 avril 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:
+Commentaire:L' appli me permet d'ouvrir mes fichiers pdf sans pb. Mais il faut faire quelque chose pour les pubs intempestives!
+DateCommentaire:10 novembre 2014
+NoteCommentaire:3

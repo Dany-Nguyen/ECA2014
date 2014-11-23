@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Excellent
+Commentaire: Utilisateur FreeMobile: Fonctionne même sous certaine antenne en itinerance Orange! Idéal pour regarder la tv ou revoir en replay dans un bled paumé durant la pause du midi 🕛
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

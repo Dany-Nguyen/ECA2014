@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:
+Commentaire:cette application est meilleure ça aide à retrouver des mots en anglais en allemand... très facilement. J'adore vraiment
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

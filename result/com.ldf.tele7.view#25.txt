@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:
+Commentaire:Programme télé ok mais info sur Ruquier 2 fois par semaine ras le bol. Télé7 à ses programmes préfèré et je n adhère pas. Infos mis à jour.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

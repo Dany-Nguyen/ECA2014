@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Râ le bol !
+Commentaire: C'est embêtant ! Depuis deux jour l'aplis ne veut pas s'ouvrir . J'ai redémarrer mon phone mais rien . Réglé ça vite svp .
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

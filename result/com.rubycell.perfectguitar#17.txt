@@ -1,0 +1,9 @@
+NomApplication:Guitare + ( Guitar )
+IdApplication:com.rubycell.perfectguitar
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:51 954
+TitreCommentaire:
+Commentaire:J'ai vraiment adoré cette application
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

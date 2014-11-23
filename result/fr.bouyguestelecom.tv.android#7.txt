@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:LG G3 B.tv ne fonctionne plus avec Android L
+Commentaire: Bonjour, Bouygues TV ne fonctionne pas avec Android Lollipop !!!!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

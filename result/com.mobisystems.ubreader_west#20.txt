@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Non
+Commentaire: N adapte pas le texte des pdf qd on zoome et donc inutilisable sur un smartphone. Dommage c qd mm le minimum pour ne pas lire avec une loupe. Si vous pouviez faire comme qpdf viewer qui adapte le texte des pdf c vital sur smartphones.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:1

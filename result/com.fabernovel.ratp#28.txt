@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Top depuis la maj
+Commentaire:Top d'avoir enfin remis la notion d'itinéraire dès la page d'accueil !
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

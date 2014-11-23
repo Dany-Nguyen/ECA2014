@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:J'kifff !!!!!!!!!
+Commentaire: J'aime beaucoup photoshop ! Je l'ai aussi sur ordi et sur mobile toujours aussi bien. ! En + il est non payant !Un énorme bravo au dévélopeur ! Conseils: télécharger vite cette appli !!!!!!!!!
+DateCommentaire:4 octobre 2014
+NoteCommentaire:5

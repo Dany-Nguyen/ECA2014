@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Bug enorme
+Commentaire: Je veux regarde une serie donc j apui sur regarde et la soit ma tablette redemarre soit sa me mets canalplay ses areter il faut coriger sa et vite !
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

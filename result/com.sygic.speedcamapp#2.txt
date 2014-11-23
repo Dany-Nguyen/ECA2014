@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Nul
+Commentaire: 3 radars fixes 110 sur autoroute et aucune alerte pas d'indication de la vitesse limite . Préférez kaza gratuit et efficace.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

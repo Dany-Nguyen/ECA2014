@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Pire c est impossible
+Commentaire:De pire en pire, localisation prend 5' et les dispos sur les bornes ne s affichent plus
+DateCommentaire:3 octobre 2014
+NoteCommentaire:1

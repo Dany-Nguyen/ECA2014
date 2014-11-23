@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:Menu
+Commentaire:L appli est exellente mais n'ayant pas de bouton menu sur le galaxy S5 je ne petit pas retirer les match en favoris c'est pour ça l'étoile en moins. Merci de remédier a ce petit problème.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

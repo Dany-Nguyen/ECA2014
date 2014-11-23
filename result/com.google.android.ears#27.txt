@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Léger et performant
+Commentaire: Bien plus rapide que de lancer shazam qui est devenu une usine à gaz. Efficace même en 2G. Et pour les éternels insatisfaits, "C'est quoi ce titre ?" est une traduction parfaitement française, ce n'est pas du langage soutenu, et alors ?! Doit-on faire des courbettes jusque dans les app mobile ? On s'en fout non ? ;)
+DateCommentaire:29 mai 2014
+NoteCommentaire:5

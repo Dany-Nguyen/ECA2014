@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:
+Commentaire:Bien mais impossible de créé des dossier est de placer des widget
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

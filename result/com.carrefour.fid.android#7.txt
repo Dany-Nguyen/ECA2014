@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Devenu inutile
+Commentaire: On peut plus voir les echeques, la principale fonction pourtant.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Mediocre
+Commentaire: Pas de moyen de conserver en mémoire la localisation donc on passe son temps a la saisir Pas de filtrage progressif pour affiner la recherche. Syntaxe antédiluvienne avec les NOT ( pourquoi ne pas s'aligner sur Google ?)
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

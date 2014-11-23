@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:
+Commentaire:J'adore je met 5 etoiles
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

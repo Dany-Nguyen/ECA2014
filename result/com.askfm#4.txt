@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Samsung galaxi tab 3
+Commentaire:Tres bonne appli sur ma tablette fonctionne tres bien
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

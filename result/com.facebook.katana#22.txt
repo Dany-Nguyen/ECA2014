@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:problème de connection avec les serveurs qu' avec le téléphone
+Commentaire:problème de connection avec les serveurs qu' avec le téléphone. Avec le PC ça fonctionne.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

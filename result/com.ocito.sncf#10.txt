@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Assez moyen
+Commentaire:Appli qui devrait être indispensable mais ne l'est pas à cause de manque de réactivité, de précision, et de simplicité.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Gros bug sur le Note 4
+Commentaire: Il marchait super bien sur mon LG G3 mais la, il plante et s'arrête aussitôt ouvert
+DateCommentaire:10 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Efficace mais spoil à gogo
+Commentaire: Une appli qui fait son boulot mais par contre les résumés gâche souvent les 3/4 du film. A quand une version sans spoil !!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:2

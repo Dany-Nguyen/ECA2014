@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:C'est pas mal
+Commentaire: Les effets sont geniaux mais l'applis est au ralenti et je ne peux pas activer la camera de face :/
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

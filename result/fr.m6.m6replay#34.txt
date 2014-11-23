@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Pas au point
+Commentaire: Qualité d'image et de son sur les pubs au top, mais ce n'est plus le cas lors du passage au direct... Image médiocre, pas de son.... Comme 90% des avis, passez votre chemin, cette appli est vraiment NULLE !!!!
+DateCommentaire:24 octobre 2014
+NoteCommentaire:1

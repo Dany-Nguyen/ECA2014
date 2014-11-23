@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Le direct ne fonctionne pas
+Commentaire: Je suis à côté de ma box, le wiki au max et l'application me dit que je n'ai pas de connection internet... pas de soucis par contre pour la syncro avec G+ ou FB. Beaucoup de gourmandise au niveau des permissions pour aucun service en échange, je désinstalle.
+DateCommentaire:14 octobre 2014
+NoteCommentaire:1

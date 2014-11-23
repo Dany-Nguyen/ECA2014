@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Sa bug
+Commentaire: C est chiant pcq sa beug trop pour rien alr je suis obligé de enlever et remettre
+DateCommentaire:19 octobre 2014
+NoteCommentaire:3

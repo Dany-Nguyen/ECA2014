@@ -1,0 +1,9 @@
+NomApplication:Glovebox - Side launcher
+IdApplication:com.fb.glovebox
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:10 807
+TitreCommentaire:Pas mal !
+Commentaire: Un peu trop gourmand en RAM mais joli, intuitif et pratique !
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

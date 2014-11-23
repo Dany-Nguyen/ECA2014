@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Bug
+Commentaire: La vidéo et le son est décalé. Ça rame !
+DateCommentaire:29 octobre 2014
+NoteCommentaire:2

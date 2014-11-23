@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:Bug très souvent et bloque ton mon Portable. En plus il y a bcp trop de pub, tf1 est vraiment là que pour le fric !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

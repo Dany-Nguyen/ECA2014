@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Fonctionne à nouveau
+Commentaire: Mise à jour pour Lolipop plutôt rapide. Tout semble fonctionner nickel. Merci
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

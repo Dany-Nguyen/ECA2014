@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:Pas de soucis
+Commentaire: Depuis le début je l'ai sur plusieurs support tout a toujours bien fonctionner et j'adore la nouvelle option de téléchargement
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

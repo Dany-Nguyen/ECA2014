@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:On est proche de la perfection
+Commentaire: Tout est corrigé et remis à neuf. Bonne applis de nouveau. Il était temps!!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

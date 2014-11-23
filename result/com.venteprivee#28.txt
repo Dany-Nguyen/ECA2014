@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Bien
+Commentaire: Ne s'ouvre plus !!!
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Dj nyki
+Commentaire: Très bon site . J ai déjà commandé plusieurs fois et j ai été très satisfait de l envoie des produits et très soigne.
+DateCommentaire:29 juillet 2014
+NoteCommentaire:5

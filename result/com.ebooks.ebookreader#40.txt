@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:Dommage
+Commentaire: Le livre Mein Kampf ni est pas .. Mais pas mal sinon
+DateCommentaire:28 septembre 2014
+NoteCommentaire:3

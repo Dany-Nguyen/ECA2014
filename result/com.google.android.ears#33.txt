@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Bye bye Shazam
+Commentaire: Google devrait faire un peu plus de pub pour ses propres produits. Beaucoup plus réactif que Shazam. J'adopte. Ça fait longtemps que je voyais ce widget sans jamais avoir tester, je regrette de pas l'avoir fait avant.
+DateCommentaire:22 mars 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:eh depuis la mise a jour que j'ai faite hier (17/11/14) je ne peu plus personnalisé les gens qui peuvent voir ma story et sa sa m'énerve très fortement donc corriger ce problème svp ! Sinon perf' cette appli ! 👌♥😉
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

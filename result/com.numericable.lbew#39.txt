@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Erreur (GR01)
+Commentaire: A chaque ouverture de l'appli erreur (GR01) puis a chaque clic demande de m'abonner alors que je le suis déjà. C'est certainement une fausse appli pour gagner du temps avant l'arrivée de l'appli SFR-Numericable.
+DateCommentaire:8 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:
+Commentaire:J'ai installé cette application car vous proposiez le meilleur en personnalisation COMPLÈTE. Cette dernière mis à jour m'a très déçu impossible de retrouver les paramètres pour lesquelles j'avais installé l'appli. J'attends une énième Maj et si ce n'est pas comme avant voire mieux je désinstalle!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

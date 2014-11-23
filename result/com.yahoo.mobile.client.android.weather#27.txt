@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Bugs récurrents
+Commentaire: Je mets a jour mon évaluation je suis passé a android 4.4 mais tjs les mêmes bugs de l appli malgré les Maj ....Les jours de previsions s affichent en double (lundi, lundi, mardi, mardi....). Samsung GNote2.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:1

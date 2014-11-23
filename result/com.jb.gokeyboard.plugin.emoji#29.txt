@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:Les smileys sont géniaux, seul probleme: il n'y a pas tout les smileys, mais sinon rien a dire 💗👌👍
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

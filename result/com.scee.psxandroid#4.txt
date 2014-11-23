@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Sony pour Sony / Plantages
+Commentaire: Je n'aime pas la politique de Sony concernant le PS4 Remote Play disponible seulement pour les smartphone de la marque. Merci à XDA pour la modification qui permet de jouer à sa Ps4 sur n'importe quel smartphone Android .
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

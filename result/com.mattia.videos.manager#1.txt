@@ -1,0 +1,9 @@
+NomApplication:PlayTube Mp3 Mp4 YouTube
+IdApplication:com.mattia.videos.manager
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:267 315
+TitreCommentaire:Trop beug
+Commentaire: Il me faut au minimum 20 seconde avant que l'application marche et je ne supporte pas que la musique soit coupée par une pub.je ne suis pas contre les pubs mais faut qu'elles soient discrètes.
+DateCommentaire:19 août 2014
+NoteCommentaire:2

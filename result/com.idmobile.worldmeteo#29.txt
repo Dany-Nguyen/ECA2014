@@ -1,0 +1,9 @@
+NomApplication:Météo pour le Monde
+IdApplication:com.idmobile.worldmeteo
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:4 283
+TitreCommentaire:Super
+Commentaire: Cette aplication est trop cool psk avec elle je peux savoir la météo de la Corée du sud
+DateCommentaire:11 septembre 2014
+NoteCommentaire:5

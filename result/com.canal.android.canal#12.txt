@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:
+Commentaire:Depuis la mise a jour cela fonctionne plus, l'appli se ferme tout de suite apres l'ouverture, je suis tres déçu car je regardais tous les jours mes programmes sur la tablette maintenant je peux plus.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

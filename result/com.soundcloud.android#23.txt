@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:MAJ et perte d'information
+Commentaire: Cette nouvelle mise à jour ne permet plus de voir en un coup d'oeil la date d'upload des titres. Sinon bonne remise à niveau depuis la grosse modif graphique de l app
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

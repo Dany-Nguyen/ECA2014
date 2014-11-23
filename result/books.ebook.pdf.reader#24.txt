@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Pat
+Commentaire: Très bien mais si possible rendre la manipulation plus rapide quand on à une recherche à faire d'une page qu'on veut lire rapidement, et la ça sera le top, sinon bravo quand même, c'est le mieux que connais pour l'instant, merci beaucoup pour votre travail
+DateCommentaire:17 novembre 2014
+NoteCommentaire:5

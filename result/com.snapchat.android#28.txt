@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Snapchat Samsung Galaxy S4
+Commentaire:Video= qualiter nul nul et puis il y a pas de filtre comme les iphones / bug aussi parfois la camera ne s' affiche pas j'espère que les commentaire son lue par les créateurs de l'application !
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

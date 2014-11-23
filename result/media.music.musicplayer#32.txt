@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Mouais
+Commentaire: Pas génial la gestion dossier
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

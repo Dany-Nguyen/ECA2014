@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Autorisations abusives
+Commentaire: C'est plus une application de shopping, c'est carrément une application de recueil des données personnelles avec autant d'autorisations !!! Faut pas pousser quand même...
+DateCommentaire:5 octobre 2014
+NoteCommentaire:1

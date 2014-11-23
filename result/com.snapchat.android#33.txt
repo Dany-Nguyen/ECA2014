@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Bof
+Commentaire:La qualité des vidéos n'es pas terrible et rien est expliqué pour comment mettre les emot
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

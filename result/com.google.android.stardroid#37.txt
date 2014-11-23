@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Astronomique
+Commentaire: Vraiment génial. On peut facilement identifier les étoiles, les planètes et les constellations. Must have pour tout amateur de nuits étoilées.
+DateCommentaire:12 février 2012
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Bof bof bof
+Commentaire: Pas toujours fiable...pas de signal pour les alertes...
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

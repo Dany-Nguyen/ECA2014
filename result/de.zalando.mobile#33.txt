@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Prix!
+Commentaire: Les fringue son belle mais c'est trop cher!!
+DateCommentaire:22 octobre 2014
+NoteCommentaire:3

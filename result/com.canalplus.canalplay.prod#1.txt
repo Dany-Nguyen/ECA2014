@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:
+Commentaire:Pourrait être une très bonne application si il ni avait pas tous c'est beug c'est vraiment gavant de pas pouvoir regarder un film sans que ce dernier ce coupe donc à chaque fois faut redémarré ! Du coup que 3 étoiles (sony z1)
+DateCommentaire:22 septembre 2014
+NoteCommentaire:3

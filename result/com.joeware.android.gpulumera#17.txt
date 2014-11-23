@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:Géniale
+Commentaire: Sauf que ça bug un peu.... mais c'est la meilleure appli photo que j'ai eue ! Donc je conseille.
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

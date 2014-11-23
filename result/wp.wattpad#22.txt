@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:J'adore
+Commentaire: C'est pratique quand on veux lire quelques chose en voiture par exemple et on peux écrire les chapitres même si on a pas de réseaux, je trouve cela très pratique. Grâce a wattpad j'ai déjà ma fiction "Monster" sur zayn malik qui en ai a 4.88k vue 😍💖💞💕
+DateCommentaire:22 octobre 2014
+NoteCommentaire:5

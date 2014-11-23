@@ -1,0 +1,9 @@
+NomApplication:Montages Photos&Retouche Photo
+IdApplication:com.ImaginationUnlimited.instaframe
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:242 528
+TitreCommentaire:Très bien
+Commentaire: Rien à dire très bonne application. Dommage par contre que dans certains cadres nous ne pouvons pas très bien adapter la photo en intégralité
+DateCommentaire:18 octobre 2014
+NoteCommentaire:4

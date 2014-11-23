@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:
+Commentaire:a note chute !... depuis la mise à jour j'ai des snaps qui sont bloqués (impossible de les ouvrir), on ne peut plus supprimer le contenu pour enlever cela .. qqn peut m'aider ? Sinon à modifier svp Sous Android dernière version du GS4
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Help please
+Commentaire: L'appli est top d'habitude mais maintenant j'ai un problème :-\ À la sauvegarde d'une photo, ca m'e met "An Error occured while saving a photo to your storage. Please check your intetnal/external storage." J'ai cherché quoi faire mais je n'ai rien trouvé :-\ Quelqu'un peut m'aider svp?
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

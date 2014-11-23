@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Bcp de bugs en ce moment
+Commentaire: 15/10 (pas de changement au 15/11) : alerte prog commence dans ... 7386 minutes! Chaine ocs freebox tjs impossible a prog. Principal bémol de cette appli : hors connexion... c est la page blanche : Le prog n est pas stocké.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

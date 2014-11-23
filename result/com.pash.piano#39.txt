@@ -1,0 +1,9 @@
+NomApplication:Piano For You
+IdApplication:com.pash.piano
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:15 535
+TitreCommentaire:Simple, complet et efficace.
+Commentaire: Selon moi simplement la meilleure app pour qui cherche les fonctionnalités primordiales d'un piano en déplacement. Chargement extrêmement rapide, pas de pub et très bien conçu. Les différentes possibilités d'affichage du clavier sont vraiment pratiques. En espérant vivement qu'elle reste gratuite!
+DateCommentaire:27 mai 2014
+NoteCommentaire:5

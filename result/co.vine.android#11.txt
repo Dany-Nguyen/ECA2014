@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Mieu que mieu
+Commentaire:Difficile de faire mieu que cette app, devant snap mais derrière fb
+DateCommentaire:1 novembre 2014
+NoteCommentaire:5

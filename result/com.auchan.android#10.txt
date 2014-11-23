@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Application inutilisable
+Commentaire: Comment définir cette application ? Une cochonnerie sans nom qui s'enfonce dans sa nullité à chaque mise à jour. revenez au papier.
+DateCommentaire:10 octobre 2014
+NoteCommentaire:1

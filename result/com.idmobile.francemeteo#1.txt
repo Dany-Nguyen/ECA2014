@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:bonnes applications gratuites.
+Commentaire: je donne 4 étoiles car il n'y a pas la température actuelle mais juste la température du matin et de l'après-midi. peut mieux faire pour obtenir 5 étoiles en permanence
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

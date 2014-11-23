@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Crash tout le temps
+Commentaire:Crash en permanence quand je veux accéder à mon compte. De plus gps très mal mis à jour. J'utilise un galaxy s4
+DateCommentaire:20 juillet 2014
+NoteCommentaire:1

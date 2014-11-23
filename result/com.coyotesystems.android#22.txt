@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Le meilleur avertisseur de radars (et légal)
+Commentaire:Le must en avertisseur de radars, que ce soit sur autoroute ou sur routes secondaires. Très grosse communauté. Application agréable et fonctionnelle. A posséder d'urgence
+DateCommentaire:28 septembre 2014
+NoteCommentaire:5

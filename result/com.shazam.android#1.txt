@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Une super idée mais il manque des musiques
+Commentaire: C est un outil qui change la vie ! Mais il ne reconnait pas toutes les chansons il faudrait pouvoir y ajouter nous même des chansons ou simplement en suggestion.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

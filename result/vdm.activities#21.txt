@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Spam au lancement
+Commentaire: Une fois l'appli lancée, une fenêtre popup s'ouvre et me dirige vers Play Store sans même que je ne clique sur quoi que ce soit. C'est particulièrement chiant ... je n'en ai marre je desinstalle ... dommage ...
+DateCommentaire:14 octobre 2014
+NoteCommentaire:2

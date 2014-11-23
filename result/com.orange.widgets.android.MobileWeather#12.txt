@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:Perfectible
+Commentaire: Domnage qu'il n'y a que 3 villes affichables, de plus j'aurais aimé que Venise (Italie) soit parmi le choix.
+DateCommentaire:5 janvier 2014
+NoteCommentaire:3

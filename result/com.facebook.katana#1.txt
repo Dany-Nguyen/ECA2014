@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:es défauts de facebook n'existent plus depuis hier le 15 novembre , car j'ai fait remettre le programme d'origine ( logiciel Samsung ) comme quand je l'ai achetée en mars 2014 . Différentes mises à jour de Samsung avait tout détérioré ...fonctionnement impeccable depuis hier .../ tablette samsung galaxy tab 3 Les applications play store fonctionnent correctement dont facebook et messenger
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

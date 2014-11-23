@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:
+Commentaire:En wifi impeccable vous pouvez enchaîner les vidéos sans problème en plus avec le Chromecast c'est au top pour vision en grand écran! Par contre en mobilité ça se complique, en 3G/4G pas de souci les vidéos tournent bien.. par contre en 2 films ou 4 épisodes le forfait en débit maximubm explose!! Ce qui rend l'utilisation en mobilité "impossible". La possibilité de télécharger chez soi en wifi pour visionnage hors connexion serait un vrai plus!!
+DateCommentaire:6 novembre 2014
+NoteCommentaire:2

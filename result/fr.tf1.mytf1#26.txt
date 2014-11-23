@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:De la merde.
+Commentaire: C'est dla grosse bouze ! Sa bug a mort c'est vraiment dla merde !
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

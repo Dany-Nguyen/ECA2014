@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:
+Commentaire:Ben c'est un vrai plaisir à utiliser...le zoom adaptatif qui refait la police est tres pratique...le chanfement de page en un clic rend la lecture plus facile...definitivement mieux pour lire le soir couché sur un lit sans se fatguer les bras
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

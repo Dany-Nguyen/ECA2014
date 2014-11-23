@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Bonne appli seul bemol des fois ca rame et impossible d acceder au contenu. Dommage
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

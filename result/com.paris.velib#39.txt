@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Impossible accéder à son compte
+Commentaire:Effectivement, d après les commentaires, l appli est nul. JE CONFIRME. C'est fait par des vrai développeurs ? Géolocalisation ne se rafraîchit pas, faut sortir de l appli et relancer pour une maj de sa position...
+DateCommentaire:18 juin 2014
+NoteCommentaire:1

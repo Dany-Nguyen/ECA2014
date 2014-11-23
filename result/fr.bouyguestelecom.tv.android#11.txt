@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Télécommande ... au top !
+Commentaire: Ca fait une semaine que plus moyen de mettre la main sur ma fichue télécommande :s à croire que mon fauteuil mange des choses mnt !? Lol. Avec cette appli, fini la galère :) La fonction télécommande fonctionne vrmt parfaitement !!
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

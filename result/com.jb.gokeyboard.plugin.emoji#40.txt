@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:I like the app and the emojis, but we can't use all the emojis on twitter or by message
+DateCommentaire:24 septembre 2014
+NoteCommentaire:3

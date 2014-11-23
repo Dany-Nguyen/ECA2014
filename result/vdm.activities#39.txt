@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Pfffouuu
+Commentaire: Franchement j'adore VDM, mais la j'en peut plus. Je ne sais pas pour les autres utilisateurs, mais sur mon LG l7 quand j'ouvre l'appli, celle ci m'ouvre une page internet qui ne charge pas mais qui fait planter mon téléphone je ne peut plus fermer la page. Oblige de fermer toute les applis pour re ouvrir vdm. Et quand je suis en pleine lecture ça arrive aussi, c'est assez exaspérant,... une Maj ne serais pas.de.refus.
+DateCommentaire:25 octobre 2014
+NoteCommentaire:3

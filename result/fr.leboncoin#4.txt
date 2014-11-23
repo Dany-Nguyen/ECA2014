@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:C pire !
+Commentaire: L'application fonctionnait correctement jusqu'à la mise à jour censée l'améliorer : résultat, totalement planté !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:2

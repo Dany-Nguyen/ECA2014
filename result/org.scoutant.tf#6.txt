@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:ppli super précise. Bouchons en temps réel, même sur les petites routes.. M'a sauvé plusieurs fois de nombreuses heures de galère au volant.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

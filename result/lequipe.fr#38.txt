@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:uper top , des information super ou des match live . N 'hésiter pas , installer le !
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

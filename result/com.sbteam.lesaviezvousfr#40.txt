@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Dommage
+Commentaire: Tres bonne application mais ne marche plus dernière MAJ
+DateCommentaire:21 octobre 2014
+NoteCommentaire:2

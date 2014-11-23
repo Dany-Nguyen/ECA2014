@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:
+Commentaire:Superbe application! Mais je suis d accord pour ce qui est des notes! Il serait bien de pourvoir faire des annotations juste à côté d'un texte par exemple. Sinon rien à redire
+DateCommentaire:10 novembre 2014
+NoteCommentaire:5

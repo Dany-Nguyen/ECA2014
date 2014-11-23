@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Presque parfait
+Commentaire: Tout va très bien, mais souvent en mise à jour...donc indisponible regulierement, C'est un mal pour un bien car toujours " temps réel " du coup. Rien n'est parfait, logique... Reste à joindre la possibilité de prendre Rdv avec les assistantes sociales et ce sera encore mieux
+DateCommentaire:2 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Contenu et photos
+Commentaire:Le plus souvent ce qui est dit et presente est conforme au resultat c'est donc tres satisfaisant de s' y referer.
+DateCommentaire:5 octobre 2014
+NoteCommentaire:4

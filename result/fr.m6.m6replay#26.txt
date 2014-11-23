@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Impec
+Commentaire: Probleme de son resolu sous lollilop apres la mise a jour du 21 novembre 2014 ;)
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Fred
+Commentaire: Monreader+ est plus sophistiqué mais pour lire de pauvres pdf il faut payer !! ... Alors que ce reader est complet et gratuit ! Rapport qualité prix imbattable
+DateCommentaire:3 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:
+Commentaire:Bien mais la barre de pub m'énerve trop , elle est très grande de plus il faut ajouter la chaîne d17
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

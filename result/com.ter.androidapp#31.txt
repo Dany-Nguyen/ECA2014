@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:En grève...
+Commentaire:pas encore vu d'erreurs au niveau des horaires, mais qu'est ce que c'est lent, c'est une horreur ! même en wifi ! même sur un G3 ! (c'était déjà le cas sur samsung S4 !) plusieurs minutes pour se lancer, parfois 15, parfois plus... on dirai que l'appli est en grève... c'est le mal de la maison...
+DateCommentaire:17 octobre 2014
+NoteCommentaire:1

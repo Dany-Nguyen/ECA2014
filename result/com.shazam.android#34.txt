@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Excellent !
+Commentaire: Avec sa je peut reconnaitre les musique meme avoir les paroles en temp reel ! Mais ce qui est dommage c'est qu'il y a un beug graphisme sur le nokia x-920, quand je suis sur le menu de la musique tout en au il y a un espace vide et quand je defile un mot apparait plusieurs fois, enfaite tous ce qui sont en haut en mouvement comme un lag mais bon :) sinon c presque parfait
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

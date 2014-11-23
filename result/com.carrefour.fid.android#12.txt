@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Bug bug
+Commentaire: La dernière mise à joue est encore pire que la précédente Hyper nulle L ancienne version était bien mieux Impossible d editer les cheques fidélité obligé de galerer à chaque fois Je songe sérieusement à changer de magasin Ca commence à me prendre la tête tous ces bugs
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Et les tablettes...
+Commentaire: Veux jouer dans la cours des grands et n'est même pas capable d'écouter les nombreuses voix qui demandent depuis des années une compatibilité avec un mode paysage pour les possesseurs de tablette. Heureusement Imdb fait cela très bien et depuis longtemps !
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

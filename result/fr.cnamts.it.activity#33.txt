@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Application
+Commentaire: Très utiles et très pratique facile d'utilisation
+DateCommentaire:18 octobre 2014
+NoteCommentaire:5

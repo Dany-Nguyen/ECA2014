@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Super
+Commentaire: Enfin une appli sur Android. 4etoiles car manque un peu d'optimisation. Mais meilleur que celle sous windows 8
+DateCommentaire:9 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Pour le moment ça va.
+Commentaire: Je viens de me réveiller grâce à cette app et pour le moment je me sens très bien réveillé. Je ne sais pas si c'est du placébo mais en l'occurrence je me sens bien. À voir sur la longueur.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

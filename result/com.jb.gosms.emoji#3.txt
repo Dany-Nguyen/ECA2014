@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Mise à jour nulle.
+Commentaire: Non personnalisable et les emoticones les plus utilisés ont disparu. Si pas de changement, je zappe cette appli qui était pourtant bien
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

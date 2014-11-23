@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Plus de mise à jour
+Commentaire: Depuis la dernière maj, l'application est tout simplement devenue inutile et inutilisable. Oui c'est plus joli mais il n'y a plus rien qui marche. tout le monde le signale mais rien n'est fait du côté d'auchan donc bye bye. On retourne au papier.
+DateCommentaire:2 octobre 2014
+NoteCommentaire:1

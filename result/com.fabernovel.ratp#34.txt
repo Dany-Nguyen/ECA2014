@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Application lente et non fiable
+Commentaire:Pour le problème de fiabilité, c'est certainement plus lié à la RATP qui "omet" des informations ce qui masque la médiocrité des services de transports, et réduits les pénalités contractuelles.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

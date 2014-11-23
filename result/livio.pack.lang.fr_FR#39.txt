@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Bon outil
+Commentaire: J'aime beaucoup la facilité d'utilisation du dictionnaire. Jusqu'à présent j'ai toujours trouver les mots que je recherchais. Avec plus de petits détails qui font la différence.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:4

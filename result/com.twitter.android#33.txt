@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:
+Commentaire:ien
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

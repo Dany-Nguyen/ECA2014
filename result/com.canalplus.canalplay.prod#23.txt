@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:
+Commentaire:Très bonne application très utiles trop de critiques, si l'application vous plait pas allez ailleurs soyez déjà content qui est une période gratuite allez payer chez les autres sites comme des pigeaon Bravo Canal +
+DateCommentaire:5 septembre 2014
+NoteCommentaire:5

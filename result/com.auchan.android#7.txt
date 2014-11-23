@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:
+Commentaire:Très bien et pratique
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Pourrie, nul, zéro... Ha bah on n est bon pour mettre des pub mes les replay et le reste zéro vraiment c nul.
+Commentaire: Alors franchement c une honte totale de la part de tf1 car trop de pub. Vous êtes bon à faire que ça ou quoi?!? Il manque des émissions , des séries , et j en passe... Vous avez de la chance que au niveau des notes personnes ne puisse mettre 0 car sinon je pense que votre note général serait en dessous de 2, 5... appli à revoir...
+DateCommentaire:11 octobre 2014
+NoteCommentaire:1

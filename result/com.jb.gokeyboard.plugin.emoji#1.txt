@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Bofffff
+Commentaire: Sur l'image c'est en couleur mais en vrai il son en noir et blanc. Pouvez-vous mettre tous les émoticones en couleurs SVP . Je maiterai les 3 autres étoiles. Merci
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

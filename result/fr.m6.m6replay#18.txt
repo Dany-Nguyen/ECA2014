@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:Trop de pub avant direct
+Commentaire: Alors que le direct a les coupures pub de la télé normale. PB son corrigé sous 5.0
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

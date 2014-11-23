@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Ça soul
+Commentaire: les images s'ajoutent sur la video le pourcentage s'affiche et arriver a un moment le chargement s'arrête et je dois recommencer mais ça marche pas... J'en ai marre ça fait 8 fois que je recommence...
+DateCommentaire:30 octobre 2014
+NoteCommentaire:2

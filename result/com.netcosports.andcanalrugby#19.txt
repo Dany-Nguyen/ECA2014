@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Marche plus !!!
+Commentaire:Je ne plus me connecter, il ne reconnaît plus mes identifiants ! A résoudre au plus vite !!!
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

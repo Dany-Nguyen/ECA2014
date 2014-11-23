@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:Sur samsung s4 mini
+Commentaire: Les gens ne save pas ses quoi le g3
+DateCommentaire:19 juillet 2014
+NoteCommentaire:5

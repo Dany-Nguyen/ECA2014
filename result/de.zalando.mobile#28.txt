@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Mouais...
+Commentaire: Beaucoup de vetements feminins présents dans la catégorie homme, un filtre sur les tailles qui ne semble pas fonctionner et affiche du coup beaucoup de produits finalement non disponibles.
+DateCommentaire:2 septembre 2014
+NoteCommentaire:3

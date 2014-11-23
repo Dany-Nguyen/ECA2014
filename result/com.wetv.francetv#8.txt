@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Totalement déconseiller a ne pas telecharger
+Commentaire: qu'elle idée est venu dans la tête des développeurs pour mette des pubs en plein streaming S'il y a eu possibilité de donner -5 étoiles je l'aurais fais
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

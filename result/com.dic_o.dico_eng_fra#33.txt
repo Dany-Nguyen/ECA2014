@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Instructif
+Commentaire: C'est bien d'avoir un dictionnaire à porter de main très utile pour nous qui parlons seulement que le français.
+DateCommentaire:18 septembre 2014
+NoteCommentaire:3

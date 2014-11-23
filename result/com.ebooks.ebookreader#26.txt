@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:
+Commentaire:j'adore cette applis ont peu tout faire et ce que j'aime le soir c'est de pouvoir inter changer le texte et fond en un seul clic du blanc au noir. le choix de la grosseur du texte, le marque page etc...merci vraiment agréable
+DateCommentaire:23 septembre 2014
+NoteCommentaire:5

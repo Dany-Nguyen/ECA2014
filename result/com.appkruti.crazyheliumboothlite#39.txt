@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Pourrie
+Commentaire: De gros beug et le son est décalé de l'image
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

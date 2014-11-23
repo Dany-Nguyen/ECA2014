@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Canalplay
+Commentaire: Je déteste il ne fait que de beugué je suis en période d'essais de 3mois grâce à ma tab S je viens à peine de souscrire mais sa me gave déjà on entend que les gens parler et l'image est noir ou elle est bloqué il faut toujours essayer de se connecter ultérieurement on ne sais pk ou l'application s'arrête toute seule pff c'est décevant car c'est un bon concept ne payer pas pour sa moi j'attends que les 3 mois soit fini et je résilie
+DateCommentaire:4 octobre 2014
+NoteCommentaire:1

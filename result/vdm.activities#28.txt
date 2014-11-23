@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Impossible d'ouvrir l'appli
+Commentaire: J'adore VDM, j'y vais régulièrement et l'appli est vraiment bien! Cependant l'application refuse de s'ouvrir bien trop souvent...
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

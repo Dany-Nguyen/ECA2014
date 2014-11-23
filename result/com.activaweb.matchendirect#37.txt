@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:
+Commentaire:'est dommage que les compositions d'équipes ne soit pas détaillés à plat sur un terrain sinon très bonne appli !
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

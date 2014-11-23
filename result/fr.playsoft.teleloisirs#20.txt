@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Ne fonctionne plus
+Commentaire: L'application était superbe mais ne fonctionne plus depuis samedi 15/11 (android )
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

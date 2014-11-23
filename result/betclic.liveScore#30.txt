@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:
+Commentaire:as du tout pratique, on ne peux pas effectuer de recherche et la présentation n'est pas non plus exceptionnelle..
+DateCommentaire:25 octobre 2014
+NoteCommentaire:2

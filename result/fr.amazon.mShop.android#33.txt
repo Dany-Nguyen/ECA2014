@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Problème : petit détail...
+Commentaire: ... je trouve l'application beaucoup trop sensible. À peine tu fais défiler les pages de haut en bas et vis versa que l'app a vite fait de te faire cliquer part mégarde sur un bouton. C'est embêtant. Sinon rien à rajouter.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

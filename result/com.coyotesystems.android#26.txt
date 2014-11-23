@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Problème gps
+Commentaire:Excellente application que j'utilise au quotidien et qui est très pratique. Problème de gps depuis la dernière mise à jour il perd le gps toute les 2min et c'est très énervant. Merci se me dire comment régler le problème. J'ai des installé et réinstaller et c'est toujours pareil. Samsung S4.une 5 ème étoile des que le problème sera résolu. Édit toujours problème de gps applications inutilisables sauf si on essaye 50 fois!!!! Pas de signal gps merci de vite faire une corrections du beug Edit: probleme reglé!
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

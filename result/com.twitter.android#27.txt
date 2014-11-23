@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Mise à jour Twitter impossible,
+Commentaire:Le fichier du package est incorrecte. Mon téléphone à essayé 5 à 6 fois, en vain
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

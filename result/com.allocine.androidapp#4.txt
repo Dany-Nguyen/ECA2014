@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Top mais ça m'énerve!
+Commentaire: Je m'en sers tous les jours notamment pour noter les films que je regarde (et ils sont nombreux), mais la modération des commentaires est vraiment énervante et souvent injustifiée
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

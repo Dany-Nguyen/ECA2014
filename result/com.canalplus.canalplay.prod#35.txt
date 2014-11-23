@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Un bug qui fait que elle ne sert a rien
+Commentaire: Pour créer mon compte impossible. La moutier de la page côté droit est noir impossible de valider quoi que ce soit
+DateCommentaire:19 août 2014
+NoteCommentaire:1

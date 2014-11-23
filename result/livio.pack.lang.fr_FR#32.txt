@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Très utile
+Commentaire: J'adore c très utile quand je FAI mes devoirs et que g besoin d'une definition en plus sa dure pa longtemps par trouver les définitions c excellent ❤❤❤❤
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

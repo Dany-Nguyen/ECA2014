@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Trop lent, pas pratique
+Commentaire: Application incroyablement lente, et impossible de filtrer ou trier quand on est sur une liste de produits... je désinstalle...
+DateCommentaire:27 octobre 2014
+NoteCommentaire:2

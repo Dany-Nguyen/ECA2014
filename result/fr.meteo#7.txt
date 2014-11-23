@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:C'est mise a bugger :(
+Commentaire: Depuis quelques jours, et malgré une mise à jour, l'appli bug et je n'ai plus l'option "pluie à 1h". De plus, elle est lente... Vraiment dommage :'(
+DateCommentaire:22 octobre 2014
+NoteCommentaire:2

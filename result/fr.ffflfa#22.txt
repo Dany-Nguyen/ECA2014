@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Mise a jour lente
+Commentaire:Parfois c'est le lendemain, parfois 10 jours après les scores/classement ne sont toujours pas à jour. Sans parler du désordre dans les journées. Je mettrais 5 étoiles quand les scores seront mis à jours plus consciencieusement
+DateCommentaire:19 mars 2014
+NoteCommentaire:4

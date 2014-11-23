@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Aucun bug
+Commentaire: Pour moi tout est nickel, super le fait qu'une fois la chanson écouté, elle reste sur l'appareil et est donc disponible hors ligne !
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

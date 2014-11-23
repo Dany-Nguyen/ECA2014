@@ -1,0 +1,9 @@
+NomApplication:Radars France
+IdApplication:com.sygic.speedcamapp
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:7 099
+TitreCommentaire:Good, but
+Commentaire: Just missing a way to delete the tracks data, otherwise it is find
+DateCommentaire:14 août 2014
+NoteCommentaire:4

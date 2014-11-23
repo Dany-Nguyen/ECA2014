@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Impeccable
+Commentaire: Facile à utiliser, interface claire et efficace, commandes passées sans problèmes, colis reçus en temps et en heure ! Jolies promos et produits de qualité, parfait !
+DateCommentaire:6 octobre 2014
+NoteCommentaire:5

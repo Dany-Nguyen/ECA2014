@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Franchement on pourrait faire mieux
+Commentaire: C'est très bien il y a toutes les chaînes de la télé rien à dire mais il y a des pub interrompre la télévision c'est vraiment très gênant car moi si ça continue comme ça je vais désinstaller cette application c'est vraiment énervant !
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

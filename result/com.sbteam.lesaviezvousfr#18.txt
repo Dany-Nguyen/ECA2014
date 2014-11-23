@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Ne veux rien afficher
+Commentaire: Je lance l appli et je reste bloquer sur le point d interrogation multicolore malgré la maj effectué
+DateCommentaire:17 octobre 2014
+NoteCommentaire:1

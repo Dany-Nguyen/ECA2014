@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:
+Commentaire:uper top l idee d une nouvelle recette par jour. Recherches faciles, carnet qui se remplit de bonnes idees... merci marmiton
+DateCommentaire:9 octobre 2014
+NoteCommentaire:5

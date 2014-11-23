@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Mdr
+Commentaire:L'application est à l'image de la sncf, lent,rame à mort, horaires non synchroniser ou carrément fantaisiste, et le plus fort c'est qu'il est pas foutu de trouver le bled où je me trouvais et où il y avait une gare sncf pour regarder les horaires ça c'est le must, heureusement qu'on la paix pas cette application!!!!! mdr bientôt l'application fera la grève vu qu'ils sont bons qu'à ça ptdr !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

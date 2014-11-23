@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Flux insuffisant !
+Commentaire: Nouvelle version très sympa, par contre la qualité est toujours aussi pourrie, même en fibre avec la réception wifi à fond ! Pensez aux grands écrans, on est plus en 2008 !
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

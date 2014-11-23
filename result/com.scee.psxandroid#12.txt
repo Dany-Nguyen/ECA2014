@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:
+Commentaire:Chargement super lent gros beug pour envoyer les messages et pouvoir les lires. Même les tortues vont plus vite..
+DateCommentaire:16 novembre 2014
+NoteCommentaire:2

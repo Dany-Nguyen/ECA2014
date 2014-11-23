@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Bien mais....
+Commentaire: Mais l'avis des mecs qui donnent leur avis sur les films. On peut s'en passer ! Car ce n'est que leur avis et on s'en fiche. Ça se voit qu'ils n'y connaissent rien !!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

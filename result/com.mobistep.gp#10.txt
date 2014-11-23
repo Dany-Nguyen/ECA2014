@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Geolocalistion oppressante
+Commentaire: Rien ne marche tant que vous n'avez pas activer votre GPS afin de vous localisez. Si je sais dans quel cinema je veux aller et quel film je veux aller voir, je nai pas besoin que l'App sache où je suis ! DESINSTALLATION DIRECTE !
+DateCommentaire:15 juin 2014
+NoteCommentaire:1

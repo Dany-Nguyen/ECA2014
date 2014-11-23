@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:MàJ foireuse !!!
+Commentaire: Je paye tous les mois mon abonnement... Un peu dégoutée de ne pas pouvoir en profiter ... Changez nous ça au plus vite!!! Merci
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

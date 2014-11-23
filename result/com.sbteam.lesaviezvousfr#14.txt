@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Pourquoi
+Commentaire: Je suis pas tombée dessus plutôt ? Parfaite cette application enfin quelque petit problèmes je ne vois pas les image enregistre dans la galerie mais dans le porte papier et il faus la connexion :(
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

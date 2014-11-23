@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:marche pas sur lg g2
+Commentaire: depuis plus de 3 mois j'ai désolé un problème technique a été détecter, pouvez vous faire quelque chose. je sur android 4.4.2
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

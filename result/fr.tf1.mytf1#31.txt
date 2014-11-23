@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Bug
+Commentaire: Comme tous, bug, ne détecte pas la connexion internet. Ça s'est amélioré 3 soirs pour replanter pendant des mois. Dommage....
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

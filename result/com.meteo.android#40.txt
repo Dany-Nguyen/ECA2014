@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:30 secondes de publicité vidéo avant de voir la température du jour !
+Commentaire: Implémentation de la publicité à revoir en profondeur pour ne pas perdre trop d'utilisateurs (de la première heure ! )
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

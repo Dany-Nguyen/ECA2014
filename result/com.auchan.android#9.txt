@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:
+Commentaire:Très déçu de la dernière grosse mise à jour. Les catalogues arrive avec 2j de retard. Ergonomie en deçà de la précédente.
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

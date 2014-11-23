@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:C'était mieux Avant...
+Commentaire: Pas évident de gérer l'appartenance aux groupes de nos images. Les anciennes versions étaient moins jolies mais plus pratiques.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Crazy Helium Video Booth Lite
+IdApplication:com.appkruti.crazyheliumboothlite
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:8 137
+TitreCommentaire:Maigre...
+Commentaire: Une MàJ, pour mettre au niveau iOS serait la bienvenue, le contenu reste tres maigre et de qualité mediocre... bien dommage.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Bien
+Commentaire: Bonne appli, mérite des filtres plus poussés et la saisie des noms de ville, pas que le code postal.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Bien mais...
+Commentaire: Certains boutons sont un peu petits, la navigation entre recherche avancée et résultats n'est pas très intuitive... Cependant l'application rempli son rôle !
+DateCommentaire:6 novembre 2014
+NoteCommentaire:3

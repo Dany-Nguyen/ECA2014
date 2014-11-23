@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Merci infiniment.
+Commentaire: J'imagine pas ma phablett sans cette app, merci encore.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

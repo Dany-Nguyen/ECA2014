@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:J'ai vraiment détesté
+Commentaire: J'e n'arrive pas à avoir les images et découpe c'est nul je vous le conseil fortement pas et en plus replay impossible alors je vous le conseil pas
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

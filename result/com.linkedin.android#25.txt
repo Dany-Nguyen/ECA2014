@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:
+Commentaire:'utilisais déjà le réseau sur ordinateur, mais cet application me permet de rester connectée quand je me déplace.
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

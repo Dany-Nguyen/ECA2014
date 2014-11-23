@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Inutilisable
+Commentaire: App tellement beugué qu'elle en devient inutilisable, s'il été possible de ne pas mettre d'étoiles... 24h d'abonnement, je fini même pas mes 30 jours d'essais... Je résilie
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

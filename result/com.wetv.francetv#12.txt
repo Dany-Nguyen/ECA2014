@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:Pas mal
+Commentaire: Toutes les chaînes ne fonctionne pas mais je l'adore depuis la mise à jour tout fonctionne normalement mais le seul problème c'est que y'a trop de publ
+DateCommentaire:18 octobre 2014
+NoteCommentaire:3

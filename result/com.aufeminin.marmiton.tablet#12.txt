@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Source d'inspiration
+Commentaire:Nombreuses recettes où puiser de bonnes idées. Les commentaires des internautes sont aussi d'une aide précieuse.
+DateCommentaire:19 octobre 2014
+NoteCommentaire:4

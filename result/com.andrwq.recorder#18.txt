@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:
+Commentaire:Je trouve cette appli parfaite pour enregistrer quand je chante c'est super. Cette appli me suis partout au audition , etc... merci
+DateCommentaire:18 septembre 2014
+NoteCommentaire:5

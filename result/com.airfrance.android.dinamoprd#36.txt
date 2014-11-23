@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Bug?
+Commentaire:Est-ce que c'est normal par contre depuis la mise a jour de toujours revenir à l'écran de mise à jour? Jai bien la dernière version mais l'application semble s'acharner à me renvoyer sur une mise à jour que je ne peux pas fair3 car deja faite... :-/ un peu ennuyant
+DateCommentaire:14 octobre 2014
+NoteCommentaire:4

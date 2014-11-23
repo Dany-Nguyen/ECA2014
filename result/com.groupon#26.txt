@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:Peut mieux faire
+Commentaire: Bon site mais des compléments d'information sur certains deal peut être donné.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:3

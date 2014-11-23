@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Nul!!
+Commentaire: Les live ne fonctionne pas mais étrangement je vois très bien les publicités
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

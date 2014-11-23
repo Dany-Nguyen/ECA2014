@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Bien mais
+Commentaire:Peux faire mieux !! Il manque les stats de chaque clubs et de chaque joueurs.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

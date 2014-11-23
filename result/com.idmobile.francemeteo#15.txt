@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:
+Commentaire:Très précise et fiable ! La meilleure téléchargée jusqu'à aujourd'hui
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

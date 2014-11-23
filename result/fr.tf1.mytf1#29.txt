@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Afreux...
+Commentaire: L'appli ne marche pas et apres on dit que tf1 est la plus grande chaine de france... honte a vous tf1.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

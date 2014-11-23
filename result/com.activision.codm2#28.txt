@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:
+Commentaire:Je peux gérer mon clan à distance c'est trop bien.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

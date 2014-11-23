@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Sa ne marche pas :(
+Commentaire: Je n'entend pas la musique et je mentend pas chantée a l enregistrement trop dommage car je kiffer cette application jerer mit 5étoiles sinon mon tel et un wiko et sa ne marche pas et je kiffe cet application svp aider moi j en n ai marre
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

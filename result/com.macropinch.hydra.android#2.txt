@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:Nul
+Commentaire: C de m**** ça dit qu'il faut que je mette le doigt sur la lentille de l'appareil et ça marche pas c une arnaque jeu déconseillé !
+DateCommentaire:4 novembre 2014
+NoteCommentaire:1

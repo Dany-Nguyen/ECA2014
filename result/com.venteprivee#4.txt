@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Pas pratique du tout
+Commentaire: Dommage que cette application ne soit pas en mode paysage. Sur une tablette ce serait beaucoup plus pratique !!!
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

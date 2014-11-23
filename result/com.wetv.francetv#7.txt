@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:JUSTE GÉNIAL !
+Commentaire: Et oui, juste géniale cette application ! Un grand bravo et un grand merci pour cette super app ( pour moi la meilleure dans la catégorie ). Pour ceux qui sont sceptiques, pas de crainte, sa fonctionne bel et bien en fonction des chaines que vous avez déjà sur votre télé ! Un voyage dans un lieu sans TV ? OK, sortez vos tablettes !!!!!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:5

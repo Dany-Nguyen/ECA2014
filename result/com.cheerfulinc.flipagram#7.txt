@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:J'adore mais ...
+Commentaire: J'adore je m'en sert beaucoup le problème c'est que je n'arrive plus à publier mes vidéos sur instagram. Si non applis superbe !
+DateCommentaire:26 octobre 2014
+NoteCommentaire:4

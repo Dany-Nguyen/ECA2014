@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:ppli très sympas. Pub un peu trop présente mais très bon contenu. Très complet!
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

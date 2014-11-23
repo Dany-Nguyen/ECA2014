@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Pb e cheque
+Commentaire: Je viens de créer un e chèque et je n'ai rien reçu ? Avant ça fonctionnait ...! Et l'application me dit chèque créé aujourd'hui, donc impossible de renouveler l'opération. Chèque créer dans l'application 1 jour après. En espérant que se soit un problème résolu car avant c'était immédiat.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:3

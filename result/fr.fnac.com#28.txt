@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Pour commander un article, ca peut suffir.
+Commentaire: Mais moi qui voulais utiliser l'appli pour commander des tirages photos, (puisqu'elles sont TOUTES stockees dans le tel), je suis decue, cela n'est visiblement pas prevu par l'appli :-(
+DateCommentaire:20 août 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Parfait
+Commentaire:J'ai voulu testé twitter pour voir la différence entre facebook et bien maintenant je suis accro et je vais rarement sur Facebook ! Twitter c'est le meilleur !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:3

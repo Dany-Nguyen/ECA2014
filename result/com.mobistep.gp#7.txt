@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:Problème avec le règlement
+Commentaire: Lors de l'achat de place ça plante ; retour a une page qui ressemble a l'acceuil et pas d' obtention de Qcode; résultat : l achat est débité mais vous n avez pas les places, l application plante à corriger rapidement! !! C était mieux avant
+DateCommentaire:31 août 2014
+NoteCommentaire:2

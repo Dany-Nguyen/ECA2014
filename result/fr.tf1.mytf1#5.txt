@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Il n'y à pas moin d une étoile dommage
+Commentaire: Impossible de chargé de le direct apparament j aurai une connexion défaillante mais pour les pub pas de problème pour les charger en boucle de 90s
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

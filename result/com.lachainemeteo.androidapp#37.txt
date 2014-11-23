@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Prévisions fiables, mais trop de pub
+Commentaire: Cette application mériterait 5 étoiles pour la qualité de ses prévisions et le multiples possibilités qu'elle offre. Cependant, on est inondé, envahit, submergé par la pub. Je n'exagère pas. C'est vraiment trop. Il n'existe pas de version payante qui permettrait de supprimer la pub, alors on doit subir ... Je la garde encore un moment en me disant que ça va peut être se calmer un peu.
+DateCommentaire:18 août 2014
+NoteCommentaire:1

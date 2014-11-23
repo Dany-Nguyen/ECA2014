@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:De pire en pire...
+Commentaire:Bug de plus en plus important...pubs chiantes...probleme d horaires...si c est pour faire de la merde arretez les maj et remettez les precedentes versions, ou faites un autre job les gars
+DateCommentaire:25 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Marre des mots de passe
+Commentaire: L'application me demande mon mots de passe et mail tout le temps et en plus après me dit que je ne suis pas chez Bouygues ou réfléchi pendant 2 h pour aboutir à rien il y en a marre faite qques choses svp ...
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

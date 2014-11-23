@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Problème de message
+Commentaire: Quand tu veux envoyer un message sa de met dans le temps imparti faites une mise à jour sinon bien.
+DateCommentaire:17 novembre 2014
+NoteCommentaire:2

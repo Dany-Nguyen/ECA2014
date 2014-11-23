@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:
+Commentaire:Nickel, fonctionne très bien sur Xperia X10 mini pro. Et en plus, on apprend des choses.
+DateCommentaire:10 avril 2012
+NoteCommentaire:5

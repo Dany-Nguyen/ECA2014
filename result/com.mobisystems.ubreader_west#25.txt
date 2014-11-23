@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Très bon lecteur epub
+Commentaire: S'adapte a la taille d'écran de manière a que ça soit agréable de lire sur son portable ou sa tablette
+DateCommentaire:12 octobre 2014
+NoteCommentaire:5

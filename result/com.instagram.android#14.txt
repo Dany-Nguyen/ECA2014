@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Toujours ce bug
+Commentaire:Je note que la moyenne car la partie sociale est super mais il y a toujours ce bug de l'image noire avant de publier Ça persiste depuis plusieurs MàJ donc à régler au plus vite SVP
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Problème de géolocalisation !
+Commentaire:Rendant donc cette appli peu pratique
+DateCommentaire:4 avril 2014
+NoteCommentaire:3

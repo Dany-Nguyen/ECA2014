@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Nul à ch...
+Commentaire: A quoi sert cette application depuis la mise à jour? Je vais retourner sur les messages d'origine du téléphone. L'application n'a plus aucun intérêt
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

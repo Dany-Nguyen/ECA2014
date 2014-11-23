@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:
+Commentaire:Idem, sur samsung tab3, on peut rien faire!! Sauf selectionner une photo et mettre un filtre c'est tout! Encore déçu par une appli qui marche pas ou fonctionne mal..
+DateCommentaire:31 juillet 2014
+NoteCommentaire:1

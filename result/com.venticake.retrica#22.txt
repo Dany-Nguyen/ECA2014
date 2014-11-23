@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Gros bug
+Commentaire: Sa le fais un bug quand j'enregistre la photo la et sa m'énerve je peux pas l'envoyer
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

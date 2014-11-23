@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Très bien
+Commentaire: Mérites encore quelque améliorations (lien vers youtube par exple...) mais déjà très bien! Merci google! @ olivier Thomas: ho le boulet, cette app n'est accessible que par le widget associé ! ;)
+DateCommentaire:20 juin 2013
+NoteCommentaire:4

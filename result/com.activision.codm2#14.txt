@@ -1,0 +1,9 @@
+NomApplication:Call of Duty: Advanced Warfare
+IdApplication:com.activision.codm2
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:17 284
+TitreCommentaire:Beug depuis hier
+Commentaire: Depuis que j'ai fait un emblème via mon smartphone (samsung galaxy s 3) l'appli ne veut plus s'ouvrir. ..
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

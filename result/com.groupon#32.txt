@@ -1,0 +1,9 @@
+NomApplication:Groupon
+IdApplication:com.groupon
+CategorieApplication:Shopping
+NoteApplication:4,5
+NombreVotants:636 479
+TitreCommentaire:J adore !
+Commentaire: Pratique rapide ! Du nouveau tous les jours ! Je suis accroc :-)
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Saturé de pub
+Commentaire: De la pub trop longue à chaque vidéo. Trop, beaucoup trop. Je désinstallerais si je pouvais !
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

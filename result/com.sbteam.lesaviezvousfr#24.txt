@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Bof
+Commentaire: Plus de citations que d information domageu
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

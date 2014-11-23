@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Nul
+Commentaire: Maintenant il faut le premium pour zapper plus de 6 musiques par heure et écouter les musiques à la demande...de la merde !
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

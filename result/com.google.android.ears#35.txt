@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Bien
+Commentaire: Plusieurs tests concluants et, surtout, le lien vers Google Play Music que je teste en ce moment. Une alternative intéressante à l'association Shazam + Spotify par conséquent !
+DateCommentaire:13 août 2013
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Marche pas
+Commentaire: Après installation pas d'identification possible . pendant la sélection d'article exclusivement internet plantage de l'application .. Le téléchargement des articles et particulièrement long .. Bref le site web est plus pratique
+DateCommentaire:23 septembre 2014
+NoteCommentaire:1

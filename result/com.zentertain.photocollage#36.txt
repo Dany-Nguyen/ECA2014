@@ -1,0 +1,9 @@
+NomApplication:Photo Collage éditeur
+IdApplication:com.zentertain.photocollage
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:231 243
+TitreCommentaire:Pas trop mal
+Commentaire: Simple a utiliser.
+DateCommentaire:25 octobre 2014
+NoteCommentaire:3

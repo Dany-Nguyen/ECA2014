@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:J'ai encore jamais pu lancer l'appli. Erreur.
+Commentaire: Une appli qui a l'air vraiment bien hein! Dommage que ça affiche une erreur dès que je la lance, l'erreur s'affiche même avant l'écran de chargement. Bref, une appli inutilisable, dans cet état depuis 1 mois pour moi. Ça serait bien de faire quelque chose qu'on puisse au moins ouvrir.
+DateCommentaire:26 octobre 2014
+NoteCommentaire:1

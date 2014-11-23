@@ -1,0 +1,9 @@
+NomApplication:Météo pour le Monde
+IdApplication:com.idmobile.worldmeteo
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:4 283
+TitreCommentaire:Nickel app
+Commentaire: Tip top. Je viens de changer pour la version monde en lieu et place de la version France bien plus minimaliste. Pourquoi alors proposer la version France si ce n'est juste pour les royalties qu'apportent les pub? 5 * pour ma part.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

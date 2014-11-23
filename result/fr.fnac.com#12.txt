@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Bof côté gestion paiements
+Commentaire: Me force à enregistrer les coordonnées bancaires ET accepter le stockage des données si je veux commander. Pas pratique pour modifier les adresses de livraison ou facturation
+DateCommentaire:28 août 2014
+NoteCommentaire:2

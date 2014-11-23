@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:
+Commentaire:Pourquoi on ne peut pas choisir ses morceaux et avancer ou reculer librement dans une play liste ? Pourquoi s'abonner à l'heure des nouvelles économies du partage ? Votre système ou modèle n'est-il pas déjà dépassé ?
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

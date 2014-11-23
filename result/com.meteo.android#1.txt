@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Très bonne appli
+Commentaire: Permet d'accéder à plein de graphiques très intéressants, dont la courbe de température sur 24h avec la température instantanée, les hauteurs de pluie, la pression atmosphérique... prévisions très fiables. Mais pub trop envahissante depuis quelques mois, d'où que 4 étoiles.
+DateCommentaire:10 octobre 2014
+NoteCommentaire:4

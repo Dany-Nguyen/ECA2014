@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Et mes enregistrements? ..Et la HD?
+Commentaire: Il faudrait que l'on puisse accéder à ses enregistrements du décodeur Play TV d'Orange depuis l'appli TV d’Orange..! Sinon, quand aura t'on les chaines en HD pour les smartphones de dernière génération .!?
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Bien juste un problème
+Commentaire: Je met l'endroit où j'habite mais rien à faire il me dit toujours veuillez introduire une localisation :-/ quelqu'un pour m'aider ???
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

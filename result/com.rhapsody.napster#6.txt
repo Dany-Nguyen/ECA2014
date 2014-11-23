@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:depuis 1 semaine sa bug!
+Commentaire: je n'arrête pas d'avoir des crash de l'application, la musique qui se saccade ou lance un son aiguë sans raison (toujours du réseaux et meme sur la musique HL). j'espère vraiment que sa va se régler vite !
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

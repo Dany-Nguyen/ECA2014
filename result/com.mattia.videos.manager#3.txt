@@ -1,0 +1,9 @@
+NomApplication:PlayTube Mp3 Mp4 YouTube
+IdApplication:com.mattia.videos.manager
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:267 315
+TitreCommentaire:Default
+Commentaire: La track recommance au debut quand on verrouille le portable, bug pour retour changement de track, et afiche pas la totaliter des video en recherche. Sinon un tres bonne apli merci au createur de cette apli ;)
+DateCommentaire:8 septembre 2014
+NoteCommentaire:3

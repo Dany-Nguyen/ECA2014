@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Superbe
+Commentaire: Wikipedia, c'est la chance d'avoir accès à mille choses qui font voyager dans les cultures du monde. Merci.
+DateCommentaire:1 novembre 2014
+NoteCommentaire:5

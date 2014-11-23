@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:
+Commentaire:Appli génial car les prix sont intéressants et que l'on peut vendre tout ce qu'on veut mais je ne comprends pas je n'arrive pas à avoir toutes les catégories de filtre lorsue je fais une recherche. Ce qui m'enlève la possibilité de chercher des produits dans ma ville.
+DateCommentaire:30 août 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Infos Bus, Métro&Train :Moovit
+IdApplication:com.tranzmate
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:149 642
+TitreCommentaire:Merci
+Commentaire:C'est très pratique!
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

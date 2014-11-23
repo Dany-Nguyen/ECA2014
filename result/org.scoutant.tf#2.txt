@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:l manque les détails comme travaux, accidents... sinon, cette application est presque parfaite. Je suis contente
+DateCommentaire:10 septembre 2014
+NoteCommentaire:3

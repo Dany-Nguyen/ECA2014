@@ -1,0 +1,9 @@
+NomApplication:icône fond d'écran★CocoPPa
+IdApplication:jp.united.app.cocoppa
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:227 395
+TitreCommentaire:Super pour la personnalisation
+Commentaire: J'ai longtemps cherché comment mettre des icônes à mon image maintenant c'est chose faite avec cette appli qui propose de nouvelles icônes, des fonds d'écrans et même des écrans d'accueil complets!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

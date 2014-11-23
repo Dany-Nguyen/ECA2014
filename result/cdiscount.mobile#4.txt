@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Encore trop de bugs
+Commentaire: Appli qui rame (défilement des pages), qui tourne parfois dans le vide et qui se ferme route seule. Mais le plus grave est que certains prix affichés sont faux (ex. du wiko getaway black gold): quand vous cliquez sur l'article ce n'est plus le même prix! Seul avantage par rapport à la version web, ce sont les promos flash, encore faut il arriver à valider la commande sans que ça beugue. Bref ampli intéressante mais y'a encore du boulot!
+DateCommentaire:21 novembre 2014
+NoteCommentaire:2

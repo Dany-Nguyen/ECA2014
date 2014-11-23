@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Très moyen, inutile
+Commentaire: Application très lente, la rendant peu ergonomique, il est compliqué et pénible de naviguer dans l'application. Ajoutez à ça des bugs, comme les notifications de vigilances qui apparaissent n'importe quand, et très peu de détails côté prévisions et sur les cartes, et vous obtenez une application inutile. Site web beaucoup plus pratique.
+DateCommentaire:10 septembre 2014
+NoteCommentaire:2

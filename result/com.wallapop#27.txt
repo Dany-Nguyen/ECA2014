@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Bravo
+Commentaire: Chouette application, intuitive simple et pratique, j'espère que vous saurez garder ces trois qualités au fil des mis a jour !
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

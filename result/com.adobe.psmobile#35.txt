@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Ça ne marche pas !
+Commentaire: Quand j'ouvre l'appli, j'ai un écran blanc et après j'ai une notification comme quoi l'application ne répond plus... Je ne le conseille pas....
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

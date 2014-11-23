@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:OH?
+Commentaire:Enfin une MAJ qui sert a quelque chose, appli complète : compte, favoris, trajet et nombres de vélo / place dispo.
+DateCommentaire:13 février 2014
+NoteCommentaire:4

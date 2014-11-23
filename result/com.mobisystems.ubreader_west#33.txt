@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:Genialissime!
+Commentaire: Même si on ne peut pas lire les Pdf avec, C pas grave je mets quand même 5 étoiles. Très belle Interface, facile à utiliser! bravo aux développeurs, très belle app. Samsung Galaxy Tab 2
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

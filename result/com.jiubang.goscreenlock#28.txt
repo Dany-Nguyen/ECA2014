@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Cette appli ma beaucoup plus
+Commentaire: Mais j'aurais mis 5 étoiles si le l'écran de verrouillage s'élevait pas tt seul, mais sinon génial :-D
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

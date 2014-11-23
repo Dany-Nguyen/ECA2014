@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:
+Commentaire:i love it 👍 but... swipe to answer... where is it?
+DateCommentaire:20 novembre 2014
+NoteCommentaire:4

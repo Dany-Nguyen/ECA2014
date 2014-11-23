@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Pas de refresh de l'application, affichage des promotions très lourd
+Commentaire: Il n'est pas possible de faire un refresh (le solde de ma carte wahoo indique toujours le précédent solde). L'application plante à tout bout de champ. La liste des promotions s'affichent très lentement, même si on est connecté en haut débit (4G, Wi-Fi), quand ça veut bien s'afficher. L'ancienne application fonctionnait bien mieux et était beaucoup plus user friendly.
+DateCommentaire:9 octobre 2014
+NoteCommentaire:1

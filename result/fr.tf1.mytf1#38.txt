@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:De la nulité pure.
+Commentaire: Ici avec cette application on reconnait bien les gens qui ne pensent qu'au fric, je déconseille cette application.. Mais quel honte ! Cette appli est un EPIC FAIL.
+DateCommentaire:18 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Excellent, mais ..
+Commentaire: Fonctionne très bien, application utile, bien conçue et ergonomique .. Cependant, pourquoi autoriser l'accès aux comptes et à la caméra, quel rapport avec les programmes TV ?. Les indiscrétions de Google suffisent déjà largement. Ceci se corrige facilement avec permissions manager. Les pubs ( excessives ) s'éliminent avec Adaway. Néanmoins, je recommande sans hésiter, car le développeur a fait un excellent travail ..
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

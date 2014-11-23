@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:Bugs bugs bugs
+Commentaire: L'application plante régulièrement. La visualisation des images est mauvaise et très peu pratique alors que c'est l'une des fonctions centrales d'une telle application. Plantage systématique a la commande si mon choisit le mode de livraison relais so colissimo.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:Très bien mais légers bugs
+Commentaire:Fonctionne bien mais il a de légers bugs occasionnels( saisi de Tweets lente, par exemple ) et c'est dommage qu'il y ai une limite d'affichage de Tweets de sa TL. Sinon très bien je l'utilise régulièrement.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

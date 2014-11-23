@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Temps réel ...
+Commentaire:Enorme point noir : les infos des numéro de voies des trains inexistantes ou quand le train est parti !! J'espère que vous allez améliorer ca car ça craint quand même lorsqu'on a une appli qui se targue de fournir l'info en temps réel...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

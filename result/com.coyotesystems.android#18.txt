@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Limitations de vitesses
+Commentaire:Devenues gratuite, Coyote à crédité mon compte d'un mois d'abonnement en plus. J'aurais préféré être remboursé.
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

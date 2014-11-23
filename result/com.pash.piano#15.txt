@@ -1,0 +1,9 @@
+NomApplication:Piano For You
+IdApplication:com.pash.piano
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:15 535
+TitreCommentaire:Du beau boulot !
+Commentaire: La meilleure appli piano à ma connaissance. Le double rack de claviers à l'écran est une excellente idée, la qualité des sons est bonne, la pédale de sustain optionnelle est une bonne surprise, la possibilité de créer des sons en est une autre. On apprécie également l'aspect graphique très soigné et les nombreuses options de paramétrage offertes. Merci !
+DateCommentaire:15 septembre 2013
+NoteCommentaire:5

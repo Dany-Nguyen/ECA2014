@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:..... Ça pourrait être bien
+Commentaire:Bien trop d article payant et trop de pub je la garde juste pour le live car eurosport c pire
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

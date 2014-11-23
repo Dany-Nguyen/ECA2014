@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Tres bonne appli
+Commentaire:Avec la dernière mis à jour, trouver les horaires d'un bus c'est rapide
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

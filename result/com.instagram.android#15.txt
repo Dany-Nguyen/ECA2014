@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Bug Vidéo 😨
+Commentaire:Portable: Huawei Ascend P2 Lorsque je passe en mode vidéo, le minuteur de la vidéo comptabilise bien le temps, mais il n'y a pas d'image. Il est impossible de sortir du mode vidéo. L'application se bloque sur ce mode. Je ne peux revenir au mode photo. Aidez-moi s'il vous plaît 🙏
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

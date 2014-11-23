@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Bien... mais peut mieux faire!
+Commentaire: Facile d'utilisation. Inversion anglais - français et français - anglais rapide. Pourrait être à 4 étoiles si il ne manquait pas autant de mots. Et à 5 si on pouvait mettre des phrases entières...
+DateCommentaire:10 mai 2014
+NoteCommentaire:3

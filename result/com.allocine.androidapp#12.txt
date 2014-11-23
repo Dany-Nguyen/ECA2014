@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Ses quand il veulent ! !!
+Commentaire: Urgent sur galaxy s4 quand je choisit mon cinéma tout est ok mes quand on fait défiler les jours et programmes sa se contredit beug.On avance dans les jours de la semaine annonce pour visionner les  programmes.mes certains ne figure pas comme si le cinéma ne les proposer pas. pui quand on recule soudain des nouveaux programmes à paraît.du coup obligé d aller vérifier sur d autre site.certe sela et toujour juste en retour mes désagréable et perte de temps . pouvait vous remédier a se problème. Merci ....
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

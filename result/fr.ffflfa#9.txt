@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Disparition de tous mes favoris
+Commentaire:Suite à la mise à jour, tous mes favoris ont disparu, merci aux développeurs ! Super longue à démarrer sur 6 favoris... Sinon correcte.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:2

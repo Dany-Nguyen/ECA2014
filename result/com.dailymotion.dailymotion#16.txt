@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Pub envahissante
+Commentaire: Tout est dans le titre je remettrai des étoiles quand ils auront dégagé le bandeau en bas et remis le tri des vidéos par date ou pertinence et durée
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

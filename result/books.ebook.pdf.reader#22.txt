@@ -1,0 +1,9 @@
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Ne lis pas les epub
+Commentaire: Ce format est pris en charge avec la version 2 mais l'installation propose que la version 1.6 téléchargement effectué pour rien :-(
+DateCommentaire:3 août 2014
+NoteCommentaire:1

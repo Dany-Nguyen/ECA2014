@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Une peu trop de répétition
+Commentaire: J'ai appris des chose que j'ignorais avec cette app mais je trouve qu'il y a trop de répétition de ans les anecdotes hier je suis tomber sur une page ou il y avais 3 fois la même anecdote de suite...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

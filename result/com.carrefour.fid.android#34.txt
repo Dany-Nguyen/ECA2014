@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Pas cool
+Commentaire: Peux plus faire de cheques fidélités en direct 159 euros dessus que je souhaitais me servir aujourd'hui
+DateCommentaire:20 novembre 2014
+NoteCommentaire:1

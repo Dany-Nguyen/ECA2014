@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Cdiscount
+Commentaire: Cette apli es a merveille je conseille d'installer sur es sécuriser bon shopping a tous mer si au développeur
+DateCommentaire:9 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Problème pour s'enregistrer
+Commentaire:Pour se desenregistre pas de souci même si cela reste lourd ! Mais pour se s'enregistrer sur un autre vol cela ne fonctonne pas il conserve l'ancien vol !
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

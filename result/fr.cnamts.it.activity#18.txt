@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:
+Commentaire:Excellente application mais il manque par rapport au site internet le cumul annuel et le reste a payer des franchises medicales et participations forfaitaires
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

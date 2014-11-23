@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Pour l instant en test
+Commentaire: Je test ..déjà trop. Déçue des sites météos mythos donc à voir si vous serez réalistes ?! D ici qq temps l étoile évoluera
+DateCommentaire:17 novembre 2014
+NoteCommentaire:3

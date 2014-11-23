@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Ne marche plus
+Commentaire:L'application marchait très bien mais depuis quelques jours elle se ferme systématiquement dès que j'ouvre "mon compte". Impossible donc d'accéder à mes informations... C'est dommage pour une application pourtant esthétiquement réussie
+DateCommentaire:18 octobre 2014
+NoteCommentaire:1

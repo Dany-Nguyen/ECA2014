@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire français
+IdApplication:livio.pack.lang.fr_FR
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:24 560
+TitreCommentaire:Haroun
+Commentaire: C'est le meilleur dictionnaire que j'ai jamais vu je vous le recomande
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

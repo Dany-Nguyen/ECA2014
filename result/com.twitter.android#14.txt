@@ -1,0 +1,9 @@
+NomApplication:Twitter
+IdApplication:com.twitter.android
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:4 103 470
+TitreCommentaire:J'aime bcp
+Commentaire:J'adore tweeter quand je vais sur mon PC mais c lent et avec mon mobile je peut aller dessus sans problème
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

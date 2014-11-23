@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Gros problème
+Commentaire:Gros problème pourquoi je dis sa ses pace que moi je ses faire des photo et écrire mais pas envoyé et ses dommage !!!!!!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:1

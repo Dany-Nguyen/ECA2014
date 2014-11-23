@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Super !!!!
+Commentaire: Il y a toutes sortes de musiques il y a aucun beug alors je vous le recommande 😇😦
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

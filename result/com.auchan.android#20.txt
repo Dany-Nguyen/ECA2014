@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Développeur Auchan incompetent
+Commentaire: Si Auchan n'a pas les moyens de ce payer un développeur compétent pour son appli je veux bien lui en payer un bon moi meme
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Excellent
+Commentaire: Mais il manque, à mon avis, un traducteur intégré.
+DateCommentaire:12 octobre 2014
+NoteCommentaire:5

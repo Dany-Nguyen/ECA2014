@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:
+Commentaire:Je ne sais pas si je pourrais m'acheter quelque chose un jour vu les prix ! C'est horriblement cher !!
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

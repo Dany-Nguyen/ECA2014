@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:A quand le multi compte ??
+Commentaire: Un peu déçu de la dernière MAJ. Il est plus difficile d'accéder au profil de celui qui repost, impossibilité de voir la date de publication. Et toujours un grand regret, l'absence du multi comptes si présent dans les autres application sociales...
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

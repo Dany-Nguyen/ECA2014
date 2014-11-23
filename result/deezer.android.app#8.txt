@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Beaucoup de probleme
+Commentaire: Ne surtout pas intaller car quand vous etes arriver et que vous avez utiliser deezer pendant 1 an et pas la charge de l application est de 200 mo et des que j ecute une chanson et bah 1 mo en plus sur mon portable j plus la place de mettre une appli donc je supprime
+DateCommentaire:13 novembre 2014
+NoteCommentaire:2

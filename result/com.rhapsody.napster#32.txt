@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Nul nul de la merde
+Commentaire: Ayant utilisé google play music, napster est dégueulasse.
+DateCommentaire:5 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Ben le chien qui parle gratuit
+IdApplication:com.outfit7.talkingben
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:811 057
+TitreCommentaire:J'adore
+Commentaire: Et arreter de raconter des bêtise il n'y a pas de pedofile
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

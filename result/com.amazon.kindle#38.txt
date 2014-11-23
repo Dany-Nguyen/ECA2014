@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:Problème rotation
+Commentaire: L'écran reste figé dans des positions aléatoires, impossible de changer.
+DateCommentaire:7 octobre 2014
+NoteCommentaire:2

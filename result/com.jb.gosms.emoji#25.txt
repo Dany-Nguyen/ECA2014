@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Je préférée la version d'avant
+Commentaire: Cette version est complètement amoindrie, pourtant nouvelle version dit plus de choix... ce n'est pas le cas du tout, moins de thèmes, avant on pouvait changer la couleurs de l'écriture sms reçu ou envoyé, le fond ect... verrouiller des sms avec un mot de passe maintenant sur cette version cest fini et en plus les sms verrouiller sont perdu sur cette nouvelle application pufff nul....
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

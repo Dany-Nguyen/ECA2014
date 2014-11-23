@@ -1,0 +1,9 @@
+NomApplication:Mirror Photo:Editor&Collage
+IdApplication:com.llapps.mirrorphoto
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:162 795
+TitreCommentaire:Nul --'
+Commentaire: Quand je veux prendre une photo dans mes galerie je peut pas il y a que des pub et aucune photo ne s'affiche donc pour moi cette apli à besoin d'une bonne mise à jour. Je vais le désinstaller !!
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

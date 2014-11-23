@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Mise à jour désagréable
+Commentaire: La mise à jour à tout modifier... Les emoji apparaissent en tout petit !!!! Avant c'était beaucoup mieux !!!!
+DateCommentaire:1 novembre 2014
+NoteCommentaire:2

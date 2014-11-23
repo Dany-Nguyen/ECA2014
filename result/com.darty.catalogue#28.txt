@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Inutile, connexion impossible
+Commentaire: Impossible de se connecter depuis 3 jours au moins, donc le suivi deq commande n'est même pas possible facilement, dommage.
+DateCommentaire:23 septembre 2014
+NoteCommentaire:1

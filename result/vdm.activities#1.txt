@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:fonctionne mal
+Commentaire: L'appli refuse de s'ouvrir, sa commence vraiment a m'agacer parce que j'adore lire quelques VDM avant de dormir mais depuis quelques semaines c'est impossible. A régler au plus vite !
+DateCommentaire:6 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:
+Commentaire:ecettes simples et faciles à confectionner. On trouve pratiquement toujours la recette qui nous convient et de bonnes idées pour décorer ou présenter ses plats grâce aux photos du site.
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

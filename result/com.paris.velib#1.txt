@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bugs
+Commentaire:L'application affiche un écran noir quand je veux consulter les paramètres ainsi que l'écran des favoris avant de revenir a la carte , elle n'est donc pas fonctionnelle sur mon telephone (Galaxy S3 sur android 4.3) : Ce probleme a-t-il été remonté par d'autres utilisateurs ?
+DateCommentaire:12 mai 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Toujours aussi mauvais
+Commentaire:L'application ne nous geolocalise pas, elle est donc inutilisable. Comment font ils pour être aussi mauvais.
+DateCommentaire:4 mars 2014
+NoteCommentaire:1

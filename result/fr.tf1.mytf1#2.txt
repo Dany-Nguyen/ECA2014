@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Merde
+Commentaire: La qualité hd sa vous dit? Et audio ,aussi les pub 120 sec. En plus il font beuger les replay
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

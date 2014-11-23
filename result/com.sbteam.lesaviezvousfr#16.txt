@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:C'est cool !
+Commentaire: Je trouve cette application super intéressante ! On apprend des chose trop vrai la dedans !
+DateCommentaire:19 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Affichage des quais ter
+Commentaire:Ça n affiche plus les quais depuis la mise à jour.
+DateCommentaire:14 mai 2014
+NoteCommentaire:1

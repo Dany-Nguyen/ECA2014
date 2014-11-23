@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:
+Commentaire:e ne m'en sers pas suffisamment mais, je trouve que les recettes sont simples, précises et faciles à réaliser. Ce qui est une qualité quand on est pas doué et un homme.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Cool mais..
+Commentaire: C cool mais il n'y a pas beaucoup de chanson française c pour sa que g mais 4 etoiles moi j'en ai trouver 2 j'aimerai bien qu'il y et beaucoup de chanson française comme anglaise .... mais a par sa je kifff conseille
+DateCommentaire:5 octobre 2014
+NoteCommentaire:4

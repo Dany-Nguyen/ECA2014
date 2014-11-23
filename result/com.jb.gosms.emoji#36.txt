@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Taille émoticônes
+Commentaire: Les émoticônes sont devenus tout petits ! C'est très décevant de votre part. J'espère une nouvelle mise à jour rapidement.
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

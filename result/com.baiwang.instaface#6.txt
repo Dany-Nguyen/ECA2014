@@ -1,0 +1,9 @@
+NomApplication:InstaFace:face eyes morph
+IdApplication:com.baiwang.instaface
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:146 527
+TitreCommentaire:pratique simple & utile
+Commentaire: si on a la flemme de faire des montages d'animaux nous-même, alors cette appli nous le permet de le faire elle-même avec diverse fonctions. En+ ça bug moins qu'avant. Mais, autant avoir Instagram en entier, Si on a de la place... ! :/ (samsung y*)
+DateCommentaire:1 novembre 2014
+NoteCommentaire:4

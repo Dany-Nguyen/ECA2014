@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Problème de lisibilité
+Commentaire: Appli pratique mais c'est dommage que lors de la connexion le texte soit affiché en gris sur du bleu. Totalement illisible
+DateCommentaire:2 octobre 2014
+NoteCommentaire:3

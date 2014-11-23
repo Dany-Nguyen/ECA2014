@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Satisfaisant
+Commentaire:Le numéro de telephone allo velib ne serait pas du luxe. Point de départ de l'appli au dernier endroit où un vélo a été déposé non plus. Évidemment, cela implique de pouvoir se logger... Une position gps qui fonctionne bande de nuls!
+DateCommentaire:21 octobre 2014
+NoteCommentaire:1

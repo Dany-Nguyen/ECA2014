@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Encore mieux que la précédente version
+Commentaire: A tous les ronchons, la météo n'est pas une science exacte. Ce qui est vrai maintenant ne le sera plus dans 2 heures.
+DateCommentaire:23 mai 2014
+NoteCommentaire:5

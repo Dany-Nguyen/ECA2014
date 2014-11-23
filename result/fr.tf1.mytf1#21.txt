@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:Dla merde
+Commentaire: A limage de la chaine on en attend rien-paris reussi. Ps:jai adoré les 70seconde de pub quand on va dans direct
+DateCommentaire:13 octobre 2014
+NoteCommentaire:1

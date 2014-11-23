@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Impossible a se connecter
+Commentaire: Tout est rentré dans l'ordre. Impecc :-)
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

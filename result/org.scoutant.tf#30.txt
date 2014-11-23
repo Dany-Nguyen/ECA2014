@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:
+Commentaire:pplication interessante, manque quand meme la situation des routes fermees pour travaux le soir en Ile de France et certainement ailleurs.
+DateCommentaire:2 août 2014
+NoteCommentaire:3

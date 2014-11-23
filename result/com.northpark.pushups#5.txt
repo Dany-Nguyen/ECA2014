@@ -1,0 +1,9 @@
+NomApplication:Push Ups Work
+IdApplication:com.northpark.pushups
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:99 605
+TitreCommentaire:
+Commentaire:Ça aurais été sympas d'inclure un didacticiel sur les différentes manière de positionné les mains et les jambes, mais si on sais faire des pompes cette application est pratique et ludique.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:3

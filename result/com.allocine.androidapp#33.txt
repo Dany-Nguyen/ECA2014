@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:
+Commentaire:Cette application est très complète, juste dommage que les avis ou commentaires sur les films et séries soient autant censurés par les modérateurs.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

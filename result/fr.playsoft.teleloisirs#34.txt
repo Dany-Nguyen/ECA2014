@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Tres pratique
+Commentaire: J'utilise cette appli tous les jours, pour consulter les programmes et enregistrer à distance.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

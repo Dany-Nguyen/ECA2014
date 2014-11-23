@@ -1,0 +1,9 @@
+NomApplication:DIY Locker - Tattoo Locker
+IdApplication:com.ztapps.lockermaster
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:96 959
+TitreCommentaire:Supraaaaaaa
+Commentaire: Superbe appli, moi qui n'a pas la chance d'avoir 2 fonds d'écran, cette appli me le permet sans problème. La 5ème étoiles qui illuminera Play Store, sera le jour où la modification de la police de la date sera possible..... Sinon superrrrrrr !!!!!
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

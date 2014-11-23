@@ -1,0 +1,9 @@
+NomApplication:Livres Gratuite - Wattpad
+IdApplication:wp.wattpad
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:819 254
+TitreCommentaire:😊
+Commentaire: Juste génial
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

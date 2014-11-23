@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Satisfait
+Commentaire: Cool cool cool
+DateCommentaire:5 mars 2014
+NoteCommentaire:4

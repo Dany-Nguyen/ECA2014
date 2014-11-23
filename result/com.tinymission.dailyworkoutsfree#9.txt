@@ -1,0 +1,9 @@
+NomApplication:Entraînements Quotidiens FREE
+IdApplication:com.tinymission.dailyworkoutsfree
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:39 823
+TitreCommentaire:Ultra efficace :)
+Commentaire: Avant je sautais à la corde 40min et je ne transpirais pas autan qu'en 30 minutes de séances complètes avec cette application. Moi j'adore ^^
+DateCommentaire:21 juin 2014
+NoteCommentaire:4

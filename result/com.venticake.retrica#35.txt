@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:
+Commentaire:Très pratique pour les filtres, surtout qu'il y en a beaucoup gratuitement. Seul problème, on ne peut pas retoucher la photo après.
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

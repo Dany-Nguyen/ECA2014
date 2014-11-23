@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Bonne MAJ
+Commentaire: Dernière mise à jour rapide et bonne intégration du service Bouton simple et fonctionnel !
+DateCommentaire:16 octobre 2014
+NoteCommentaire:5

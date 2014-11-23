@@ -1,0 +1,9 @@
+NomApplication:PicsArt - Studio Photo
+IdApplication:com.picsart.studio
+CategorieApplication:Photographie
+NoteApplication:4,5
+NombreVotants:3 031 689
+TitreCommentaire:Superbe App
+Commentaire: Ajoutez l'option arrière plant ( background) en couleur pour l'écriture sur les photos. et l'option qui rendre la photo en HD pour la qualité des images. Merci
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

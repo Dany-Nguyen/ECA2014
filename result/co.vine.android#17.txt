@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Maj vite !!
+Commentaire:J'arrive pas a mettre une vidéo (que j'ai pourtant filmé avec vine) en ligne !!!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

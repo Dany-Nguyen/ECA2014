@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Plante en FX10
+Commentaire: Erreur sur samsung tablette ori et note 2 : FX10. A priori je ne suis pas le seul ! Dommage
+DateCommentaire:22 octobre 2014
+NoteCommentaire:1

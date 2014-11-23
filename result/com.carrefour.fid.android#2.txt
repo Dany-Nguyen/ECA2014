@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Trop de bugs...
+Commentaire: Les e-cheques ne sont plus utilisables à la demande, ce qui est contre productif. Le service de localisation ne s'arrête pas tout seul lorsqu'on quitte l'appli. Les pop-up de pub sont trop envahissants.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

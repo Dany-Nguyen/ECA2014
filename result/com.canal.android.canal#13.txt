@@ -1,0 +1,9 @@
+NomApplication:myCANAL, par CANAL+ & CANALSAT
+IdApplication:com.canal.android.canal
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:42 922
+TitreCommentaire:BUG
+Commentaire: Bonne app mais malheureusement depuis la maj sur Galaxy tab 2, impossible de me connecter malgré la réinstallation de l'app
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Bof
+Commentaire: Cela fait 5fois que je télécharge le même livre. En plus la lecture s'arrête au bout de trois minute. Dommage car l'application est une bonne idée mais elle reste a améliorer.
+DateCommentaire:31 juillet 2014
+NoteCommentaire:2

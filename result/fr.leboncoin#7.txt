@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Mise a jour puis plus rien !!!!
+Commentaire: Depuis la MAJ quand on clique sur l'icon on atterrit sur Google Store et l'appli s' ouvre plus ! pas mal pour une mise à jour sensée éviter les problèmes de lancement ^^
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

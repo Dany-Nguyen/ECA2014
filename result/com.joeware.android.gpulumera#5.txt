@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:Archi nul !!!
+Commentaire: Depuis que je l'ai telecharger je n'ai jamais pu l'ouvrir malheureseument. #samsung galaxy young
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

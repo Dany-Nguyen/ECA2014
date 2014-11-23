@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Excelent
+Commentaire: Très bonne appli pour voir quand nos films favoris vont sortir. Je conseille vivement !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

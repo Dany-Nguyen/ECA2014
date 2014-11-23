@@ -1,0 +1,9 @@
+NomApplication:Météo pour le Monde
+IdApplication:com.idmobile.worldmeteo
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:4 283
+TitreCommentaire:Pratique
+Commentaire: Assez réaliste. Difficile de retrouver le nom de la ville recherchée. Il y a trop de propositions ...
+DateCommentaire:24 octobre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Dommage
+Commentaire: Impossibles de s inscrire probleme avec plusieurs adresse email pour continué dommage par la suite c est payant ??? Bon j ai fais une nouvelles tentatives c est pareil il veux pas de mes différents email dommage quelques semaines après toujours pareil ca viens de mon S3 ???
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

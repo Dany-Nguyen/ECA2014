@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Mauvais
+Commentaire: Perso, je préfère soundhound, shazam ne sais pas repérer les chansons fredonnées. Si ça change, peut être que je changerai d avis.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

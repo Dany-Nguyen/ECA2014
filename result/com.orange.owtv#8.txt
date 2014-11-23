@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Chromecast ?
+Commentaire: Plante souvent pour d'obscures raisons, et surtout, pas de support Chromecast, ce qui enleve énormément l'intérêt de l'abonnement.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:2

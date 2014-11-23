@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:Bien
+Commentaire: Bonne application pour ebook mais l'importation de livre est un peu laborieuse et le rangement de la bibliothèque aussi. Une fois règles ces détails la cinquième étoiles sera méritées.
+DateCommentaire:4 novembre 2014
+NoteCommentaire:4

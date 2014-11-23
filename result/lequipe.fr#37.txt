@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Utile et essentielle
+Commentaire:Bonne appli, bien organisé, mais il y a encore qq beugues, notamment le fait que je n'arrive pas à raffraichir les vidéos depuis le 22/10/14... Le live est un peu lent et manque de commentaires
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

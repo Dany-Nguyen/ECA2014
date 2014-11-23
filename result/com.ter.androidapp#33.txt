@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Nickel
+Commentaire:Pourquoi n'est il a nouveau plus possible de mettre plusieurs gares en favoris ?
+DateCommentaire:26 mai 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:ONE+ Launcher
+IdApplication:com.appx.one.launcher
+CategorieApplication:Personnalisation
+NoteApplication:4,3
+NombreVotants:36 108
+TitreCommentaire:Galaxy note 3
+Commentaire: Display notifications in lockscreen ne fonctionne plus depuis la mise à jour. ... Sinon très bonne application. Pas de pub. Maj de l'application opérationnelle.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

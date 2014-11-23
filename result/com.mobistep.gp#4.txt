@@ -1,0 +1,9 @@
+NomApplication:Les Cinémas Gaumont Pathé
+IdApplication:com.mobistep.gp
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:4 675
+TitreCommentaire:En retard
+Commentaire: L'application semble encore destinée aux utilisateurs d'Android 2.3, mâle conçue, ne peut pas être mise en paysage sur une tablette (et dans le cas d'une tablette convertible c'est vraiment vraiment nul). J'espère une prochaine mise à jour. À part ça, elle remplie son rôle.
+DateCommentaire:4 septembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Bugs en rafale
+Commentaire: Plantages, déconnexions en tout genre, musique synchronisée non disponible, et j'en passe... Pour 10 € par mois, c'est vraiment une affaire !
+DateCommentaire:2 novembre 2014
+NoteCommentaire:1

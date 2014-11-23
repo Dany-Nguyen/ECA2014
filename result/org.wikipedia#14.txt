@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Droits android
+Commentaire: Pourquoi as tu besoin de connaître ma position Wikipedia ?
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

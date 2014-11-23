@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Acolyte de tous les jours
+Commentaire: Je m'en sert dès que je fais une activité physique, c'est très motivant :-) et en plus ça fonctionne bien !
+DateCommentaire:23 novembre 2014
+NoteCommentaire:5

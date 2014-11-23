@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Bonne application
+Commentaire: On peut voir tout le catologue mais c'est mieux en magazin on n'a des technicien à notre porté
+DateCommentaire:24 août 2014
+NoteCommentaire:4

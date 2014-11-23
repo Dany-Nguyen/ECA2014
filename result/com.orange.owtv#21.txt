@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:L'interface est bien mais..
+Commentaire: L'application marche que avec ma 4G et ne marche pas avec la wifi j'ai un chargement qui se commence et qui ne se fini pas pour info ma wifi est asser rapide danque le problème vien de laplication, sinon rien a dire avec la 4G tout fonctionne bien mais faux avoir un bon forfait.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:3

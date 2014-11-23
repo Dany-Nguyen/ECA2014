@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:Les 60 secondes (voire plus...) de pub s'affichent sans problème mais pour ce qui est du direct, même pas la peine d'y penser, il ne fonctionne jamais. Une honte!
+DateCommentaire:28 octobre 2014
+NoteCommentaire:1

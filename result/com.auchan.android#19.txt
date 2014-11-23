@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Trop de défauts
+Commentaire: Pas de mise a jour de la cagnotte. Plus d'affichage des prix de carburants. Navigation confuse. Dommage le design était attrayant et prometteur. La carte Waooh n'est toujours pas actualisée dans la nouvelle version d'octobre
+DateCommentaire:23 octobre 2014
+NoteCommentaire:2

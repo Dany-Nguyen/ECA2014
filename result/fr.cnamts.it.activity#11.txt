@@ -1,0 +1,9 @@
+NomApplication:ameli, l'Assurance Maladie
+IdApplication:fr.cnamts.it.activity
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:7 930
+TitreCommentaire:Impressionnant
+Commentaire: Application agréable manque encore quelques fonctionnalités mais c'est un très bon début. Félicitation pour le travail réalisé. Depuis dernière mise à jour pour les professionnels de santé la géo-localisation ne fonctionne pas je suis dans le 34 (Hérault) et l'application indiqué des professionnels du 13 (Bouches-du-Rhône)
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

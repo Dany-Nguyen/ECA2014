@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:La mise à jour
+Commentaire:La dernière mise à jour est tout bonnement mediocet. Dans l'explorer tout est melanger. Instagram est mon application favorite mais je suis vraiment déçu de la mis à jour.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

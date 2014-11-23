@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:A retravailler impérativement !!
+Commentaire: Gros manque de fluidité !! Le bandeau de pub est BEAUCOUP trop présent et donne immédiatement l'envie de desinstaller
+DateCommentaire:21 novembre 2014
+NoteCommentaire:1

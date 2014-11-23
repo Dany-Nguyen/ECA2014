@@ -1,0 +1,9 @@
+NomApplication:Sky Map
+IdApplication:com.google.android.stardroid
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:427 255
+TitreCommentaire:Fabuleux
+Commentaire: Si vous aimez regarder le ciel vous ne pourrez plus vous en passer. Manquent les satellites artificiels et des photos des objets remarquables avec des infos quand on clique sur l'un d'eux.
+DateCommentaire:9 septembre 2013
+NoteCommentaire:5

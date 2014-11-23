@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Bug
+Commentaire: Impossible de saisir le code d'association périphérique entre PS4 et l'app... impossible d'insérer un espace entre la série de 8 chiffres !!! L'app fonctionne t'elle uniquement sur les téléphone Sony ??? Une mise à jour serait la bienvenue !!!!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

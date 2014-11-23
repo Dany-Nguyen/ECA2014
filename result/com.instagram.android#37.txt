@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Presque Addictif ...
+Commentaire:Inscrit sans grande conviction je n'ai d'abord mis qu'une photo puis laissé tomber avant de carrément désinstaller ! Puis l'envie m'a reprit et c'est maintenant que du bonheur même si certain aspect reste un peu flou, je c qu'avec le temps je serai plus à l'aise. en tout cas c'est intuitif, amusant et presque addictif !!
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

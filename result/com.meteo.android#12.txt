@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:
+Commentaire:Les prévisions météo sont excellentes et exactes. C' est l'application que je consulte tous les soirs pour le lendemain. Meilleure que celle de Météo France qui est pas fiable et franchement pas à jour!
+DateCommentaire:16 août 2014
+NoteCommentaire:5

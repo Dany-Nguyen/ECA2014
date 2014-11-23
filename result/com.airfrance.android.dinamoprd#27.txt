@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:De la pub !
+Commentaire:Encore une appli qui vomit de la pub dans le volet de notification. Désactivation impossible. Je suppose qu'on ne paye pas le billet d'avion assez cher. Je désinstalle.
+DateCommentaire:3 octobre 2014
+NoteCommentaire:1

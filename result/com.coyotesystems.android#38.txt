@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Dav
+Commentaire:Super, toutes les informations en temps réel avec une grande précision, les éclaireurs sont plus que performant, ma sérénité au volant est de retour.. Seul petit bémol les alertes sonores ne prennent pas le dessus sur la musique...
+DateCommentaire:25 octobre 2014
+NoteCommentaire:4

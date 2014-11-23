@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Ne s'ouvre pas
+Commentaire: Tout marche enfin correctement ! Et je trouve ce site très utile. Je le consulte tous les jours. Merci Guillaume!
+DateCommentaire:25 mars 2014
+NoteCommentaire:5

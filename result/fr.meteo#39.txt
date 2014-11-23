@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Plus de favoris pour "plus dans l'heure"
+Commentaire: C'est quoi cette mise à jour ?? Maintenant pour les favoris on a juste le choix de la synthèse ! Ou est passé le bouton "pluie" ??? Étant cycliste c'est ce dont je me servais le plus pour partir entre deux averses, maintenant je dois aller dans des sous-menus et retaper mon nom de ville pour avoir cette option pluie à nouveau. Sans compter tous les plantages et les bugs que cette version était censée réparer alors que c'est bien pire. Je vous passe de 5 étoiles à 0…
+DateCommentaire:23 octobre 2014
+NoteCommentaire:1

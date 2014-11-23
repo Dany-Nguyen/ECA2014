@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Application ne s'ouvre plus
+Commentaire: Depuis la dernière mise à jour, je ne peux plus ouvrir l'application. Rendez moi l'ancienne version qui fonctionnait très bien. Wiko rainbow
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

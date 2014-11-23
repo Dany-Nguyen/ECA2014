@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Le best of the best.
+Commentaire: Le meilleur locker que je connais, fluide, rapide, ne bug pas et une interface simple et très belle et en plus pleins de thème qui sont parfois très beau.
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

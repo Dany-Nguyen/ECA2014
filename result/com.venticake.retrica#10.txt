@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:Je déteste
+Commentaire: J ouvre mon application et un écran zarbi se plante là ou il faut pas chiant vraiment chiant
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

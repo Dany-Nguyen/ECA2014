@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Tres instable
+Commentaire: On envoir des messages...c'est bien mais POURQUOI ON NE PEUT PAS EN RECEVOIR !!!!!!!!!
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

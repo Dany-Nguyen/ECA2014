@@ -1,0 +1,9 @@
+NomApplication:Phases de la Lune
+IdApplication:com.universetoday.moon.free
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:24 917
+TitreCommentaire:Pratique
+Commentaire: Jolie appli pour avoir sous le coude un calendrier lunaire interactif. On peut même le mettre en fond d'écran (pratique!)
+DateCommentaire:2 mai 2014
+NoteCommentaire:5

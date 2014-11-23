@@ -1,0 +1,9 @@
+NomApplication:ZEDGE™ Ringtones & Wallpapers
+IdApplication:net.zedge.android
+CategorieApplication:Personnalisation
+NoteApplication:4,5
+NombreVotants:2 028 675
+TitreCommentaire:
+Commentaire:Bonne appli. Mais dommage que les wallpapers ne s'adaptent pas directement au format du tel. (Galaxy Note 3 pour ma part), ce qui nous oblige à les recadrer avec un peu de perte. De même, pourquoi le choix de wallpapers diffère-t-il d'un tel. à l'autre ? Sinon de très belles images et sonneries...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

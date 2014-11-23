@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Epoustouflant "re"
+Commentaire: Cette mise à jour 5.2.4 est intuitive et rapide sur mon galaxy S4 mini. Il ne lui manque rien. Bravo orange
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

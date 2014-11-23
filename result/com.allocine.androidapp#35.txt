@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Conseille
+Commentaire: SUPer appli les bande d'annonce s'y sont inscris apres moi je mes 5 etoiles car normalement cette applu est pour les ipad iphone et ipod est la il lon mis sur android super!
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Bonne appli pratique...
+Commentaire: ...fonctionne très bien sur mon Xperia Z, malgré tous les com sur la dernière màj... Très pratique pour regarder la télé n'importe où et n'importe quand. Et j'aime aussi le fait, qu'il y ai parfois, des périodes où l'on peut avoir accès à des chaînes qui sont normalement payantes, même si j'aimerais que cela arrive plus souvent... Sinon nickel, je conseil vivement cette appli pour les abonnés Orange, je l'répète, très pratique et facile d'utilisation.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Bien... Mais...
+Commentaire: Gros bémol le prix d'un compte premium... A quand les promos?! Ou les partenariats avec les opérateurs?! (cf Deezer et Orange)
+DateCommentaire:14 novembre 2014
+NoteCommentaire:4

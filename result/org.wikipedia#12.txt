@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:MERCI
+Commentaire: Me permet de réviser mes cours de science. Mais parfois il y a des inexactitudes
+DateCommentaire:3 novembre 2014
+NoteCommentaire:4

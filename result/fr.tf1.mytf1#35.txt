@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:L appli ne s ouvre meme pas sous pretexte de verification connexion internet ! En wifi ou en 4g+ ca ne se lance pas !!! Nul nul
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

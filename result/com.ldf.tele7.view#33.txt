@@ -1,0 +1,9 @@
+NomApplication:Télé 7 programme TV
+IdApplication:com.ldf.tele7.view
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:84 100
+TitreCommentaire:Bonne apli
+Commentaire: Marche nikel sur samsung s5 je regrette vraiment qu'il n'y a plus de notes pour les films
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

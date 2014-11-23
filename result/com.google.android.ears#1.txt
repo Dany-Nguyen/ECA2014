@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Ne fonctionne plus
+Commentaire: Du jour au lendemain, ce widget n'entend plus rien, donc ne détecté plus rien. Désinstallation et réinstallation, rien y fait. Et ce alors que Soundhound ou Shazam fonctionne bien. A corriger d'urgence.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1

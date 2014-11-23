@@ -1,0 +1,9 @@
+NomApplication:Vélib'
+IdApplication:com.paris.velib
+CategorieApplication:Transports
+NoteApplication:3,0
+NombreVotants:1 114
+TitreCommentaire:Bien mais...
+Commentaire:Agréablement surpris par cette application, jusqu'à la semaine dernière... Les favoris disparaissent mystérieusement ! En attendant, je teste une autre appli. A suivre...
+DateCommentaire:5 octobre 2014
+NoteCommentaire:3

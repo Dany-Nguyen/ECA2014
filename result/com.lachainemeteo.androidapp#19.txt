@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:
+Commentaire:Avant cette application était irréprochable, maintenant c'est pub intempestives à volonté et une éternité à attendre que ça charge... très déçue.
+DateCommentaire:28 septembre 2014
+NoteCommentaire:1

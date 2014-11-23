@@ -1,0 +1,9 @@
+NomApplication:The Voice: On Stage
+IdApplication:com.starmakerinteractive.thevoice
+CategorieApplication:Musique et audio
+NoteApplication:3,9
+NombreVotants:97 716
+TitreCommentaire:Woawwwwwww
+Commentaire: J adore je suis une star 4juge c est sont retourner car je suis trop forte et Caroline Costa est ma cousine et elle ma donne des cours!!!!!
+DateCommentaire:8 octobre 2014
+NoteCommentaire:5

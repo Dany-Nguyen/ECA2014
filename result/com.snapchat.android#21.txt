@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:A revoir.
+Commentaire:Snap c'est super j'avoue,j'en suis folle. Mais la ya un sérieux problème! Il se desinstalle tout seule et on peut plus voir les snaps!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

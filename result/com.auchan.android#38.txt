@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Appli très utile
+Commentaire: L'appli est bien conçue. J'attends la version pour ma tablette....
+DateCommentaire:27 septembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Bug
+Commentaire:L'application se ferme immédiatement dès que l'on active une zone de saisie. Mobile z ultra
+DateCommentaire:16 août 2014
+NoteCommentaire:1

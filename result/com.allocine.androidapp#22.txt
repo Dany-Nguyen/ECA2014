@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Bien mais ...
+Commentaire: Super appli mais le lecteur vidéo est pas terrible du coup difficile de regarder une bande annonce.
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

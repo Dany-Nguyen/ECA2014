@@ -1,0 +1,9 @@
+NomApplication:Résultats Foot en Direct
+IdApplication:com.activaweb.matchendirect
+CategorieApplication:Sports
+NoteApplication:4,5
+NombreVotants:71 496
+TitreCommentaire:
+Commentaire:1 étoile car demande un peu trop d'autorisations, certaines étant inutiles (infos appels ???)
+DateCommentaire:24 octobre 2014
+NoteCommentaire:2

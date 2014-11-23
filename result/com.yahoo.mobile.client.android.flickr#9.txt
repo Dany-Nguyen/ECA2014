@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Beaucoup de stockage photo
+Commentaire: Très bonne appli qui permet de sauvegarder beaucoup de photos. Mais il manque la sauvegarde automatique des vidéos aussi. Avec cette fonctionnalité en plus elle aurait 5 étoiles.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:4

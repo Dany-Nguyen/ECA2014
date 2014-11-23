@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Exelent
+Commentaire: Je cherche le groupe ou l'album et que du bonheur mes albums des années 80 . 90 et plus. Le tous avec mon smartphone Wiko Darkside .Pas besoin d'avoir un S5 !!!!
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

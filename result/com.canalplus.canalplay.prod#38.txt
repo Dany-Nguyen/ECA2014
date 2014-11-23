@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:A fuir !!
+Commentaire: Difficultés de connexion, séries retirées du catalogue sans préavis. Bref on vous appate avec un mois gratuit, mais ça retombe vite fait. Vivement Netflix que les opérateurs français se secouent un peu.
+DateCommentaire:1 septembre 2014
+NoteCommentaire:2

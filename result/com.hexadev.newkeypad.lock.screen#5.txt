@@ -1,0 +1,9 @@
+NomApplication:Ecran verrouillage du clavier
+IdApplication:com.hexadev.newkeypad.lock.screen
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:21 410
+TitreCommentaire:
+Commentaire:Sa ne beug pas sur mon galaxy grand, mais sa ne veut pas mettre une photo de ma galerie, sa ne marche pas..
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

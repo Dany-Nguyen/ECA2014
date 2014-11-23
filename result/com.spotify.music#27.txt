@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Spotify ne fonctionne pas
+Commentaire: Depuis aujourd'hui je ne peut plus utiliser l'application uneesage d'erreur me dit que spotify à cessé de fonctionner !!!!
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

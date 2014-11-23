@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Paysage ou portrait
+Commentaire: Je regrette de ne plus pouvoir avoir le choix, sur ma tablette je ne peux acceder à la page qu avec le mode portrait, dommage. Hormis cela, c'est je suis fan.
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Non plus de maj
+Commentaire: Catastrophe y en a mare de ces mises a jour.je n ai plus l icône télé loisirs j ai un Android a la place.et et en plus de ça je ne peut plus voir les critiques d un programme sa me dit que la page web est inaccessible. Merci de régler ceci.
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

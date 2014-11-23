@@ -1,0 +1,9 @@
+NomApplication:TV d'Orange
+IdApplication:com.orange.owtv
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:23 646
+TitreCommentaire:Nouvelle interface moins pratique
+Commentaire: L'appli fonctionne correctement mais les recherches par nom ne sont plus dispo depuis tous les menus de la nouvelle interface, il faut retourner à l'accueil. Moins pratique également pour passer d'une catégorie à une autre, il faut faire plusieurs retours .. Plus jolie présentation mais moins pratique...
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

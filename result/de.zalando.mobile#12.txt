@@ -1,0 +1,9 @@
+NomApplication:Zalando - shopping en ligne
+IdApplication:de.zalando.mobile
+CategorieApplication:Shopping
+NoteApplication:4,4
+NombreVotants:45 905
+TitreCommentaire:Bien mais
+Commentaire: Il manque un accès à l'aide pour les différentes tailles.
+DateCommentaire:30 octobre 2014
+NoteCommentaire:4

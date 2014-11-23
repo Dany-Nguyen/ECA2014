@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:installation
+Commentaire:Application très utile et facile d'utilisation. Elle le serait encore plus s'il y avait moyen de l'installer sur toutes les tablettes et portables. Pas moyen en effet de l'installer sur une tablette android 4.4.4. Y aura t-il une solution rapide ?
+DateCommentaire:5 octobre 2014
+NoteCommentaire:2

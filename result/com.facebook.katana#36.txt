@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:
+Commentaire:ourquoi il obligée de téléchargement application messenger pour chat
+DateCommentaire:23 novembre 2014
+NoteCommentaire:1

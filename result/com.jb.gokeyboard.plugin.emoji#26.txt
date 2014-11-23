@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:C nul
+Commentaire: C archi nul les emoji ne s affiche pas sur mes message
+DateCommentaire:27 septembre 2014
+NoteCommentaire:1

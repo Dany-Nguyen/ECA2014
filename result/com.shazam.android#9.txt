@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Bonne idée d'appli
+Commentaire: Dommage qu'il n'y ai pas tout, sinon 5/5
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

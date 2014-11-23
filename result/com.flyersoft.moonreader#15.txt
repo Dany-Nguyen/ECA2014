@@ -1,0 +1,9 @@
+NomApplication:Moon+ Reader
+IdApplication:com.flyersoft.moonreader
+CategorieApplication:Livres et références
+NoteApplication:4,5
+NombreVotants:168 588
+TitreCommentaire:
+Commentaire:Dommage que la lecture des PDF soit payante mais sinon cest parfait !
+DateCommentaire:8 novembre 2014
+NoteCommentaire:4

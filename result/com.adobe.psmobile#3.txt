@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:Inutilisable
+Commentaire: J'avais Photoshop Touch sur mon Note 3, il n'est plus compatible avec le Note 4! Donc je perds mes 8€... Malheureusement Photoshop Express ne peut pas le remplacer puisqu'il se referme dès que je sélectionne une photo à modifier. Vite redonnez moi Photoshop Touch!!!
+DateCommentaire:8 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:Nul
+Commentaire: Ils ont même pas la force de mettre quelques musiques avec l'appli. Vraiment décue . Je déconseille
+DateCommentaire:9 novembre 2014
+NoteCommentaire:1

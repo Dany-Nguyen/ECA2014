@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Données peu fiables
+Commentaire: Avec mon Galaxy Grand, l'application ne fonctionne pas bien. Il n'y a pas suffisamment de sensibilité et les données sur le sommeil sont inexactes. Il faut d'ailleurs que je bouge moi-même le téléphone pour que le réveil se mette en route ! C'est dommage, car il y a de bonnes idées de fonctionnalités, comme de prendre en compte les éléments de la journée (caféine, alcool, stress) et de noter le type de rêves qu'on a fait.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

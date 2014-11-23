@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Bof
+Commentaire:Bien mais ergonomie a revoir... Bugs sur prochains trains
+DateCommentaire:23 novembre 2014
+NoteCommentaire:2

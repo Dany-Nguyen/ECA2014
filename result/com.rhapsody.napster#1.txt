@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Mais
+Commentaire: Ça ma beaucoup plu mais il manque encore des rappeurs comme Jul dommage je metterais 5☆ quand il y aura TOUT les rappeurs de A à Z
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

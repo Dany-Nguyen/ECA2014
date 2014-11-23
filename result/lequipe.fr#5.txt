@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:
+Commentaire:e légers bugs sur les matchs en directs. Sinon très bonne application, en particulier le contenu, identique au site
+DateCommentaire:21 novembre 2014
+NoteCommentaire:4

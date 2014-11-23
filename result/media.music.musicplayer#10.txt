@@ -1,0 +1,9 @@
+NomApplication:Lecteur de musique
+IdApplication:media.music.musicplayer
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:260 161
+TitreCommentaire:
+Commentaire:Bonne app. Mais peux encore être améliorée. Si non c'est une superbe applications.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

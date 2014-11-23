@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Fonctionnement impossible
+Commentaire: Bonjour , je possède le nouveau Samsung galaxy s5 et paye un abonnement de 10€\mois a spotify mais malheureusement , votre application ne fonctionne pas sur mon téléphone,(message : "spotify s'est arrêté") voila la raison de cette note très basse.
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

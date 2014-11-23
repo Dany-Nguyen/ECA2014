@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Nouvelle mise à jour
+Commentaire: Je n'ai plus les photos devant les exercices depuist la dernière mise à jour :-(
+DateCommentaire:4 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:SNCF TER Mobile
+IdApplication:com.ter.androidapp
+CategorieApplication:Transports
+NoteApplication:3,7
+NombreVotants:2 826
+TitreCommentaire:Les appli sncf?
+Commentaire:J'arrive pas à comprendre que tout soit aussi compliqué. Il faut bac+5 pour s'y retrouver.
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:Bof bof
+Commentaire: Bug fréquent et musiques qui s'effacent sans raison. Voilà pourquoi 3 étoiles
+DateCommentaire:25 octobre 2014
+NoteCommentaire:3

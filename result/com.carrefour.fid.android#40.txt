@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Une arnaque
+Commentaire: Encore une fois chez carrefour quand quelque chose fonctionne et bien on le modifie! Impossible d éditer mon chèque fidélité de 60 euros...alors pour débiter mon compte pas de problème, mais pour se servir des chèques fidélités, plus moyen...cela s' appelle de l escroquerie. ..on devrait avoir des compensations pour ces anomalies de fonctionnement. Je ne sais pas pour vous, mais moi carrefour ne me fait aucun cadeau et je dois regler en temps et en heure...ça doit être valable pour eux aussi non?
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

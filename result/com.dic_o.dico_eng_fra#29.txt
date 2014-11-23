@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Super
+Commentaire: Il manque tout de même un endroit où je puisse enregistrer les mot favoris! !! Si non il est presque complet ce dictionnaire!
+DateCommentaire:6 octobre 2013
+NoteCommentaire:4

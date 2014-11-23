@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Enfin une bonne mise a jour
+Commentaire: L appli avait pas mal de bug mais depuis la mise a jour c'est nettement mieux, En tout cas pour moi...J ai maintenant accès a une partie de mes enregistrement. Par contre, certains films qui sont sur le disque dur de la box ne passent pas. Ce soucis sera peut être réglé dans une prochaine nouvelle mise a jour ?
+DateCommentaire:10 octobre 2014
+NoteCommentaire:4

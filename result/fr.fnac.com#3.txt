@@ -1,0 +1,9 @@
+NomApplication:Fnac
+IdApplication:fr.fnac.com
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:4 504
+TitreCommentaire:Bonne application
+Commentaire: L'application met du temps à se lancer. Le temps d'aller chercher des pubs...
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

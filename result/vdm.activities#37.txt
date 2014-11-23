@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Trop de pubs
+Commentaire: Le store qui s'ouvre automatiquement a chaque fois et trop de pubs...a la prochaine maj si ça persiste je desinstalle
+DateCommentaire:16 octobre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Tele7
+Commentaire: Trop de pub mais sinon pas mal c'est ce que l'on attent d'une apli de ce genre
+DateCommentaire:16 novembre 2014
+NoteCommentaire:1

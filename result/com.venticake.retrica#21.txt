@@ -1,0 +1,9 @@
+NomApplication:Retrica
+IdApplication:com.venticake.retrica
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:2 873 444
+TitreCommentaire:P A R F A I T
+Commentaire: Je passe de Windows Phone a Android et je ne regrette absolument pas mon choix ! Il n'y avait aucune application connues sur Windows Phone et maintenant je peux enfin avoir l'incontournable RETRICA ❤
+DateCommentaire:2 novembre 2014
+NoteCommentaire:5

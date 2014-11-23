@@ -1,0 +1,9 @@
+NomApplication:Cardiographe - Cardiograph
+IdApplication:com.macropinch.hydra.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:3,9
+NombreVotants:125 639
+TitreCommentaire:
+Commentaire:J'ai essayé l'application avec Samsung galaxy s4 mini deux fois consécutives en repos et ça donne 67ppm et 68ppm. Puis j'ai refais le même essaye après courir quelques secondes et ça donne 103ppm. Peut être l'application est fiable. Je suis satisfait. Mais il faut comparer les résultats avec des instruments médicaux pour dire que l'application mérite 5 étoiles
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

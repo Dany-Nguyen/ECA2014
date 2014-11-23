@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Maj nulle.
+Commentaire: Gros bug depuis la mise à jour, à chaque fois que l'on veut chercher autre chose, il faut revenir au début de l'appli car sinon impossible d'effacer et de taper autre chose car le clavier ne s'affiche pas ..... Je vais virer la MAJ.
+DateCommentaire:14 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Vraiment top
+Commentaire: Tous les matins, tous les soirs : je lis !
+DateCommentaire:2 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Kindle
+IdApplication:com.amazon.kindle
+CategorieApplication:Livres et références
+NoteApplication:4,1
+NombreVotants:354 441
+TitreCommentaire:It keeps loosing my books
+Commentaire: It keeps loosing my books, I have to re-download them every day
+DateCommentaire:16 octobre 2014
+NoteCommentaire:1

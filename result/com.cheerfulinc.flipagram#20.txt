@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Tablette lazer
+Commentaire: J'ai bien aimer c'est tres bien sa ne beug pas :-)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

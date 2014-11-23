@@ -1,0 +1,9 @@
+NomApplication:Universal Book Reader
+IdApplication:com.mobisystems.ubreader_west
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:85 908
+TitreCommentaire:
+Commentaire:je souhaite voir les formats pdf en plein écran aussi avec la rotation .. et un lien direct vers l'emplacement du livre en cliquant sur sa couverture , pour le reste , parfait !
+DateCommentaire:28 septembre 2014
+NoteCommentaire:5

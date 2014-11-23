@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Géniale mais pourrai être mieux
+Commentaire: Si l'on pouvait télécharger directement sur la plate-forme (ou alors c'est très bien caché)
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:
+Commentaire:J'utilise beaucoup cet applic pour Instagram, tout pourrait être parfait mais... gros problème: le noir et blanc des photos d'origine est complètement détérioré durant le montage vidéo,donnant un aspect verdâtre :((
+DateCommentaire:26 octobre 2014
+NoteCommentaire:3

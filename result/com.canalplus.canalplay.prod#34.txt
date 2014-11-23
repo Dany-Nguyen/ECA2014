@@ -1,0 +1,9 @@
+NomApplication:Canalplay
+IdApplication:com.canalplus.canalplay.prod
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:6 901
+TitreCommentaire:Trop de plantages
+Commentaire: Il faut lancer l'application au moins 5 fois pour que cela fonctionne. Quand au vidéo, c'est pire. A corriger d'urgence !
+DateCommentaire:8 octobre 2014
+NoteCommentaire:1

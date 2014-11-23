@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Beug MAJ please
+Commentaire:Le probleme du changement de l'appareil photo de devant ou derriere a été resolue donc merci. Mais maintenant l'application "met beaucoup trop de temps" pour charger les snaps reçus ou bien les histoires que nous avons à voir donc faudrais régler ça et la l'application serait parfaite !
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

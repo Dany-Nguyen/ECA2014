@@ -1,0 +1,9 @@
+NomApplication:PlayTube Mp3 Mp4 YouTube
+IdApplication:com.mattia.videos.manager
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:267 315
+TitreCommentaire:A refaire
+Commentaire: Refaite une mise à jour pour améliorer l'application car là c'est n'importe quoi,on peut même plus télécharger des vidéos,... Bref à changer au plus vite car une mise à jour est faite pour améliorer l'application et pas le contraire! L'ancienne version était bcp plus facile et elle fonctionnait
+DateCommentaire:11 novembre 2014
+NoteCommentaire:1

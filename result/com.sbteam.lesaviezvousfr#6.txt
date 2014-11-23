@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Cool
+Commentaire: C'est bien comme application, c'est assez marrant de découvrir certains trucs. Seul souci: l'espace. En 10 minutes il fait déjà la taille de plus de 30Mo. C'est dommage on doit la désinstaller et la réinstaller pour avoir un de nouveau assez d'espace. En attendant j'enlève 2 étoiles mais je modifirais quand ça sera arrangé
+DateCommentaire:19 octobre 2014
+NoteCommentaire:3

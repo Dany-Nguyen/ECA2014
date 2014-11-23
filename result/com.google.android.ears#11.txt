@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Suprenante
+Commentaire: Je viens de découvrir cette application en natif Sur mon nexus 4 bien plus réactive que shazam et se place directement sur le bureau que du bon
+DateCommentaire:11 décembre 2013
+NoteCommentaire:5

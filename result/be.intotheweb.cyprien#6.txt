@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Très bonne appli
+Commentaire: J'adore cette application de Cyprien, aucun bug, la présentation est claire, à chaque qu'une nouvelle vidéo est publiée je suis informé par une notification. Je conseille fortement cette application aux fans de Cyprien.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:5

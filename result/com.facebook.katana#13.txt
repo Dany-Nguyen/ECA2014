@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Mise à jour inutile et incompétente
+Commentaire:Ça fait 3 semaines que sur ma tablette samsung galaxy ça bug à mort 😈 ...alors que sur mon smartphone ça marche car pas de mise à jour
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

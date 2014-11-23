@@ -1,0 +1,9 @@
+NomApplication:Showroomprive
+IdApplication:com.holosfind.showroom
+CategorieApplication:Shopping
+NoteApplication:3,7
+NombreVotants:8 469
+TitreCommentaire:MAJ nulle...pour changer
+Commentaire: Bon je pensais que la MAJ avait réglé mon problème de téléchargement de photos des ventes mais non...voila la 3e MAJ que ça bug quand avant tout fonctionné!!!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Pratique je préfère la version Android
+Commentaire: Je préfère la version Android à la version pc elle est plus claire, plus simple !
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

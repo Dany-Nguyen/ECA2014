@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Booster sa visibilité professionnelle
+Commentaire:Je trouve que cette application est tres utile pour augmenter sa visibilité cependant je trouve dommage que l on ne puisse pas effectuer des modifivations directement depuis l application... d où le manque de la 5 eme étoile pour ma part !
+DateCommentaire:11 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Bonne application mais
+Commentaire:Bonne application mais il manque des stations de rer (Issy Val de seine par exemple) et certains trains (transilien) ne s'affichent pas dans la rubrique prochains trains, mise à jour svp !
+DateCommentaire:1 octobre 2014
+NoteCommentaire:3

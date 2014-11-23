@@ -1,0 +1,9 @@
+NomApplication:SoundCloud - sons & musiques
+IdApplication:com.soundcloud.android
+CategorieApplication:Musique et audio
+NoteApplication:4,3
+NombreVotants:815 791
+TitreCommentaire:Looks good
+Commentaire: Needs search history, a 'delete from playlist' button; an option to arrange the songs by alphabetical order; a 'Home' button so we can go back to the playlists and likes anytime + repeat/shuffle/add to queue, and album arts should be bigger
+DateCommentaire:13 novembre 2014
+NoteCommentaire:4

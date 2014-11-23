@@ -1,0 +1,9 @@
+NomApplication:Go Locker
+IdApplication:com.jiubang.goscreenlock
+CategorieApplication:Personnalisation
+NoteApplication:4,4
+NombreVotants:958 825
+TitreCommentaire:Moyen
+Commentaire: Il est rapide et avec un peu de style au déverrouillage (animation CRT,style vielle TV) mais bcp trop basique et trop peu de réglage par rapport à d'autres locker, mais bon il fait le taf!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

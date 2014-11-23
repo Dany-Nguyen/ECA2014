@@ -1,0 +1,9 @@
+NomApplication:SNCF Transilien
+IdApplication:com.ocito.sncf
+CategorieApplication:Transports
+NoteApplication:3,8
+NombreVotants:5 271
+TitreCommentaire:Plus de maj des horaires. ..
+Commentaire:Depuis la dernière maj, l'application est inutilisable, la mise à jour / update des horaires des trains en temps réel à tout simplement disparue. Les horaires ne sont donc jamais à jour.
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:
+Commentaire:pplication très simple à utiliser, c'est parfait !
+DateCommentaire:8 novembre 2014
+NoteCommentaire:5

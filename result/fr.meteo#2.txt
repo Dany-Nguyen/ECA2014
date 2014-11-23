@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Au secours
+Commentaire: Application lente avec des millions de bug. Et quelle precision sur la météo : aujourd'hui "rare averse".... il tombe des trombes d'eau et le departement est en vigilance orange !!!! Très déçue. ... pas fiable du tout !!
+DateCommentaire:10 octobre 2014
+NoteCommentaire:1

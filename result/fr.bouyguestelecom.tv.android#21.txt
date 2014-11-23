@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:De plus en plus déçu
+Commentaire: Super pour regarder la télé ou les programmes mais les enregistrements l horreur fonctionnaient super bien à la création de l appli mais maintenant c super désagréable il dit que vs n etes pas clt bbox ou que vs n etes pas abonné à la chaîne alors que c la tnt
+DateCommentaire:17 novembre 2014
+NoteCommentaire:1

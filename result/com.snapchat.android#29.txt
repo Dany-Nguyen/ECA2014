@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:Beug 😭
+Commentaire:Depuis la dernier mise a jour snapp beug quand je VX l ouvrir il ne veux pas reparrais sa au plus vite svp 😭 car ses une apli génial mes sans beug sa serai encore mieux que génial 😭😍😜
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

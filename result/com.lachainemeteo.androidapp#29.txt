@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:SUPER !
+Commentaire: Ça ne fonctionnait plus avec mon Xperia U mais la avec mon nouveau Smart phone, un Samsung Galaxy S5 mini, l'application fonctionne nickel d'où mon excellente note.
+DateCommentaire:19 octobre 2014
+NoteCommentaire:5

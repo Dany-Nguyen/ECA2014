@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:Application pratique
+Commentaire: Seul bémol, les notifications ne se mettent pas à jour de manière automatique... Multiples doublons
+DateCommentaire:17 novembre 2014
+NoteCommentaire:4

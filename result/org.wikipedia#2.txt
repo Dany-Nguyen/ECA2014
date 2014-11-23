@@ -1,0 +1,9 @@
+NomApplication:Wikipedia Mobile
+IdApplication:org.wikipedia
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:237 783
+TitreCommentaire:Excellente application
+Commentaire: Cette application est très pratique et utile. Je trouve qu'il ne lui manque rien. Pour moi c'est 5 étoiles et respect ^^
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

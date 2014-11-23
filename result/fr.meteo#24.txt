@@ -1,0 +1,9 @@
+NomApplication:Météo-France
+IdApplication:fr.meteo
+CategorieApplication:Météo
+NoteApplication:3,3
+NombreVotants:12 126
+TitreCommentaire:Bug impossible de visualiser quoi que ce soit
+Commentaire: Ne fonctionne plus depuis quelques temps que ce soit sur mon smart phone (note II) ou ma tablette une samsung note 8
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

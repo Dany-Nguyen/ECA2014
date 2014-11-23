@@ -1,0 +1,9 @@
+NomApplication:Betclic Live Football
+IdApplication:betclic.liveScore
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:590
+TitreCommentaire:
+Commentaire:ui bof
+DateCommentaire:27 août 2014
+NoteCommentaire:3

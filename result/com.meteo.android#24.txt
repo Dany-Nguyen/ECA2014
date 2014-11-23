@@ -1,0 +1,9 @@
+NomApplication:Météo Paris
+IdApplication:com.meteo.android
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:4 677
+TitreCommentaire:Bien uniquement pour le radar des pluies
+Commentaire: Tout est dit dans le titre. Les prévisions changent à chaque mise à jour.
+DateCommentaire:15 octobre 2014
+NoteCommentaire:3

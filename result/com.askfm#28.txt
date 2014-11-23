@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:J'adore mais ( i love but..)
+Commentaire:Ca serai bien de pouvoir repondre en video sur le portable: /
+DateCommentaire:11 novembre 2014
+NoteCommentaire:5

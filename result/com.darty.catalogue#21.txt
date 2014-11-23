@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Nul trop chere
+Commentaire: Produits similaire sur cdiscount beaucoup moins chère! !!!!!!!!!!!!!
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

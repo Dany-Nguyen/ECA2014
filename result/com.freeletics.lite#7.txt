@@ -1,0 +1,9 @@
+NomApplication:Freeletics – Extreme Fitness
+IdApplication:com.freeletics.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:9 254
+TitreCommentaire:Super !
+Commentaire: Bonne appli. Fonctionne plutôt bien. Une bonne amélioration serait de pouvoir programmer une série d'exercice, plutôt que de le faire manuellement. La derniere etoile viendra avec ce genre de fonctionnalité.
+DateCommentaire:29 octobre 2014
+NoteCommentaire:4

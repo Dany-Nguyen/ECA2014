@@ -1,0 +1,9 @@
+NomApplication:Napster
+IdApplication:com.rhapsody.napster
+CategorieApplication:Musique et audio
+NoteApplication:3,8
+NombreVotants:10 696
+TitreCommentaire:10€ direct :(
+Commentaire: Dommage qu'il n'y ait pas une version dégradée gratuite puis des services premium payants, un peu comme Spotify... Ça refroidit tout de suite...
+DateCommentaire:30 octobre 2014
+NoteCommentaire:1

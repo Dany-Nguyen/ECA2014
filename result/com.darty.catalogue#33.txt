@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Trop de crash
+Commentaire: A la moindre consultation de détails produit ou de tentative de visualisation de photos de produits, l'appli plante, insupportable
+DateCommentaire:23 juillet 2014
+NoteCommentaire:1

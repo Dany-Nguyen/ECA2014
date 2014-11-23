@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Consomme jusqu'à 50% du CPU !
+Commentaire: La meilleure météo gratuite en widget de page d'accueil ! Mais, vide la batterie en KitKat 4.4.2+...
+DateCommentaire:7 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Bof
+Commentaire:Mauvaise appli recherche des différents championnat compliqué l appli fff non officiel est bien mieux faite pourquoi avoir fait supprimer la version non officiel vous auriez dû vous en inspirer
+DateCommentaire:25 juillet 2014
+NoteCommentaire:1

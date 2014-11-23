@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Bien mais...
+Commentaire: Trop trop de pubs dommage sinon cela aurait pu être 5 étoiles
+DateCommentaire:12 novembre 2014
+NoteCommentaire:3

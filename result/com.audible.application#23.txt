@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Does not work on android 4.3
+Commentaire: After having updated to Android 4.3, the application no longer works on samsung galaxy s3 (crash on startup).
+DateCommentaire:19 juillet 2014
+NoteCommentaire:5

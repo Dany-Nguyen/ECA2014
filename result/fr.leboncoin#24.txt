@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Nul
+Commentaire: Je trouve l'application nul je ne peut même pas faire de recherche dans Isère qui et mon département sa me m'ai toujours ronhalp je ver la désinstaller d'image
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Runtastic Courir & Fitness
+IdApplication:com.runtastic.android
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:315 785
+TitreCommentaire:Fait ce qu'on attend de lui
+Commentaire: On est loin de la voix sensuelle de nos gps auto mais correct pour l'utilisation que j'en ai.
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

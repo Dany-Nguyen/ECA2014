@@ -1,0 +1,9 @@
+NomApplication:AlloCine
+IdApplication:com.allocine.androidapp
+CategorieApplication:Divertissement
+NoteApplication:3,9
+NombreVotants:35 475
+TitreCommentaire:Modèrons les modérateurs
+Commentaire: J'enlève 3 étoiles pour modèrer les modérateurs qui nous modèrent légèrement les bornes si je puis être modéré, j'ai fermé mon compte AlloCiné à cause d'eux qu'ils retournent à l'école du rire pour réviser leur humour car si l'on doit uniquement critiquer des films en étant de bonne humeur même si on a l'impression que l'on s'est encore une fois foutu de la gueule du spectateur... Comme disait Audiard les cons ça osent tout c'est même à cela qu'on reconnaît les modérateurs...
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

@@ -1,0 +1,9 @@
+NomApplication:PlayStation®App
+IdApplication:com.scee.psxandroid
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:196 712
+TitreCommentaire:Sympa
+Commentaire: Corriger le gros problème de lenteur avec l'envoi et la réception des messages , sinon ras
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:MYTF1
+IdApplication:fr.tf1.mytf1
+CategorieApplication:Divertissement
+NoteApplication:3,0
+NombreVotants:26 293
+TitreCommentaire:
+Commentaire:L'application ne marche pas du tout. Les vidéos bugs et un épisode à même recommencer 3 fois de suite. En gros NUL
+DateCommentaire:12 novembre 2014
+NoteCommentaire:1

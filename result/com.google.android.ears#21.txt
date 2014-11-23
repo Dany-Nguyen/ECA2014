@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Google sait le faire mais ce service est moyen
+Commentaire: Si la reconnaissance marchait aussi bien que sur Youtube quand on upload une vidéo avec des chansons dedans ça serait parfait, mais là c'est franchement moyen. Ps : pensez aux membres All Access de Google Musique et quand on tag un titre, merci de ne pas nous proposer de l'acheter mais de nous proposer de l'ajouter à une playlist par exemple, ou de l'écouter...
+DateCommentaire:30 septembre 2013
+NoteCommentaire:2

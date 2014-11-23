@@ -1,0 +1,9 @@
+NomApplication:Flipagram
+IdApplication:com.cheerfulinc.flipagram
+CategorieApplication:Photographie
+NoteApplication:4,4
+NombreVotants:784 775
+TitreCommentaire:Super
+Commentaire: Seul petit bémol c qu'on peut pas prendre de la musique de deezer sinon super
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

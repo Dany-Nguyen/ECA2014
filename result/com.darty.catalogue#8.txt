@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Belle appli
+Commentaire: Bien faite simple et intuitive mais pourquoi diable ne conservez vous pas la connexion ? C'est vraiment chi..t.
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

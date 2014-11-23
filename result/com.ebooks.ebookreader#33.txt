@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:
+Commentaire:L'appli est en anglais et je n'arrive pas à la mettre en français...
+DateCommentaire:20 septembre 2014
+NoteCommentaire:2

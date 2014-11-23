@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Peut mieux faire
+Commentaire: Bon élève, ses capacités ne sont pas assez exploitées, le conseil de classe attend un effort au prochain trimestre.
+DateCommentaire:25 août 2014
+NoteCommentaire:4

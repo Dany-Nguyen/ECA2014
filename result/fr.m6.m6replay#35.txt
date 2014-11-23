@@ -1,0 +1,9 @@
+NomApplication:6play
+IdApplication:fr.m6.m6replay
+CategorieApplication:Divertissement
+NoteApplication:3,6
+NombreVotants:52 249
+TitreCommentaire:trop de pub
+Commentaire: 4 coupures pour un feuilleton de 50 minutes, c'est pas un peu abusé ? vous savez quoi, je tourne la tete et je ne regarde pas cette réclame...
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

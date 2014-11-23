@@ -1,0 +1,9 @@
+NomApplication:Deezer Music
+IdApplication:deezer.android.app
+CategorieApplication:Musique et audio
+NoteApplication:4,0
+NombreVotants:371 730
+TitreCommentaire:Chansons inaccessibles hors ligne
+Commentaire: BUG : en version premium, j'ai de nombreuses chansons qui deviennent inaccessibles hors ligne, je dois refaire une synchro. La lecture se bloque sur ces morceaux, c'est extrêmement pénible ! (sur Samsung Note 2 android 4.3)
+DateCommentaire:11 novembre 2014
+NoteCommentaire:2

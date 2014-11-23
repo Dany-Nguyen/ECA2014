@@ -1,0 +1,9 @@
+NomApplication:vente-privee
+IdApplication:com.venteprivee
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 926
+TitreCommentaire:Toujours pas de mode paysage...
+Commentaire: Vous êtes vraiment à la traîne comparé à votre concurrents
+DateCommentaire:19 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:iCoyote Avertisseur de dangers
+IdApplication:com.coyotesystems.android
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:12 827
+TitreCommentaire:Le co-pilote idéal
+Commentaire:3ans, 120.000 km d'utilisation et toujours 12 pts. Merci coyote, merci à la communauté ! Je n'ai qu'une réclamation: supprimez nous ce rond qui prend 15% de la visibilité en mode carte paysage pour afficher notre vitesse. L'ancien affichage devait convenir à beaucoup d'entre nous.
+DateCommentaire:3 octobre 2014
+NoteCommentaire:5

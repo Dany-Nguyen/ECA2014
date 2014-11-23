@@ -1,0 +1,9 @@
+NomApplication:Ebook Reader
+IdApplication:com.ebooks.ebookreader
+CategorieApplication:Livres et références
+NoteApplication:4,0
+NombreVotants:30 571
+TitreCommentaire:
+Commentaire:Très bonne appli. Juste un petit soucis sur un de mes livres. Quand je veut reprendre ma lecture je reviens toujours 4 pages avant. Enfin ce n'est pas trop gênant maintenant que j'ai compris le truc.
+DateCommentaire:29 septembre 2014
+NoteCommentaire:5

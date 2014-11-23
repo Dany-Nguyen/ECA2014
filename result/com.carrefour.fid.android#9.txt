@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Manque de fluidité
+Commentaire: On a du mal a s'y retrouver.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

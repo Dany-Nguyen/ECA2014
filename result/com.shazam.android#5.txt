@@ -1,0 +1,9 @@
+NomApplication:Shazam
+IdApplication:com.shazam.android
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:1 886 400
+TitreCommentaire:Bof
+Commentaire: J'aurais pense mieux... Je cherche une chanson mais il n'y a pas loption chercher alors je ne la trouve pas et je l'ai chanté mais il dise aucun résultats.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2

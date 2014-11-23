@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Batterie
+Commentaire: Gros gros problème de consommation de batterie. L'appli a quasi déchargé mon téléphone en une nuit, alors qu'il était en mode avion... J'attends la prochaine mise à jour avec impatience.
+DateCommentaire:23 août 2014
+NoteCommentaire:2

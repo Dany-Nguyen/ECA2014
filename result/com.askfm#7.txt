@@ -1,0 +1,9 @@
+NomApplication:Ask.fm
+IdApplication:com.askfm
+CategorieApplication:Social
+NoteApplication:4,1
+NombreVotants:687 450
+TitreCommentaire:Pourquoi j'ai pas de questions ?
+Commentaire:je me suis inscrit et j'ai aucune question, ma cousin3e s'est aussi inscrite posez lui des questions: @laurine_jrd
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

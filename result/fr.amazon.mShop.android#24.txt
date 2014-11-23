@@ -1,0 +1,9 @@
+NomApplication:Amazon FR
+IdApplication:fr.amazon.mShop.android
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:13 508
+TitreCommentaire:Site de vente
+Commentaire: Qui ne permet plus d'acheter, moteur de recherche qui revient au début de la liste après chaque consultation d'articles ... bref avec la dernière MAJ, cette application ne me sert plus à rien.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:1

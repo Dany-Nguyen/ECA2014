@@ -1,0 +1,9 @@
+NomApplication:Programme TV par Télé Loisirs
+IdApplication:fr.playsoft.teleloisirs
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:70 106
+TitreCommentaire:Super appli!
+Commentaire: L'application parfaite pour le programme télé! Permet de contrôler la box, de remplacer la télécommande, de programmer les enregistrements, avec une super présentation. ..
+DateCommentaire:21 novembre 2014
+NoteCommentaire:5

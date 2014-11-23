@@ -1,0 +1,9 @@
+NomApplication:Sound Search for Google Play
+IdApplication:com.google.android.ears
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:57 432
+TitreCommentaire:Simple, fiable, et intégré !
+Commentaire: Avec la dernière mise à jour de Search on peut directement tagger les chansons et elles apparaissent dans l'historique sur le widget, parfait ! Par exemple sur mon S3 je laisse un raccourci vers la recherche vocale sur mon écran de verrouillage, si une musique se joue dans le fond un icône musique se rajoute (sinon on parle simplement pour faire une recherche) et il trouve vraiment tout très très vite. Manque juste une sauvegarde des sample non identifié quand on n'a plus de réseau 3G. (Impossible en 2G)
+DateCommentaire:1 juillet 2013
+NoteCommentaire:4

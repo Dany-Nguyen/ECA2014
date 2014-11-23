@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Impossible à utiliser
+Commentaire:Idem nouvelle version. Ça plante et ça mouline pendant des minutes. ....Ça plante a chaque fois que je l utilise. Impossible d'obtenir mon boarding pass. Impossible de regarder mes reservations. Bref rien absolument rien ne fonctionne sur mon Galaxy S4. Catastrophique
+DateCommentaire:20 octobre 2014
+NoteCommentaire:1

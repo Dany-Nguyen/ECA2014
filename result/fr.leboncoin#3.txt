@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Bof
+Commentaire: Pas moyen de choisir une catégorie donc faire une recherche devient d un ennuis et d une longueur je vais virer l appli si ça change pas
+DateCommentaire:15 novembre 2014
+NoteCommentaire:2

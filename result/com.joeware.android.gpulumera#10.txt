@@ -1,0 +1,9 @@
+NomApplication:Candy Camera - Selfie Selfies
+IdApplication:com.joeware.android.gpulumera
+CategorieApplication:Photographie
+NoteApplication:4,3
+NombreVotants:680 831
+TitreCommentaire:Pas mal!
+Commentaire: Quelqu'un peut m'expliquer comment on fait pour avoir mes trucs sur eye liner,fare a joue etc!😘😜👍
+DateCommentaire:29 octobre 2014
+NoteCommentaire:3

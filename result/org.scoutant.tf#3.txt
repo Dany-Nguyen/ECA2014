@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Amateur
+Commentaire:Pour une application censée donner des infos routières il manque quand même quelques chose de primordial. La prévision du trafic à un ou deux jours. Surtout les wé de départ et retour de vacances.
+DateCommentaire:18 juillet 2014
+NoteCommentaire:2

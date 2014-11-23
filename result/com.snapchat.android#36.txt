@@ -1,0 +1,9 @@
+NomApplication:Snapchat
+IdApplication:com.snapchat.android
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:2 164 085
+TitreCommentaire:A ameliorer d urgence
+Commentaire:Faite au moin des effort sur la qualiter de l image est des videos sa devient lourd la
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

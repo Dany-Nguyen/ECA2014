@@ -1,0 +1,9 @@
+NomApplication:Smart Voice Recorder
+IdApplication:com.andrwq.recorder
+CategorieApplication:Musique et audio
+NoteApplication:4,4
+NombreVotants:223 318
+TitreCommentaire:0 même, lisez et vous comprendrez
+Commentaire: Si vous faites informations de l'appli vous vous apercevez qu'elle à le droit d'utiliser le microphone et d'enregistrer sans votre consentement. Elle est où ma vie privée ??? tout comme: Facebook, Facebook messenger, chrome, et notre galerie photo à même le droit de prendre des photos, vidéo, enregistrement audio sans votre consentement
+DateCommentaire:24 octobre 2014
+NoteCommentaire:1

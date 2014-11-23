@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:
+Commentaire:Je vend une ps3 slim avec des jeux et la manette sur Nice pour 210 euro si ça intéresse quelqu'un :)
+DateCommentaire:10 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Cdiscount - Shopping mobile
+IdApplication:cdiscount.mobile
+CategorieApplication:Shopping
+NoteApplication:3,5
+NombreVotants:6 013
+TitreCommentaire:
+Commentaire:Impossible de payer l'application me renvoie à chaque fois au menu précédent quand je veut payer et en plus il me met 5 articles alors que j'en est 1 seul
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

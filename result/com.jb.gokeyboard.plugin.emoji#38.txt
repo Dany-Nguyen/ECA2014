@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:Heu...
+Commentaire: Jai envoyer des smilley a ma pot et elle ma dit pour koi tu ma dit sa: ???????..du coup jai essayer de menvoyer des smilley et sa ma fait sa: ???? Du coup jaim pas cette aplie
+DateCommentaire:20 novembre 2014
+NoteCommentaire:2

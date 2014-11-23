@@ -1,0 +1,9 @@
+NomApplication:Spotify Music
+IdApplication:com.spotify.music
+CategorieApplication:Musique et audio
+NoteApplication:4,5
+NombreVotants:1 828 796
+TitreCommentaire:Vraiment nul
+Commentaire: Pourquoi n'ai-je pas le droit de choisir la musique que je veux? Au lieu de sa, une musique aléatoire m'est imposé... Je desinstale
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

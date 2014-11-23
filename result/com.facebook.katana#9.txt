@@ -1,0 +1,9 @@
+NomApplication:Facebook
+IdApplication:com.facebook.katana
+CategorieApplication:Social
+NoteApplication:4,0
+NombreVotants:23 307 464
+TitreCommentaire:Ça avance ;-)
+Commentaire:Bien mais on ne peut pas selectioner les actualités les plus récentes sur sa page d'accueil
+DateCommentaire:22 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Cette application est génial!
+Commentaire: Grace a Dailymotion je peux regarder toute mes séries préféré !
+DateCommentaire:16 novembre 2014
+NoteCommentaire:5

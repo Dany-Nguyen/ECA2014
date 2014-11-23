@@ -1,0 +1,9 @@
+NomApplication:Météo pour la France
+IdApplication:com.idmobile.francemeteo
+CategorieApplication:Météo
+NoteApplication:4,5
+NombreVotants:43 655
+TitreCommentaire:Nickel
+Commentaire: Simple, complet et efficace. le radar de pluie etant super utile.
+DateCommentaire:13 novembre 2014
+NoteCommentaire:5

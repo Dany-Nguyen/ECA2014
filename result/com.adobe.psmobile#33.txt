@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:
+Commentaire:Bien vrai il me manque juste l'application d'ajout de texte.
+DateCommentaire:26 juillet 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Darty
+IdApplication:com.darty.catalogue
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:1 451
+TitreCommentaire:Pourri
+Commentaire: Des qu'on ouvre un produit l'application se ferme. Mieux vaut aller sur le site que l'application. A revoir.
+DateCommentaire:20 août 2014
+NoteCommentaire:1

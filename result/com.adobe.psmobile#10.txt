@@ -1,0 +1,9 @@
+NomApplication:Adobe Photoshop Express
+IdApplication:com.adobe.psmobile
+CategorieApplication:Photographie
+NoteApplication:4,0
+NombreVotants:258 721
+TitreCommentaire:On ne peut pas ajouter dimage, juste modifier celle de base effet correction des yeux rouges et ces tout desinstalle
+Commentaire: Nul
+DateCommentaire:27 août 2014
+NoteCommentaire:2

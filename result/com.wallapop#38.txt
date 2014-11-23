@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:Simple mais bizarre
+Commentaire: Application plutôt simple et intéressante jusqu'au moment où en consultant les annonces de la rubrique "nouveau dans votre quartier" je tombe sur sur des annonces citées à 250km de chez moi. Chez Wallapop les quartiers sont très grands. Du coup l'appli basée sur la proximité perte tout son intérêt. Leboncoin me voilà :-/
+DateCommentaire:21 août 2014
+NoteCommentaire:3

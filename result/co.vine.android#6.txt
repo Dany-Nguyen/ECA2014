@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Bonne maj
+Commentaire:Depuis la mise à jour je n'ai plus de problème, rien à dire 👍
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

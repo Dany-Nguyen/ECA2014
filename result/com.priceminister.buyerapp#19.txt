@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Déçue on ne peut qu'acheter
+Commentaire: Nos articles en vente ne sont pas visibles et on ne peut pas non plus mettre nos articles en vente depuis l'application. De plus le système de recherche est beaucoup moins bien que sur le site je trouve. Application inutile pour moi....
+DateCommentaire:21 juillet 2014
+NoteCommentaire:2

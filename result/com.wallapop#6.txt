@@ -1,0 +1,9 @@
+NomApplication:Wallapop - Acheter et vendre
+IdApplication:com.wallapop
+CategorieApplication:Shopping
+NoteApplication:4,0
+NombreVotants:37 191
+TitreCommentaire:A revoir
+Commentaire: Idée génial mais le résultat des recherches est nul. Dans la catégorie électronique, je me retrouve avec des culottes et soutiens gorges......mdr. donc à revoir
+DateCommentaire:20 novembre 2014
+NoteCommentaire:3

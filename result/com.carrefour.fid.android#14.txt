@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Informaticiens incompetents
+Commentaire: Depuis la mise a jour cette semaine, plus moyen d'éditer un e-cheque en direct à la caisse. Ou sont mes 49,55 euros. Un message dit que l'on ne peut pas editer plus d'un cheque par jour... mais le premier ne s' affiche deja pas !!!! Une honte !!! Arrêtez les mises a jour minables par pitié !!!!!
+DateCommentaire:15 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Incomplet grave !
+Commentaire: On n'a pas accès à nos ventes ni aux messages des acheteurs. Bien mieux sur IPhone où on accès à TOUT : nullissime sur Android. DÉÇUE !
+DateCommentaire:26 septembre 2014
+NoteCommentaire:1

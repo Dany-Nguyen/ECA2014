@@ -1,0 +1,9 @@
+NomApplication:Pinterest
+IdApplication:com.pinterest
+CategorieApplication:Social
+NoteApplication:4,6
+NombreVotants:866 628
+TitreCommentaire:InsPinRation
+Commentaire:Très bien comme app pour fureter. Mais pour modifier son tableau, moins évident.
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

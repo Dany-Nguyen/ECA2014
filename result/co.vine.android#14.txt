@@ -1,0 +1,9 @@
+NomApplication:Vine
+IdApplication:co.vine.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:730 133
+TitreCommentaire:Super mais lent
+Commentaire:L'application marche a merveille mais les vidéos prennent du temps a chargée
+DateCommentaire:8 novembre 2014
+NoteCommentaire:3

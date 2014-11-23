@@ -1,0 +1,9 @@
+NomApplication:Le Foot Amateur
+IdApplication:fr.ffflfa
+CategorieApplication:Sports
+NoteApplication:3,6
+NombreVotants:934
+TitreCommentaire:Manque pas grand chose...
+Commentaire:Je mettrai la 5ème étoile quand l'application se mettra à jour rapidement (calendriers, scores, etc...) Mise à jour du 30/08: Je retire une étoile, parce qu'en plus, personne ne répond aux questions posées par les utilisateurs !
+DateCommentaire:30 août 2014
+NoteCommentaire:3

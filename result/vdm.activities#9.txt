@@ -1,0 +1,9 @@
+NomApplication:VDM Officiel
+IdApplication:vdm.activities
+CategorieApplication:Divertissement
+NoteApplication:4,3
+NombreVotants:30 559
+TitreCommentaire:Lol
+Commentaire: Je me dis que me vie n'est pas si nul en regardant celle des gens ! Je meure de rire
+DateCommentaire:5 octobre 2014
+NoteCommentaire:5

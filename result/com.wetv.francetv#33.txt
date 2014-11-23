@@ -1,0 +1,9 @@
+NomApplication:France TV
+IdApplication:com.wetv.francetv
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:1 765
+TitreCommentaire:LA PUB EST TROP GÊNANTE..
+Commentaire: Faites une version payante sans pub et avec toutes les chaines qui fonctionnent !
+DateCommentaire:19 octobre 2014
+NoteCommentaire:3

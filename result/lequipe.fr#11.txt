@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Mon site de sport préféré
+Commentaire:Que dire...toujours à la page sur le foot, nettement moins sur le rugby ou d'autres sports. Mais on y reviens toujours. Ce que je reproche c'est la régularité des mises à jour. Pour le sport amateur!!! Championnat du monde de triathlon, duathlon, aquathlon
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

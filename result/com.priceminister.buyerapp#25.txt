@@ -1,0 +1,9 @@
+NomApplication:PriceMinister
+IdApplication:com.priceminister.buyerapp
+CategorieApplication:Shopping
+NoteApplication:3,9
+NombreVotants:5 781
+TitreCommentaire:Gros bug depuis quelques temps
+Commentaire: Je désinstalle... Bug tout le temps lors de la recherche... L appli se ferme. Dommage
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

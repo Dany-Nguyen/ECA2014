@@ -1,0 +1,9 @@
+NomApplication:CANAL RUGBY APP
+IdApplication:com.netcosports.andcanalrugby
+CategorieApplication:Sports
+NoteApplication:4,2
+NombreVotants:855
+TitreCommentaire:Bien mais
+Commentaire:Trop de bugs sur les pronostics avec deux journees manquantes et donc pas d'evolution classement. Derniere journee manquant : 19eme
+DateCommentaire:17 février 2014
+NoteCommentaire:3

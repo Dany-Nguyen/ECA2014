@@ -1,0 +1,9 @@
+NomApplication:Cyprien
+IdApplication:be.intotheweb.cyprien
+CategorieApplication:Divertissement
+NoteApplication:4,6
+NombreVotants:42 009
+TitreCommentaire:Sympas
+Commentaire: Au début il y a un beug ,fermer l appli et lancez la 2 ou 3 fois et puis fermez l application. On a tout les videos de Cyprien et c est plus rapide je sur YouTube ;) vraiment cool
+DateCommentaire:15 novembre 2014
+NoteCommentaire:5

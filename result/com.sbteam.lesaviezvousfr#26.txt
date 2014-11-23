@@ -1,0 +1,9 @@
+NomApplication:Le saviez-vous?
+IdApplication:com.sbteam.lesaviezvousfr
+CategorieApplication:Divertissement
+NoteApplication:4,0
+NombreVotants:2 529
+TitreCommentaire:Pas d'argument
+Commentaire: Les sources sont cités sans sources direct ou indirect et sans lien. Quand on veux savoir plus sur un sujet les explications ne sont pas fournies. Donc rien ne prouve ce que dit l'application est véridique du fait qu'il n'y a ni arguments ni source cité pour qu'on puisse vérifier la crédibilité des sujets. De plus on ne peut pas proposer des sujets que les responsables de l'application pourraiq vérifié et cité .
+DateCommentaire:10 novembre 2014
+NoteCommentaire:1

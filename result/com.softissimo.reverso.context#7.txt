@@ -1,0 +1,9 @@
+NomApplication:Reverso Traduction en Contexte
+IdApplication:com.softissimo.reverso.context
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:204
+TitreCommentaire:Mieux que Google !
+Commentaire: Un dictionnaire de langue ultra complet ! Un vrai plaisir a utiliser... Ce dictionnaire propose plusieurs traduction en fonction du sens du mot. Je conseille grandement malgré le fait qu'il traduit pas les phrases complète... Un coup de coeur merci !!!!
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

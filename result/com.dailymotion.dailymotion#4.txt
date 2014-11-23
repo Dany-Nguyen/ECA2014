@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Les pubs verrouillées
+Commentaire: Pour visionner de petites vidéos de 16 secondes il faut supporter une publicité de 20 à 30 secondes sans pouvoir la fermer en 3 secondes comme sur Youtube. Les Français toujours forts pour compliquer un truc qui devrait être simple. Désinstallé.
+DateCommentaire:3 novembre 2014
+NoteCommentaire:1

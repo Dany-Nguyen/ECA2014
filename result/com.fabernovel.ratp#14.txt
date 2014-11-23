@@ -1,0 +1,9 @@
+NomApplication:RATP
+IdApplication:com.fabernovel.ratp
+CategorieApplication:Transports
+NoteApplication:3,6
+NombreVotants:19 419
+TitreCommentaire:Au revoir bugs
+Commentaire:Enfin la RATP s'est décidée à corriger les bugs. La nouvelle page d'accueil est très sympa
+DateCommentaire:12 novembre 2014
+NoteCommentaire:5

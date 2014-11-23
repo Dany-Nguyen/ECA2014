@@ -1,0 +1,9 @@
+NomApplication:Air France
+IdApplication:com.airfrance.android.dinamoprd
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:2 913
+TitreCommentaire:Bravo
+Commentaire:Presque parfait et encore mieux avec au moins le hall d'enregistrement qui est connu à l'avance. Pour la porte d'embarquement, il serait bon de l'ajouter dès qu'elle est définie.
+DateCommentaire:6 novembre 2014
+NoteCommentaire:4

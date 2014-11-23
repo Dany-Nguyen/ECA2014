@@ -1,0 +1,9 @@
+NomApplication:La Chaîne Météo
+IdApplication:com.lachainemeteo.androidapp
+CategorieApplication:Météo
+NoteApplication:4,3
+NombreVotants:87 250
+TitreCommentaire:Ne fonctionne pas
+Commentaire: Les températures et descriptions de la météo sont décalés par rapport à la carte ... Géolocalisation ne peut être déterminée ... J'ai le lg g3 donc version trop élevé pour cette application je pense, à quand une mise à jour pour Android kit kat ...
+DateCommentaire:17 août 2014
+NoteCommentaire:1

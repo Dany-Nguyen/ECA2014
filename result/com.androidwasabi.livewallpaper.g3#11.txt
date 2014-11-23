@@ -1,0 +1,9 @@
+NomApplication:G3 fond d'écran animé
+IdApplication:com.androidwasabi.livewallpaper.g3
+CategorieApplication:Personnalisation
+NoteApplication:3,9
+NombreVotants:70 399
+TitreCommentaire:c toi le nul tu c meme pas c quoi G3 c un telrfone super aitek meme que c LG qui on fabriker MOI G LE LG G2 SA REND TROP BIEN
+Commentaire: Super appli je le conseille et meme que c en francais
+DateCommentaire:19 juillet 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:Il manque
+Commentaire: Il manque toujours l'option ville avec élargissement au km.... obligé de mettre ville par ville , pour chercher une location c'est nul.
+DateCommentaire:8 novembre 2014
+NoteCommentaire:2

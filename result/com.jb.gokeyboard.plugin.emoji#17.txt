@@ -1,0 +1,9 @@
+NomApplication:EMOJI KEYBOARD
+IdApplication:com.jb.gokeyboard.plugin.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,1
+NombreVotants:441 906
+TitreCommentaire:
+Commentaire:C est bien mais il y a pas tout les smileys et on dois obligatoirement avoir go clavier
+DateCommentaire:18 novembre 2014
+NoteCommentaire:3

@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Btv
+Commentaire: Btv ne marchait pas, j' ai appelé Bouygues plusieurs fois, j' ai bien été pris en charge et ils ont résolu le problème; maintenant tout marche sauf la télécommande mais ils continuent à travailler sur le problème; et vont me tenir au courant pour que tout fonctionne ! Pour moi, le service client est très bien !!! Comme je leur ai dit, cette appli m' étai très pratique ( au temps où ça s' appelait " guide tv bbox ") et il faut dire que par rapport à la concurrence, ils étaient les premiers à lancer ce servic
+DateCommentaire:15 novembre 2014
+NoteCommentaire:4

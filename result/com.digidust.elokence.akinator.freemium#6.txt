@@ -1,0 +1,9 @@
+NomApplication:Akinator the Genie FREE
+IdApplication:com.digidust.elokence.akinator.freemium
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:356 769
+TitreCommentaire:Mouai
+Commentaire: Sa ma assez plus mais il y a que personnage pas objet 👎☝👇👈👉👊
+DateCommentaire:19 novembre 2014
+NoteCommentaire:4

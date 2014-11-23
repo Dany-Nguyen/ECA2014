@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Abdel L.
+Commentaire:Super appli, je m'en sert tous les jours, fonctionne parfaitement sur mon note 3, trafic en temps réel, rien à dire mérite 5 étoiles
+DateCommentaire:22 juillet 2014
+NoteCommentaire:5

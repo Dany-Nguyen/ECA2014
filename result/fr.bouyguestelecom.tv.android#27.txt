@@ -1,0 +1,9 @@
+NomApplication:B.tv
+IdApplication:fr.bouyguestelecom.tv.android
+CategorieApplication:Divertissement
+NoteApplication:3,8
+NombreVotants:21 875
+TitreCommentaire:Maj ridicule bein sport abs etc...
+Commentaire: Maj totalement hors de contrôle des programmateurs. Fait à la va vite. Ne reconnais même plus ses abonnés!! !!promet bein d' ou la mise mise à jour.mais en fait rien de cela. ..
+DateCommentaire:4 novembre 2014
+NoteCommentaire:1

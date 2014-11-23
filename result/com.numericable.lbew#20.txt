@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Utilisation impossible
+Commentaire: Impossible de se connecter que se soit avec wifi ou identifiant personnel,nul nul nul nul nul nul,depechez vous de resoudre le soucis car ce genre d’application devient incontournable et d’autre fournnisseur d'acces ont ce genre d’applicatio QUi FONCTIONNE !!!!!!!!!! Je pense aller chez la concurence qui savent faire des appli digne de ce nom . NUĹ
+DateCommentaire:5 novembre 2014
+NoteCommentaire:1

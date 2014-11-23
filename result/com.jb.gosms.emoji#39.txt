@@ -1,0 +1,9 @@
+NomApplication:GO SMS Pro Emoji Plugin
+IdApplication:com.jb.gosms.emoji
+CategorieApplication:Personnalisation
+NoteApplication:4,2
+NombreVotants:200 091
+TitreCommentaire:Compatibilité de la part de....?
+Commentaire: Résultat, 3 étoiles...PB de compatibilité lors de l'envoie vers un WP...dommage mais c'est sûrement le WP qui n'est pas à la norme 😜
+DateCommentaire:5 octobre 2014
+NoteCommentaire:3

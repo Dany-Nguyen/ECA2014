@@ -1,0 +1,9 @@
+NomApplication:LaBox TV
+IdApplication:com.numericable.lbew
+CategorieApplication:Divertissement
+NoteApplication:3,4
+NombreVotants:1 871
+TitreCommentaire:Impossible...
+Commentaire: .... De regarder un programme ou un enregistrement jusqu'au bout... L'image fige... Et impossible de reprendre ce dernier, obligé de fermer l'application et de la redémarrer... Mais même en faisant cela... Ça marche toujours pas...
+DateCommentaire:29 octobre 2014
+NoteCommentaire:1

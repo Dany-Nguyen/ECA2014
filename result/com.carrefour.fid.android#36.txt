@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Le chèque fidélité ne s'édite pas !!!
+Commentaire: Ça marchait très bien avant. Aujourd'hui en caisse impossible d'éditer le chèque fidélité sur l'application.. Obligé de laisser mon caddie et d'aller a une borne carrefour pour faire une édition papier.. J'ai mis 15min pour payer mon caddie !! Je ne comprends pas qu'une application soit mise à jour sans contrôle de son bon fonctionnement !!
+DateCommentaire:14 novembre 2014
+NoteCommentaire:1

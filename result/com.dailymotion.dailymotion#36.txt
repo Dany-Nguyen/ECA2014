@@ -1,0 +1,9 @@
+NomApplication:Dailymotion
+IdApplication:com.dailymotion.dailymotion
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:302 716
+TitreCommentaire:Lenteur
+Commentaire: Les videos mettent un temps fou pour s' ouvrir meme en wifi
+DateCommentaire:19 novembre 2014
+NoteCommentaire:1

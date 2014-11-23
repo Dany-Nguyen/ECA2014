@@ -1,0 +1,9 @@
+NomApplication:Marmiton Tablette : recettes
+IdApplication:com.aufeminin.marmiton.tablet
+CategorieApplication:Style de vie
+NoteApplication:4,2
+NombreVotants:16 635
+TitreCommentaire:Manque d'ergonomie et de fonctions.
+Commentaire:Il n'y a pas toutes les fonctions que l'on trouve sur le site. Ex : mes commentaires personnels après avoir testé la recette n'apparaissent pas, on ne peut ps accéder aux recettes en fonction des types de cuisine. Quand allez vous développer davantage l'appli? Merci
+DateCommentaire:7 novembre 2014
+NoteCommentaire:3

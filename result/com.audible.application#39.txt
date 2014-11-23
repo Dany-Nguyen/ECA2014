@@ -1,0 +1,9 @@
+NomApplication:Audible pour Android
+IdApplication:com.audible.application
+CategorieApplication:Livres et références
+NoteApplication:4,2
+NombreVotants:124 998
+TitreCommentaire:Perte de temps
+Commentaire: Comme bon nombres d'app, rien pour facilité la recherche française. Pourquoi présenter des livres en anglais quand on installé l'App en français
+DateCommentaire:9 septembre 2014
+NoteCommentaire:1

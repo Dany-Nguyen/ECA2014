@@ -1,0 +1,9 @@
+NomApplication:Dictionnaire Anglais-Français
+IdApplication:com.dic_o.dico_eng_fra
+CategorieApplication:Livres et références
+NoteApplication:3,9
+NombreVotants:11 132
+TitreCommentaire:Simple et excellent
+Commentaire: Ne prend pas beaucoup de place en memoire ,simple d utilisation,pas de publicité ni rien d encombrant et peut meme etre utilisé hors ligne ...pour tout dire ....parfait!
+DateCommentaire:3 novembre 2013
+NoteCommentaire:5

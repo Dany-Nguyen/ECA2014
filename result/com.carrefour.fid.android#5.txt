@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Absurde
+Commentaire: A l'heure où les concurrents facilitent l'usage du smartphone, carrefour met fin à l'édition des chèques numériques. Ne sert plus à rien.
+DateCommentaire:22 novembre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:LinkedIn
+IdApplication:com.linkedin.android
+CategorieApplication:Social
+NoteApplication:4,2
+NombreVotants:518 787
+TitreCommentaire:Une applications fluide
+Commentaire:Maintient le contact entre votre réseau pro et vous de façon fort agréable. Petit bemol la gestion multi profil n' est pas optimale
+DateCommentaire:14 novembre 2014
+NoteCommentaire:5

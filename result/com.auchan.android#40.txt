@@ -1,0 +1,9 @@
+NomApplication:My Auchan
+IdApplication:com.auchan.android
+CategorieApplication:Shopping
+NoteApplication:3,4
+NombreVotants:2 034
+TitreCommentaire:Pas de mise à jour solde cagnotte
+Commentaire: Pas mal mais le plus important ne fonctionne pas : le solde de la cagnotte ne se met pas à jour. Dommage
+DateCommentaire:3 septembre 2014
+NoteCommentaire:3

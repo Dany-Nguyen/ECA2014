@@ -1,0 +1,9 @@
+NomApplication:Leboncoin
+IdApplication:fr.leboncoin
+CategorieApplication:Shopping
+NoteApplication:4,1
+NombreVotants:45 209
+TitreCommentaire:À quand la fin des mises à jours ?
+Commentaire: Trop de mises à jours ! Sinon pareil que sur tablette ou bien sur PC !
+DateCommentaire:28 octobre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Pb CB virtuelle
+Commentaire:Très bonne application même s il serait nécessaire de pouvoir payer avec une carte bancaire virtuelle (carte proposée par les banques pour une meilleure sécurité internet)
+DateCommentaire:21 septembre 2014
+NoteCommentaire:4

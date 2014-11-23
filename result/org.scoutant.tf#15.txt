@@ -1,0 +1,9 @@
+NomApplication:Trafic Futé
+IdApplication:org.scoutant.tf
+CategorieApplication:Transports
+NoteApplication:4,0
+NombreVotants:4 078
+TitreCommentaire:Bien, mais il faut attendre
+Commentaire:Bien pratique pour decider de mon trajet, mais sur mont tel il faut attendre 30 secondes pour voire apparaître les bouchons en rouge.
+DateCommentaire:30 août 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Problemes sur les videos.....
+Commentaire:Impossible de lire les videos Youtube ou autres. Si l'appli ne peut pas la lire en interne, au moins faire ouvrir l'appli Youtube pour les lire. Trop d'articles Premium!!
+DateCommentaire:16 novembre 2014
+NoteCommentaire:3

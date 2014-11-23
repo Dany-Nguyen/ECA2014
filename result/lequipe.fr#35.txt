@@ -1,0 +1,9 @@
+NomApplication:L'Equipe.fr : foot, rugby, etc
+IdApplication:lequipe.fr
+CategorieApplication:Sports
+NoteApplication:4,3
+NombreVotants:71 655
+TitreCommentaire:Bien
+Commentaire:Pas de bug ni de probleme déclarer!
+DateCommentaire:18 novembre 2014
+NoteCommentaire:4

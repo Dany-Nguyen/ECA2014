@@ -1,0 +1,9 @@
+NomApplication:Instagram
+IdApplication:com.instagram.android
+CategorieApplication:Social
+NoteApplication:4,5
+NombreVotants:16 850 738
+TitreCommentaire:Super :)
+Commentaire:Seul petit soucis, certaines vidéos que j'ouvre refusent de s'ouvrir et je dois redémarrer l'application pour que ça fonctionne... Et puis je ne peux pas poster de vidéos non plus depuis mon téléphone, je ne sais pas si c'est normal...
+DateCommentaire:22 novembre 2014
+NoteCommentaire:4

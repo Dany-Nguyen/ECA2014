@@ -1,0 +1,9 @@
+NomApplication:Carrefour
+IdApplication:com.carrefour.fid.android
+CategorieApplication:Shopping
+NoteApplication:3,3
+NombreVotants:4 762
+TitreCommentaire:Nouvelle version...
+Commentaire: Mais toujours pas de version tablette (ou de format paysage)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:2
