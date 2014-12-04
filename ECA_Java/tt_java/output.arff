@@ -1,0 +1,14 @@
+@relation play_store_comments
+@attribute class {mauvais, neutre, bien}
+@attribute text String
+@data
+3,TitreCommentaire : bug de lancement Commentaire : dès que je lance l' application ça marche pas help sinon j' adore cyprien faite un maj ( Wiko Rainbow ) tchous bon couscous 
+5,TitreCommentaire : Application très bien Commentaire : Application magnifique 
+5,TitreCommentaire : Cool Commentaire : Vraiment cool comme appli , apres ya pareil pr . SQUEEZIE 
+2,TitreCommentaire : Buggg Commentaire : Je suis a 95 % de l' installation et ca se stop vite MAJ sinon je kiffe cyprien et cyprken gaming 
+5,TitreCommentaire : Cool Commentaire : Cool mais j' arrive pas à prendre de photos sinon trop génial ! ! ! = ) 
+5,TitreCommentaire : Cool Commentaire : Super vraiment cool j ai decouvert c est apli sur youtube 
+5,TitreCommentaire : super cool Commentaire : jadore cool cool cool cool 
+1,TitreCommentaire : trop cool ce jouet vraiment génial franchement je pourrai pas m' en passer Commentaire : cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool c' est génial . 
+5,TitreCommentaire : C' est trop bon ... . . Commentaire : J' adore cette app , no bug no pub ! : D merci cyprien , je suis un gros fan de toi . continue comme cela ; - ) 
+5,TitreCommentaire : Super Commentaire : Ermer de regarder toute les video de cyprien instantanement c' est super , aucun beug sur ma tablette 
