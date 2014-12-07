@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:
-Commentaire:n point à améliorer : pouvoir commander des billets pour ses proches avec son compte sans acheter de billets pour soi même. Actuellement, ce n'est pas possible ...
-DateCommentaire:20 septembre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Nul
-Commentaire: L'appli beuh sans cesse, impossible d'y rentrer il n'a trouver que 2 fois sur 6 ce que je cberchais. Selon moi c'est tout juste commercial mais on rigole bien quand sa marche comme même un peu. Et beaucouuuup trop de pub
-DateCommentaire:23 novembre 2014
-NoteCommentaire:1

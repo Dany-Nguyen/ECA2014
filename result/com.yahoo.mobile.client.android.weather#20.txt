@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Simple
-Commentaire: Ajout de villes OK. Par contre je ne sais pas ce qui fait que la météo est disponible ou pas. Parfois affiché parfois pas et je ne sais pas pourquoi.
-DateCommentaire:3 novembre 2014
-NoteCommentaire:4

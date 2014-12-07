@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Il est trop fort
-Commentaire: Je l'ai installer y a peine 30 min et je suis macro ;-)
-DateCommentaire:14 novembre 2014
-NoteCommentaire:5

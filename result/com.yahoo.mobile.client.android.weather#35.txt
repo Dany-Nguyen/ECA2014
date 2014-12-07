@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Ne fonctionne plus correctement
-Commentaire: Dommage, c'était une bonne application, mais depuis plusieurs semaines ne donne plus la météo sur les villes enregistrées, je desinstalle...
-DateCommentaire:4 novembre 2014
-NoteCommentaire:2

@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Géniale
-Commentaire:Une Appli qui correspond à toutes les attentes ! Merci! J'attends juste que les billets électroniques soit disponibles pour tout les trains
-DateCommentaire:24 octobre 2014
-NoteCommentaire:5

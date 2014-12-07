@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Pas du tout plaisant
-Commentaire: Il y a du mieux...
-DateCommentaire:20 novembre 2014
-NoteCommentaire:3

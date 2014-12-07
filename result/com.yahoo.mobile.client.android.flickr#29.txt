@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Très pratique sur HTC One
-Commentaire: Évite d'utiliser la page Web et facilite le post de photos
-DateCommentaire:11 novembre 2014
-NoteCommentaire:5

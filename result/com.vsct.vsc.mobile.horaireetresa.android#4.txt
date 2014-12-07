@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Amélioration en vue...
-Commentaire:L'application s'améliore bien même s'il manque encore les voyages pre-enregistrés qui ne sont pas visualisables --&gt; mise à jour requise pour pouvoir être du même niveau que l'application web. Mais pourquoi ne changez vous pas le numéro de version lorsque vous publiez une mise à jour ? Là, c'est encore une 16.0 comme la mise à jour de la semaine dernière...
-DateCommentaire:10 septembre 2014
-NoteCommentaire:3

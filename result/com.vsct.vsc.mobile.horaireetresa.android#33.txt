@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:A améliorer
-Commentaire:Il est vraiment dommage que les seules commandes automatiquement enregistrées dans l'application soient celles qui ont été prises avec l'application et non pas toutes celles correspondant au même compte (même numéro de carte voyageur, même nom)
-DateCommentaire:11 septembre 2014
-NoteCommentaire:3

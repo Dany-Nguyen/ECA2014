@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Globalement bien pratique
-Commentaire:La navigation sur les trajets suivant précédent lors d'une sélection de voyage ne marche pas. Le retour aux options sur un voyage sélectionné n'est pas possible donc on repart de zéro. Le ebillet est super.
-DateCommentaire:7 octobre 2014
-NoteCommentaire:4

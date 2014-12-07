@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Trop cool
-Commentaire: C est vraiment cool je suis alle chez u e est ma di quellle avait etvon la essayer
-DateCommentaire:22 novembre 2014
-NoteCommentaire:5

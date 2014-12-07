@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Sans problème
-Commentaire: Cette application fonctionne parfaitement, même en recherche libre.
-DateCommentaire:3 novembre 2014
-NoteCommentaire:5

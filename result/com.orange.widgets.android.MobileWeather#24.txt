@@ -1,9 +1,0 @@
-NomApplication:Orange Météo
-IdApplication:com.orange.widgets.android.MobileWeather
-CategorieApplication:Météo
-NoteApplication:3,6
-NombreVotants:501
-TitreCommentaire:
-Commentaire:Bravo la météo d orange
-DateCommentaire:28 novembre 2013
-NoteCommentaire:5

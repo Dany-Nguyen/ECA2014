@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Mieux
-Commentaire: Merci d'avoir écouté vous utilisateurs. Vous avez repris pratiquement toutes les fonctionnalités de la version précédente. Cela devient de nouveau un plaisir de se servir de cette application. Mais je reste sur ma faim en constatant qu'il est impossible de faire fonctionner cette appli en français sur mon Galaxy S4, alors qu'elle tourne impeccable sur mon Nexus 4 !!!
-DateCommentaire:15 novembre 2014
-NoteCommentaire:4

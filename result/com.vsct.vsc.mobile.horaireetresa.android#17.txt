@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Fonctionnelle!
-Commentaire:Appli très fonctionnelle, juste un peu pointilleuse, pour l'identification si on met une majuscule au lieu d'une minuscule au debut de l'email, elle ne reconnaît pas, mais c'est pareil sur le site! Sinon vraiment très bien, avoir son billet ds le tel, ou la carte de fidelité!
-DateCommentaire:23 novembre 2014
-NoteCommentaire:4

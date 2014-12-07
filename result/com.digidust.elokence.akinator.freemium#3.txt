@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Pas mal mais
-Commentaire: Il a quand même trouvé Hugo Tsr et Akhenaton (IAM) qui ne sont pas très connu car peu commercial donc bravo. Mais dès quu le logiciel ne connais pas ta personne, il y a écrit en gros "Je sais mais pour que je te le dise, tu dois payer'. Ça gâche le principe, c'est dommage (Sans parler de la "potion rayonnante" qui enlève les pub pour 1 euro).
-DateCommentaire:20 novembre 2014
-NoteCommentaire:3

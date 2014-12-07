@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Certain bug
-Commentaire:L'application vous indique parfois la mauvaise gare c'est très désagréable se rater son train a cause de ca
-DateCommentaire:7 novembre 2014
-NoteCommentaire:3

@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Ça m' a beaucoup plu
-Commentaire: C'etait trop beau akinator devine vraiment tout enfin presque j'aurai mis 5 etoiles si l'application free pouvais deviner autre que les gens celebre.☆☆☆☆★★★★♡♡♡♡♥♥♥♥
-DateCommentaire:15 novembre 2014
-NoteCommentaire:4

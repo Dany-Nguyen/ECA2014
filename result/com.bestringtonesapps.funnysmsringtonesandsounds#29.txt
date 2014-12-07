@@ -1,9 +1,0 @@
-NomApplication:Drôle SMS sonneries & Sons
-IdApplication:com.bestringtonesapps.funnysmsringtonesandsounds
-CategorieApplication:Musique et audio
-NoteApplication:4,1
-NombreVotants:13 138
-TitreCommentaire:Bonne apli
-Commentaire: Très bonne je vous conseille mais il faudrait juste qu'il rajoute quelle que voix comme la voix de borat ,une voix portugais et autres ...
-DateCommentaire:30 octobre 2014
-NoteCommentaire:4

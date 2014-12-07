@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Question carte 12-27
-Commentaire:Très bonne application mais est il possible d'ajouter sa carte 12-27 à l applications pour éviter de se la trimballer à tout le temps ? J'ai essayé de mettre les références de ma carte comme pour les billet flash code mais ça ne donne aucun résultat et quand on coche dans notre profil carte de reduction jeune il n'y a pas de fenêtre où mettre les infos de notre carte. Voilà merci !
-DateCommentaire:5 novembre 2014
-NoteCommentaire:4

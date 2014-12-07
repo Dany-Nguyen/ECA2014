@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Magnifique
-Commentaire: Que ce soit sur PC ou sur tablette, le rendu est magnifique mais est-ce dû à l'application ? 😉
-DateCommentaire:11 novembre 2014
-NoteCommentaire:5

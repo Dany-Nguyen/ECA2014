@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Inutilisable
-Commentaire:Encore une bonne blague de la part de la sncf. Impossible d'effectuer une réservation au départ de Paris. La gare n'apparaît tout simplement pas dans la liste des choix proposés et pas moyen de l'ajouter manuellement . Lamentable !!!
-DateCommentaire:5 octobre 2014
-NoteCommentaire:1

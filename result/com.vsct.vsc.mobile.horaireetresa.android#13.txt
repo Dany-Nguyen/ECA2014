@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Bien
-Commentaire:Juste un probleme. Il faudrait pouvoir telecharger le m-billet car il n'y a jamais de reseau dans le train au moment du controle.
-DateCommentaire:31 octobre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Très bon jeu, mais
-Commentaire: Je ne comprend pas ce qu'il se passe : la 1er fois que j'ai jouer j'ai pensé a MAYU, il a trouver mais après il me disait qu'elle n'etait que dans la version payante, POURQUOI ??! Repondez svp
-DateCommentaire:19 novembre 2014
-NoteCommentaire:4

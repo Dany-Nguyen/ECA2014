@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Déception
-Commentaire: Malgré les mises à jour, toujours pas d'affichage des images sur le widget météo (andoid kitkat). A quoi ça sert ces corrections de bug inefficaces? Pas de mise à jour heure d'hiver
-DateCommentaire:27 octobre 2014
-NoteCommentaire:1

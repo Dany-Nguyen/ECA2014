@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Pratique sauf pour le billet électronique
-Commentaire:Un gros défaut: l' appli ne fonctionne pas sans accès Internet. C'est embêtant pour le billet électronique! Si le train passe dans une zone sans réseau... Le billet ne peut pas être affiché!
-DateCommentaire:16 novembre 2014
-NoteCommentaire:4

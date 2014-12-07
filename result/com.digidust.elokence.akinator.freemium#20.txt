@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:
-Commentaire:Moi il y a un problème je met en français et quand je joue il parle en anglais
-DateCommentaire:23 novembre 2014
-NoteCommentaire:1

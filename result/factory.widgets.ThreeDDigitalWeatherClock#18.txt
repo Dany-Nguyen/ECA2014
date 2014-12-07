@@ -1,9 +1,0 @@
-NomApplication:3D Digital Weather Clock
-IdApplication:factory.widgets.ThreeDDigitalWeatherClock
-CategorieApplication:Météo
-NoteApplication:4,1
-NombreVotants:109 691
-TitreCommentaire:Excellent
-Commentaire: Marche très bien, faut aller le chercher dans les Widgets et pas dans la liste des applis pour ceux qui disent que ça marche pas. Le fait qu'il soit en anglais n'est pas si gênant car c'est qd mm facile à comprendre. J'♥ le fait qu'il indique la t° ressentie aussi bien que la t° réelle, la probabilité de pluie en%, l'heure de lever et coucher du soleil, et le nombre d'heures de lumière solaire qu'il reste. Par contre, je n'♥ pas le graphisme.
-DateCommentaire:13 juin 2014
-NoteCommentaire:4

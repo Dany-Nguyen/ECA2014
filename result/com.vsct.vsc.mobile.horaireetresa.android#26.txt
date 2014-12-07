@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Pratique
-Commentaire:Je l'utilise toutes les semaines et mise à part quand des grèves sont annoncé les horaires des trains sont toujours exactes
-DateCommentaire:21 septembre 2014
-NoteCommentaire:5

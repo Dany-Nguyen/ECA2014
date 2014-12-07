@@ -1,9 +1,0 @@
-NomApplication:Runtastic Mountain Bike
-IdApplication:com.runtastic.android.mountainbike.lite
-CategorieApplication:Santé et remise en forme
-NoteApplication:4,5
-NombreVotants:30 688
-TitreCommentaire:Bastien s4 mini
-Commentaire: Très bonne application. Continuer comme ça. ☺🚲
-DateCommentaire:10 novembre 2014
-NoteCommentaire:4

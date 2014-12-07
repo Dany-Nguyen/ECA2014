@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:La finition..
-Commentaire:Très pratique mais une fausse note sur les frais annexes. Bruxelles n'a pas de borne. 10 euros en "bonus" au guichet - non signalé. Transit de paris nord à paris Lyon. C'est pour bibi - non signalé. Près de 12€ à sortir à l'arrache. 8% du prix du billet déjà élevé.
-DateCommentaire:1 novembre 2014
-NoteCommentaire:4

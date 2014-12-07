@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Météo bien fantaisiste
-Commentaire: Les villes enregistrées ne se mettent plus à jour ! 26 degrés annonçait today sur la côte basque et il fait 12 degrés !!! A revoir ..
-DateCommentaire:9 novembre 2014
-NoteCommentaire:1

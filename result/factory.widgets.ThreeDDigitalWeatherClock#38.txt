@@ -1,9 +1,0 @@
-NomApplication:3D Digital Weather Clock
-IdApplication:factory.widgets.ThreeDDigitalWeatherClock
-CategorieApplication:Météo
-NoteApplication:4,1
-NombreVotants:109 691
-TitreCommentaire:Pas mal
-Commentaire: Les differents regions sont introuvable
-DateCommentaire:20 janvier 2014
-NoteCommentaire:5

@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:La mise à jour de trop
-Commentaire: Suite à la dernière mise à jour, Flickr app ne se lance plus ! Cela devient vexant, car malgré plusieurs installations/désintallations, redémarrage, nettoyage, rien n'y fait !
-DateCommentaire:17 octobre 2014
-NoteCommentaire:2

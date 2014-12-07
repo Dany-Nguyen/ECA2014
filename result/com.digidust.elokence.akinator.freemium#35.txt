@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Oui
-Commentaire: Mdr il a tous trouver mes c'est grâce aux questions qu'il pose sa parait tellement évidant qu'il trouve ! Par contre aux bout d'un moment le jeu commence a être lassent voilà pourquoi je ne met que 4 étoile ! ✌
-DateCommentaire:16 novembre 2014
-NoteCommentaire:4

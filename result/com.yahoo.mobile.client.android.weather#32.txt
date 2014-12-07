@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Pub envahissante
-Commentaire: Grave retour en arrière avec ces pubs en plein milieu de l'application très bien d'avant
-DateCommentaire:15 novembre 2014
-NoteCommentaire:1

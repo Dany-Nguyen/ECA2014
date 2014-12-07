@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Bien
-Commentaire:Rien de particulier à redire si ce n'est qu'il serait bien de pouvoir charger les billets TER aussi sur la carte
-DateCommentaire:11 septembre 2014
-NoteCommentaire:4

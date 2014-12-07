@@ -1,9 +1,0 @@
-NomApplication:3D Digital Weather Clock
-IdApplication:factory.widgets.ThreeDDigitalWeatherClock
-CategorieApplication:Météo
-NoteApplication:4,1
-NombreVotants:109 691
-TitreCommentaire:Bug sélection du lieu
-Commentaire: Effectivement, comme le signal un des derniers avis, impossible de rentrer une ville pour sélectionner le lieu météo. ça fonctionnais très bien, puis, d'un coup, il c'est mis sur "London" (Londres quoi) et impossible de l'en faire démordre à tel point que l'appli plante. En réinstallant, cela n'a pas réglé le problème, comme aucun lieu n'est sélectionnable (même plus Londres !) impossible de lancer l'appli. C'est bien dommage car c'est une bonne appli, je l'utilise depuis le début. J'espère la correction de ce bug rapidement, merci d'avance aux développeurs. BUG Corrigé depuis 04 10 14 ! Fonctionne bien, manque plus que le français !
-DateCommentaire:4 octobre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Drôle SMS sonneries & Sons
-IdApplication:com.bestringtonesapps.funnysmsringtonesandsounds
-CategorieApplication:Musique et audio
-NoteApplication:4,1
-NombreVotants:13 138
-TitreCommentaire:
-Commentaire:Funny Titanic trop drôle je croyait que c'étaient la chanson tianic téléphoner à ma mère et marées
-DateCommentaire:22 octobre 2014
-NoteCommentaire:5

@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Rien à redire
-Commentaire:Un seul billet acheté pour le moment mais tout s'est très bien passé. Seul petit regret, pas de possibilité pour dématérialiser le coupon fréquence.
-DateCommentaire:23 novembre 2014
-NoteCommentaire:4

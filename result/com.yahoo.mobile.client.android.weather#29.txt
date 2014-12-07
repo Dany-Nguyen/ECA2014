@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Avant c'était bien...
-Commentaire: Au début, cette appli fonctionnait très bien, le tout avec une interface impossible à retrouver sur des applis concurrentes ! Puis au fil des mises à jours, sa stabilité s'est fortement dégradée, jusqu'à ce que maintenant je ne puisse plus du tout avoir accès à la météo. Après presque un an de bons et loyaux services, je désinstalle au profit de The Weather Channel qui fonctionne très bien. Deux étoiles pour cette application devenue inutilisable mais qui était de très haute qualité auparavant.
-DateCommentaire:22 novembre 2014
-NoteCommentaire:2

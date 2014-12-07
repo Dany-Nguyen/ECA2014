@@ -1,9 +1,0 @@
-NomApplication:3D Digital Weather Clock
-IdApplication:factory.widgets.ThreeDDigitalWeatherClock
-CategorieApplication:Météo
-NoteApplication:4,1
-NombreVotants:109 691
-TitreCommentaire:Bug selection lieu
-Commentaire: Impossible de rentrer le lieu meme avec des villes comme paris ou bordeaux... avant tout marche bien :-(
-DateCommentaire:30 septembre 2014
-NoteCommentaire:4

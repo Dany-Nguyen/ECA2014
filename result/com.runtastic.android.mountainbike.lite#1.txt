@@ -1,9 +1,0 @@
-NomApplication:Runtastic Mountain Bike
-IdApplication:com.runtastic.android.mountainbike.lite
-CategorieApplication:Santé et remise en forme
-NoteApplication:4,5
-NombreVotants:30 688
-TitreCommentaire:Runtastic
-Commentaire: Excellent à accrocher à son VTT, dit tout (temps, km/h, dénivelé...). Même pas besoin du WIFI ! Je vous le conseil vrément.
-DateCommentaire:10 octobre 2014
-NoteCommentaire:5

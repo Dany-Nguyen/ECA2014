@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Beau... Mais là je craque !
-Commentaire: Obligations fréquentes sur mon Note 2 de rentrer dans l'application pour une mise à jour de la météo. Sinon, plutôt sympa, même si parfois, les photos sont assez surprenantes (montagnes pour la campagne...). Et récurrence des villes de Marseille et Paris, alors que je n'en veux pas ! Ces derniers temps, 5 jours sans météo, sur mes 3 choix de ville : je desinstalle, ça devient lourd !
-DateCommentaire:14 novembre 2014
-NoteCommentaire:1

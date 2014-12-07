@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Bug profil accompagnant Enfant +
-Commentaire:Impossible de valider le fait que je sois accompagnant Enfant +, malgré le fait que mes 2 compagnons de voyage pour eux ça fonctionne. Du coup je ne peux pas commander de billet avec l'application car le tarif affiché n'est donc pas le bon vu qu'il ne prends pas ma carte en compte....
-DateCommentaire:5 novembre 2014
-NoteCommentaire:1

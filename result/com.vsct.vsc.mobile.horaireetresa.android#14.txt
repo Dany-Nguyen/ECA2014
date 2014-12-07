@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Bonne application
-Commentaire:Application complète. Seul bémol: elle ne prend pas en compte les abonnements fréquence portant sur un trajet précis. Il est dommage de ne pas pouvoir modifier les choix entrés dans nos préférences sur un achat ponctuel. Ex: je voyage en 2nde tout le temps, sauf lors d'un déplacement pro où j'aimerais être en 1ere. Pour l'instant je suis obligé de changer mes préférences le temps de cette résa.
-DateCommentaire:17 octobre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Aucun trajet disponible
-Commentaire:Impossibilité de voir les trajets, depuis la maj je ne peux plus en voir aucun alors qu'avant ça marchait bien
-DateCommentaire:22 septembre 2014
-NoteCommentaire:2

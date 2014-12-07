@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Suggestion...
-Commentaire:Il serait bien de pouvoir l'utiliser matin et soir de façon quotidienne sans avoir de refus de paiement à la 4ème transaction. Merci de cette évolution à venir.
-DateCommentaire:18 septembre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Voyages-sncf
-IdApplication:com.vsct.vsc.mobile.horaireetresa.android
-CategorieApplication:Transports
-NoteApplication:4,2
-NombreVotants:38 466
-TitreCommentaire:Accès à de nombreuses données confidentielles
-Commentaire:Demande l accès à de nombreuses informations inutiles pour acheter un billet. Une intrusion injustifiée dans la vie privée : un outil plus orienté vers la collecte d'informations que les besoins du client
-DateCommentaire:19 octobre 2014
-NoteCommentaire:1

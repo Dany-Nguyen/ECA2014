@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:Musée virtuel de la photo
-Commentaire: Merci au pro et amateurs de photographie les modèles nature architecture qui nous font rêver ou donnent envie de faire de la photo aussi et partager rendre immortel
-DateCommentaire:5 novembre 2014
-NoteCommentaire:5

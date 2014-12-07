@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Presque bien
-Commentaire: Mise à jour mais toujours ce problème de jour et d heure en double qui apparaît beaucoup trop souvent . Vous faites quoi chez Yahoo à part vous tourner les pousses et toucher le fric de la pub ?
-DateCommentaire:28 octobre 2014
-NoteCommentaire:2

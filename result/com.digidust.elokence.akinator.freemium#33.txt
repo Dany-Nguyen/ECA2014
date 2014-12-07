@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:Ahahah
-Commentaire: Je pensais a un Tacos, il me dit cacahuète après je continue, après il me dit frite, je continue, et apres il me dit fromage et je continue il allait me donner une autre réponse (que je parie fausse) il me dit qu'il faut la version premium...parce que mon truc n'est pas assez "populaire" parce que un Tacos c'est pas populaire?
-DateCommentaire:1 octobre 2014
-NoteCommentaire:4

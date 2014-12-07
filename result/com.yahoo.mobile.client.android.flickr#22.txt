@@ -1,9 +1,0 @@
-NomApplication:Flickr
-IdApplication:com.yahoo.mobile.client.android.flickr
-CategorieApplication:Photographie
-NoteApplication:4,2
-NombreVotants:132 820
-TitreCommentaire:
-Commentaire:A aprt un upload de photo automatique mis par defaut. Applis tres bien fait
-DateCommentaire:22 novembre 2014
-NoteCommentaire:4

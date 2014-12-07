@@ -1,9 +1,0 @@
-NomApplication:Akinator the Genie FREE
-IdApplication:com.digidust.elokence.akinator.freemium
-CategorieApplication:Divertissement
-NoteApplication:4,2
-NombreVotants:356 769
-TitreCommentaire:
-Commentaire:#OMG !!! Il est trop fort j'ai penser a ariana grande il a trouver suivi de nabilla Tarek violetta florencia Justin Bieber Selena Gomez Nicki minaj ....!!! Mais c'est un truc de ouufff!! Quoiii noon mais allo quoi?? Chi vraiment choker l'AAA :)
-DateCommentaire:12 novembre 2014
-NoteCommentaire:5

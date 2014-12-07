@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:C'est devenu une belle merde
-Commentaire: Et dire que c'était la meilleure appli météo ! En quelques mois c'est devenu une merde sans nom, avec de la pub en plus, c'est vrai que Yahoo est bien pauvre comparer à Google...
-DateCommentaire:11 novembre 2014
-NoteCommentaire:1

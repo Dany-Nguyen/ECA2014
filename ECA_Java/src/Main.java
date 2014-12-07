@@ -33,11 +33,11 @@ public class Main {
 		try {
 			Iterator<Path> iterator = stream.iterator();
 			int i = 0;
-				while (iterator.hasNext() && i < 10) {
+				while (iterator.hasNext()) {
 					Path p = iterator.next();
 //					System.out.println(p.getFileName());
 					toArff(p);
-					i++;
+					//i++;
 				}
 		} finally {
 			stream.close();
@@ -54,6 +54,7 @@ public class Main {
 		String noteCommentaire = new String();
 		String textCommentaire = new String();
 		boolean commentaire = false;
+		String test = new String();
 		
 		for (String oneLine : smallFilesLines) {
 		/**
@@ -63,8 +64,9 @@ public class Main {
 			String data[] = oneLine.split("\t");
 
 			
-			if (data[0].startsWith("TitreCommentaire")) {
+			if (data[0].startsWith(":") && test.equals("TitreCommentaire")) {
 				commentaire = true;
+				textCommentaire += "\'";
 			}
 			
 			if (data[0].startsWith("DateCommentaire")) {
@@ -72,15 +74,37 @@ public class Main {
 			}
 			
 			if (commentaire) {
-				textCommentaire += data[0] + " ";
+				textCommentaire += data[0].replace("\'", "\\\'") + " ";
 			}
 			
 			if (data[0].startsWith("NoteCommentaire")) {
-				System.out.print(data[0] + " ==== ");
-				System.out.println(data[0].split(":")[1]);
-				noteCommentaire = data[0].split(":")[1] + ",";
+				//System.out.print(data[0] + " ==== ");
+				//System.out.println(data[0].split(":")[1]);
+				//noteCommentaire = data[0].split(":")[1] + ",";
+				switch(Integer.parseInt(data[0].split(":")[1])) {
+				case 1: noteCommentaire = "mauvais, ";
+				break;
+				
+				case 2: noteCommentaire = "mauvais, ";
+				break;
+				
+				case 3: noteCommentaire = "neutre, ";
+				break;
+				
+				case 4: noteCommentaire = "bien, ";
+				break;
+				
+				case 5: noteCommentaire = "bien, ";
+				break;
+				
+				default: noteCommentaire = "neutre, ";
+				break;
+				
+				}
+				textCommentaire += "\'";
 			}
-
+			
+			test = data[0];
 			
 		}
 		
@@ -152,7 +176,7 @@ public class Main {
 		
 		// @data
 		return "@relation play_store_comments\n"
-				+ "@attribute class {mauvais, neutre, bien}\n"
+				+ "@attribute ps_class {mauvais, neutre, bien}\n"
 				+ "@attribute text String\n"
 				+ "@data\n";
 	}

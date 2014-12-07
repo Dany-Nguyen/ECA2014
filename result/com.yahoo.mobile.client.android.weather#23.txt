@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:Très plaisant
-Commentaire: Ce que j'adore c'est qu'il s'adapte instantanément à votre lieu de résidence et que les photos de fond d'écran son magnifiques, et la prévision heure par heure est précieuse, de même que celle à dix jours. La fiabilité est tout à fait correcte, ce qui rend cette application à mes yeux indispensable dans mon travail.
-DateCommentaire:17 novembre 2014
-NoteCommentaire:4

@@ -1,9 +1,0 @@
-NomApplication:Yahoo Météo
-IdApplication:com.yahoo.mobile.client.android.weather
-CategorieApplication:Météo
-NoteApplication:4,4
-NombreVotants:653 064
-TitreCommentaire:
-Commentaire:Je suus obligé a chaque fois de remettre lema notification, car elle ne s' enclenche pas automatiquement. Et souvent la météo ne s' affiche pas.... Pourtant avant ça fonctionnait plutôt bien!!!
-DateCommentaire:20 novembre 2014
-NoteCommentaire:1

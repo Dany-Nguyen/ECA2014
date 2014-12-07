@@ -1,9 +1,0 @@
-NomApplication:Orange Météo
-IdApplication:com.orange.widgets.android.MobileWeather
-CategorieApplication:Météo
-NoteApplication:3,6
-NombreVotants:501
-TitreCommentaire:Nul
-Commentaire: Nul ce serait bien plus cool si on pouvait faire la mise à jour manuellement les prévisions sont fausses!
-DateCommentaire:23 juillet 2014
-NoteCommentaire:2
