@@ -1,6 +1,5 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
@@ -10,14 +9,15 @@ import java.nio.file.StandardOpenOption;
 import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class CorpusNettoye {
 	
+
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		Path ttPath = Paths.get("../treetagger");
 		DirectoryStream<Path> stream = Files.newDirectoryStream(ttPath);
 
-		Path outputArff = Paths.get("tt_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputNet.arff");
 		Files.write(outputArff, writeHeader().getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 		try {
 			Iterator<Path> iterator = stream.iterator();
@@ -32,7 +32,7 @@ public class Main {
 
 	public static void toArff(Path p) throws IOException, FileNotFoundException {
 		Files.createDirectories(Paths.get("tt_java/"));
-		Path outputArff = Paths.get("tt_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputNet.arff");
 		
 		
 
@@ -41,6 +41,7 @@ public class Main {
 		String textCommentaire = new String();
 		boolean commentaire = false;
 		String test = new String();
+		String adjNom = new String();
 		
 		for (String oneLine : smallFilesLines) {
 		/**
@@ -60,7 +61,9 @@ public class Main {
 			}
 			
 			if (commentaire) {
-				textCommentaire += data[0].replace("\'", "\\\'") + " ";
+				adjNom = data[1].split(":")[0];
+				if(adjNom.equals("ADJ") || adjNom.equals("NOM") || adjNom.equals("VER"))
+					textCommentaire += data[0].replace("\'", "\\\'") + " ";
 			}
 			
 			if (data[0].startsWith("NoteCommentaire")) {

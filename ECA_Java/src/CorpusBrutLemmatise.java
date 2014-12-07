@@ -1,6 +1,5 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
@@ -10,14 +9,15 @@ import java.nio.file.StandardOpenOption;
 import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class CorpusBrutLemmatise {
 	
+
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		Path ttPath = Paths.get("../treetagger");
 		DirectoryStream<Path> stream = Files.newDirectoryStream(ttPath);
 
-		Path outputArff = Paths.get("tt_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputLemm.arff");
 		Files.write(outputArff, writeHeader().getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 		try {
 			Iterator<Path> iterator = stream.iterator();
@@ -32,7 +32,7 @@ public class Main {
 
 	public static void toArff(Path p) throws IOException, FileNotFoundException {
 		Files.createDirectories(Paths.get("tt_java/"));
-		Path outputArff = Paths.get("tt_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputLemm.arff");
 		
 		
 
@@ -60,7 +60,10 @@ public class Main {
 			}
 			
 			if (commentaire) {
-				textCommentaire += data[0].replace("\'", "\\\'") + " ";
+				if(!data[2].equals("<unknown>")) {
+					textCommentaire += data[2].replace("\'", "\\\'") + " ";
+					//System.out.println(data[2]);
+				}
 			}
 			
 			if (data[0].startsWith("NoteCommentaire")) {
