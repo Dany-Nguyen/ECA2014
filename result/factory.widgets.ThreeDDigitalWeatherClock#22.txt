@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:Bof
+Commentaire: Même pas en français et pas d'itinerance... mieux ailleurs.
+DateCommentaire:26 décembre 2013
+NoteCommentaire:1

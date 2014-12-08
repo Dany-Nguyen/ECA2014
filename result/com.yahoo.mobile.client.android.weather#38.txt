@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:
+Commentaire:Je trouve cette application génial elle me donne réellement le temps qu'il fait sur 10 jours et sur tous les villages et villes que je demande
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

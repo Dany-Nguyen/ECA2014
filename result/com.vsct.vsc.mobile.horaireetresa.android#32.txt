@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Super application
+Commentaire:Cette application est un vrai must. Mes voyages se synchronisent avec Outlook en toute simplicité. A posséder absolument.
+DateCommentaire:2 octobre 2014
+NoteCommentaire:5

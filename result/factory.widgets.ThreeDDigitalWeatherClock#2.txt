@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:Cool
+Commentaire: J'ador cette aply
+DateCommentaire:25 octobre 2014
+NoteCommentaire:5

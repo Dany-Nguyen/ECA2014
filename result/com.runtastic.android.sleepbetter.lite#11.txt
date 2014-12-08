@@ -1,0 +1,9 @@
+NomApplication:Sleep Better with Runtastic
+IdApplication:com.runtastic.android.sleepbetter.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,1
+NombreVotants:12 791
+TitreCommentaire:Je ne dors pas forcément mieux
+Commentaire: L'application est super même dans sa version gratuite. Les statistiques vous apprennent beaucoup sur votre sommeil. Garder à l'esprit que ce n'est pas un somnifère non plus ! :)
+DateCommentaire:20 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Dommage
+Commentaire: J'aimais bien au début, mais depuis quelques temps les villes ne s'affichent plus à part celle par défaut et le comble est que les prévisions ne commencent qu'à J+4. Impossible de savoir quel temps il fera demain ou le surlendemain. Donc... Je désinstalle. (Sans parler des pubs :-\)
+DateCommentaire:31 octobre 2014
+NoteCommentaire:1

@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Application très pratique
+Commentaire:En Quelques secondes billet réservé... Pas d'erreur et pas de souci technique
+DateCommentaire:5 novembre 2014
+NoteCommentaire:5

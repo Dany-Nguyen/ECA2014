@@ -1,0 +1,9 @@
+NomApplication:Akinator the Genie FREE
+IdApplication:com.digidust.elokence.akinator.freemium
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:356 769
+TitreCommentaire:Trop bien
+Commentaire: Il trouve tous les personnages !!!! Enfin presque...
+DateCommentaire:23 novembre 2014
+NoteCommentaire:4

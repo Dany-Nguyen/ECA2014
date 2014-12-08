@@ -1,0 +1,9 @@
+NomApplication:Akinator the Genie FREE
+IdApplication:com.digidust.elokence.akinator.freemium
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:356 769
+TitreCommentaire:Très limité et en anglais
+Commentaire: Ne devine que les personnages, pas les objets, et encore, il faut qu'ils soient ultra mega connu pour être deviné par la version gratuite donc impossible de le caler.
+DateCommentaire:16 octobre 2014
+NoteCommentaire:1

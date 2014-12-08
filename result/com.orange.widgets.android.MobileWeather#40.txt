@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:JE N'EN VEUX PAS !!!!
+Commentaire: Mais (évidemment) impossible de désinstaller... Rrr !!!
+DateCommentaire:6 janvier 2014
+NoteCommentaire:1

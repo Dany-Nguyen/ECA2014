@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:Mediocre
+Commentaire: Il ne veut pas s allumet si je pouvai mettre zero je mettrai zero
+DateCommentaire:7 mars 2014
+NoteCommentaire:1

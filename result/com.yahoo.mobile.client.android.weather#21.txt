@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Apparition de pub
+Commentaire: Suite à la mise à jour on a de la pub qui apparaît en plein milieu. Et le cadre pub est énorme en taille !
+DateCommentaire:28 octobre 2014
+NoteCommentaire:2

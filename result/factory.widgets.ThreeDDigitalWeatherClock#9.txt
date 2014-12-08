@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:zzzzz
+Commentaire: "Set your weather location" bug !!!!!! perhaps the problem comes from the server from which the weather locations informations are extracted is down...
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

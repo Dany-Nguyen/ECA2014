@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Pratique mais encore quelques bug!
+Commentaire:Jusqu'à présent je réservais, modifiais ou supprimais un voyage, mais depuis mise à jour impossible d'importer mes voyages. Donc application devenue inutile.
+DateCommentaire:9 octobre 2014
+NoteCommentaire:3

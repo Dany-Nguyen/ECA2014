@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:PHOTOS HORS SUJET
+Commentaire: Pourrait être encore mieux si les photos d'arrière plan correspondaient VRAIMENT à une photo prise dans la ville
+DateCommentaire:16 novembre 2014
+NoteCommentaire:4

@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Publicités
+Commentaire: C'était parfait avant la dernière mise à jour, sérieux c'est impossible d'avoir une bête météo sans pub maintenant ???
+DateCommentaire:25 octobre 2014
+NoteCommentaire:1

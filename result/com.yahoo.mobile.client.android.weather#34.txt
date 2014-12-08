@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Fiabilité à revoir
+Commentaire: Bonne appli en général, niveau localisation c'est un peut n'imp quand on me dit que j'habite à Jinan (sa doit être en Chine ) .. ou alors à 36 kilomètre de cher moi ou des fois à 5/6 kilomètre sa dur depuis un moment ....
+DateCommentaire:15 novembre 2014
+NoteCommentaire:3

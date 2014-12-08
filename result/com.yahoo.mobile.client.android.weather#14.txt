@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Tout en double...
+Commentaire: Météo à 10 jours c'est bien mais quand on a deux fois chaque jours de la semaine ça fait une météo sur seulement 5 jours, et ce bug dure....
+DateCommentaire:2 novembre 2014
+NoteCommentaire:2

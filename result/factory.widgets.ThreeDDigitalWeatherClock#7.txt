@@ -1,0 +1,9 @@
+NomApplication:3D Digital Weather Clock
+IdApplication:factory.widgets.ThreeDDigitalWeatherClock
+CategorieApplication:Météo
+NoteApplication:4,1
+NombreVotants:109 691
+TitreCommentaire:Pffff
+Commentaire: Ne fonctionne plus pour la ville qui ne s'affiche même plus 😭
+DateCommentaire:30 septembre 2014
+NoteCommentaire:1

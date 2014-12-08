@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Yahoo météo
+Commentaire: Génial ci il pourrait y avoir des animations du style quand il pleut voir la pluie tomber sur l'écran ce serait un plus
+DateCommentaire:9 novembre 2014
+NoteCommentaire:4

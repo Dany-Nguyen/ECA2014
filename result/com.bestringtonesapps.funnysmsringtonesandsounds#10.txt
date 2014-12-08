@@ -1,0 +1,9 @@
+NomApplication:Drôle SMS sonneries & Sons
+IdApplication:com.bestringtonesapps.funnysmsringtonesandsounds
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:13 138
+TitreCommentaire:Super
+Commentaire: Trop drole les sons sa me fait trop rire j'adore 💗💗
+DateCommentaire:19 novembre 2014
+NoteCommentaire:5

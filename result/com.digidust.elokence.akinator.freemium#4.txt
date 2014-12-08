@@ -1,0 +1,9 @@
+NomApplication:Akinator the Genie FREE
+IdApplication:com.digidust.elokence.akinator.freemium
+CategorieApplication:Divertissement
+NoteApplication:4,2
+NombreVotants:356 769
+TitreCommentaire:Au Top!
+Commentaire: J'y joue tous les jours avec mes enfants! Et à chaque fois, on reste sans voix!! Toujours la bonne réponse!! On adore :)
+DateCommentaire:22 novembre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Orange Météo
+IdApplication:com.orange.widgets.android.MobileWeather
+CategorieApplication:Météo
+NoteApplication:3,6
+NombreVotants:501
+TitreCommentaire:
+Commentaire:On ne peut pas la supprimer
+DateCommentaire:19 septembre 2014
+NoteCommentaire:1

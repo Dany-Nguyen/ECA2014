@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Excellent
+Commentaire: Excellent design façon iOS ce pendant il est dommage qu'on ne puisse pas envoyer de FlickrMail depuis l'appli !
+DateCommentaire:5 novembre 2014
+NoteCommentaire:4

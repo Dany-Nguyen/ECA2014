@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Desagrement
+Commentaire:Appli pratique lorsqu elle fournit les bons horaires. Pr un depart des Aubrais vers Paris je trouve la veille un train a 10h26. Le lendemain matin je re verifie l horraire et la surprise le train de 10h26 s est transforme en 11h26... du coup arrive au boulot avec 20 min de retard. Merci la sncf
+DateCommentaire:28 octobre 2014
+NoteCommentaire:2

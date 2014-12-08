@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Pratique
+Commentaire:Tres bonne appli!!! Petit souci pr avoir les qr codes des billets en revanche ne s affichent plus
+DateCommentaire:31 octobre 2014
+NoteCommentaire:4

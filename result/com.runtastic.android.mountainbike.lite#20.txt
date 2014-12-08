@@ -1,0 +1,9 @@
+NomApplication:Runtastic Mountain Bike
+IdApplication:com.runtastic.android.mountainbike.lite
+CategorieApplication:Santé et remise en forme
+NoteApplication:4,5
+NombreVotants:30 688
+TitreCommentaire:Calculs erronés
+Commentaire: J'ai l'impression que les données sont erronés, la vitesse, l'altitude ne correspondent pas. Cela viens peut être de la connexion gps, sinon j'espère que le beug sera corrigé car l'application parait très complète.
+DateCommentaire:23 septembre 2014
+NoteCommentaire:2

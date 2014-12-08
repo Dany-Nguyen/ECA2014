@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Météo indisponible ?
+Commentaire: J'adore cette application qui reste un modèle du genre, mais depuis quelques semaines, j'ai une ville dont la météo n'est plus dispo, ce qui est étrange c'est que sur d'autres devices, cette même ville ne pose aucun soucis ?!? Pour autant, elle mérite ce 4
+DateCommentaire:12 novembre 2014
+NoteCommentaire:4

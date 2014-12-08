@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Vraiment pas mal
+Commentaire:Appli qui fonctionne vraiment bien! Et permet d'en faire plus que le site. Moins 1 étoile quand on achète un billet pour quelqu'un, je n'ai pas trouvé pour le mettre sur sa carte voyageur.
+DateCommentaire:8 octobre 2014
+NoteCommentaire:4

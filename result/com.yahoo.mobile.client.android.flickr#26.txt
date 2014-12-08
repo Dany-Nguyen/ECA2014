@@ -1,0 +1,9 @@
+NomApplication:Flickr
+IdApplication:com.yahoo.mobile.client.android.flickr
+CategorieApplication:Photographie
+NoteApplication:4,2
+NombreVotants:132 820
+TitreCommentaire:Parfait !
+Commentaire: Mémoire, esthétique et qualité d'image parfait.
+DateCommentaire:27 octobre 2014
+NoteCommentaire:5

@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Bien mais pas parfait
+Commentaire:Le titre parle de lui meme, des petites choses a revoir. Par exemple parfois impossible de trouver un train sur un trajet Rennes/Chartres???!!!... bisard...
+DateCommentaire:22 septembre 2014
+NoteCommentaire:4

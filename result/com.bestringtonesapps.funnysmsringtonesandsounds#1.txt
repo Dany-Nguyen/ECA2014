@@ -1,0 +1,9 @@
+NomApplication:Drôle SMS sonneries & Sons
+IdApplication:com.bestringtonesapps.funnysmsringtonesandsounds
+CategorieApplication:Musique et audio
+NoteApplication:4,1
+NombreVotants:13 138
+TitreCommentaire:Abdou siix neuuf
+Commentaire: J ai adore parceque , il y'a plein de music délirante mais Le seul truc qui gâche tout c est qu'il n y'a pas beaucoup de music
+DateCommentaire:7 novembre 2014
+NoteCommentaire:5

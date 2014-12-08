@@ -1,0 +1,9 @@
+NomApplication:Voyages-sncf
+IdApplication:com.vsct.vsc.mobile.horaireetresa.android
+CategorieApplication:Transports
+NoteApplication:4,2
+NombreVotants:38 466
+TitreCommentaire:Très pratique
+Commentaire:Convient parfaitement pour tous les trajets que j'ai pu faire. Par contre il faut faire en sorte que l'appli garde en permanence les codes barres des e-billets parce que le réseau dans le train est très souvent indisponible et c'est pénible lors des contrôles...
+DateCommentaire:4 novembre 2014
+NoteCommentaire:5

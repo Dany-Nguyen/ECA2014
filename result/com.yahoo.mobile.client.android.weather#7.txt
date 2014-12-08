@@ -1,0 +1,9 @@
+NomApplication:Yahoo Météo
+IdApplication:com.yahoo.mobile.client.android.weather
+CategorieApplication:Météo
+NoteApplication:4,4
+NombreVotants:653 064
+TitreCommentaire:Bug et pub
+Commentaire: La plupart des villes enregistrées ne donnent plus la météo, sans compter cette grosse pub bien moche pour une volvo dans je me moque éperdument...
+DateCommentaire:6 novembre 2014
+NoteCommentaire:1
