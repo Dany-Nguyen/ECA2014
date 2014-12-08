@@ -1,6 +1,5 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
@@ -10,14 +9,15 @@ import java.nio.file.StandardOpenOption;
 import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class CorpusBrutLemmatise {
 	
+
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		Path ttPath = Paths.get("../treetagger");
 		DirectoryStream<Path> stream = Files.newDirectoryStream(ttPath);
 
-		Path outputArff = Paths.get("ttCor_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputLemm.arff");
 		Files.write(outputArff, writeHeader().getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 		try {
 			Iterator<Path> iterator = stream.iterator();
@@ -32,7 +32,7 @@ public class Main {
 
 	public static void toArff(Path p) throws IOException, FileNotFoundException {
 		Files.createDirectories(Paths.get("tt_java/"));
-		Path outputArff = Paths.get("ttCor_java/output.arff");
+		Path outputArff = Paths.get("tt_java/outputLemm.arff");
 		
 		
 
@@ -60,9 +60,10 @@ public class Main {
 			}
 			
 			if (commentaire) {
-				//data[0] = data[0].replace("\'", "\\\'");
-				data[0] = correction(data[0]).replace("\'", "\\\'");
-				textCommentaire += data[0] + " ";
+				if(!data[2].equals("<unknown>")) {
+					textCommentaire += data[2].replace("\'", "\\\'") + " ";
+					//System.out.println(data[2]);
+				}
 			}
 			
 			if (data[0].startsWith("NoteCommentaire")) {
@@ -97,8 +98,6 @@ public class Main {
 		}
 		
 		textCommentaire += "\n";
-		textCommentaire = textCommentaire.replace("Commentaire : ", "");
-		textCommentaire = textCommentaire.replace("\':", "\'");
 		
 		
 		Files.write(outputArff, noteCommentaire.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.APPEND);
@@ -158,22 +157,6 @@ public class Main {
 //	 
 //		}
 
-	public static String correction(String commentaire) {
-		
-		commentaire = commentaire.replace("jadore", "j\' adore");
-		commentaire = commentaire.replace("Jadore", "J\' adore");
-		commentaire = commentaire.replace("JADORE", "J\' adore");
-		commentaire = commentaire.replace("JADOR", "J\' adore");
-		commentaire = commentaire.replace("jador", "j\' adore");
-		commentaire = commentaire.replace("jaime", "j\' aime");
-		commentaire = commentaire.replace("Jaime", "J\' aime");
-		commentaire = commentaire.replace("Jaim", "J\' aime");
-		commentaire = commentaire.replace("kiffer", "aimer");
-		commentaire = commentaire.replace("kiff", "aime");
-		commentaire = commentaire.replace("kiffe", "aime");
-		
-		return commentaire;
-	}
 	
 	public static String writeHeader() {
 		// @relation nom_arff
@@ -186,5 +169,4 @@ public class Main {
 				+ "@attribute text String\n"
 				+ "@data\n";
 	}
-
 }
