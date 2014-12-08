@@ -1,7 +1,0 @@
-[
-    {"classe":"bien", "mot":"cool", "valeur":50},
-    {"classe":"bien", "mot":"genial", "valeur":10},
-    {"classe":"neutre", "mot":"meh", "valeur":13},
-    {"classe":"mauvais", "mot":"fdp", "valeur":10},
-    {"classe":"mauvais", "mot":"tamer", "valeur":5}
-]
