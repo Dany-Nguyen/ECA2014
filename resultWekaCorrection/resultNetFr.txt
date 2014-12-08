@@ -1,0 +1,100 @@
+####################NaiveBayes####################
+
+Correctly Classified Instances        3497               65.4134 %
+Incorrectly Classified Instances      1849               34.5866 %
+Kappa statistic                          0.3625
+Mean absolute error                      0.2587
+Root mean squared error                  0.4236
+Relative absolute error                 71.9756 %
+Root relative squared error             99.9354 %
+Total Number of Instances             5346     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.579     0.17       0.549     0.579     0.564      0.786    mauvais
+                 0.237     0.103      0.244     0.237     0.241      0.637    neutre
+                 0.77      0.336      0.784     0.77      0.777      0.788    bien
+Weighted Avg.    0.654     0.264      0.656     0.654     0.655      0.769
+
+########################################
+####################J48####################
+
+Correctly Classified Instances        3705               69.3042 %
+Incorrectly Classified Instances      1641               30.6958 %
+Kappa statistic                          0.379 
+Mean absolute error                      0.2611
+Root mean squared error                  0.3942
+Relative absolute error                 72.6419 %
+Root relative squared error             92.9928 %
+Total Number of Instances             5346     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.562     0.145      0.581     0.562     0.572      0.766    mauvais
+                 0.096     0.029      0.313     0.096     0.147      0.619    neutre
+                 0.869     0.451      0.754     0.869     0.807      0.787    bien
+Weighted Avg.    0.693     0.318      0.654     0.693     0.664      0.761
+
+########################################
+####################SMO####################
+
+Correctly Classified Instances        3874               72.4654 %
+Incorrectly Classified Instances      1472               27.5346 %
+Kappa statistic                          0.4424
+Mean absolute error                      0.3085
+Root mean squared error                  0.3989
+Relative absolute error                 85.8137 %
+Root relative squared error             94.0938 %
+Total Number of Instances             5346     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.596     0.108      0.665     0.596     0.628      0.764    mauvais
+                 0.117     0.041      0.288     0.117     0.167      0.541    neutre
+                 0.902     0.415      0.775     0.902     0.834      0.749    bien
+Weighted Avg.    0.725     0.288      0.686     0.725     0.698      0.727
+
+########################################
+####################JRip####################
+
+Correctly Classified Instances        3527               65.9746 %
+Incorrectly Classified Instances      1819               34.0254 %
+Kappa statistic                          0.1884
+Mean absolute error                      0.3286
+Root mean squared error                  0.4073
+Relative absolute error                 91.3998 %
+Root relative squared error             96.0788 %
+Total Number of Instances             5346     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.237     0.04       0.677     0.237     0.351      0.608    mauvais
+                 0.002     0.001      0.25      0.002     0.003      0.527    neutre
+                 0.973     0.802      0.658     0.973     0.785      0.594    bien
+Weighted Avg.    0.66      0.502      0.613     0.66      0.575      0.589
+
+########################################
+####################IBk####################
+
+Correctly Classified Instances        3459               64.7026 %
+Incorrectly Classified Instances      1887               35.2974 %
+Kappa statistic                          0.2416
+Mean absolute error                      0.2455
+Root mean squared error                  0.4759
+Relative absolute error                 68.2938 %
+Root relative squared error            112.2572 %
+Total Number of Instances             5346     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.362     0.105      0.554     0.362     0.438      0.641    mauvais
+                 0.047     0.036      0.154     0.047     0.072      0.507    neutre
+                 0.89      0.631      0.691     0.89      0.778      0.644    bien
+Weighted Avg.    0.647     0.419      0.589     0.647     0.601      0.626
+
+########################################
