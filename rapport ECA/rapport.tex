@@ -15,40 +15,38 @@
 
 
 \title{\textbf{Rapport}\\\Large{Extraction de connaissances avancée}}
-\author{CARBONNEL Jessie, Nguyen Daniel \& Pibre Lionel}
-\date{\textit{Jeudi 11 décembre 2014}}
+\author{Jessie CARBONNEL, Daniel NGUYEN \& Lionel PIBRE}
+\date{\textit{Jeudi 11 décembre 2014} \\ \includegraphics[height=.15\textheight]{img/um2.jpg}\\[1cm]}
 
 \begin{document}
 \maketitle
 
 \section{Présentation}
-Ce projet s'inscrit dans le cadre de l'UE Extraction de connaissances avancée et a pour but d'appliquer les différentes techniques de fouille et d'analyse de données vues en cours.\\
+Ce projet s'inscrit dans le cadre de l'UE GMIN313 Extraction de connaissances avancée et a pour but d'appliquer les différentes techniques de fouille et d'analyse de données vues en cours.\\
 
 \textbf{Contraintes} : L'analyse doit s'effectuer sur des données textuelles hétérogènes et doit porter sur des sentiments ou des opinions.
 
 \section{Outils utilisés}
 Voici la liste des différents outils utilisés lors de ce projet : 
 \begin{itemize}
-\item Hadoop
-\item D3.js
-\item TreeTagger
-\item API Weka
-\item Langage de programmation : Java
+\item \textbf{Hadoop MapReduce} pour une partie analyse de données nettoyées avant la visualisation,
+\item \textbf{D3.js} pour produire une visualisation web grâce aux données analysées,
+\item \textbf{TreeTagger} pour préparer le corpus en étiquetant le texte donné,
+\item \textbf{API Weka} pour appliquer les algorithmes de fouilles de données,
+\item \textbf{Langage de programmation : Java} pour manipuler les fichiers
 \end{itemize}
-
-\textit{TODO : Expliquer rapidement à quoi sert chaque outils et à quoi ils vont nous servir.}
 
 \section{Constitution du corpus}
 
-Nous avons décidé de travailler sur un corpus basé sur des commentaires d'applications android.
+Nous avons décidé de travailler sur un corpus basé sur des commentaires d'applications Android.
 
-Nous avons choisit de les extraire depuis les applications disponnibles sur le Google Play Store (\textit{https://play.google.com/store/apps}) : les applications y sont nombreuses, variées et le site possède une communauté importante.
-Les informations relatives à un commentaire sont les suivantes : le contenu, le titre, la note de l'application et la date. Nous pouvons aussi utiliser des informations relatives à l'application pour les mettre en parallèle avec les commentaires : la note globale, le nombre de votants, la catégorie ...
+Nous avons choisi de les extraire depuis les applications disponibles sur le Google Play Store (\textit{https://play.google.com/store/apps}) : les applications y sont nombreuses, variées et le site possède une communauté importante.
+Les informations relatives à un commentaire sont les suivantes : le contenu de la description, le titre, la note de l'application et la date. Nous pouvons aussi utiliser des informations relatives à l'application pour les mettre en parallèle avec les commentaires : la note globale, le nombre de votants, la catégorie ...
 On peut trouver diverses API qui permettent de récupérer les informations relatives aux applications de Google Store. Nous avons choisi une API non officielle, \textit{Android Market API}, qui est rapide à prendre en main et permet d'extraire facilement les commentaires.
 
 Chaque API possède un identifiant unique. Nous avons donc dans un premier temps récupérer les identifiants de 135 applications dans des sections variées. Puis nous avons récupéré les informations des 40 derniers commentaires de chacune de ces applications.
 
-Chaque commentaire va faire l'objet d'un fichier. Voici l'exemple des informations relatives au premier commentaire d'une application permettant de lire des PDF (\textit{books.ebook.pdf.reader\#1.txt}) :
+Chaque commentaire va faire l'objet d'un fichier. Voici l'exemple, récupéré via l'API, des informations relatives au premier commentaire d'une application permettant de lire des PDF (\textit{books.ebook.pdf.reader\#1.txt}) :
 
 \begin{verbatim}
 NomApplication:Ebook et PDF Reader
@@ -63,12 +61,12 @@ NoteCommentaire:5
 \end{verbatim}
 
 
-Nous avons extrait un total de 5346 commentaires sur ce format.
+Nous avons extrait un total de 5346 commentaires dans ce format.
 
 \section{Préparation des données}
 
 \subsection{TreeTagger}
-Afin de réaliser le prétraitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outils nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
+Afin de réaliser le pré-traitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outil nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
 
 La figure \ref{treetagger} présente un exemple de TreeTagger.
 \begin{figure}[!h]
@@ -195,7 +193,7 @@ mauvais	&mettre&	-174\\
  
 \subsection{Visualisation avec D3.js}
  
-Nous allons visualiser les statistiques de la section \ref{sec:visu-process} en utilisant la librairie D3.js pour produire des formes à partir des données récupérées.
+Nous allons visualiser les statistiques de la section \ref{sec:visu-process} en utilisant la librairie D3.js pour produire des figures à partir des données récupérées.
  
 \paragraph{Une première visualisation en camembert}pour représenter le pourcentage des commentaires appartenant à chaque classe : \textit{bien}, \textit{mauvais} ou \textit{neutre}. Ces résultats sont représentés dans la figure \ref{camembert}.\\
 \paragraph{Une seconde en histogramme}pour mettre en évidence les mots les plus présents dans chaque classe, et donc voir les mots les plus caractéristiques d'une opinion dans notre corpus. Ces résultats sont représentés dans la figure \ref{histogramme}.
@@ -211,57 +209,37 @@ Nous allons visualiser les statistiques de la section \ref{sec:visu-process} en 
 \begin{center}
 \includegraphics[width=\textwidth]{visu2.png}
 \end{center}
-\caption{Top 5 des mots les plus utilisés dans chaque classe et leur score}\label{histogramme}
+\caption{Top 5 des mots les plus utilisés dans chaque classe et leur nombre d'occurence}\label{histogramme}
 \end{figure}
 \clearpage
 
 \section{Fouille de données}\label{fouille}
 
-\subsection{Application d'algorithmes avec Weka}
-
-Voici les différents algorithmes utilisés dans la partie fouille de données : \\
+Voici les différents algorithmes appliqués avec Weka dans la partie fouille de données : \\
 
 \begin{description}
- \item [NaiveBayes: ] la classification naïve bayésienne est un type de classification probabiliste simple basée sur le théorème de Bayes avec une forte indépendance d\
-es
- hypothèses. \\
+ \item [NaiveBayes: ] la classification naïve bayésienne est un type de classification probabiliste simple basée sur le théorème de Bayes avec une forte indépendance des hypothèses. \\
 
- \item [Arbre de décision: ] cet algorithme utilise une structure d'arbre. L'extrémité de chaque branche représente les différents résultats possibles
- en fonction des décisions prises à chaque étape. Cet algorithme  répartit une population d'individus en groupes homogènes, selon un ensemble
- de variables discriminantes en fonction d'un objectif fixé et connu.\\
+ \item [Arbre de décision (J48): ] cet algorithme utilise une structure d'arbre. L'extrémité de chaque branche représente les différents résultats possibles en fonction des décisions prises à chaque étape. Cet algorithme  répartit une population d'individus en groupes homogènes, selon un ensemble de variables discriminantes en fonction d'un objectif fixé et connu.\\
 
- \item [SVM: ] Les SVM sont des classificateurs qui reposent sur deux idées clés:
+ \item [SVM (SMO): ] Les SVM sont des classificateurs qui reposent sur deux idées-clés:
 
 \begin{itemize}
  \item La notion de marge maximale. La marge est la distance entre la frontière de séparation et les échantillons les plus proches.
 Ces derniers sont appelés vecteurs supports. Dans les SVM, la frontière de séparation est choisie comme celle qui maximise la marge.
-Le problème est de trouver la frontière séparatrice optimale, à partir d'un ensemble d'apprentissage. Cependant il existe déjà des algorithmes pour résoudre ce
-problème
- \item  Transformer l'espace de représentation des données d'entrées en un espace de plus grande dimension, dans lequel il est probable qu'il existe une
- séparatrice linéaire. \\
+Le problème est de trouver la frontière séparatrice optimale, à partir d'un ensemble d'apprentissage. Cependant il existe déjà des algorithmes pour résoudre ce problème
+ \item  Transformer l'espace de représentation des données d'entrées en un espace de plus grande dimension, dans lequel il est probable qu'il existe une séparatrice linéaire. \\
 \end{itemize}
- \item [Méthode par règles d'association: ] La méthode par règles d’association s’apparente à celle des arbres de décision. Chaque règle pouvant être
- vue comme le parcours dans un arbre de décision binaire. Cependant les arbres de décisions essayent de réduire le nombre de parcours à explorer tandis
- qu’ici on explore tout.\\
+ \item [Méthode par règles d'association (JRip): ] La méthode par règles d’association s’apparente à celle des arbres de décision. Chaque règle pouvant être vue comme le parcours dans un arbre de décision binaire. Cependant les arbres de décisions essayent de réduire le nombre de parcours à explorer tandis qu’ici on explore tout.\\
 
- \item [K plus proche voisin: ] L’algorithme KNN figure parmi les plus simples algorithmes d’apprentissage artificiel. Dans un contexte de classification d’une
- nouvelle observation x, l’idée fondatrice simple est de faire voter les plus proches voisins de cette observation. La classe de x est déterminée en fonction de la
- classe majoritaire parmi les k plus proches voisins de l’observation x. La méthode KNN est donc une méthode à base de voisinage, non-paramétrique ; Ceci signifiant
- que l’algorithme permet de faire une classification sans faire d’hypothèse sur la fonction $y=f(x_1,x_2,…x_p)$ qui relie la variable dépendante aux variables indépend\
-antes.
+ \item [K plus proche voisin (IBk): ] L’algorithme KNN figure parmi les plus simples algorithmes d’apprentissage artificiel. Dans un contexte de classification d’une nouvelle observation x, l’idée fondatrice simple est de faire voter les plus proches voisins de cette observation. La classe de $x$ est déterminée en fonction de la classe majoritaire parmi les k plus proches voisins de l’observation $x$. La méthode KNN est donc une méthode à base de voisinage, non-paramétrique ; Ceci signifiant que l’algorithme permet de faire une classification sans faire d’hypothèse sur la fonction $y=f(x_1,x_2,…x_p)$ qui relie la variable dépendante aux variables indépendantes.
 \end{description}
-
-\subsection{Recherche des mots les plus fréquents par classe}
-
-\textit{TODO : Partie Daniel sur Hadoop \\}
 
 \section{Résultats}
 
-\textit{TODO : A quoi correspondent les données dans les tableaux des figures 2 à 9 ?\\}
-
 \subsection{Résultats obtenus avec Weka}
 
-Les tableaux suivant représentent les résultats des instances correctement classifiées (en pourcentage). Pour obtenir ces résultats nous avons utilisé une représentation de type ``sac de mots''. Nous avons donc utilisé le filtre de Weka ``StringToWordVector'', sans compter le nombre de fois que le mot apparaît la première fois (les résultats de la colonne binaire), et une autre fois en comptant le nombre de fois que le mot apparaît (la colonne fréquence).
+Les tableaux suivant représentent les résultats des instances correctement classifiées (en pourcentage). Pour obtenir ces résultats nous avons utilisé une représentation de type ``sac de mots''. Nous avons donc utilisé le filtre de Weka ``StringToWordVector'', d'abord sans l'option ``outputWordCounts'' (les résultats de la colonne binaire), puis en activant cette option (la colonne fréquence).
 
 \subsubsection{Texte non corrigé}
 \begin{figure}[h]
@@ -380,7 +358,7 @@ Les tableaux suivant représentent les résultats des instances correctement cla
 \caption{Texte brut lemmatisé}
 \end{minipage}
 \end{figure}
-\vspace{1cm}
+\newpage
 \begin{figure}[h]
 \begin{minipage}{0.5\textwidth}
 \begin{tabular}{|c|c|c|}
@@ -421,8 +399,6 @@ Les tableaux suivant représentent les résultats des instances correctement cla
 \end{figure}
 
 
-
-
 \section{Analyse des résultats}
 
 \subsection{Analyse des résultats de Weka}
@@ -438,14 +414,14 @@ Lorsque nous avons fait le prétraitement, nous avons vu que deux éléments ris
 	\item [Les commentaires en anglais: ]Certains commentaires sont écrits en anglais et ne sont donc pas reconnus par TreeTagger.
 \end{description}
 
-On peut voir d'après les résultats obtenus que l'algorithme de classification le plus efficace est SMO. Cet algorithme est très robuste au bruit et comme on a pu le constater au vu des résultats, aux fautes d'orthographe.\\
+On peut voir d'après les résultats obtenus que l'algorithme de classification le plus efficace est SMO. Cet algorithme est très robuste au bruit et, comme on a pu le constater au vu des résultats, aux fautes d'orthographe.\\
 
 Les algorithmes JRip et J48 ne sont pas efficaces car ils se basent sur les mots pour créer des règles afin de déterminer la classe d'un commentaire. En effet, les fautes d'orthographe empêchent de faire des règles précises et efficaces, car un même mot peut être écrit de plusieures manières différentes dans ces commentaires.
-On peut aussi voir que le fait que les mots soient représentés par la présense ou l'occurence importe peu, car les résultats diffèrent très peu. \'{E}tant donné que notre corpus contient un nombre incalculable de fautes d'orthographe, la représentation des données n'impacte pas les résultats.\\
+On peut aussi voir que le fait que les mots soient représentés par la présence ou l'occurence importe peu, car les résultats diffèrent très peu. \'{E}tant donné que notre corpus contient un nombre incalculable de fautes d'orthographe, la représentation des données n'impacte pas les résultats.\\
 
 NaiveBayes est un algorithme de classification probabiliste, encore une fois les fautes d'orthographe jouent un rôle important dans les résultats de cet algorithme. En effet, les fautes l'empêchent de créer des caractéristiques spécifiques aux différentes classes, puisque les mêmes mots sont écrits de différentes façon dans le corpus.\\
 
-Pour l'algorithme IBk, le fait que des mots apparaissent dans des classes différentes (par exemple le mot ``dommage'', qui apparaît dans toutes les classes), empêche d'obtenir de meilleurs résultats. De plus on peut remarquer que cet algorithme est plus efficace lorsque la représentation des mots est binaires, cela vient du fait que les mots vides ont moins d'importance dans ce cas là.
+Pour l'algorithme IBk, le fait que des mots apparaissent dans des classes différentes (par exemple le mot ``dommage'', qui apparaît dans toutes les classes), empêche d'obtenir de meilleurs résultats. De plus on peut remarquer que cet algorithme est plus efficace lorsque la représentation des mots est binaire, cela vient du fait que les mots vides ont moins d'importance dans ce cas là.
 
 \subsection{Analyse des mots les plus fréquents}
 L'extraction du top 5 des mots les plus utilisés dans chaque classe semble cohérente.
@@ -454,23 +430,24 @@ Le mot "\textit{bon}" se retrouve dans la classe bien et neutre, mais pas dans l
 
 Les personnes satisfaites ont tendance à exprimer leur satisfaction avec des adjectifs ou des verbes positifs (\textit{"cool", "super", "bon", "adorer"}) ainsi que leur gratitude ("\textit{merci}").  
 
-Celles qui ne sont pas satisfaites n'expriment pas seulement leur désaprobation avec des adjectifs négatifs ("\textit{nul}"). Ils ont aussi tendance à expliquer ce qui ne leur convient pas et les problèmes rencontrés avec le fonctionnement de l'application ("\textit{fonctionner}" et "\textit{impossible}"). Les mots "\textit{mettre}" et "\textit{jour}" apparaissent tous deux dans les classes neutre et mauvais. On peut faire l'hypothèse que les individus qui ne laissent pas de bons commentaires tendent à proposer ou demander des "mises à jours" pour l'application. Ce qui n'est pas le cas des personnes qui en sont satisfaites.\\
+Celles qui ne sont pas satisfaites n'expriment pas seulement leur désapprobation avec des adjectifs négatifs ("\textit{nul}"). Ils ont aussi tendance à expliquer ce qui ne leur convient pas et les problèmes rencontrés avec le fonctionnement de l'application ("\textit{fonctionner}" et "\textit{impossible}"). Les mots "\textit{mettre}" et "\textit{jour}" apparaissent tous deux dans les classes neutre et mauvais. On peut faire l'hypothèse que les individus qui ne laissent pas de bons commentaires tendent à proposer ou demander des "mises à jours" pour l'application. Ce qui n'est pas le cas des personnes qui en sont satisfaites.\\
 
-D'après ces résultats, il semble que si les developpeurs d'une application ont besoins de retours utiles sur le fonctionnement de l'application, ils devraient regarder les commentaires les plus négatifs en premier.
+D'après ces résultats, il semble que si les développeurs d'une application ont besoins de retours utiles sur le fonctionnement de l'application, ils devraient regarder les commentaires les plus négatifs en premier.
 
 \section{Conclusion et perspectives}
 \subsection{Conclusion}
 Nous avons travaillé sur un corpus de plus de 5000 commentaires portant sur un ensemble d'applications variées. 
 
-\textit{TODO : Ce qu'a fait Lionel + CCL Lionel et Daniel\\}
-
-Nous avons extrait pour chaque classe de commentaire (bon, neutre ou mauvais) les cinq mots les plus fréquemments utilisés. Nous avons émit des hypothèses sur l'importance de la dimension critique des commentaires rédigés par des utilisateurs qui ont une mauvaise opinion de l'application par rapport à ceux rédigés par des utilisateurs satisfaits.
+Nous avons extrait pour chaque classe de commentaire (bon, neutre ou mauvais) les cinq mots les plus fréquemments utilisés. Nous avons émis des hypothèses sur l'importance de la dimension critique des commentaires rédigés par des utilisateurs qui ont une mauvaise opinion de l'application par rapport à ceux rédigés par des utilisateurs satisfaits.
 
 Nous avons utilisé des techniques de visualisation pour montrer la proportion des trois classes de commentaires ainsi que la fréquence des mots les plus utilisés.
+
+Puis nous avons appliqué les algorithmes de classification sur les fichiers ARFF obtenus après le prétraitement des données que nous avons effectué sur le corpus. Enfin, nous avons analysé les résultats obtenus.
 
 \subsection{Perspectives}
 Utiliser des outils de TALN afin de corriger le corpus ainsi que traduire les commentaires en anglais. En effet, on peut remarquer dans les résultats que juste le fait de corriger l'orthographe de trois verbes, les algorithmes obtiennent pour la majorité d'entre eux de meilleurs résultats.\\
 
+Visualiser les résultats obtenus après la fouille de données pour comparer les algorithmes.
 
 Tester d'autres algorithmes afin de voir s'il n'y a pas un ou plusieurs algorithmes plus performant que ceux testés au cours de ce projet.
 
