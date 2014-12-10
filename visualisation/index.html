@@ -13,9 +13,9 @@
 			radius = 200,
 
 			/*Données output.arff*/
-			nbBien = 2896,
-			nbNeutre = 595,
-			nbMauvais = 1280,
+			nbBien = 3279,
+			nbNeutre = 657,
+			nbMauvais = 1410,
 
 			/*color = d3.scale.category20c();*/
 			color = ["#6897bb", "#cccccc", "#f96161"];
@@ -87,7 +87,7 @@
 
 			d3.tsv("data.tsv", type, function(error, data) {
 				x.domain(d3.extent(data, function(d) { return d.valeur; })).nice();
-				y.domain(data.map(function(d) { return d.mot; }));
+				y.domain(data.map(function(d) { return d.mot+d.classe; }));
 
 				svg.selectAll(".bar")
 				.data(data)
@@ -101,7 +101,7 @@
 						return "neutre";
 				})
 				.attr("x", function(d) { return x(Math.min(0, d.valeur)); })
-				.attr("y", function(d) { return y(d.mot); })
+				.attr("y", function(d) { return y(d.mot+d.classe); })
 				.attr("width", function(d) { return Math.abs(x(d.valeur) - x(0)); })
 				.attr("height", y.rangeBand());
 
@@ -115,6 +115,14 @@
 				.attr("x1", x(0))
 				.attr("x2", x(0))
 				.attr("y2", height);
+
+				svg
+				.selectAll(".bar")
+				.data(data)
+				.enter().append("svg:text")
+				.text(function(d, i) { return data[i].mot; })
+				.attr("x", x(0))
+				.attr("y", function(d, i) { return y(data[i].mot+data[i].classe)+margin.bottom; });
 
 			});
 
