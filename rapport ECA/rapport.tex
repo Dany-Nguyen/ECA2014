@@ -1,0 +1,438 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\usepackage[top=3cm, bottom=4cm, left=3cm, right=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage[babel=true]{csquotes}
+\usepackage{titlesec}
+\usepackage{url}
+
+\setcounter{secnumdepth}{3} % On affiche une numérotation sur une profondeur de 3
+\setcounter{tocdepth}{3} % La table des matières va a une profondeur de 3
+\titlespacing{\chapter} {0pt} {*0} {*0} {}
+
+
+
+\title{\textbf{Rapport}\\\Large{Extraction de connaissances avancée}}
+\author{CARBONNEL Jessie, Nguyen Daniel \& Pibre Lionel}
+\date{\textit{Jeudi 11 décembre 2014}}
+
+\begin{document}
+\maketitle
+
+\section{Présentation}
+Ce projet s'inscrit dans le cadre de l'UE Extraction de connaissances avancée et a pour but d'appliquer les différentes techniques de fouille et d'analyse de données vues en cours.\\
+
+\textbf{Contraintes} : L'analyse doit s'effectuer sur des données textuelles hétérogènes et doit porter sur des sentiments ou des opinions.
+
+\section{Outils utilisés}
+Voici la liste des différents outils utilisés lors de ce projet : 
+\begin{itemize}
+\item Hadoop
+\item d3JS
+\item TreeTagger
+\item API Weka
+\item Langage de programmation : Java
+\end{itemize}
+
+\textit{TODO : Expliquer rapidement à quoi sert chaque outils et à quoi ils vont nous servir.}
+
+\section{Consitution du corpus}
+
+Nous avons décidé de travailler sur un corpus basé sur des commentaires d'applications android.
+
+Nous avons choisit de les extraire depuis les applications disponnibles sur le Google Play Store (\textit{https://play.google.com/store/apps}) : les applications y sont nombreuses, variées et le site possède une communauté importante.
+Les informations relatives à un commentaire sont les suivantes : le contenu, le titre, la note de l'application et la date. Nous pouvons aussi utiliser des informations relatives à l'application pour les mettre en parallèle avec les commentaires : la note globale, le nombre de votants, la catégorie ...
+On peut trouver diverses API qui permettent de récupérer les informations relatives aux applications de Google Store. Nous avons choisi une API non officielle, \textit{Android Market API}, qui est rapide à prendre en main et permet d'extraire facilement les commentaires.
+
+Chaque API possède un identifiant unique. Nous avons donc dans un premier temps récupérer les identifiants de 135 applications dans des sections variées. Puis nous avons récupéré les informations des 40 derniers commentaires de chacune de ces applications.
+
+Chaque commentaire va faire l'objet d'un fichier. Voici l'exemple des informations relatives au premier commentaire d'une application permettant de lire des PDF (\textit{books.ebook.pdf.reader\#1.txt}) :
+
+\begin{verbatim}
+NomApplication:Ebook et PDF Reader
+IdApplication:books.ebook.pdf.reader
+CategorieApplication:Livres et références
+NoteApplication:4,3
+NombreVotants:43 379
+TitreCommentaire:Ebook Pelerin
+Commentaire: Super installation, ai acheté un ebook chez Bayard. Suis pas déçu.
+DateCommentaire:26 juillet 2014
+NoteCommentaire:5
+\end{verbatim}
+
+
+Nous avons extrait un total de 5346 commentaires sur ce format.
+
+\section{Préparation des données}
+
+\subsection{TreeTagger}
+Afin de réaliser le prétraitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outils nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
+
+La figure 1 présente un exemple de TreeTagger.
+\begin{figure}[!h]
+\centering
+ \begin{tabular}{|c|c|c|}
+ \hline
+    dès&PRP&dès\\
+    que&KON&que\\
+    je&PRO:PER&je\\
+    lance&VER:pres&lancer\\
+    l'&DET:ART&le\\
+    application&NOM&application\\
+    ça&PRO:DEM&cela\\
+    marche&NOM&marche\\
+    pas&ADV&pas\\
+    sinon&KON&sinon\\
+    j'&PRO:PER&je\\
+    adore&VER:pres&adorer\\
+    cyprien&ADJ&cyprien\\
+    \dots&\dots&\dots\\
+ \hline
+ \end{tabular}
+ \caption{Exemple de TreeTagger}
+\end{figure}
+
+\subsection{Génération des fichiers ARFF}
+
+\textit{TODO : C'est quoi un fichier ARFF ? A quoi ils vont nous servir ?\\}
+
+Nous avons décidé de créer huit fichiers arff différents afin de voir l'impact qu'a la composition du corpus sur les algorithmes de classification.
+
+\begin{itemize}
+ \item Le texte brut (sans aucune modification)
+ \item Le texte brut en utilisant la forme lemmatisée des mots
+ \item Le texte uniquement composé d'adjectifs, de noms et de verbes
+ \item Le texte uniquement composé d'adjectifs, de noms et de verbes en utilisant la forme lemmatisée des mots
+ \vspace{0.5cm}
+ \item Ensuite, nous avons repris ces quatre fichiers arff mais en corrigeant l'orthographe des verbes aimer et adorer, nous avons aussi remplacer ``kiffer'' par aimer\
+.
+\end{itemize}
+
+\section{Fouille de données}
+
+\subsection{Application d'algorithmes avec Weka}
+
+Voici les différents algorithmes utilisés dans la partie fouille de données : \\
+
+\begin{description}
+ \item [NaiveBayes: ] la classification naïve bayésienne est un type de classification probabiliste simple basée sur le théorème de Bayes avec une forte indépendance d\
+es
+ hypothèses. \\
+
+ \item [Arbre de décision: ] cet algorithme utilise une structure d'arbre. L'extrémité de chaque branche représente les différents résultats possibles
+ en fonction des décisions prises à chaque étape. Cet algorithme  répartit une population d'individus en groupes homogènes, selon un ensemble
+ de variables discriminantes en fonction d'un objectif fixé et connu.\\
+
+ \item [SVM: ] Les SVM sont des classificateurs qui reposent sur deux idées clés:
+
+\begin{itemize}
+ \item La notion de marge maximale. La marge est la distance entre la frontière de séparation et les échantillons les plus proches.
+Ces derniers sont appelés vecteurs supports. Dans les SVM, la frontière de séparation est choisie comme celle qui maximise la marge.
+Le problème est de trouver la frontière séparatrice optimale, à partir d'un ensemble d'apprentissage. Cependant il existe déjà des algorithmes pour résoudre ce
+problème
+ \item  Transformer l'espace de représentation des données d'entrées en un espace de plus grande dimension, dans lequel il est probable qu'il existe une
+ séparatrice linéaire. \\
+\end{itemize}
+ \item [Méthode par règles d'association: ] La méthode par règles d’association s’apparente à celle des arbres de décision. Chaque règle pouvant être
+ vue comme le parcours dans un arbre de décision binaire. Cependant les arbres de décisions essayent de réduire le nombre de parcours à explorer tandis
+ qu’ici on explore tout.\\
+
+ \item [K plus proche voisin: ] L’algorithme KNN figure parmi les plus simples algorithmes d’apprentissage artificiel. Dans un contexte de classification d’une
+ nouvelle observation x, l’idée fondatrice simple est de faire voter les plus proches voisins de cette observation. La classe de x est déterminée en fonction de la
+ classe majoritaire parmi les k plus proches voisins de l’observation x. La méthode KNN est donc une méthode à base de voisinage, non-paramétrique ; Ceci signifiant
+ que l’algorithme permet de faire une classification sans faire d’hypothèse sur la fonction $y=f(x_1,x_2,…x_p)$ qui relie la variable dépendante aux variables indépend\
+antes.
+\end{description}
+
+\subsection{Recherche des mots les plus fréquents par classe}
+
+\textit{TODO : Partie Daniel sur Hadoop \\}
+
+\section{Résultats}
+
+\textit{TODO : A quoi correspondent les données dans les tableaux des figures 2 à 9 ?\\}
+
+\subsection{Résultats obtenus avec Weka}
+\subsubsection{Texte non corrigé}
+\begin{figure}[h]
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 64.1788 & 63.6551 \\
+ \hline
+ SMO & 73.1201 & 73.6438 \\
+ \hline
+ IBk & 65.563 & 64.3659 \\
+ \hline
+ J48 & 67.8451 & 67.8638 \\
+ \hline
+ JRip & 64.7961 & 65.2637 \\
+ \hline
+\end{tabular}
+\caption{Texte brut}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 65.8997 & 65.376 \\
+ \hline
+ SMO & 73.6438 & 74.3172 \\
+ \hline
+ IBk & 65.9371 & 64.4407 \\
+ \hline
+ J48 & 68.9113 & 68.7991 \\
+ \hline
+ JRip & 67.7703 & 68.3315 \\
+ \hline
+\end{tabular}
+\caption{Texte brut lemmatisé}
+\end{minipage}
+\end{figure}
+\vspace{1cm}
+\begin{figure}[h]
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 66.517 & 65.4321 \\
+ \hline
+ SMO & 72.5776 & 72.5963 \\
+ \hline
+ IBk & 64.5342 & 64.1227 \\
+ \hline
+ J48 & 69.2854 & 69.0797 \\
+ \hline
+ JRip & 66.33 & 65.9559 \\
+ \hline
+\end{tabular}
+\caption{Texte nettoyé}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 67.9012 & 66.4796 \\
+ \hline
+ SMO & 72.8021 & 73.2697 \\
+ \hline
+ IBk & 65.9746 & 62.1212 \\
+ \hline
+ J48 & 69.0423 & 68.9862 \\
+ \hline
+ JRip & 67.5832 & 67.5645 \\
+ \hline
+\end{tabular}
+\caption{Texte nettoyé lemmatisé}
+\end{minipage}
+\end{figure}
+\subsubsection{Texte corrigé}
+\begin{figure}[h]
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 64.2724  & 63.6177 \\
+ \hline
+ SMO & 73.1949 & 73.569 \\
+ \hline
+ IBk & 65.6004 & 64.3659 \\
+ \hline
+ J48 & 67.8077 & 67.8451 \\
+ \hline
+ JRip & 65.2263 & 65.7127 \\
+ \hline
+\end{tabular}
+\caption{Texte brut}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 66.0307 & 65.5256 \\
+ \hline
+ SMO & 73.4755 & 74.6914 \\
+ \hline
+ IBk & 66.0307 & 64.3285 \\
+ \hline
+ J48 & 69.5099 & 69.2667 \\
+ \hline
+ JRip & 67.4336 & 67.3588 \\
+ \hline
+\end{tabular}
+\caption{Texte brut lemmatisé}
+\end{minipage}
+\end{figure}
+\vspace{1cm}
+\begin{figure}[h]
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 66.835 & 65.4134 \\
+ \hline
+ SMO & 72.1848 & 72.4654 \\
+ \hline
+ IBk & 64.7774 & 64.7026 \\
+ \hline
+ J48 & 69.3229 & 69.3042 \\
+ \hline
+ JRip & 66.3113 & 65.9746 \\
+ \hline
+\end{tabular}
+\caption{Texte nettoyé}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+ & Binaire & Fréquence \\
+ \hline
+ NaiveBayes & 67.8077 & 66.7228 \\
+ \hline
+ SMO & 73.6064 & 73.251 \\
+ \hline
+ IBk & 64.4407 & 63.3184 \\
+ \hline
+ J48 & 69.2854 & 69.5099 \\
+ \hline
+ JRip & 67.7142 & 67.3588 \\
+ \hline
+\end{tabular}
+\caption{Texte nettoyé lemmatisé}
+\end{minipage}
+\end{figure}
+
+\subsection{Résultats obtenus avec Hadoop}
+Nous avons réussit à extraire la liste des 5 mots les plus utilisés par classe dans les commentaires.
+
+Ils sont présentés dans la figure 10.
+
+\begin{figure}[h]
+\begin{center}
+
+
+\begin{tabular}{|l|c|c|}
+\hline
+Classe &	Mot&	Valeur\\
+\hline
+\hline
+bien&	cool&	578\\
+\hline
+bien&	super&	481\\
+\hline
+bien&	bon	&455\\
+\hline
+bien&	adorer&	25\\
+\hline
+bien&	merci&	219\\
+\hline
+\hline
+neutre&	jour&	96\\
+\hline
+neutre&	bon	&72\\
+\hline
+neutre&	mise&	61\\
+\hline
+neutre&	mettre&	58\\
+\hline
+neutre&	dommage	&54\\
+\hline
+\hline
+mauvais&	jour&	-271\\
+\hline
+mauvais	&nul	&-242\\
+\hline
+mauvais	&impossible	&-189\\
+\hline
+mauvais	&fonctionner&	-182\\
+\hline
+mauvais	&mettre&	-174\\
+\hline
+\end{tabular}
+\end{center}
+\caption{Top 5 des mots les plus utilisés dans chaque classe}
+\end{figure}
+
+\section{Visualisation}
+Nous avons dans un premier temps voulu représenter le pourcentage des commentaires appartenant à chaque classe : \textit{bien}, \textit{mauvais} ou \textit{neutre}. Ces résultats sont représentés dans la figure 11.\\
+
+La figure 12 représente les 5 mots les plus utilisés dans chaque classe et leur score.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{visu1.png}
+\end{center}
+\caption{Pourcentage des commentaires en fonction de leur classe}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=\textwidth]{visu2.png}
+\end{center}
+\caption{Top 5 des mots les plus utilisés dans chaque classe et leur score}
+\end{figure}
+
+
+\section{Analyse des résultats}
+
+\subsection{Analyse des résultats de Weka}
+Comment expliquer que les résultats obtenus soient aussi bas?\\
+
+Lorsque nous avons fait le prétraitement, nous avons vu que deux éléments risquaient de limiter nos résultats.
+
+\begin{description}
+	\item [Les fautes d'orthographe et de frappe: ]``Je kiff grave car jadore cyprien et jaimefai lui poser un question : est ce que tu connais squeezie ( ca c oui c sur ) norman kihouu tal blackm ....''\\
+	
+	Dans ce cas, peu de mots sont reconnus par TreeTagger. Par exemple les mots ``kiff'' et ``jadore'' ne sont pas reconnus alors qu'ils déterminent l'opinion de l'utilisateur.
+	
+	\item [Les commentaires en anglais: ]Certains commentaires sont écrits en anglais et ne sont donc pas reconnus par TreeTagger.
+\end{description}
+
+On peut voir d'après les résultats obtenus que l'algorithme de classification le plus efficace est SMO. Cet algorithme est très robuste au bruit et comme on a pu le constater au vu des résultats, aux fautes d'orthographe.\\
+
+Les algorithmes JRip et J48 ne sont pas efficaces car ils se basent sur les mots pour créer des règles afin de déterminer la classe d'un commentaire. En effet, les fautes d'orthographe empêchent de faire des règles précises et efficaces, car un même mot peut être écrit de plusieures manières différentes dans ces commentaires.
+On peut aussi voir que le fait que les mots soient représentés par la présense ou l'occurence importe peu, car les résultats diffèrent très peu. \'{E}tant donné que notre corpus contient un nombre incalculable de fautes d'orthographe, la représentation des données n'impacte pas les résultats.\\
+
+NaiveBayes est un algorithme de classification probabiliste, encore une fois les fautes d'orthographe jouent un rôle important dans les résultats de cet algorithme. En effet, les fautes l'empêchent de créer des caractéristiques spécifiques aux différentes classes, puisque les mêmes mots sont écrits de différentes façon dans le corpus.\\
+
+Pour l'algorithme IBk, le fait que des mots apparaissent dans des classes différentes (par exemple le mot ``dommage'', qui apparaît dans toutes les classes), empêche d'obtenir de meilleurs résultats. De plus on peut remarquer que cet algorithme est plus efficace lorsque la représentation des mots est binaires, cela vient du fait que les mots vides ont moins d'importance dans ce cas là.
+
+\subsection{Analyse des mots les plus fréquents}
+L'extraction du top 5 des mots les plus utilisés dans chaque classe semble cohérente.
+
+Le mot "\textit{bon}" se retrouve dans la classe bien et neutre, mais pas dans la classe mauvais.
+
+Les personnes satisfaites ont tendance à exprimer leur satisfaction avec des adjectifs ou des verbes positifs (\textit{"cool", "super", "bon", "adorer"}) ainsi que leur gratitude ("\textit{merci}").  
+
+Celles qui ne sont pas satisfaites n'expriment pas seulement leur désaprobation avec des adjectifs négatifs ("\textit{nul}"). Ils ont aussi tendance à expliquer ce qui ne leur convient pas et les problèmes rencontrés avec le fonctionnement de l'application ("\textit{fonctionner}" et "\textit{impossible}"). Les mots "\textit{mettre}" et "\textit{jour}" apparaissent tous deux dans les classes neutre et mauvais. On peut faire l'hypothèse que les individus qui ne laissent pas de bons commentaires tendent à proposer ou demander des "mises à jours" pour l'application. Ce qui n'est pas le cas des personnes qui en sont satisfaites.\\
+
+D'après ces résultats, il semble que si les developpeurs d'une application ont besoins de retours utiles sur le fonctionnement de l'application, ils devraient regarder les commentaires les plus négatifs en premier.
+
+\section{Conclusion et perspectives}
+\subsection{Conclusion}
+Nous avons travaillé sur un corpus de plus de 5000 commentaires portant sur un ensemble d'applications variées. 
+
+\textit{TODO : Ce qu'a fait Lionel + CCL Lionel et Daniel\\}
+
+Nous avons extrait pour chaque classe de commentaire (bon, neutre ou mauvais) les cinq mots les plus fréquemments utilisés. Nous avons émit des hypothèses sur l'importance de la dimension critique des commentaires rédigés par des utilisateurs qui ont une mauvaise opinion de l'application par rapport à ceux rédigés par des utilisateurs satisfaits.
+
+Nous avons utilisé des techniques de visualisation pour montrer la proportion des trois classes de commentaires ainsi que la fréquence des mots les plus utilisés.
+
+\subsection{Perspectives}
+Utiliser des outils de TALN afin de corriger le corpus ainsi que traduire les commentaires en anglais. En effet, on peut remarquer dans les résultats que juste le fait de corriger l'orthographe de trois verbes, les algorithmes obtiennent pour la majorité d'entre eux de meilleurs résultats.\\
+
+
+Tester d'autres algorithmes afin de voir s'il n'y a pas un ou plusieurs algorithmes plus performant que ceux testés au cours de ce projet.
+
+\end{document}
+
