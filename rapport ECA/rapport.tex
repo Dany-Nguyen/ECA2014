@@ -30,7 +30,7 @@ Ce projet s'inscrit dans le cadre de l'UE Extraction de connaissances avancée e
 Voici la liste des différents outils utilisés lors de ce projet : 
 \begin{itemize}
 \item Hadoop
-\item d3JS
+\item D3.js
 \item TreeTagger
 \item API Weka
 \item Langage de programmation : Java
@@ -38,7 +38,7 @@ Voici la liste des différents outils utilisés lors de ce projet :
 
 \textit{TODO : Expliquer rapidement à quoi sert chaque outils et à quoi ils vont nous servir.}
 
-\section{Consitution du corpus}
+\section{Constitution du corpus}
 
 Nous avons décidé de travailler sur un corpus basé sur des commentaires d'applications android.
 
@@ -70,10 +70,12 @@ Nous avons extrait un total de 5346 commentaires sur ce format.
 \subsection{TreeTagger}
 Afin de réaliser le prétraitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outils nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
 
-La figure 1 présente un exemple de TreeTagger.
+La figure \ref{treetagger} présente un exemple de TreeTagger.
 \begin{figure}[!h]
 \centering
  \begin{tabular}{|c|c|c|}
+ \hline
+	Mot&Classe grammaticale&Mot lemmatisé\\
  \hline
     dès&PRP&dès\\
     que&KON&que\\
@@ -92,13 +94,32 @@ La figure 1 présente un exemple de TreeTagger.
  \hline
  \end{tabular}
  \caption{Exemple de TreeTagger}
+\label{treetagger}
 \end{figure}
 
-\subsection{Génération des fichiers ARFF}
+\subsection{Génération des fichiers ARFF avec un parser Java}
+ 
+Nous utilisons l'API java.nio, développée pour JDK7, qui facilite la manipulation d'entrées/sorties de système de fichiers et qui apporte une importance à la scalabilité.
+ 
+En entrée les données étiquetées par TreeTagger, en sortie un fichier de format ARFF. Un fichier ARFF est un simple fichier texte structuré de façon à être lisible par le programme Weka.
 
-\textit{TODO : C'est quoi un fichier ARFF ? A quoi ils vont nous servir ?\\}
+On récupère la ligne \textit{NoteCommentaire}, et le texte entre \textit{TitreCommentaire} et \textit{DateCommentaire}. La valeur associée à \textit{NoteCommentaire} est entre 1 et 5, représentée sous forme de nombre d'étoiles dans le Play Store, et va nous permettre de catégoriser le commentaire dans une des trois classes d'opinion :
+\begin{itemize}
+        \item{[1,2]} = mauvais
+   \item{3} = neutre
+   \item{[4,5]} = bien
+\end{itemize}
+Une fois le commentaire catégorisé dans une des classes, les mots contenu dans ce commentaire seront utilisés afin de créer une caractéristique ou bien une règle à la classe pour, ensuite, bien classer un nouveau commentaire entrant. Cette étape sera détaillée par la suite dans la section \ref{fouille}.
+ 
+ 
+Pour le commentaire etiqueté dans la figure \ref{treetagger}, avec une valeur de \textit{NoteCommentaire} à 3, nous aurons la ligne suivante :
+\begin{verbatim}
+neutre, 'bug lancement lancer application marche help adorer cyprien ...'
+\end{verbatim}
+ 
+Notre fichier ARFF contiendra 5346 lignes dans ce format et sera utilisé pour effectuer une première analyse visualisable, mais aussi pour mettre en pratique les algorithmes de fouilles de données.
 
-Nous avons décidé de créer huit fichiers arff différents afin de voir l'impact qu'a la composition du corpus sur les algorithmes de classification.
+Nous avons décidé de créer huit fichiers ARFF différents afin de voir l'impact qu'a la composition du corpus sur les algorithmes de classification.
 
 \begin{itemize}
  \item Le texte brut (sans aucune modification)
@@ -106,11 +127,95 @@ Nous avons décidé de créer huit fichiers arff différents afin de voir l'impa
  \item Le texte uniquement composé d'adjectifs, de noms et de verbes
  \item Le texte uniquement composé d'adjectifs, de noms et de verbes en utilisant la forme lemmatisée des mots
  \vspace{0.5cm}
- \item Ensuite, nous avons repris ces quatre fichiers arff mais en corrigeant l'orthographe des verbes aimer et adorer, nous avons aussi remplacer ``kiffer'' par aimer\
-.
+ \item Ensuite, nous avons repris ces quatre fichiers ARFF mais en corrigeant l'orthographe des verbes aimer et adorer, nous avons aussi remplacer ``kiffer'' par aimer.
 \end{itemize}
 
-\section{Fouille de données}
+\section{Analyse et visualisation des données}
+ 
+
+ 
+\subsection{Statistiques sur les données préparées}\label{sec:visu-process}
+ 
+Nous allons exécuter deux processus
+\paragraph{Compter la part de chaque classe} avec une méthode qui compte le nombre total de commentaire classé "bien", "neutre" et "mauvais" : on calcule le pourcentage que représente chaque classe on peut observer une majorité absolue pour la classe "bien" (3279 commentaires positifs pour 5346, soit 61\%).
+ 
+\paragraph{Lister les mots les plus fréquents de chaque classe} en utilisant le framework Hadoop MapReduce que nous avons au préalable mis en place dans une autre UE pour exécuter cette même tâche : nous avons un programme qui va se charger de lire, dans le fichier ARFF précédent, les lignes qui commencent par "bien", "neutre" et "mauvais" puis de compter l'occurrence de chaque mot et les trier par ordre décroissant dans chacune des classes.
+ 
+\subsection{Résultats obtenus avec Hadoop}
+Nous avons réussi à extraire la liste des 5 mots les plus utilisés par classe dans les commentaires.
+
+Ils sont présentés dans la figure \ref{mots les plus utilisés}.
+
+\begin{figure}[h]
+\begin{center}
+
+
+\begin{tabular}{|l|c|c|}
+\hline
+Classe &	Mot&	Valeur\\
+\hline
+\hline
+bien&	cool&	578\\
+\hline
+bien&	super&	481\\
+\hline
+bien&	bon	&455\\
+\hline
+bien&	adorer&	25\\
+\hline
+bien&	merci&	219\\
+\hline
+\hline
+neutre&	jour&	96\\
+\hline
+neutre&	bon	&72\\
+\hline
+neutre&	mise&	61\\
+\hline
+neutre&	mettre&	58\\
+\hline
+neutre&	dommage	&54\\
+\hline
+\hline
+mauvais&	jour&	-271\\
+\hline
+mauvais	&nul	&-242\\
+\hline
+mauvais	&impossible	&-189\\
+\hline
+mauvais	&fonctionner&	-182\\
+\hline
+mauvais	&mettre&	-174\\
+\hline
+\end{tabular}
+\end{center}
+\caption{Top 5 des mots les plus utilisés dans chaque classe}
+\label{mots les plus utilisés}
+\end{figure}
+ 
+\subsection{Visualisation avec D3.js}
+ 
+Nous allons visualiser les statistiques de la section \ref{sec:visu-process} en utilisant la librairie D3.js pour produire des formes à partir des données récupérées.
+ 
+\paragraph{Une première visualisation en camembert}pour représenter le pourcentage des commentaires appartenant à chaque classe : \textit{bien}, \textit{mauvais} ou \textit{neutre}. Ces résultats sont représentés dans la figure \ref{camembert}.\\
+\paragraph{Une seconde en histogramme}pour mettre en évidence les mots les plus présents dans chaque classe, et donc voir les mots les plus caractéristiques d'une opinion dans notre corpus. Ces résultats sont représentés dans la figure \ref{histogramme}.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{visu1.png}
+\end{center}
+\caption{Pourcentage des commentaires en fonction de leur classe}\label{camembert}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=\textwidth]{visu2.png}
+\end{center}
+\caption{Top 5 des mots les plus utilisés dans chaque classe et leur score}\label{histogramme}
+\end{figure}
+\clearpage
+
+\section{Fouille de données}\label{fouille}
 
 \subsection{Application d'algorithmes avec Weka}
 
@@ -155,6 +260,9 @@ antes.
 \textit{TODO : A quoi correspondent les données dans les tableaux des figures 2 à 9 ?\\}
 
 \subsection{Résultats obtenus avec Weka}
+
+Les tableaux suivant représentent les résultats des instances correctement classifiées (en pourcentage). Pour obtenir ces résultats nous avons utilisé une représentation de type ``sac de mots''. Nous avons donc utilisé le filtre de Weka ``StringToWordVector'', sans compter le nombre de fois que le mot apparaît la première fois (les résultats de la colonne binaire), et une autre fois en comptant le nombre de fois que le mot apparaît (la colonne fréquence).
+
 \subsubsection{Texte non corrigé}
 \begin{figure}[h]
 \begin{minipage}{0.5\textwidth}
@@ -312,75 +420,7 @@ antes.
 \end{minipage}
 \end{figure}
 
-\subsection{Résultats obtenus avec Hadoop}
-Nous avons réussit à extraire la liste des 5 mots les plus utilisés par classe dans les commentaires.
 
-Ils sont présentés dans la figure 10.
-
-\begin{figure}[h]
-\begin{center}
-
-
-\begin{tabular}{|l|c|c|}
-\hline
-Classe &	Mot&	Valeur\\
-\hline
-\hline
-bien&	cool&	578\\
-\hline
-bien&	super&	481\\
-\hline
-bien&	bon	&455\\
-\hline
-bien&	adorer&	25\\
-\hline
-bien&	merci&	219\\
-\hline
-\hline
-neutre&	jour&	96\\
-\hline
-neutre&	bon	&72\\
-\hline
-neutre&	mise&	61\\
-\hline
-neutre&	mettre&	58\\
-\hline
-neutre&	dommage	&54\\
-\hline
-\hline
-mauvais&	jour&	-271\\
-\hline
-mauvais	&nul	&-242\\
-\hline
-mauvais	&impossible	&-189\\
-\hline
-mauvais	&fonctionner&	-182\\
-\hline
-mauvais	&mettre&	-174\\
-\hline
-\end{tabular}
-\end{center}
-\caption{Top 5 des mots les plus utilisés dans chaque classe}
-\end{figure}
-
-\section{Visualisation}
-Nous avons dans un premier temps voulu représenter le pourcentage des commentaires appartenant à chaque classe : \textit{bien}, \textit{mauvais} ou \textit{neutre}. Ces résultats sont représentés dans la figure 11.\\
-
-La figure 12 représente les 5 mots les plus utilisés dans chaque classe et leur score.
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[width=0.4\textwidth]{visu1.png}
-\end{center}
-\caption{Pourcentage des commentaires en fonction de leur classe}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[width=\textwidth]{visu2.png}
-\end{center}
-\caption{Top 5 des mots les plus utilisés dans chaque classe et leur score}
-\end{figure}
 
 
 \section{Analyse des résultats}
