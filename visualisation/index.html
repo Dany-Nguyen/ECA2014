@@ -121,7 +121,12 @@
 				.data(data)
 				.enter().append("svg:text")
 				.text(function(d, i) { return data[i].mot; })
-				.attr("x", x(0))
+				.attr("x", function(d) { 
+					if (d.classe == "bien" || d.classe == "neutre") 
+						return x(-d.mot.length*10);
+					else
+						return x(0);
+						})
 				.attr("y", function(d, i) { return y(data[i].mot+data[i].classe)+margin.bottom; });
 
 			});
