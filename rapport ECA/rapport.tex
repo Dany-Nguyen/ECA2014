@@ -7,6 +7,7 @@
 \usepackage[babel=true]{csquotes}
 \usepackage{titlesec}
 \usepackage{url}
+\usepackage{hyperref}
 
 \setcounter{secnumdepth}{3} % On affiche une numérotation sur une profondeur de 3
 \setcounter{tocdepth}{3} % La table des matières va a une profondeur de 3
@@ -16,7 +17,7 @@
 
 \title{\textbf{Rapport}\\\Large{Extraction de connaissances avancée}}
 \author{Jessie CARBONNEL, Daniel NGUYEN \& Lionel PIBRE}
-\date{\textit{Jeudi 11 décembre 2014} \\ \includegraphics[height=.15\textheight]{img/um2.jpg}\\[1cm]}
+\date{\textit{Jeudi 11 décembre 2014} \\ \includegraphics[height=.13\textheight]{um2.jpg}\\[1cm]}
 
 \begin{document}
 \maketitle
@@ -40,7 +41,7 @@ Voici la liste des différents outils utilisés lors de ce projet :
 
 Nous avons décidé de travailler sur un corpus basé sur des commentaires d'applications Android.
 
-Nous avons choisi de les extraire depuis les applications disponibles sur le Google Play Store (\textit{https://play.google.com/store/apps}) : les applications y sont nombreuses, variées et le site possède une communauté importante.
+Nous avons choisi de les extraire depuis les applications disponibles sur le Google Play Store (\url{https://play.google.com/store/apps}) : les applications y sont nombreuses, variées et le site possède une communauté importante.
 Les informations relatives à un commentaire sont les suivantes : le contenu de la description, le titre, la note de l'application et la date. Nous pouvons aussi utiliser des informations relatives à l'application pour les mettre en parallèle avec les commentaires : la note globale, le nombre de votants, la catégorie ...
 On peut trouver diverses API qui permettent de récupérer les informations relatives aux applications de Google Store. Nous avons choisi une API non officielle, \textit{Android Market API}, qui est rapide à prendre en main et permet d'extraire facilement les commentaires.
 
@@ -66,9 +67,10 @@ Nous avons extrait un total de 5346 commentaires dans ce format.
 \section{Préparation des données}
 
 \subsection{TreeTagger}
-Afin de réaliser le pré-traitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outil nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
+Afin de réaliser le prétraitement sur notre corpus, nous avons utilisé TreeTagger. Ce logiciel nous permet de connaître la classe grammaticale des mots et d’obtenir la forme lemmatisée de ces derniers. Cet outil nous a permis de nettoyer le corpus en supprimant par exemple les pronoms et les déterminants.
 
 La figure \ref{treetagger} présente un exemple de TreeTagger.
+\newpage
 \begin{figure}[!h]
 \centering
  \begin{tabular}{|c|c|c|}
@@ -97,7 +99,7 @@ La figure \ref{treetagger} présente un exemple de TreeTagger.
 
 \subsection{Génération des fichiers ARFF avec un parser Java}
  
-Nous utilisons l'API java.nio, développée pour JDK7, qui facilite la manipulation d'entrées/sorties de système de fichiers et qui apporte une importance à la scalabilité.
+Nous utilisons l'API java.nio, développée pour JDK7, qui facilite la manipulation d'entrées/sorties de système de fichiers et qui accorde une importance à la scalabilité.
  
 En entrée les données étiquetées par TreeTagger, en sortie un fichier de format ARFF. Un fichier ARFF est un simple fichier texte structuré de façon à être lisible par le programme Weka.
 
@@ -107,7 +109,7 @@ On récupère la ligne \textit{NoteCommentaire}, et le texte entre \textit{Titre
    \item{3} = neutre
    \item{[4,5]} = bien
 \end{itemize}
-Une fois le commentaire catégorisé dans une des classes, les mots contenu dans ce commentaire seront utilisés afin de créer une caractéristique ou bien une règle à la classe pour, ensuite, bien classer un nouveau commentaire entrant. Cette étape sera détaillée par la suite dans la section \ref{fouille}.
+Une fois le commentaire catégorisé dans une des classes, les mots contenus dans ce commentaire seront utilisés afin de créer une caractéristique ou bien une règle à la classe pour, ensuite, bien classer un nouveau commentaire entrant. Cette étape sera détaillée par la suite dans la section \ref{fouille}.
  
  
 Pour le commentaire etiqueté dans la figure \ref{treetagger}, avec une valeur de \textit{NoteCommentaire} à 3, nous aurons la ligne suivante :
@@ -442,14 +444,16 @@ Nous avons extrait pour chaque classe de commentaire (bon, neutre ou mauvais) le
 
 Nous avons utilisé des techniques de visualisation pour montrer la proportion des trois classes de commentaires ainsi que la fréquence des mots les plus utilisés.
 
-Puis nous avons appliqué les algorithmes de classification sur les fichiers ARFF obtenus après le prétraitement des données que nous avons effectué sur le corpus. Enfin, nous avons analysé les résultats obtenus.
+Puis nous avons appliqué les algorithmes de classification sur les fichiers ARFF obtenus après le prétraitement des données que nous avons effectué sur le corpus.
+
+Enfin, nous avons analysé les résultats obtenus.
 
 \subsection{Perspectives}
-Utiliser des outils de TALN afin de corriger le corpus ainsi que traduire les commentaires en anglais. En effet, on peut remarquer dans les résultats que juste le fait de corriger l'orthographe de trois verbes, les algorithmes obtiennent pour la majorité d'entre eux de meilleurs résultats.\\
+Utiliser des outils de TALN afin de corriger le corpus ainsi que traduire les commentaires en anglais. En effet, on peut remarquer dans les résultats que juste le fait de corriger l'orthographe de trois verbes, les algorithmes obtiennent pour la majorité d'entre eux de meilleurs résultats.
 
 Visualiser les résultats obtenus après la fouille de données pour comparer les algorithmes.
 
-Tester d'autres algorithmes afin de voir s'il n'y a pas un ou plusieurs algorithmes plus performant que ceux testés au cours de ce projet.
+Tester d'autres algorithmes afin de voir s'il n'y a pas un ou plusieurs algorithmes plus performants que ceux testés au cours de ce projet.
 
 \end{document}
 

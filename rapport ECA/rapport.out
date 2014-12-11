@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Pr\351sentation}{}% 1
+\BOOKMARK [1][-]{section.2}{Outils utilis\351s}{}% 2
+\BOOKMARK [1][-]{section.3}{Constitution du corpus}{}% 3
+\BOOKMARK [1][-]{section.4}{Pr\351paration des donn\351es}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{TreeTagger}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{G\351n\351ration des fichiers ARFF avec un parser Java}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Analyse et visualisation des donn\351es}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Statistiques sur les donn\351es pr\351par\351es}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{R\351sultats obtenus avec Hadoop}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.3}{Visualisation avec D3.js}{section.5}% 10
+\BOOKMARK [1][-]{section.6}{Fouille de donn\351es}{}% 11
+\BOOKMARK [1][-]{section.7}{R\351sultats}{}% 12
+\BOOKMARK [2][-]{subsection.7.1}{R\351sultats obtenus avec Weka}{section.7}% 13
+\BOOKMARK [3][-]{subsubsection.7.1.1}{Texte non corrig\351}{subsection.7.1}% 14
+\BOOKMARK [3][-]{subsubsection.7.1.2}{Texte corrig\351}{subsection.7.1}% 15
+\BOOKMARK [1][-]{section.8}{Analyse des r\351sultats}{}% 16
+\BOOKMARK [2][-]{subsection.8.1}{Analyse des r\351sultats de Weka}{section.8}% 17
+\BOOKMARK [2][-]{subsection.8.2}{Analyse des mots les plus fr\351quents}{section.8}% 18
+\BOOKMARK [1][-]{section.9}{Conclusion et perspectives}{}% 19
+\BOOKMARK [2][-]{subsection.9.1}{Conclusion}{section.9}% 20
+\BOOKMARK [2][-]{subsection.9.2}{Perspectives}{section.9}% 21
