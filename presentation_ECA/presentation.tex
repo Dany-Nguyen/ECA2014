@@ -4,6 +4,7 @@
 \usepackage[french]{babel}
 \usepackage{colortbl}
 \usepackage{verbatim}
+\usepackage{amsmath}
   
 \usetheme{Warsaw}
 
@@ -101,7 +102,17 @@
 
 \subsection{Génération des fichiers ARFF}
 \begin{frame}
-
+	\begin{block}{Génération}
+		Programmation d'un parser en java.\\
+		
+		\textbf{Quatre fichiers de sortie:}
+		\begin{itemize}
+			\item Texte Brut
+			\item Texte Brut Lemmatisé
+			\item Texte Nettoyé
+			\item Texte Nettoyé Lemmatisé
+		\end{itemize}
+	\end{block}
 \end{frame}
 
 \section{Visualisation}
@@ -116,6 +127,7 @@
 \end{frame}
 
 \section{Classification}
+
 \begin{frame}
 	\begin{block}{Algorithmes utilisés}
 		\begin{itemize}
@@ -129,11 +141,25 @@
 \end{frame}
 
 \begin{frame}
+	\begin{block}{Méthodes utilisées}
+		\begin{itemize}
+			\item Utilisation de la représentation \textbf{sac de mots}
+			\item Première exécution \textbf{sans} l'occurence des mots (représentation binaire)
+			\item Deuxième exécution \textbf{avec} l'occurence des mots (représentation fréquentiste)
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
 	\begin{block}{Les problèmes liés au corpus}
 		\begin{itemize}
 			\item Certains commentaires sont écrits en anglais
 			\item Fautes d'orthographe et de frappe
 		\end{itemize}
+		
+		\vspace{0.5cm}
+		
+		$\Rightarrow$ \textbf{Les mots avec des fautes ou en anglais ne sont pas reconnus par TreeTagger}
 	\end{block}
 \end{frame}
 
@@ -141,7 +167,6 @@
 	\begin{exampleblock}{Fautes d'orthographe et de frappe}
 		``Je kiff grave car jadore cyprien et jaimefai lui poser un question : est ce que tu connais squeezie ( ca c oui c sur ) norman kihouu tal blackm ....''\\
 		
-	%	\includegraphics[height=20mm]{imgs/wtf.jpg}
 	\end{exampleblock}
 	
 	\begin{exampleblock}{Commentaire en anglais}
@@ -153,27 +178,55 @@
 \begin{frame}
 	\begin{block}{Résultats des instances correctments classifiées}
 		\begin{description}
-			\item[SMO: ]73,6\%
-			\item[J48: ]69,3\%
-			\item[NaiveBayes: ]67,8\%
-			\item[JRip :]67,7\%
-			\item[IBk :]64,4\%
+			\item[SMO: ]73,1\%
+			\item[J48: ]67,8\%
+			\item[IBk: ]65,6\%
+			\item[JRip: ]64,8\%
+			\item[NaiveBayes: ]64,2\%
+		\end{description}	
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Résultats des instances correctments classifiées sur le texte corrigé}
+		\begin{description}
+			\item[SMO: ]73,2\%
+			\item[J48: ]67,8\%
+			\item[IBk: ]65,6\%
+			\item[JRip: ]65,2\%
+			\item[NaiveBayes: ]64,3\%
 		\end{description}	
 	\end{block}
 \end{frame}
 
 \begin{frame}
 	\begin{block}{Analyses des résultats}
-		L'algorithme de classification SMO est le plus robuste.
-		
-		Les autres algorithmes sont plus sensibles au bruit et aux fautes d'orthographe.
+	\begin{itemize}
+		\item L'algorithme SMO est le plus robuste.
+		\item Text brut $\Rightarrow$ Les mêmes mots sont écrits différemment
+		\item Texte brut lemmatisé $\Rightarrow$ Les mots non reconnus disparaissent.
+	\end{itemize}
+
 	\end{block}
 \end{frame}
 
 \section{Conclusion et perspectives}
 \begin{frame}
-
+	\begin{block}{Conclusion}
+		
+	\end{block}
 \end{frame}
 
+\begin{frame}
+	\begin{block}{Perspectives}
+	
+	\begin{itemize}
+		\item Utiliser des outils de TALN pour corriger le corpus et traduire les commentaires écrits en anglais
+		\item Faire de nouvelles visualisations sur les résultats obtenus
+		\item Tester d'autres algorithmes
+	\end{itemize}
+	
+	\end{block}
+\end{frame}
 
 \end{document}

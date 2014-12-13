@@ -418,7 +418,7 @@ Lorsque nous avons fait le prétraitement, nous avons vu que deux éléments ris
 
 On peut voir d'après les résultats obtenus que l'algorithme de classification le plus efficace est SMO. Cet algorithme est très robuste au bruit et, comme on a pu le constater au vu des résultats, aux fautes d'orthographe.\\
 
-Les algorithmes JRip et J48 ne sont pas efficaces car ils se basent sur les mots pour créer des règles afin de déterminer la classe d'un commentaire. En effet, les fautes d'orthographe empêchent de faire des règles précises et efficaces, car un même mot peut être écrit de plusieures manières différentes dans ces commentaires.
+Les algorithmes JRip et J48 ne sont pas efficaces car ils se basent sur des règles afin de déterminer la classe d'un commentaire. En effet, les fautes d'orthographe empêchent de faire des règles précises et efficaces, car un même mot peut être écrit de plusieures manières différentes dans ces commentaires.
 On peut aussi voir que le fait que les mots soient représentés par la présence ou l'occurence importe peu, car les résultats diffèrent très peu. \'{E}tant donné que notre corpus contient un nombre incalculable de fautes d'orthographe, la représentation des données n'impacte pas les résultats.\\
 
 NaiveBayes est un algorithme de classification probabiliste, encore une fois les fautes d'orthographe jouent un rôle important dans les résultats de cet algorithme. En effet, les fautes l'empêchent de créer des caractéristiques spécifiques aux différentes classes, puisque les mêmes mots sont écrits de différentes façon dans le corpus.\\
