@@ -111,6 +111,7 @@
 			\item Texte Brut Lemmatisé
 			\item Texte Nettoyé
 			\item Texte Nettoyé Lemmatisé
+			\item Les quatre mêmes fichiers mais en corrigeant les mots adorer, aimer et kiffer
 		\end{itemize}
 	\end{block}
 \end{frame}
@@ -131,7 +132,7 @@
 \begin{frame}
 	\begin{block}{Algorithmes utilisés}
 		\begin{itemize}
-			\item NaiveBayes: probabiliste
+			\item NaiveBayes: probabiliste (théorème de Bayes)
 			\item J48: arbre de décision
 			\item JRip: règles d'association
 			\item SMO: machine à vecteurs de support
@@ -144,8 +145,8 @@
 	\begin{block}{Méthodes utilisées}
 		\begin{itemize}
 			\item Utilisation de la représentation \textbf{sac de mots}
-			\item Première exécution \textbf{sans} l'occurence des mots (représentation binaire)
-			\item Deuxième exécution \textbf{avec} l'occurence des mots (représentation fréquentiste)
+			\item Première exécution avec la présence des mots (représentation binaire)
+			\item Deuxième exécution avec l'occurence des mots (représentation fréquentiste)
 		\end{itemize}
 	\end{block}
 \end{frame}
@@ -177,6 +178,8 @@
 
 \begin{frame}
 	\begin{block}{Résultats des instances correctments classifiées}
+	\begin{minipage}{0.4\textwidth}\center
+		\textbf{Texte Brut}
 		\begin{description}
 			\item[SMO: ]73,1\%
 			\item[J48: ]67,8\%
@@ -184,6 +187,29 @@
 			\item[JRip: ]64,8\%
 			\item[NaiveBayes: ]64,2\%
 		\end{description}	
+		\end{minipage}
+		\begin{minipage}{0.4\textwidth}\center
+		\textbf{Texte Brut Lemmatisé}
+		\begin{description}
+			\item[SMO: ]73,6\%
+			\item[J48: ]68,9\%
+			\item[IBk: ]65,9\%
+			\item[JRip: ]67,8\%
+			\item[NaiveBayes: ]65,9\%
+		\end{description}	
+		\end{minipage}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Analyses des résultats}
+	\begin{itemize}
+		\item L'algorithme SMO est le plus robuste.
+		\item Text brut $\Rightarrow$ Les mêmes mots sont écrits différemment
+		\item Texte brut lemmatisé $\Rightarrow$ Les mots non reconnus disparaissent
+		\item Texte lemmatisé $\Rightarrow$ Certains commentaires peuvent être vides
+	\end{itemize}
+
 	\end{block}
 \end{frame}
 
@@ -196,24 +222,19 @@
 			\item[JRip: ]65,2\%
 			\item[NaiveBayes: ]64,3\%
 		\end{description}	
-	\end{block}
-\end{frame}
-
-\begin{frame}
-	\begin{block}{Analyses des résultats}
-	\begin{itemize}
-		\item L'algorithme SMO est le plus robuste.
-		\item Text brut $\Rightarrow$ Les mêmes mots sont écrits différemment
-		\item Texte brut lemmatisé $\Rightarrow$ Les mots non reconnus disparaissent.
-	\end{itemize}
-
+		
+		Texte corrigé $\Rightarrow$ Meilleurs résultats
 	\end{block}
 \end{frame}
 
 \section{Conclusion et perspectives}
 \begin{frame}
 	\begin{block}{Conclusion}
-		
+		\begin{itemize}
+			\item Suivre un processus de fouille de données de A à Z
+			\item Voir les différents résultats suivant le corpus
+			\item L'impact des fautes d'orthographe sur les résultats
+		\end{itemize}
 	\end{block}
 \end{frame}
 
